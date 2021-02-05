@@ -36,11 +36,11 @@ Microsoft invites customers to consider subscribing to Microsoft services; Micro
 
 ### Managing User Identity and Access for Microsoft services
 
-For Microsoft services such as Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform, user verification and access management are performed through [Azure Active Directory (Azure Active Directory)](https://azure.microsoft.com/services/active-directory/). In cases where a Microsoft customer uses a local identification management system for Microsoft cloud services (such as the Windows Server Active Directory (AD) or any other ID management system), the customer has an opportunity to swiftly integrate such system with the Azure Active Directory (Azure Active Directory) through Azure AD Connect. For more information, see the [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/cloud-provisioning/). Microsoft customers may also consider using applications and solutions of third-party vendors for managing their users and integrating their local identification system with the Azure AD.
+For Microsoft services such as Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform, user verification and access management are performed through [Azure Active Directory (Azure Active Directory)](https://azure.microsoft.com/services/active-directory/). In cases where a Microsoft customer uses a local identification management system for Microsoft cloud services (such as the Windows Server Active Directory (AD) or any other ID management system), the customer has an opportunity to swiftly integrate such system with the Azure Active Directory (Azure Active Directory) through Azure AD Connect. For more information, see the [Azure AD Connect](/azure/active-directory/cloud-provisioning/). Microsoft customers may also consider using applications and solutions of third-party vendors for managing their users and integrating their local identification system with the Azure AD.
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Questions and support
 
@@ -69,7 +69,7 @@ For technical and billing questions, refer to the Microsoft Support resources be
 
 - **Toll Free**: 8 10 800 2548 1044
 - **Local Call**: 499 922 8623
-- **Online support**: Submit queries via the [Power Platform Support](https://docs.microsoft.com/power-platform/admin/get-help-support)
+- **Online support**: Submit queries via the [Power Platform Support](/power-platform/admin/get-help-support)
 
 > [!NOTE]
 > <sup>1</sup> Federal Law No. 242-FZ (edition dated 12.31.2014) 'On entering amendments into certain legislative acts of the Russian Federation about clarifying the procedure for personal data processing in information and telecommunication networks' dated 07.21.2014 <br>

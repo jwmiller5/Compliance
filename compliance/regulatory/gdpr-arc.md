@@ -35,7 +35,7 @@ There is a specific guide for four Microsoft product and services families:
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Microsoft Support and Professional Services](gdpr-arc-prof-services.md)
 
-You can manage the items in this checklist with [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+You can manage the items in this checklist with [Compliance Manager](/microsoft-365/compliance/compliance-manager) by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
 
 The checklists include the four basic categories of considerations for a privacy program supporting GDPR listed below, along with example requirements.
 
@@ -70,7 +70,7 @@ The checklists include the four basic categories of considerations for a privacy
 
 ## GDPR compliance controls
 
-- **Use Compliance Manager**: Review and incorporate controls Microsoft uses to support obligations in the GDPR with [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager).
+- **Use Compliance Manager**: Review and incorporate controls Microsoft uses to support obligations in the GDPR with [Compliance Manager](/microsoft-365/compliance/compliance-manager).
 - **GDPR control mapping**: Access a [comprehensive mapping](https://go.microsoft.com/fwlink/p/?linkid=2052220) of Microsoft controls to GDPR obligations.
 
 ## Records of Processing for Processors
@@ -81,31 +81,31 @@ Due to the scale and breadth of the online services we provide as processors to 
 
 Typically, customers would be interested in the Activity logs and potentially the Diagnostic logs:
 
-- **Activity logs**: [Activity logs](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) provide insight into operations performed on resources in a subscription. Activity logs can help determine an operation's initiator, time of occurrence, and status.
-- **Diagnostic logs**: [Diagnostic logs](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview) are all logs emitted by every resource. These logs include Windows event system logs, Azure storage logs, Key Vault audit logs, and Application Gateway access and firewall logs.
+- **Activity logs**: [Activity logs](/azure/azure-monitor/platform/platform-logs-overview) provide insight into operations performed on resources in a subscription. Activity logs can help determine an operation's initiator, time of occurrence, and status.
+- **Diagnostic logs**: [Diagnostic logs](/azure/azure-monitor/platform/platform-logs-overview) are all logs emitted by every resource. These logs include Windows event system logs, Azure storage logs, Key Vault audit logs, and Application Gateway access and firewall logs.
 - **Log archiving**: All diagnostic logs write to a centralized and encrypted Azure storage account for archival. The retention is user-configurable, up to 730 days, to meet organization-specific retention requirements. These logs connect to Azure Monitor logs for processing, storing, and dashboard reporting.
 
 ### Other logs
 
 Additionally, the following monitoring solutions are installed as a part of this architecture. It is the customer's responsibility to configure these solutions to align with FedRAMP security controls:
 
-- [AD Assessment](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment): The Active Directory Health Check solution assesses the risk and health of server environments on a regular interval and provides a prioritized list of recommendations specific to the deployed server infrastructure.
-- [Anti-malware Assessment](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): The Anti-malware solution reports on malware, threats, and protection status.
-- [Azure Automation](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker): The Azure Automation solution stores, runs, and manages runbooks.
-- [Security and Audit](https://docs.microsoft.com/azure/security-center/security-center-introduction): The Security and Audit dashboard provides a high-level insight into the security state of resources by providing metrics on security domains, notable issues, detections, threat intelligence, and common security queries.
-- [SQL Assessment](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment): The SQL Health Check solution assesses the risk and health of server environments on a regular interval and provides customers with a prioritized list of recommendations specific to the deployed server infrastructure.
-- [Update Management](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview): The Update Management solution allows customer management of operating system security updates, including a status of available updates and the process of installing required updates.
-- [Agent Health](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth): The Agent Health solution reports how many agents are deployed and their geographic distribution, as well as how many agents that are unresponsive and the number of agents that are submitting operational data.
-- [Azure Activity Logs](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): The Activity Log Analytics solution assists with analysis of the Azure activity logs across all Azure subscriptions for a customer.
-- [Change Tracking](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): The Change Tracking solution allows customers to easily identify changes in the environment.
+- [AD Assessment](/azure/azure-monitor/insights/ad-assessment): The Active Directory Health Check solution assesses the risk and health of server environments on a regular interval and provides a prioritized list of recommendations specific to the deployed server infrastructure.
+- [Anti-malware Assessment](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): The Anti-malware solution reports on malware, threats, and protection status.
+- [Azure Automation](/azure/automation/automation-hybrid-runbook-worker): The Azure Automation solution stores, runs, and manages runbooks.
+- [Security and Audit](/azure/security-center/security-center-introduction): The Security and Audit dashboard provides a high-level insight into the security state of resources by providing metrics on security domains, notable issues, detections, threat intelligence, and common security queries.
+- [SQL Assessment](/azure/azure-monitor/insights/sql-assessment): The SQL Health Check solution assesses the risk and health of server environments on a regular interval and provides customers with a prioritized list of recommendations specific to the deployed server infrastructure.
+- [Update Management](/azure/automation/update-management/update-mgmt-overview): The Update Management solution allows customer management of operating system security updates, including a status of available updates and the process of installing required updates.
+- [Agent Health](/azure/azure-monitor/insights/solution-agenthealth): The Agent Health solution reports how many agents are deployed and their geographic distribution, as well as how many agents that are unresponsive and the number of agents that are submitting operational data.
+- [Azure Activity Logs](/azure/azure-monitor/platform/activity-log): The Activity Log Analytics solution assists with analysis of the Azure activity logs across all Azure subscriptions for a customer.
+- [Change Tracking](/azure/azure-monitor/platform/activity-log): The Change Tracking solution allows customers to easily identify changes in the environment.
 
-For information on the technical and security measures for Azure, controller customers should visit the [Azure Security Documentation](https://docs.microsoft.com/azure/security/). As Microsoft doesn't know if Customer Data is Personal Data or not, Azure processes all Customer Data as if it were Personal Data so a customer would likely consider all of the material relevant.
+For information on the technical and security measures for Azure, controller customers should visit the [Azure Security Documentation](/azure/security/). As Microsoft doesn't know if Customer Data is Personal Data or not, Azure processes all Customer Data as if it were Personal Data so a customer would likely consider all of the material relevant.
 
 ### Processor information
 
-Another product our customer might need records of processing information for processors is Office 365. To view information related to Office 365, see the [Search the audit log in the Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) article.
+Another product our customer might need records of processing information for processors is Office 365. To view information related to Office 365, see the [Search the audit log in the Security & Compliance Center](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) article.
 
-You can also view the information for Dynamics 365 using the Security & Compliance center.  In order to view the Security & Compliance center page, ensure that you have the correct license. Learn more about licensing with the [Security & Compliance Center service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) article. To search for Dynamics 365 events, visit the Unified Audit Log in the [Security & Compliance center](https://protection.office.com/unifiedauditlog).
+You can also view the information for Dynamics 365 using the Security & Compliance center.  In order to view the Security & Compliance center page, ensure that you have the correct license. Learn more about licensing with the [Security & Compliance Center service description](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) article. To search for Dynamics 365 events, visit the Unified Audit Log in the [Security & Compliance center](https://protection.office.com/unifiedauditlog).
 
 ### Professional services information
 

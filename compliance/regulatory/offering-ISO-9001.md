@@ -58,7 +58,7 @@ This standard of practice provides guidance and tools for cloud service provider
 
 **Where can I get the ISO 9001:2015 audit reports and scope statements for Microsoft services?**
 
-The [Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) provides independently audited compliance reports. You can use the portal to request reports so that your auditors can compare Microsoft's cloud services results with your own legal and regulatory requirements. The [FY17 Microsoft Azure ISO 9001 Assessment Report](https://www.microsoft.com/?ref=aka) and the [FY17 Microsoft Azure ISO 9001 Certificate](https://www.microsoft.com/?ref=aka) are both available.
+The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) provides independently audited compliance reports. You can use the portal to request reports so that your auditors can compare Microsoft's cloud services results with your own legal and regulatory requirements. The [FY17 Microsoft Azure ISO 9001 Assessment Report](https://www.microsoft.com/?ref=aka) and the [FY17 Microsoft Azure ISO 9001 Certificate](https://www.microsoft.com/?ref=aka) are both available.
 
 **Does Microsoft run annual tests for infrastructure failures?**
 

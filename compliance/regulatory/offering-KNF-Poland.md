@@ -55,7 +55,7 @@ The Microsoft checklist helps Polish financial firms conducting due-diligence as
 
 - [Compliance checklist: Poland](https://aka.ms/FinServ-Guide-Poland): Financial firms can get help in conducting risk assessments of Microsoft business cloud services.
 - [Risk Assessment & Compliance Guide](https://aka.ms/RiskGovernanceGuide): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
-- [Financial use cases](https://docs.microsoft.com/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Financial use cases](/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
 - [Privacy in Microsoft Cloud](https://aka.ms/MCSPrivacy): Get details on Microsoft privacy principles and standards and on privacy laws specific to Poland.
 
 ## Frequently asked questions

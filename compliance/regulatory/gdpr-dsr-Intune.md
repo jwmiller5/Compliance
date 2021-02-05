@@ -81,9 +81,9 @@ The first step in responding to a DSR is to find the personal data that is the s
 
 After you find the data, you can then perform the specific action to satisfy the request by the data subject. For details, see the following resources:
 
-- [Data collection](https://docs.microsoft.com/intune/privacy-data-collect)
-- [Data storage and processing](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [View personal data](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [Data collection](/intune/privacy-data-collect)
+- [Data storage and processing](/intune/privacy-data-store-process)
+- [View personal data](/intune/privacy-data-view-correct#view-personal-data)
 
 ### Step 2: Access
 
@@ -109,15 +109,15 @@ As a data processor, Microsoft does not offer the ability to correct system-gene
 
 ### Step 4: Restrict
 
-Data subjects may request that you restrict processing of their personal data. We provide both the Azure portal and pre-existing application programming interfaces (APIs) or user interfaces (UIs). These experiences provide the enterprise customer's tenant administrator the capability to manage such DSRs through a combination of data export and data deletion. For details, see [Processing personal data](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data).
+Data subjects may request that you restrict processing of their personal data. We provide both the Azure portal and pre-existing application programming interfaces (APIs) or user interfaces (UIs). These experiences provide the enterprise customer's tenant administrator the capability to manage such DSRs through a combination of data export and data deletion. For details, see [Processing personal data](/intune/privacy-data-store-process#processing-personal-data).
 
 ### Step 5: Delete
 
-The "right to erasure" by the removal of personal data from an organization's Customer Data is a key protection in the GDPR. Removing personal data includes removing all personal data and system-generated logs, except audit log information. For details, see [Delete end user personal data](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
+The "right to erasure" by the removal of personal data from an organization's Customer Data is a key protection in the GDPR. Removing personal data includes removing all personal data and system-generated logs, except audit log information. For details, see [Delete end user personal data](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
 
 ## Part 2: System-Generated Logs
 
-Audit logs provide tenant admins with a record of activities that generate a change in Microsoft Intune. Audit logs are available for many manage activities and typically create, update (edit), delete, and assign actions. Remote tasks that generate audit events can also be reviewed. These audit logs may contain personal data from users whose devices are enrolled in Intune. Admins can't delete audit logs. For details, see [Audit personal data](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data).
+Audit logs provide tenant admins with a record of activities that generate a change in Microsoft Intune. Audit logs are available for many manage activities and typically create, update (edit), delete, and assign actions. Remote tasks that generate audit events can also be reviewed. These audit logs may contain personal data from users whose devices are enrolled in Intune. Admins can't delete audit logs. For details, see [Audit personal data](/intune/privacy-data-audit-export-delete#audit-personal-data).
 
 ## Notify about exporting or deleting issues
 

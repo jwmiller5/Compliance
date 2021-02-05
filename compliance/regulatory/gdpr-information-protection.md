@@ -26,9 +26,9 @@ For more information about how Microsoft can help you with the GDPR, see [Get St
 
 ## Information protection
 
-Office 365 provides a rich set of data governance capabilities. For help with finding, classifying, protecting, and monitoring personal data, see [Office 365 Information Protection for GDPR](https://docs.microsoft.com/microsoft-365/compliance/office-365-information-protection-for-gdpr).
+Office 365 provides a rich set of data governance capabilities. For help with finding, classifying, protecting, and monitoring personal data, see [Office 365 Information Protection for GDPR](/microsoft-365/compliance/office-365-information-protection-for-gdpr).
 
-For help with on-premises servers, including file shares, SharePoint Server, Exchange Server, Skype for Business Server, Project Server, and Office Online Server, see [GDPR for on-premises Office servers](https://docs.microsoft.com/microsoft-365/compliance/gdpr-for-office-servers). 
+For help with on-premises servers, including file shares, SharePoint Server, Exchange Server, Skype for Business Server, Project Server, and Office Online Server, see [GDPR for on-premises Office servers](/microsoft-365/compliance/gdpr-for-office-servers). 
 
 ## Identity and access management
 
@@ -43,16 +43,16 @@ Azure Active Directory and other Microsoft 365 capabilities provide a rich set o
 
 Microsoft provides a recommended configuration you can use as a starting point:
 
-- [Identity and device access configurations](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): Recommended policy configurations to achieve three tiers of protection (baseline, sensitive, highly regulated). This guidance includes recommended policies for Exchange Online and SharePoint Online (including OneDrive for Business).
-- [Security guidance for political campaigns, nonprofits, and other agile organizations](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): This includes the same set of policies but provides more guidance for BYOD environments and for B2B accounts.
+- [Identity and device access configurations](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): Recommended policy configurations to achieve three tiers of protection (baseline, sensitive, highly regulated). This guidance includes recommended policies for Exchange Online and SharePoint Online (including OneDrive for Business).
+- [Security guidance for political campaigns, nonprofits, and other agile organizations](/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): This includes the same set of policies but provides more guidance for BYOD environments and for B2B accounts.
 
 ## Threat Protection
 
 Threat protection is built across Microsoft 365 services. Here are a few resources to get you started:
 
-- [Office 365 security roadmap: Top priorities for the first 30 days, 90 days, and beyond](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap). This roadmap includes recommendations for implementing capabilities. 
-- [Protect against threats in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats). Learn about protection actions you can take in the Microsoft 365 security center.
-- [Windows Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/). Learn more about Windows Defender Advanced Threat Protection and other capabilities in Windows 10.
+- [Office 365 security roadmap: Top priorities for the first 30 days, 90 days, and beyond](/microsoft-365/security/office-365-security/security-roadmap). This roadmap includes recommendations for implementing capabilities. 
+- [Protect against threats in Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Learn about protection actions you can take in the Microsoft 365 security center.
+- [Windows Threat Protection](/windows/security/threat-protection/). Learn more about Windows Defender Advanced Threat Protection and other capabilities in Windows 10.
 
 ## Learn more
 

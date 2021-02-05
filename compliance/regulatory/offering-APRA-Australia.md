@@ -87,7 +87,7 @@ Yes. General privacy legislation (which applies across all sectors, not just to 
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
@@ -98,7 +98,7 @@ Yes. General privacy legislation (which applies across all sectors, not just to 
 - [Microsoft response to the APRA Information Paper on the Cloud](https://aka.ms/navigatecloudaustralia)
 - [Microsoft cloud services: a compliance checklist for financial institutions in Australia](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 - [Microsoft cloud services: compliance with APRA Prudential Standard CPS 234](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OsZg)
-- [Microsoft Australia: Cloud in Financial Services](https://www.microsoft.com/en-sg/apac/trustedcloud/australia-financial-service.aspx)
+- [Microsoft Australia: Cloud in Financial Services](https://www.microsoft.com/apac/trustedcloud/australia-financial-service.aspx)
 - [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)

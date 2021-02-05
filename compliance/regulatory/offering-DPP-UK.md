@@ -46,7 +46,7 @@ The Azure Broadcast mark is valid for one year and renewed annually.
 ## How to implement
 
 - [Asset Management Hardening Guide](https://aka.ms/Azure-Asset-Mgmt): Best practices in Azure protect pre-release content from unauthorized disclosure, change, or deletion.
-- [Azure Media Services](https://docs.microsoft.com/azure/media-services/): Build solutions that achieve high-definition video encoding and broadcast-quality video streaming.
+- [Azure Media Services](/azure/media-services/): Build solutions that achieve high-definition video encoding and broadcast-quality video streaming.
 
 ## Resources
 
