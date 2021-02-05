@@ -39,12 +39,12 @@ Through in-place retention and preservation policy features of archiving in Micr
 
 In addition, Microsoft has developed add-on features to allow [archiving of data](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) from other sources through integration with third-party data capturing and management solutions. After third-party data is imported, you can apply Microsoft 365 compliance features to the data, including:
 
-- [Litigation Hold](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)
-- [In-Place eDiscovery and Hold](https://docs.microsoft.com/microsoft-365/compliance/manage-legal-investigations)
-- [Compliance Search](https://docs.microsoft.com/microsoft-365/compliance/search-for-content)
-- [In-Place Archiving](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-- [Mailbox auditing](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
-- [Retention Policies](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Litigation Hold](/microsoft-365/compliance/create-a-litigation-hold)
+- [In-Place eDiscovery and Hold](/microsoft-365/compliance/manage-legal-investigations)
+- [Compliance Search](/microsoft-365/compliance/search-for-content)
+- [In-Place Archiving](/microsoft-365/compliance/enable-archive-mailboxes)
+- [Mailbox auditing](/microsoft-365/compliance/enable-mailbox-auditing)
+- [Retention Policies](/microsoft-365/compliance/retention-policies)
 
 For example, when a mailbox is placed on Litigation Hold, third-party data is preserved. You can search third-party data using In-Place eDiscovery or Compliance Search. Or you can apply archiving and retention policies to third-party data just like you can for Microsoft data. Archiving third-party data in Microsoft 365 helps your organization stay compliant with government and regulatory policies.
 

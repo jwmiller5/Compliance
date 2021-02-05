@@ -50,7 +50,7 @@ The Microsoft checklist helps Canadian financial firms conducting due-diligence 
 - [Compliance checklist: Canada](https://aka.ms/Azure-Canada-Compliance): Financial firms can get help in conducting risk assessments of Microsoft business cloud services.
 - [Privacy in Microsoft Cloud](https://aka.ms/MCSPrivacy): Get details on Microsoft privacy principles and standards and on privacy laws specific to Canada.
 - [Risk Assessment & Compliance Guide](https://aka.ms/RiskGovernanceGuide): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
-- [Industry use cases for Azure](https://docs.microsoft.com/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Industry use cases for Azure](/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
 
 ## Frequently asked questions
 
@@ -66,7 +66,7 @@ Yes, but only if the outsourcing arrangement is a material outsourcing or if it 
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 

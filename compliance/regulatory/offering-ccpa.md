@@ -50,7 +50,7 @@ As set out in the OST, Microsoft complies with all laws and regulations applicab
 
 Here are a few steps you could take to get ready for the CCPA:
 
-- Start leveraging the GDPR assessment in [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) as part of your CCPA privacy program.
+- Start leveraging the GDPR assessment in [Compliance Manager](/microsoft-365/compliance/compliance-manager) as part of your CCPA privacy program.
 - Establish a process to efficiently respond to Data Subject Access Requests (DSARs) using the Data Subject Requests tool.
 - Set up label and policies to discover, classify & label, and protect sensitive data with Microsoft Information Protection.
 - Use email encryption capabilities to further control sensitive information.
@@ -92,7 +92,7 @@ The CCPA requires regulated businesses that collect, transfer, and sell personal
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 

@@ -36,9 +36,9 @@ For technical information on Microsoft Windows cryptographic modules, the securi
 
 While the current CMVP FIPS 140-2 implementation guidance precludes a FIPS 140-2 validation for a cloud service itself; cloud service providers can choose to obtain and operate FIPS 140 validated cryptographic modules for the computing elements that comprise their cloud service. Microsoft online services that include components, which have been FIPS 140-2 validated include, among others:
 
-- [Azure and Azure Government](https://docs.microsoft.com/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 and Dynamics 365 Government](https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- [Azure and Azure Government](/azure/azure-government/documentation-government-plan-security)
+- [Dynamics 365 and Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
+- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
 
 ## Frequently asked questions
 
@@ -82,5 +82,5 @@ These are two separate security standards with different, but complementary, pur
 
 - [FIPS Pub 140-2 Security Requirements for Cryptographic Modules](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/groups/STM/cmvp/index.html)
-- [Windows, Windows Server, and FIPS 140-2](https://docs.microsoft.com/windows/security/threat-protection/fips-140-validation)
+- [Windows, Windows Server, and FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

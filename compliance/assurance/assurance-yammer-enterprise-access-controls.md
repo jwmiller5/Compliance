@@ -26,4 +26,4 @@ Physical and logical access to the Yammer production environment is restricted t
 
 As with other Microsoft 365 services, all access to the Yammer production environment uses multi-factor authentication. All access and command history is attributed to a user, and logged and reviewed regularly by the Yammer security team.
 
-For more information about Yammer administration and management, see [Yammer admin help](https://docs.microsoft.com/yammer/yammer-landing-page).
+For more information about Yammer administration and management, see [Yammer admin help](/yammer/yammer-landing-page).

@@ -53,7 +53,7 @@ The Microsoft checklist helps Danish financial firms conducting due-diligence as
 
 - [Compliance checklist: Denmark](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): Financial firms can get help in conducting risk assessments of Microsoft business cloud services.
 - [Risk Assessment & Compliance Guide](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
-- [Financial use cases](https://docs.microsoft.com/previous-versions/azure/industry-marketing/financial/index): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Financial use cases](/previous-versions/azure/industry-marketing/financial/index): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
 
 ## Frequently asked questions
 

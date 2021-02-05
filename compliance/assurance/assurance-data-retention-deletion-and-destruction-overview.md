@@ -47,7 +47,7 @@ For a free trial, your account moves into a grace status for 30 days in most cou
 
 For any subscription, a subscriber can contact Microsoft Support and request expedited subscription de-provisioning. In this process, all user data is deleted three days after the administrator enters the lockout code provided by Microsoft. This includes data in SharePoint Online and Exchange Online under hold or stored in inactive mailboxes.
 
-For more information on expedited de-provisioning, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+For more information on expedited de-provisioning, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 ## Related Links
 

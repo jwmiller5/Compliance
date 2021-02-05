@@ -67,7 +67,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 
 ## Accelerate your deployment of HIPAA/HITRUST solutions on Azure
 
-Get a head start on taking advantage of the benefits of the cloud for health data solutions with the [Azure Security and Compliance Blueprint: HIPAA/HITRUST Health Data and AI](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2). This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
+Get a head start on taking advantage of the benefits of the cloud for health data solutions with the [Azure Security and Compliance Blueprint: HIPAA/HITRUST Health Data and AI](/azure/governance/blueprints/samples/hipaa-hitrust-9-2). This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
 
 ## Frequently asked questions
 
@@ -95,13 +95,13 @@ The [Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.asp
 
 To assist customers with this task, Microsoft has published these guides:
 
-- *HIPAA/HITECH Act implementation guidance* for [Azure](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/) and for [Dynamics 365 and Office 365](https://go.microsoft.com/fwlink/?LinkID=257510). Written for privacy, security, and compliance officers and others responsible for HIPAA and HITECH Act implementation, they describe concrete steps your organization can take to maintain compliance.
+- *HIPAA/HITECH Act implementation guidance* for [Azure](/azure/governance/blueprints/samples/hipaa-hitrust/) and for [Dynamics 365 and Office 365](https://go.microsoft.com/fwlink/?LinkID=257510). Written for privacy, security, and compliance officers and others responsible for HIPAA and HITECH Act implementation, they describe concrete steps your organization can take to maintain compliance.
 - [Practical guide to designing secure health solutions using Microsoft Azure](https://aka.ms/azureindustrysecurity) helps you better understand what it takes to successfully adopt a cloud service in a secure manner.
 - [Addressing HIPAA security and privacy requirements in the Microsoft Cloud](https://smb.blob.core.windows.net/smbproduction/Content/Microsoft_Cloud_Healthcare_HIPAA_Security_Privacy.pdf) offers a brief overview of regulation requirements. It also provides a detailed analysis of how Microsoft's cloud services were built with methodologies that map to those requirements, and guidance on how to build compliance-ready solutions.
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
@@ -110,5 +110,5 @@ To assist customers with this task, Microsoft has published these guides:
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Microsoft Government Cloud](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Understanding HIPAA Compliance with Azure](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0)(May 19, 2016)
-- [Azure HIPAA HITRUST blueprint sample](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
+- [Azure HIPAA HITRUST blueprint sample](/azure/governance/blueprints/samples/hipaa-hitrust/)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

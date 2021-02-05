@@ -24,9 +24,8 @@ titleSuffix: Microsoft Service Assurance
 
 Resource limits are enforced using quotas (limits) and throttling. Azure Active Directory (Azure AD) and the individual Microsoft 365 services use both. Limits are service-specific and change over time as new capabilities are added. For details on the current limits for the various services, see the following topics:
 
-- [Azure AD service limits and restrictions](https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits)
-- [Exchange Online Limits](https://technet.microsoft.com/library/exchange-online-limits.aspx)
-- [Exchange Online Protection Limits](https://technet.microsoft.com/library/exchange-online-protection-limits.aspx)
+- [Azure AD service limits and restrictions](/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- [Exchange Online Limits](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)
 - [SharePoint Online software boundaries and limits](https://support.office.com/article/SharePoint-Online-software-boundaries-and-limits-8F34FF47-B749-408B-ABC0-B605E1F6D498)
 - [Skype for Business Limits](https://technet.microsoft.com/library/skype-for-business-online-limits.aspx)
 - [Yammer REST API and Rate Limits](https://developer.yammer.com/docs/rest-api-rate-limits)

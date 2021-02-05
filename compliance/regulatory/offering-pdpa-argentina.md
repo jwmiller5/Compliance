@@ -45,7 +45,7 @@ The Microsoft data-transfer agreement is an amendment (Amendment ID M314) to the
 ## How to implement
 
 - [Privacy in Microsoft Cloud Services](https://www.microsoft.com/download/details.aspx?id=55710): Get details on Microsoft privacy principles and standards and on privacy laws specific to Argentina.  
-- [Azure data protection](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): Azure offers customers strong data security, both by default and as customer options.
+- [Azure data protection](/azure/security/azure-protection-of-customer-data): Azure offers customers strong data security, both by default and as customer options.
 
 ## Frequently asked questions
 
@@ -55,7 +55,7 @@ In late 2018, Argentina has not yet enacted GDPR-related regulations, but it has
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 

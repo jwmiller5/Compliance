@@ -62,7 +62,7 @@ This assessment is valid for three years.
 
 ### Manufacturing use cases
 
-Use case overviews, solution guides, tutorials, and other resources to help build [Azure solutions](https://docs.microsoft.com/azure/industry/manufacturing/).
+Use case overviews, solution guides, tutorials, and other resources to help build [Azure solutions](/azure/industry/manufacturing/).
 
 ## Frequently asked questions
 
@@ -72,7 +72,7 @@ ENX provides certification confirmation only to registered industry representati
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 

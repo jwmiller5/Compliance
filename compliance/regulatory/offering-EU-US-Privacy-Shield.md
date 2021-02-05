@@ -56,7 +56,7 @@ Privacy in the Microsoft Cloud — Get details on Microsoft privacy principles a
     - [Learn more](https://www.microsoft.com/download/details.aspx?id=55710)
 
 Data protection in Azure — Azure provides customers with strong data security, both by default and as customer options.  
-    - [Learn more](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)
+    - [Learn more](/azure/security/azure-protection-of-customer-data)
 
 ## Frequently asked questions
 

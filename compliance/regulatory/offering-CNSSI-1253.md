@@ -46,7 +46,7 @@ Azure Government CNSSI 1253 attestation of compliance with the CNSSI 1253 High-H
 
 ## How to implement
 
-- [Azure government documentation](https://docs.microsoft.com/azure/azure-government/): Tutorials and how-to guides help developers deploy and manage services using Azure Government.
+- [Azure government documentation](/azure/azure-government/): Tutorials and how-to guides help developers deploy and manage services using Azure Government.
 
 ## Frequently asked questions
 
@@ -60,7 +60,7 @@ Azure Government (FedRAMP package ID F1603087869) has been tested again these co
 
 ## Resources
 
-- [What is Azure Government?](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [What is Azure Government?](/azure/azure-government/documentation-government-welcome)
 - [Azure Government](https://aka.ms/Azure-Government)
 - [Microsoft and FedRAMP](offering-fedramp.md)
 - [Microsoft and DoD Provisional Authorization](offering-DoD-DISA-L2-L4-L5.md)

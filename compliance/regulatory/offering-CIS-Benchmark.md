@@ -65,8 +65,8 @@ Get a [complete list of CIS benchmarks](https://www.cisecurity.org/cis-benchmark
 ## How to implement
 
 - [CIS Benchmark for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): Get prescriptive guidance for establishing a secure baseline configuration for Azure.  
-- [Microsoft 365 security roadmap](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): Minimize the potential of a data breach or compromised account by following this roadmap.
-- [Windows security baselines](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): Follow these guidelines for effective use of security baselines in your organization.
+- [Microsoft 365 security roadmap](/microsoft-365/security/office-365-security/security-roadmap): Minimize the potential of a data breach or compromised account by following this roadmap.
+- [Windows security baselines](/windows/security/threat-protection/windows-security-baselines): Follow these guidelines for effective use of security baselines in your organization.
 - [CIS Controls Cloud Companion Guide](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): Get guidance on applying security best practices in CIS Controls Version 7 to cloud environments.
 
 ## Frequently asked questions
@@ -85,11 +85,11 @@ CIS notes that its 'Benchmarks are developed through the generous volunteer effo
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
 - [CIS best practices for securely using Microsoft 365](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Windows 10 security policy settings](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [Windows 10 enterprise security](https://docs.microsoft.com/windows/security/index)
+- [Windows 10 security policy settings](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [Windows 10 enterprise security](/windows/security/index)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

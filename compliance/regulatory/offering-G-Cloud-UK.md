@@ -100,7 +100,7 @@ In addition to the UK datacenters, Microsoft cloud services has data centers in 
 
 **How can I get copies of the auditor’s reports?**
 
-The [Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) provides independently audited compliance reports. You can use the portal to request audit reports so that your auditors can compare the Microsoft results with your own legal and regulatory requirements.
+The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) provides independently audited compliance reports. You can use the portal to request audit reports so that your auditors can compare the Microsoft results with your own legal and regulatory requirements.
 
 ## Resources
 
