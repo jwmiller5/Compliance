@@ -34,7 +34,7 @@ This guide discusses how to use Microsoft tools to export or delete personal dat
 
 ## Additional privacy information
 
-The Microsoft Software License Terms accompanying the products, the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=660726), and [Microsoft's GDPR Commitments](https://docs.microsoft.com/legal/gdpr) describe our data processing practices.
+The Microsoft Software License Terms accompanying the products, the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=660726), and [Microsoft's GDPR Commitments](/legal/gdpr) describe our data processing practices.
 
 ## Visual Studio, Visual Studio for Mac, and Visual Studio Code
 
@@ -56,7 +56,7 @@ As a data processor under the GDPR, Microsoft collects the data we need from use
 "SearchTerm":null,"SearchResult":null}
 ```
 
-For more information, see [System-generated logs collected by Visual Studio](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection).
+For more information, see [System-generated logs collected by Visual Studio](/visualstudio/ide/diagnostic-data-collection).
 
 Only personal data that is attached to authenticated identities can be serviced by a DSR. So, for example, because Visual Studio Code does not support sign-in, system-generated logs from it are not attached to an authenticated identity and cannot be serviced. However, some Microsoft extensions for Visual Studio Code may provide authenticated data, and this data can be serviced by a DSR. For more information, see [GDPR and Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code). In general, we do not store data for Visual Studio 2013 and earlier; however, certain extensions and components may provide data attached to authenticated identities and can be serviced by a DSR as outlined below.
 
@@ -68,8 +68,8 @@ Visual Studio 2015 and later, Visual Studio for Mac, and Visual Studio Code prov
 
 Users can control the privacy settings for these products. For more information, see the following
 
-- [How to manage privacy settings in Visual Studio](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program).
-- [How to manage privacy settings in Visual Studio for Mac](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program).
+- [How to manage privacy settings in Visual Studio](/visualstudio/ide/visual-studio-experience-improvement-program).
+- [How to manage privacy settings in Visual Studio for Mac](/visualstudio/mac/visual-studio-experience-improvement-program).
 - [How to disable telemetry reporting in Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 #### Exporting or deleting data
@@ -94,7 +94,7 @@ Microsoft collects data to help us reproduce and troubleshoot issues you report 
 
 - Your [Developer Community](https://developercommunity.visualstudio.com) profile information;
 - Preferences and notifications;
-- Attachments and system-generated logs you provided by [reporting a problem in Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com);
+- Attachments and system-generated logs you provided by [reporting a problem in Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com);
 - Your votes.
 
 Public feedback includes: reported problems, comments, and solutions.
@@ -118,7 +118,7 @@ You can export your feedback data as part of DSR. We will create one or more .zi
 
 - Your [Developer Community](https://developercommunity.visualstudio.com) profile information;
 - Preferences and notification settings;
-- Attachments you provided by [reporting a problem in Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com).
+- Attachments you provided by [reporting a problem in Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com).
 
 > [!NOTE]
 > We will exclude the following public feedback you have provided from your archive: comments, solutions, reported problems.
@@ -141,7 +141,7 @@ Deleting will remove the following information about you from [Developer Communi
 
 - Profile information;
 - Preferences and notification settings;
-- Attachments you provided by [reporting a problem in Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com).
+- Attachments you provided by [reporting a problem in Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) or through [Developer Community](https://developercommunity.visualstudio.com).
 - Your votes
 
 > [!NOTE]
@@ -193,7 +193,7 @@ Xamarin Forums are hosted by a third party, Vanilla Forums. To request deletion 
 
 ## NuGet
 
-For more information on DSR for NuGet.org, see [NuGet User Data Requests](https://docs.microsoft.com/nuget/policies/data-requests).
+For more information on DSR for NuGet.org, see [NuGet User Data Requests](/nuget/policies/data-requests).
 
 ## ASP.NET
 
@@ -211,7 +211,7 @@ From time to time, we invite customers to provide feedback on these products via
 
 ## Learn more
 
-- [Microsoft's GDPR Commitments to Customers of our Generally Available Enterprise Software Products](https://docs.microsoft.com/legal/gdpr)
+- [Microsoft's GDPR Commitments to Customers of our Generally Available Enterprise Software Products](/legal/gdpr)
 - [Microsoft Trust Center](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Service Trust portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Microsoft Privacy Dashboard](https://account.microsoft.com/privacy)

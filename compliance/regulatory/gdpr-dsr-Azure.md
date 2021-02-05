@@ -296,7 +296,7 @@ Here's the high-level process for exporting data from your tenant.
 
 - **User.** Type the email address of the Azure Active Directory user that requested the export.
 - **Subscription.** Select the account you use to report resource usage and to bill for services. This is also the location of your Azure storage account.
-- **Storage account.** Select the location of your Azure Storage (Blob). For more info, see the [Introduction to Microsoft Azure Storage — Blob storage](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage) article.
+- **Storage account.** Select the location of your Azure Storage (Blob). For more info, see the [Introduction to Microsoft Azure Storage — Blob storage](/azure/storage/common/storage-introduction#blob-storage) article.
 - **Container.** Create a new (or select an existing) container as the storage location for the user's exported privacy data.
 
 4. Select **Create**.

@@ -59,7 +59,7 @@ The Microsoft checklist helps financial firms in the Netherlands conducting due-
 
 - [Compliance checklist: Netherlands](https://aka.ms/FinServ-Guide-Netherlands): Financial firms can get help when conducting risk assessments of Microsoft business cloud services.
 - [Risk Assessment & Compliance Guide](https://aka.ms/RiskGovernanceGuide): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
-- [Financial use cases](https://docs.microsoft.com/azure/industry/financial/): Case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Financial use cases](/azure/industry/financial/): Case overviews, tutorials, and other resources to build Azure solutions for financial services.
 
 ## Frequently asked questions
 

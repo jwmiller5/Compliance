@@ -125,13 +125,13 @@ This control structure is also used to organize the presentation of the internal
 | 4 <a name="4"> </a> | [Microsoft Professional Services GDPR Control Set](https://aka.ms/GDPRControls) | |
 | 5 <a name="5"> </a> | Microsoft Enterprise Business Continuity Management Documentation | Available on request through customer’s account management team. |
 | 6 <a name="6"> </a> | [Who can access your data and on what terms](https://www.microsoft.com/trustcenter/Privacy/Who-can-access-your-data-and-on-what-terms) | |
-| 7 <a name="7"> </a> | [Microsoft Professional Services Data Subject Requests for the GDPR and CCPA](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-prof-services)| |
-| 8 <a name="8"> </a> | [Microsoft Professional Services and Breach Notification Under the GDPR](https://docs.microsoft.com/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services) | |
-|  9 <a name="9"> </a> | [Key Information from Microsoft Professional Services for Customer Data Protection Impact Assessments](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-prof-services) | |
+| 7 <a name="7"> </a> | [Microsoft Professional Services Data Subject Requests for the GDPR and CCPA](/microsoft-365/compliance/gdpr-dsr-prof-services)| |
+| 8 <a name="8"> </a> | [Microsoft Professional Services and Breach Notification Under the GDPR](/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services) | |
+|  9 <a name="9"> </a> | [Key Information from Microsoft Professional Services for Customer Data Protection Impact Assessments](/microsoft-365/compliance/gdpr-dpia-prof-services) | |
 | 10 <a name="10"> </a> | [ISO 27001 Audit Report](https://aka.ms/CTRIsoassess) | |
 | 11 <a name="11"> </a> | Microsoft Professional Services ISO/IEC 27001:2013 ISMS Statement of Applicability | SOA on request through customer’s account management team.|
 | 12 <a name="12"> </a> | [Microsoft Trust Center Compliance offerings](offering-home.yml) | |
-| 13 <a name="13"> </a> | [Microsoft DPO Information](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-protection-officer) | |
+| 13 <a name="13"> </a> | [Microsoft DPO Information](/microsoft-365/compliance/gdpr-data-protection-officer) | |
 
 ## Learn more
 

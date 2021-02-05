@@ -35,13 +35,13 @@ Microsoft provides online services using multiple forms of cloud delivery:
 
 For purposes of this article, Microsoft 365 services include:
 
-- [Exchange Online](https://docs.microsoft.com/Exchange/exchange-online)
-- [Exchange Online Protection](https://docs.microsoft.com/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
-- [SharePoint Online](https://docs.microsoft.com/sharepoint/sharepoint-online)
-- [OneDrive for Business](https://docs.microsoft.com/OneDrive/onedrive)
-- [Skype for Business](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online)
-- [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/Teams-overview)
-- [Yammer](https://docs.microsoft.com/yammer/yammer-landing-page)
+- [Exchange Online](/Exchange/exchange-online)
+- [Exchange Online Protection](/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
+- [SharePoint Online](/sharepoint/sharepoint-online)
+- [OneDrive for Business](/OneDrive/onedrive)
+- [Skype for Business](/SkypeForBusiness/skype-for-business-online)
+- [Microsoft Teams](/MicrosoftTeams/Teams-overview)
+- [Yammer](/yammer/yammer-landing-page)
 
 ## Microsoft 365 access controls
 
@@ -88,7 +88,7 @@ Microsoft 365 allows you to manage data the same way data is managed in on-premi
 
 We recommend that each organization configure at least two admin accounts. For large enterprise organizations, we recommend specialized admin accounts that serve different functions.
 
-For information about assigning admin roles and permissions, see [Assign admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles) and [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+For information about assigning admin roles and permissions, see [Assign admin roles](/microsoft-365/admin/add-users/assign-admin-roles) and [About admin roles](/microsoft-365/admin/add-users/about-admin-roles).
 
 ## Related Links
 

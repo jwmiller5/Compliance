@@ -70,14 +70,14 @@ Yes. If your business requires ISO 22301 certification for implementations deplo
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
 - [ISO 22301:2012 standard](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=50038) (for purchase)
-- [Azure resiliency technical guidance](https://docs.microsoft.com/azure/architecture/framework/resiliency/overview) (Explains the Azure shared responsibility model for business continuity.)
+- [Azure resiliency technical guidance](/azure/architecture/framework/resiliency/overview) (Explains the Azure shared responsibility model for business continuity.)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Microsoft Enterprise Business Continuity Management Program Description](https://go.microsoft.com/fwlink/p/?linkid=2092212)
-- [Compliance Score](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+- [Compliance Score](/microsoft-365/compliance/compliance-manager)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

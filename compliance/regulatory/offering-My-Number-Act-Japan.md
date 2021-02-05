@@ -55,11 +55,11 @@ Therefore, Microsoft business cloud services support My Number Act requirements 
 
 - [Privacy in Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): How Microsoft builds strong privacy protections into Office 365.
 
-- [Admin Access in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-administrative-access-controls-overview): How Microsoft manages administrative access to customer data.
+- [Admin Access in Office 365](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): How Microsoft manages administrative access to customer data.
 
-- [Audits & Reports in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): Explore the features customers can use to track user and administrative activity within their tenant.
+- [Audits & Reports in Office 365](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): Explore the features customers can use to track user and administrative activity within their tenant.
 
-- [Data Retention in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): Understand the data handling policy for how long customer data is retained after being deleted.
+- [Data Retention in Office 365](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): Understand the data handling policy for how long customer data is retained after being deleted.
 
 ## Frequently asked questions
 

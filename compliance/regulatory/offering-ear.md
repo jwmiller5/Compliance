@@ -85,7 +85,7 @@ The United States also has separate and more specialized export control regulati
 - [Exporting Microsoft Products: Overview](https://www.microsoft.com/exporting/overview.aspx)
 - [Exporting Microsoft Products: FAQ](https://www.microsoft.com/exporting/faq.aspx)
 - [Exporting Microsoft Products: Product Lookup](https://www.microsoft.com/exporting/exporting-information.aspx)
-- [Export restrictions on cryptography](https://docs.microsoft.com/windows/uwp/security/export-restrictions-on-cryptography)
+- [Export restrictions on cryptography](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft and FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft and ITAR](offering-itar.md)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

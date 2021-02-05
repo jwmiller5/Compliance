@@ -49,7 +49,7 @@ For financial institutions in the EU, Microsoft has also published [Risk Assessm
 ## How to implement
 
 - [Response to EBA guidance](https://aka.ms/FinServ-Guide-EuBankAuth): Microsoft guidance helps EU financial institutions follow EBA recommendations for cloud adoption.
-- [Financial use cases](https://docs.microsoft.com/azure/industry/financial/): Use-case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Financial use cases](/azure/industry/financial/): Use-case overviews, tutorials, and other resources to build Azure solutions for financial services.
 - [Financial Compliance Program](https://aka.ms/FSCP-Print): Financial institutions can get help with assessing the risks of using Microsoft cloud services.
 
 ## Frequently asked questions

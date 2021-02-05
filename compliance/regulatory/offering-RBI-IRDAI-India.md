@@ -53,7 +53,7 @@ The Microsoft checklist helps financial firms in India that are conducting due-d
 
 - [Compliance checklist for India](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): Financial firms can get help conducting risk assessments of Microsoft business cloud services.
 - [Risk Assessment & Compliance Guide](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
-- [Financial use cases for Azure](https://docs.microsoft.com/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
+- [Financial use cases for Azure](/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
 
 ## Frequently asked questions
 
@@ -63,7 +63,7 @@ Yes. The guidelines referenced above stipulate some specific points that financi
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 

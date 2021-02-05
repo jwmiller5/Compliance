@@ -47,8 +47,8 @@ This document provides a thorough checklist of critical Regulation SCI focus are
 ## How to implement
 
 - [Regulation SCI Implementation Guide](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a69ce0c1-7b7e-44e9-9143-867241e6b2f9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers): Maps Azure capabilities against the regulation and details the shared responsibility for compliance.
-- [Designing reliable Azure applications](https://docs.microsoft.com/azure/architecture/resiliency/): A brief overview of how to build reliability into each step of Azure application design.
-- [Designing highly available applications](https://docs.microsoft.com/azure/storage/common/storage-designing-ha-apps-with-ragrs): How developers can help ensure that their Azure Storage applications are highly available.
+- [Designing reliable Azure applications](/azure/architecture/resiliency/): A brief overview of how to build reliability into each step of Azure application design.
+- [Designing highly available applications](/azure/storage/common/storage-designing-ha-apps-with-ragrs): How developers can help ensure that their Azure Storage applications are highly available.
 - [Risk Assessment & Compliance Guide](https://aka.ms/RiskGovernanceGuide): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
 
 ## Frequently asked questions
@@ -64,7 +64,7 @@ Financial organizations, or SCI entities, that are subject to this regulation ca
 ## Resources
 
 - [SEC Responses to Frequently Asked Questions Concerning Regulation SCI](https://www.sec.gov/divisions/marketreg/regulation-sci-faq.shtml)
-- [Business continuity and disaster recovery (BCDR): Azure Paired Regions](https://docs.microsoft.com/azure/best-practices-availability-paired-regions)
+- [Business continuity and disaster recovery (BCDR): Azure Paired Regions](/azure/best-practices-availability-paired-regions)
 - [Compliance Map of Cloud Computing Regulatory Principles and Microsoft Online Services](https://aka.ms/FinServ-Guide-US)
 - [Microsoft Cloud Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Financial services compliance in Azure](https://aka.ms/FinServ-Compliance-Azure)

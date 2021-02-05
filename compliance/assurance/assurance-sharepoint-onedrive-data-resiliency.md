@@ -33,7 +33,7 @@ The complete set of controls to ensure data resiliency is explained in further s
 
 ## Blob storage resilience
 
-SharePoint has a custom-built solution for storage of customer data in Azure Storage. Every file is simultaneously written into both a primary and a secondary datacenter region. If writes to either Azure region fail, the file save will fail. After the contents are written into Azure Storage, checksums are stored separately with metadata, and are used to ensure that the committed write is identical to the original file sent to SharePoint during all future reads. This same technique is used in all workflows to prevent propagation of any corruption that should occur. Within each region, Azure Locally Redundant Storage (LRS) provides a high level of reliability. See the [Azure Storage redundancy](https://docs.microsoft.com/azure/storage/common/storage-redundancy-lrs) article for details.
+SharePoint has a custom-built solution for storage of customer data in Azure Storage. Every file is simultaneously written into both a primary and a secondary datacenter region. If writes to either Azure region fail, the file save will fail. After the contents are written into Azure Storage, checksums are stored separately with metadata, and are used to ensure that the committed write is identical to the original file sent to SharePoint during all future reads. This same technique is used in all workflows to prevent propagation of any corruption that should occur. Within each region, Azure Locally Redundant Storage (LRS) provides a high level of reliability. See the [Azure Storage redundancy](/azure/storage/common/storage-redundancy-lrs) article for details.
 
 SharePoint uses Append-Only storage. This process ensures that files cannot be changed or corrupted after an initial save, but also by using in-product versioning, any previous version of the file contents can be retrieved.
 
@@ -41,9 +41,9 @@ SharePoint environments in either datacenter can access storage containers in bo
 
 ## Metadata resilience
 
-SharePoint metadata is also critical to accessing user content as it stores the location of and access keys to the content stored in Azure Storage. These databases are stored in Azure SQL, which has an extensive [business continuity plan](https://docs.microsoft.com/azure/sql-database/sql-database-business-continuity).
+SharePoint metadata is also critical to accessing user content as it stores the location of and access keys to the content stored in Azure Storage. These databases are stored in Azure SQL, which has an extensive [business continuity plan](/azure/sql-database/sql-database-business-continuity).
 
-SharePoint uses the replication model provided by Azure SQL and has built a proprietary automation technology to determine a failover is required and to initiate the operation if necessary. As such, it falls into the 'Manual database failover' category from an Azure SQL perspective. The latest metrics for Azure SQL database recoverability are available [here](https://docs.microsoft.com/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server).
+SharePoint uses the replication model provided by Azure SQL and has built a proprietary automation technology to determine a failover is required and to initiate the operation if necessary. As such, it falls into the 'Manual database failover' category from an Azure SQL perspective. The latest metrics for Azure SQL database recoverability are available [here](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server).
 
 SharePoint uses Azure SQL's backup system to enable Point in Time Restores (PITR) for up to 14 days. PITR is covered more in a [later section.](#deletion-backup-and-point-in-time-restore)
 
@@ -57,7 +57,7 @@ SharePoint uses the Azure Front Door service to provide routing internal to the 
 
 For newly created document libraries, SharePoint defaults to 500 versions on every file and can be configured to retain more versions if desired. The UI doesn't allow a value fewer than 100 versions to be set, but it is possible to set the system to store fewer versions using public APIs. For reliability, any value less than 100 isn't recommended and can result in user activity causing inadvertent data loss.
 
-For more information about versioning, see [Versioning in SharePoint](https://docs.microsoft.com/microsoft-365/community/versioning-basics-best-practices).
+For more information about versioning, see [Versioning in SharePoint](/microsoft-365/community/versioning-basics-best-practices).
 
 Files Restore is the ability to go 'back in time' on any Document Library in SharePoint to any second of time in the last 30 days. This process can be used to recover from ransomware, mass deletions, corruption, or any other event. This feature uses file versions so reducing default versions can reduce the effectiveness of this restore.
 
@@ -72,9 +72,9 @@ Deleted items are retained in recycle bins for a certain period of time. For Sha
 - [Restore items in the Recycle Bin](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Restore deleted items from the Site Collection Recycle Bin](https://support.office.com/article/Restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
-This process is the default deletion flow and does not take into account retention policies or labels. For more information, see [Learn about retention for SharePoint and OneDrive](https://docs.microsoft.com/microsoft-365/compliance/retention-policies-sharepoint).
+This process is the default deletion flow and does not take into account retention policies or labels. For more information, see [Learn about retention for SharePoint and OneDrive](/microsoft-365/compliance/retention-policies-sharepoint).
 
-After the 93-day recycle pipeline is complete, deletion takes place independently for Metadata and for Blob Storage. Metadata will be removed immediately from the database, which makes the content unreadable unless the metadata is restored from backup. SharePoint maintains 14 days-worth of backups of metadata. These backups are taken locally in near real time and then pushed to storage in redundant Azure Storage containers on, [according to documentation](https://docs.microsoft.com/azure/sql-database/sql-database-automated-backups) at the time of this publication, a 5-10-minute schedule.
+After the 93-day recycle pipeline is complete, deletion takes place independently for Metadata and for Blob Storage. Metadata will be removed immediately from the database, which makes the content unreadable unless the metadata is restored from backup. SharePoint maintains 14 days-worth of backups of metadata. These backups are taken locally in near real time and then pushed to storage in redundant Azure Storage containers on, [according to documentation](/azure/sql-database/sql-database-automated-backups) at the time of this publication, a 5-10-minute schedule.
 
 When deleting Blob Storage content, SharePoint utilizes the soft delete feature for Azure Blob Storage to protect against accidental or malicious deletion. Using this feature, we have a total of 14 days in which to restore content before it is permanently deleted.
 
@@ -87,4 +87,4 @@ SharePoint uses various methods to ensure the integrity of blobs and metadata at
 
 - **File hash stored in metadata**: Hash of the entire file is stored with file metadata to ensure document level data integrity is maintained during all operations
 - **Blob hash stored in metadata**: Each blob-item stores a hash of the encrypted content to protect against corruption in underlying Azure storage.
-- **Data integrity job**: Every 14 days, each site is scanned for integrity by listing items in the database and matching those up with listed blobs in Azure storage. The job reports any blob-references missing storage-blobs and can retrieve those blobs through the [Azure storage soft-delete](https://docs.microsoft.com/azure/storage/blobs/soft-delete-blob-overview) feature if needed.
+- **Data integrity job**: Every 14 days, each site is scanned for integrity by listing items in the database and matching those up with listed blobs in Azure storage. The job reports any blob-references missing storage-blobs and can retrieve those blobs through the [Azure storage soft-delete](/azure/storage/blobs/soft-delete-blob-overview) feature if needed.
