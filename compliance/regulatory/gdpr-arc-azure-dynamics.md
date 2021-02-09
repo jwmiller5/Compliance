@@ -22,7 +22,7 @@ ms.custom: seo-marvel-apr2020
 
 # Azure and Dynamics 365 accountability readiness checklist for the GDPR
 
-To support the General Data Protection Regulation (GDPR) when using Microsoft Azure and Dynamics 365, please use the set of privacy and security controls for personal data processors:
+To support the General Data Protection Regulation (GDPR) when using Microsoft Azure and Dynamics 365, use the set of privacy and security controls for personal data processors:
 
 - [ISO/IEC 27701](https://shop.bsigroup.com/ProductDetail?pid=000000000030351736) for privacy management requirements
 - [ISO/IEC 27001](https://shop.bsigroup.com/ProductDetail?pid=000000000030347472) for security techniques requirements
