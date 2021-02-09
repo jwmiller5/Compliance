@@ -20,27 +20,27 @@ titleSuffix: Microsoft GDPR
 
 # Azure and Dynamics 365 breach notification under the GDPR
 
-Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
+Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These measures include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
 
-Security is built into Microsoft Azure from the ground up, starting with the [Security Development Lifecycle](https://www.microsoft.com/sdl/), a mandatory development process that incorporates privacy-by-design and privacy-by-default methodologies. The guiding principle of Microsoft's security strategy is to 'assume breach,' which is an extension of the defense-in-depth strategy. By constantly challenging the security capabilities of Azure, Microsoft can stay ahead of emerging threats. For more information on Azure security, please review these [resources](https://www.microsoft.com/trustcenter/security/azure-security).
+Security is built into Microsoft Azure from the ground up, starting with the [Security Development Lifecycle](https://www.microsoft.com/sdl/), a mandatory development process that incorporates privacy-by-design and privacy-by-default methodologies. The guiding principle of Microsoft's security strategy is to 'assume breach,' which is an extension of the defense-in-depth strategy. By constantly challenging the security capabilities of Azure, Microsoft can stay ahead of emerging threats. For more information on Azure security, review these [resources](https://www.microsoft.com/trustcenter/security/azure-security).
 
-Microsoft has a dedicated global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure. Attested by multiple security and compliance audits (e.g. [ISO/IEC 27018](offering-iso-27018.md)), Microsoft employs rigorous operations and processes at its data centers to prevent unauthorized access, including 24x7 video monitoring, trained security personnel, smart cards, and biometric controls.
+Microsoft has a dedicated global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure. Attested by multiple security and compliance audits (for example, [ISO/IEC 27018](offering-iso-27018.md)), Microsoft employs rigorous operations and processes at its data centers to prevent unauthorized access, including 24x7 video monitoring, trained security personnel, smart cards, and biometric controls.
 
 ## Detection of potential breaches
 
 Due to the nature of modern cloud computing, not all data breaches occurring in a customer cloud environment involve Microsoft Azure services. Microsoft employs a shared responsibility model for Azure services to define security and operational accountabilities. Shared responsibility is important when discussing security of a cloud service, because both the cloud services provider and the customer are accountable for portions of cloud security.
 
-Microsoft does not monitor for or respond to security incidents within the customer's realm of responsibility. A customer-only security compromise would not be processed as an Azure security incident and would require the customer tenant to manage the response effort. Customer incident response may involve collaboration with Microsoft Azure [customer support](https://azure.microsoft.com/support/options/), given appropriate service contracts. Microsoft Azure also offers various services (e.g., [Azure Security Center](https://azure.microsoft.com/services/security-center/)) that customers can utilize for developing and managing security incident response.
+Microsoft does not monitor for or respond to security incidents within the customer's realm of responsibility. A customer-only security compromise would not be processed as an Azure security incident and would require the customer tenant to manage the response effort. Customer incident response may involve collaboration with Microsoft Azure [customer support](https://azure.microsoft.com/support/options/), given appropriate service contracts. Microsoft Azure also offers various services (for example, [Azure Security Center](https://azure.microsoft.com/services/security-center/)) that customers can utilize for developing and managing security incident response.
 
 Azure responds to a potential data breach according to the security incident response process, which is a subset of the Microsoft Azure incident management plan. Microsoft's Azure security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below:
 
 |**Stage**|**Description**|
 |:------- |------------- |
-| ***1 — Detect*** | First indication of a potential incident. |
-| ***2 — Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
-| ***3 — Diagnose*** | Security response experts conduct the technical or forensic investigation, identify containment, mitigation, and workaround strategies. If the security team believes that customer data may have become exposed to an unlawful or unauthorized individual, execution of the Customer Incident Notification process begins in parallel. |
-| ***4 — Stabilize and Recover*** | The incident response team creates a recovery plan to mitigate the issue. Crisis containment steps such as quarantining impacted systems may occur immediately and in parallel with diagnosis. Longer term mitigations may be planned which occur after the immediate risk has passed. |
-| ***5 — Close and Post-mortem*** | The incident response team creates a post-mortem that outlines the details of the incident, with the intention to revise policies, procedures, and processes to prevent a recurrence of the event. |
+| ***1: Detect*** | First indication of a potential incident. |
+| ***2: Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
+| ***3: Diagnose*** | Security response experts conduct the technical or forensic investigation, identify containment, mitigation, and workaround strategies. If the security team believes that customer data may have become exposed to an unlawful or unauthorized individual, execution of the Customer Incident Notification process begins in parallel. |
+| ***4: Stabilize and Recover*** | The incident response team creates a recovery plan to mitigate the issue. Crisis containment steps such as quarantining impacted systems may occur immediately and in parallel with diagnosis. Longer term mitigations may be planned which occur after the immediate risk has passed. |
+| ***5: Close and Post-mortem*** | The incident response team creates a post-mortem that outlines the details of the incident, with the intention to revise policies, procedures, and processes to prevent a recurrence of the event. |
 
 The [Microsoft Azure Security Response in the Cloud](https://gallery.technet.microsoft.com/Azure-Security-Response-in-dd18c678) white paper further details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
@@ -69,7 +69,7 @@ Microsoft Azure categorizes the information impact of the incident into the foll
 The Security Response Team works with Microsoft Azure Security Engineers and SMEs to classify the event based on factual data from the evidence. A security event may be classified as:
 
 - **False Positive**: An event that meets detection criteria but is found to be part of a normal business practice and may need to be filtered. The service team identifies the root cause for false positives and will address them in a systematic way using detection sources and fine-tuning them as needed.
-- **Security Incident**: An incident where unlawful access to any Customer Data or Support Data stored on Microsoft's equipment or in Microsoft's facilities, or unauthorized access to such equipment or facilities resulting in loss, disclosure, or alteration of Customer Data or Support Data has occurred.
+- **Security Incident**: An incident when unlawful access to any Customer Data or Support Data stored on Microsoft's equipment or in Microsoft's facilities, or unauthorized access to such equipment or facilities resulting in loss, disclosure, or alteration of Customer Data or Support Data has occurred.
 - **Customer Reportable Security/Privacy Incident (CRSPI)**: An unlawful or unauthorized access to or use of Microsoft's systems, equipment, or facilities resulting in disclosure, modification, or loss of customer data.
 - **Privacy Breach**: A subtype of Security Incident involving personal data. Handling procedures are no different than a security incident.
 
@@ -87,13 +87,13 @@ After the declaration of a CRSPI, the notification process takes place as expedi
 
 - Microsoft believes that the act of performing a notification increases the risk to other customers. For example, the act of notifying may tip off an adversary causing an inability to remediate.
 - Other unusual or extreme circumstances vetted by Microsoft's legal department and the Executive Incident Manager.
-- The 72-hour timeline may leave some incident details available. These are provided to customers and regulatory authorities as the investigation proceeds.
+- The 72-hour timeline may leave some incident details available. These details are provided to customers and regulatory authorities as the investigation proceeds.
 
 Microsoft provides impacted customers with detailed information enabling them to perform internal investigations and assisting them in meeting end-user commitments, while not unduly delaying the notification process.
 
 Notification of a personal data breach will be delivered to the impacted customer by any means Microsoft selects, including via email. Notification of a data breach will be delivered to the list of security contacts provided in Azure Security Center, which can be configured by following the [implementation guidelines](/azure/security-center/security-center-provide-security-contact-details). If contact information is not provided in Azure Security Center, the notification is sent to one or more administrators in an Azure subscription. To ensure that notification can be successfully delivered, it is the customer's responsibility to ensure that the administrative contact information on each applicable subscription and online services portal is correct.
 
-The Microsoft Azure or Azure Government team may also elect to notify additional Microsoft personnel such as members of Microsoft's Customer Support Service (CSS) team and the customer's Account Manager(s) (AM) or Technical Account Manager(s) (TAM). These individuals often have close relationships with the customer and can facilitate faster remediation
+The Microsoft Azure or Azure Government team may also elect to notify other Microsoft personnel such as members of Microsoft's Customer Support Service (CSS) team and the customer's Account Manager(s) (AM) or Technical Account Manager(s) (TAM). These individuals often have close relationships with the customer and can facilitate faster remediation
 
 ## Microsoft Dynamics 365 built-in security features
 
