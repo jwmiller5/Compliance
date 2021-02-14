@@ -2,6 +2,16 @@
 
 
 
+## Week of February 08, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 2/9/2021 | [Azure and Dynamics 365 accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-azure-dynamics) | modified |
+| 2/9/2021 | [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics) | modified |
+| 2/9/2021 | [DPIA Azure for the GDPR](/compliance/regulatory/gdpr-dpia-azure) | modified |
+
+
 ## Week of February 01, 2021
 
 
