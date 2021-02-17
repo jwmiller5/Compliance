@@ -41,7 +41,7 @@ Achieving this ABS OSPAR attestation demonstrates that the set of security contr
 - Intune
 - Microsoft Cloud App Security
 - Microsoft Graph
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Stream
 - PowerApps cloud service: either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power Automate: either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
