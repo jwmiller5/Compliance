@@ -37,7 +37,7 @@ An independent third-party auditing firm performed a rigorous examination of Mic
 - Intune
 - Microsoft Defender Advanced Threat Protection
 - Microsoft Healthcare Bot
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
