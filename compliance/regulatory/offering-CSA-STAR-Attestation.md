@@ -41,7 +41,7 @@ Microsoft Azure and Microsoft Intune have been awarded CSA STAR Attestation. STA
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite 
 - Power BI

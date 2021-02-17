@@ -40,7 +40,7 @@ An independent third-party auditing firm performed a rigorous examination of Mic
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Office 365 Operated by 21Vianet
 - Microsoft PowerApps
 - Power Automate (formerly Microsoft Flow)
