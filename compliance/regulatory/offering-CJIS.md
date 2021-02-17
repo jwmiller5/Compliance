@@ -38,8 +38,6 @@ Microsoft has assessed the operational policies and procedures of Microsoft Azur
 
 Learn about the benefits of CJIS Security policy on the Microsoft Cloud: [Read how Genetec cleared criminal investigations](https://customers.microsoft.com/story/genetec)
 
-Learn how to accelerate your CJIS Security policy with our Azure Security and Compliance Blueprint: [Download the CJIS implementation guidelines for Microsoft Government Cloud Services](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27)
-
 ## Microsoft in-scope cloud services
 
 - [Azure Government](/azure/azure-government/documentation-government-welcome)
