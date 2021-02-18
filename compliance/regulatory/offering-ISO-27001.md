@@ -72,11 +72,11 @@ Audit cycle: Microsoft cloud services are audited at least annually against the 
 
 ### Azure DevOps Services
 
-- [Azure DevOps Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dVisual%2bStudio%2bOnline&licencenumber=IS%20619017)
+- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 ### Microsoft Professional Services
 
-- [Microsoft Professional Services](https://www.bsigroup.com/Our-services/Certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
+- [Microsoft Professional Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
 
 ## Assessments and reports
 
@@ -94,7 +94,7 @@ Audit cycle: Microsoft cloud services are audited at least annually against the 
 
 ### Azure DevOps Services
 
-- [Azure DevOps Services ISO 27001 Certificate IS 619017](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dVisual%2bStudio%2bTeam%2bServices&licencenumber=IS%20619017)
+- [Azure DevOps Services ISO 27001 Certificate IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 [See additional audit reports](https://aka.ms/auditreports)
 
@@ -113,7 +113,7 @@ The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tr
 Yes. The annual ISO/IEC 27001 certification process for the Microsoft Cloud Infrastructure and Operations group includes an audit for operational resiliency. To preview the latest certificate, click the link below.
 
 - Microsoft Azure: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure German
+- Azure German: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **Where do I start my organization's own ISO/IEC 27001 compliance effort?**
 

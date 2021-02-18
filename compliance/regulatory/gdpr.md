@@ -136,7 +136,6 @@ Microsoft practices privacy by design and privacy by default in its engineering 
 
 These privacy reviews tend to be granular — a particular service may receive dozens or hundreds of reviews. Microsoft rolls up these granular privacy reviews into Data Protection Impact Assessments (DPIAs) that cover major groupings of processing, which the Microsoft EU Data Protection Officer (DPO) then reviews. The DPO assesses the risks related to the data processing to ensure that sufficient mitigations are in place. If the DPO finds unmitigated risks, changes are recommended back to the engineering group. DPIAs will be reviewed and updated as data protection risks change.
 
-
 Microsoft, as a processor, has a duty to assist controllers in ensuring compliance with the DPIA requirements laid out in the GDPR. To support our customers, relevant sections of Microsoft's DPIAs are abstracted and will be provided through this section in future updates with the intent of allowing controllers relying on Microsoft services to leverage the abstracts in order to create their own DPIAs.
 
 ## Breach Notification
@@ -161,7 +160,7 @@ If a breach of personal data that is likely to result in a high risk to the righ
 
 After we become aware of a personal data breach, the GDPR requires us to notify you without undue delay. Where Microsoft is a processor our obligations reflect both GDPR requirements and our standard, worldwide contractual provisions. We consider that all confirmed personal data breaches are in scope; there is no risk of harm threshold. We will notify our customers whether the data breach was suffered by Microsoft directly or by any of our sub-processors. We have processes in place to quickly identify and contact security incident personnel you've identified in your organization. In addition, all sub-processors are contractually obliged to report their own breaches to Microsoft, and provide guarantees to that effect.
 
-**How will MIcrosoft detect a data breach?**
+**How will Microsoft detect a data breach?**
 
 All our services and personnel follow internal incident management procedures to ensure that we take proper precautions to avoid data breaches in the first place. However, in addition, Online Services have specific security controls in place across our platforms to detect data breaches in the rare event that they occur.
 
@@ -205,7 +204,7 @@ Microsoft's GDPR Terms reflect the commitments required of processors in Article
 
 **Under what basis does Microsoft facilitate the transfer of personal data outside of the EU?**
 
-Microsoft has long used the Standard Contractual Clauses (also known as the Model Clauses) as a basis for transfer of data for its enterprise online services. The Standard Contractual Clauses are standard terms provided by the European Commission that can be used to transfer data outside the European Economic Area in a compliant manner. Microsoft has incorporated the Standard Contractual Clauses into all of our Volume Licensing agreements via the [Online Services Terms](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). The Article 29 Working Party has found Microsoft's implementation of the Standard Contractual Clauses are compliant. And when the EU-US Privacy Shield became available, Microsoft was the first company to certify. See [Microsoft's certification to the Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active), and read the [Online Services Terms](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). The EU-US Privacy Shield helps customers that want to transfer their data to the US do so in a manner consistent with their data protection obligations.
+Microsoft has long used the Standard Contractual Clauses (also known as the Model Clauses) as a basis for transfer of data for its enterprise online services. The Standard Contractual Clauses are standard terms provided by the European Commission that can be used to transfer data outside the European Economic Area in a compliant manner. Microsoft has incorporated the Standard Contractual Clauses into all of our Volume Licensing agreements via the [Online Services Terms](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). For personal data from the European Economic Area, Switzerland, and the United Kingdom, Microsoft will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards as described in Article 46 of the GDPR. In addition to Microsoft's commitments under the Standard Contractual Clauses for processors and other model contracts, Microsoft continues to abide by the terms of the [Privacy Shield framework](https://www.privacyshield.gov/) but will no longer rely on it as a basis for the transfer of personal data from the EU/EEA to the United States.
 
 **What are the other Microsoft compliance offerings?**
 
@@ -264,9 +263,9 @@ Meeting compliance with the GDPR will cost time and money for most organizations
 
 The GDPR regulates the collection, storage, use, and sharing of 'personal data'. Personal data is defined broadly under the GDPR as any data that relates to an identified or identifiable natural person.
 
-Personal data can include, but is not limited to, online identifiers (for example, IP addresses), employee information, sales databases, customer services data, customer feedback forms, location data, biometric data, CCTV footage, loyalty scheme records, health, and financial information and much more. It can even include information that does not appear to be personal-such as a photo of a landscape without people-where that information is linked by an account number or unique code to an identifiable individual. And even personal data that has been pseudonymized can be personal data if the pseudonym can be linked to a particular individual. 
+Personal data can include, but is not limited to, online identifiers (for example, IP addresses), employee information, sales databases, customer services data, customer feedback forms, location data, biometric data, CCTV footage, loyalty scheme records, health, and financial information and much more. It can even include information that does not appear to be personal-such as a photo of a landscape without people-where that information is linked by an account number or unique code to an identifiable individual. And even personal data that has been pseudonymized can be personal data if the pseudonym can be linked to a particular individual.
 
-Processing of certain "special" categories of personal data – such as personal data that reveals a person's racial or ethnic origin, or concerns their health or sexual orientation – is subject to more stringent rules than the processing of "ordinary" personal data. This evaluation of personal data is highly fact-specific, so we recommend engaging an expert to evaluate your specific circumstances.
+Processing of certain "special" categories of personal data, such as personal data that reveals a person's racial or ethnic origin, or concerns their health or sexual orientation, is subject to more stringent rules than the processing of "ordinary" personal data. This evaluation of personal data is highly fact-specific, so we recommend engaging an expert to evaluate your specific circumstances.
 
 **My organization is only processing data on behalf of others. Does it still need to comply with the GDPR?**
 
@@ -320,6 +319,5 @@ Microsoft products and services—such as Azure, Dynamics 365, Enterprise Mobili
 
 - [Address your needs around GDPR with one of our global partners offering Microsoft-based solutions](https://aka.ms/findgdprpartner)
 - [Know how Microsoft manages your data, where it's located, who can access it and the terms, and more.](https://www.microsoft.com/trust-center/privacy)
-- [Learn how Microsoft adheres to the principles of the EU-U.S. Privacy Shield framework](https://blogs.microsoft.com/eupolicy/2016/07/11/eu-u-s-privacy-shield-progress-for-privacy-rights/)
 - [How Microsoft Detects and Responds to a Breach of Personal Data, and Notifies You Under the GDPR](https://www.microsoft.com/trust-center/privacy/gdpr-data-breach)
 - [Assess your GDPR readiness today](https://discover.microsoft.com/gdpr-readiness-assessment/)
