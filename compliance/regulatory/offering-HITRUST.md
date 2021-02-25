@@ -40,7 +40,7 @@ Learn how to accelerate your HITRUST deployment with our Azure Security and Comp
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
+- [Microsoft Managed Desktop](https://docs.microsoft.com/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 and Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## Audits, reports, and certificates
