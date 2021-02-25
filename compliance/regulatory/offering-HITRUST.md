@@ -54,13 +54,13 @@ The HITRUST CSF certification of Azure and Office 365 is valid for two years.
 
 Get a head start on taking advantage of the benefits of the cloud for health data solutions with the Azure Security and Compliance Blueprint — HIPAA/HITRUST Health Data and AI. This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
 
-[Start using the Azure HIPAA/HITRUST Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust/)
+[HIPAA HITRUST 9.2 blueprint sample](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
-## Accelerate your HIPAA/HITRUST compliance when using Office 365
+## Accelerate your HIPAA/HITRUST compliance when using Microsoft 365 or Office 365
 
-Use Office 365 to manage health information in a secure and compliant way with Compliance Score, which enables you to perform risk assessments against health regulations like HIPAA and security control frameworks like NIST CSF and NIST 800-53. You can follow step-by-step guidance to know how to implement and maintain data protection controls that help you meet healthcare compliance obligations.
+Use Microsoft 365 or Office 365 to manage health information in a secure and compliant way with Compliance Score, which enables you to perform risk assessments against health regulations like HIPAA and security control frameworks like NIST CSF and NIST 800-53. You can follow step-by-step guidance to know how to implement and maintain data protection controls that help you meet healthcare compliance obligations.
 
-[Start using Compliance Score](/microsoft-365/compliance/compliance-manager)
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
 
 ## Collaborate with Microsoft in the HITRUST Shared Responsibility Program
 
@@ -78,24 +78,24 @@ Yes. If your business requires a HITRUST certification for implementations deplo
 
 You can download a copy of letter of certification for [Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) and [Office 365](https://aka.ms/O365HITRUSTcertification).
 
-**What are the in-scope services for Office 365?**
+**What are the in-scope services for Microsoft 365 or Office 365?**
 
-The in-scope services of HITRUST CSF certification are Exchange Online Archiving, Exchange Online Protection, Exchange Online, Skype for Business, Admin Center, SharePoint Online, Project Online, OneDrive for Business, Office Online, MyAnalytics, Microsoft Teams, Microsoft 365 Apps for enterprise in Office 365 Multi-tenant cloud and Office 365 GCC.
+The in-scope services of HITRUST CSF certification are Exchange Online Archiving, Exchange Online Protection, Exchange Online, Skype for Business, Admin Center, SharePoint Online, Project Online, OneDrive for Business, Office Online, MyAnalytics, Microsoft Teams, Microsoft 365 Apps for enterprise in Microsoft 365 or Office 365 Multi-tenant cloud and Microsoft 365 or Office 365 GCC.
 
 > [!NOTE]
 > Microsoft 365 Apps for enterprise enables access to various cloud services, such as Roaming Settings, Licensing, and OneDrive consumer cloud storage, and may enable access to additional cloud services in the future. Roaming Settings and Licensing support the standards for HITRUST. OneDrive consumer cloud storage does not, and other cloud services that are accessible through Microsoft 365 Apps for enterprise and that Microsoft may offer in the future also may not, support these standards.*
 
-**Why are some Office 365 services not in the scope of this certification?**
+**Why are some Microsoft 365 or Office 365 services not in the scope of this certification?**
 
 Microsoft provides the most comprehensive offerings compared to other cloud service providers. To keep up with our broad compliance offerings across regions and industries, we include services in the scope of our assurance efforts based on the market demand, customer feedback, and product lifecycle. If a service is not included in the current scope of a specific compliance offering, your organization has the responsibility to assess the risks based on your compliance obligations and determine the way you process the data in that service. We continuously collect feedback from customers and work with regulators and auditors to expand our compliance coverage to meet your security and compliance needs.
 
-**Does Microsoft certification mean that if my organization uses Azure or Office 365, it is compliant with HITRUST CSF?**
+**Does Microsoft certification mean that if my organization uses Azure or Microsoft 365 or Office 365, it is compliant with HITRUST CSF?**
 
-When you store your data in a SaaS like Office 365, it’s a shared responsibility between Microsoft and your organization to achieve compliance. Microsoft manages majority of the infrastructure controls including physical security, network controls, application level controls, etc., and your organization has the responsibility to manage access controls and protect your sensitive data. The Office 365 HITRUST certification demonstrates the compliance of Microsoft’s control framework. Building on that, your organization needs to implement and maintain your own data protection controls to meet HITRUST CSF requirements.
+When you store your data in a SaaS like Microsoft 365 or Office 365, it’s a shared responsibility between Microsoft and your organization to achieve compliance. Microsoft manages majority of the infrastructure controls including physical security, network controls, application level controls, etc., and your organization has the responsibility to manage access controls and protect your sensitive data. The Office 365 HITRUST certification demonstrates the compliance of Microsoft’s control framework. Building on that, your organization needs to implement and maintain your own data protection controls to meet HITRUST CSF requirements.
 
-**Does Microsoft provide guidance for my organization to implement appropriate controls when using Office 365?**
+**Does Microsoft provide guidance for my organization to implement appropriate controls when using Microsoft 365 or Office 365?**
 
-Yes, you can find recommended customer actions in Compliance Score, cross-Microsoft Cloud solutions that help your organization meet complex compliance obligations when using cloud services. Specifically, for HITRUST CSF, we recommend that you perform risk assessments using the NIST 800-53 and NIST CSF assessments in Compliance Score. In the assessments, we provide you with step-by-step guidance and the Microsoft solutions you can use to implement your data protection controls. You can learn more about Compliance Score in [Microsoft Compliance Score](/microsoft-365/compliance/compliance-manager).
+Yes, you can find recommended customer actions in Compliance Score, cross-Microsoft Cloud solutions that help your organization meet complex compliance obligations when using cloud services. Specifically, for HITRUST CSF, we recommend that you perform risk assessments using the NIST 800-53 and NIST CSF assessments in Compliance Score. In the assessments, we provide you with step-by-step guidance and the Microsoft solutions you can use to implement your data protection controls. You can learn more about Compliance Score in [Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager).
 
 **How do I engage with Microsoft?**
 
@@ -103,7 +103,7 @@ Log in to the HITRUST MyCSF® tool and pre-populate your assessment for your sol
 
 ## Use Microsoft Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [Build and manage assessments in Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
