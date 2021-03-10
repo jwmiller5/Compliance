@@ -68,7 +68,7 @@ IRAP applies to all Australian federal, state, and local government agencies tha
 
 **Can I use Microsoft's compliance in my organization's risk assessment and approval process?**
 
-Yes. If your organization requires or is seeking an approval to operate in line with the ISM, you can use the IRAP security assessments of Azure, Dynamics 365, Microsoft Managed Desktop, and Office 365 in your risk assessment. You are; however, responsible for engaging an assessor to evaluate your implementation as deployed on Microsoft's platforms, and for the controls and processes within your own organization.
+Yes. If your organization requires or is seeking an approval to operate in line with the ISM, you can use the IRAP security assessments of Azure, Dynamics 365, Microsoft Managed Desktop, and Office 365 in your risk assessment. You are, however, responsible for engaging an assessor to evaluate your implementation as deployed on Microsoft's platforms, and for the controls and processes within your own organization.
 
 **Where do I start with my organization's own risk assessment and approval to operate?**
 
