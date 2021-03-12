@@ -341,7 +341,7 @@
       items: 
         - name: Breach notification
           href: gdpr-breach-notification.md
-        - name: Azure & Dynamics 365
+        - name: Azure, Dynamics 365 & Windows 
           href: gdpr-breach-azure-dynamics.md
         - name: Microsoft Support & Professional Services
           href: gdpr-breach-microsoft-support-professional-services.md
