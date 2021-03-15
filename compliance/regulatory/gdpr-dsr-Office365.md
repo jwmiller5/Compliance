@@ -722,7 +722,7 @@ Bookings gather and store the following types of data:
 
 ##### Export
 
-To export data corresponding to the business owner, staff and customers, you can use the Business center privacy portal. See [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+To export data corresponding to the business owner, staff and customers, you can use the [Business center privacy portal](https://businessaccount.microsoft.com/).
 
 ##### Delete
 
@@ -733,7 +733,7 @@ You can delete the following types of Bookings data in response to a DSR deletin
 - **Bookings events:** You can delete bookings events from the Bookings calendar, which will remove the customer's information.
 - **Meeting requests, email confirmations/cancellations/updates, and email reminders:** You can delete these from the Bookings calendar, which will remove the customer's information.
 
-Business owners and admins can also delete their customer's data by using the Business center privacy portal. See [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+To export data corresponding to the business owner, staff and customers, you can use the [Business center privacy portal](https://businessaccount.microsoft.com/).
 
 Additionally, you can delete business owner and staff data, you can delete the corresponding user account. See the section  [Deleting a user](#deleting-a-user).
 
@@ -755,7 +755,7 @@ Listings owner can sign in to the Listings dashboard to see their reviews and ra
 
 ##### Export
 
-To export business owner, staff and customer data, use the Business center privacy portal. See [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+To export data corresponding to the business owner, staff and customers, you can use the [Business center privacy portal](https://businessaccount.microsoft.com/).
 
 ##### Delete
 
@@ -779,7 +779,7 @@ A Connections owner can sign in to the Connections dashboard and see the email c
 
 ##### Export
 
-To export business owner, staff and customer data, use the Business center privacy portal. See [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+To export data corresponding to the business owner, staff and customers, you can use the [Business center privacy portal](https://businessaccount.microsoft.com/).
 
 ##### Delete
 
