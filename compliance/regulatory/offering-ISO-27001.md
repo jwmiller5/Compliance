@@ -94,7 +94,7 @@ Audit cycle: Microsoft cloud services are audited at least annually against the 
 
 ### Azure DevOps Services
 
-- [Azure DevOps Services ISO 27001 Certificate IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
+- [Azure DevOps Services ISO 27001 Certificate IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dAzure&licencenumber=IS%20619017)
 
 [See additional audit reports](https://aka.ms/auditreports)
 
