@@ -18,7 +18,7 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ---
 
-# Azure, Dynamics 365 and Windows breach notification under the GDPR
+# Azure, Dynamics 365, and Windows breach notification under the GDPR
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These measures include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
 
@@ -103,7 +103,9 @@ The Microsoft Dynamics 365 offering follows the same Technical and Organizationa
 
 ## Enabling Commercial Data Pipeline for Windows diagnostic data
 
-The commercial data pipeline for Windows diagnostic data takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.  It follows the same technical and organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the Microsoft Azure breach notification here is analogous to the commercial data pipeline for windows diagnostic data as well.
+The commercial data pipeline for Windows diagnostic data takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.
+
+It follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the Microsoft Azure breach notification here is analogous to the commercial data pipeline for windows diagnostic data as well.
 
 ## Learn more
 
