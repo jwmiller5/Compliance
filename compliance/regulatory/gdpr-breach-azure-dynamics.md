@@ -42,7 +42,7 @@ Azure responds to a potential data breach according to the security incident res
 | ***4: Stabilize and Recover*** | The incident response team creates a recovery plan to mitigate the issue. Crisis containment steps such as quarantining impacted systems may occur immediately and in parallel with diagnosis. Longer term mitigations may be planned which occur after the immediate risk has passed. |
 | ***5: Close and Post-mortem*** | The incident response team creates a post-mortem that outlines the details of the incident, with the intention to revise policies, procedures, and processes to prevent a recurrence of the event. |
 
-The [Microsoft Azure Security Response in the Cloud](https://gallery.technet.microsoft.com/Azure-Security-Response-in-dd18c678) white paper further details how Microsoft investigates, manages, and responds to security incidents within Azure.
+The [Azure for secure worldwide public sector cloud adoption](/azure/azure-government/documentation-government-overview-wwps#breach-notification-process) topic details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
 The detection processes used by Microsoft Azure are designed to discover events that risk the confidentiality, integrity, and availability of Azure services. Several events can trigger an investigation:
 
