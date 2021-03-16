@@ -1,5 +1,5 @@
 ---
-title: Azure and Dynamics 365 breach notification under the GDPR
+title: Azure, Dynamics 365, and Windows breach notification under the GDPR
 description: How Azure and Dynamics 365 protect against a personal data breach and how Microsoft responds and notifies you if a breach occurs.
 keywords: Azure, Microsoft 365, Dynamics 365, Microsoft 365 documentation, GDPR
 localization_priority: Priority
@@ -18,7 +18,7 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ---
 
-# Azure and Dynamics 365 breach notification under the GDPR
+# Azure, Dynamics 365 and Windows breach notification under the GDPR
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These measures include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
 
@@ -100,6 +100,10 @@ The Microsoft Azure or Azure Government team may also elect to notify other Micr
 Microsoft Dynamics 365 takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data. In addition, Dynamics 365 provides efficient data access and collaboration with data integrity and privacy in the following areas: [secure identity, data protection, role based security, and threat management](https://www.microsoft.com/trustcenter/security/dynamics365-security).
 
 The Microsoft Dynamics 365 offering follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to Microsoft Dynamics 365 as well.
+
+## Enabling Commercial Data Pipeline for Windows diagnostic data
+
+The commercial data pipeline for Windows diagnostic data takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.  It follows the same technical and organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the Microsoft Azure breach notification here is analogous to the commercial data pipeline for windows diagnostic data as well.
 
 ## Learn more
 
