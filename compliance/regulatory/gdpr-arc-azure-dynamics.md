@@ -1,5 +1,5 @@
 ---
-title: Azure, Dynamics 365 and Windows accountability readiness checklist for the GDPR
+title: Azure, Dynamics 365, and Windows accountability readiness checklist for the GDPR
 description: Provides a convenient way to access information you may need to support GDPR when using Microsoft Azure.
 keywords: ARC Azure, Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
 localization_priority: Priority
