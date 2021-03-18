@@ -26,6 +26,8 @@
   items:
     - name: Datacenter security overview
       href: assurance-datacenter-security.md
+    - name: Datacenter threat, vulnerability, and risk assessment
+      href: assurance-threat-vulnerability-risk-assessment.md
 
 - name: Encryption and key management
   items:

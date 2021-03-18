@@ -1,5 +1,5 @@
 ---
-title: "Technology controls in Microsoft 365 "
+title: "Technology controls in Microsoft 365"
 description: This article provides an overview of the tools and technologies used by Microsoft for technology control in Microsoft 365.
 ms.author: robmazz
 author: robmazz
