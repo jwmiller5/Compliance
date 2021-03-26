@@ -20,6 +20,7 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # GDPR discovery, protection, and reporting in the dev/test environment

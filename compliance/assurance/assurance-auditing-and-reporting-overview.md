@@ -21,6 +21,7 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Auditing and reporting in Microsoft cloud services

@@ -17,6 +17,7 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # Office 365 Data Subject Requests for the GDPR and CCPA

@@ -17,6 +17,7 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # Microsoft 365 GDPR action plan — Top priorities for your first 30 days, 90 days, and beyond

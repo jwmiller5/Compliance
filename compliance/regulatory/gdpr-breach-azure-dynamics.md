@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # Azure and Dynamics 365 breach notification under the GDPR

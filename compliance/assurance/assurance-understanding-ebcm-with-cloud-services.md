@@ -16,6 +16,7 @@ ms.collection:
 - Strat_O365_Enterprise
 - remotework
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Enterprise business continuity management (EBCM) with cloud services

@@ -14,6 +14,7 @@ ms.collection: MS-Compliance
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # GDPR for Office Web Apps Server and Office Online Server
