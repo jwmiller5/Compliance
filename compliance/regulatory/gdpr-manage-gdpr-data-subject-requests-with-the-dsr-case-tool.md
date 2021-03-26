@@ -19,6 +19,7 @@ ms.collection:
 - MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # Manage GDPR data subject requests with the DSR case tool in the Security & Compliance Center

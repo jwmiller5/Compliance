@@ -15,6 +15,7 @@ ms.custom:
 - seo-marvel-mar2020
 - seo-marvel-apr2020
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # GDPR for Exchange Server

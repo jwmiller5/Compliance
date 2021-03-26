@@ -18,6 +18,7 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Monitoring and auditing access controls in Microsoft 365

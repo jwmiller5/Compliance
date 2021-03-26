@@ -19,6 +19,7 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # SharePoint Online data deletion in Microsoft 365

@@ -13,6 +13,7 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # GDPR for Office on-premises Servers

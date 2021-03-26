@@ -21,6 +21,7 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Datacenter security overview

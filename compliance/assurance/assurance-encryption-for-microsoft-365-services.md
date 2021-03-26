@@ -20,6 +20,7 @@ ms.collection:
 - SPO_Content
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Encryption for Skype for Business, OneDrive for Business, SharePoint Online, Microsoft Teams, and Exchange Online

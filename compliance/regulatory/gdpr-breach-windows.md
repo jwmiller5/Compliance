@@ -17,6 +17,7 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
+- hideEdit: true
 ---
 
 # Data processor service for Windows Enterprise breach notification under the GDPR

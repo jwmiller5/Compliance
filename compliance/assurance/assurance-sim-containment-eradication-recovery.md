@@ -18,6 +18,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Microsoft 365 security incident management: Containment, eradication, and recovery

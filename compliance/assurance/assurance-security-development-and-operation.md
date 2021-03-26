@@ -18,6 +18,7 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Security development and operations overview

@@ -19,6 +19,7 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Isolation and access control in Microsoft 365

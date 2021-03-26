@@ -75,7 +75,7 @@ Get a head start on taking advantage of the benefits of the cloud for health dat
 
 Microsoft offers qualified companies or their suppliers a BAA that covers in-scope Microsoft services.
 
-For Microsoft cloud services: The [HIPAA Business Associate Agreement](https://aka.ms/BAA) is available via the Online Services Terms by default to all customers who are covered entities or business associates under HIPAA. See 'Microsoft in-scope cloud services' on this webpage for the list of cloud services covered by this BAA.
+For Microsoft cloud services: The [HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) is available via the Online Services Terms by default to all customers who are covered entities or business associates under HIPAA. See 'Microsoft in-scope cloud services' on this webpage for the list of cloud services covered by this BAA.
 
 For Microsoft Professional Services services: The HIPAA Business Associate Amendment is available for in-scope Microsoft Professional Services upon request to your Microsoft services representative.
 

@@ -17,6 +17,7 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Learn how to complete DSRs under the General Data Protection Regulation (GPDR) and California Consumer Privacy Act (CCPA) using Microsoft products and services.
 ms.custom: seo-marvel-mar2020
+hideEdit: true
 ---
 
 # Data Subject Requests and the GDPR and CCPA
