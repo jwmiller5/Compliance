@@ -18,6 +18,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # SharePoint and OneDrive data resiliency in Microsoft 365

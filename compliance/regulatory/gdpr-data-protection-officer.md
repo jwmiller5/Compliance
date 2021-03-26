@@ -17,6 +17,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # Microsoft's data protection officer

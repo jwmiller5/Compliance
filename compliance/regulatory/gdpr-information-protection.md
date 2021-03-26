@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # Information protection for GDPR with Microsoft 365 capabilities

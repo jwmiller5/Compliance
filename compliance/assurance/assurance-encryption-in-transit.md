@@ -20,6 +20,7 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Encryption for data-in-transit

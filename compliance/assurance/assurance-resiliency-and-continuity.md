@@ -18,6 +18,7 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Resiliency and continuity overview

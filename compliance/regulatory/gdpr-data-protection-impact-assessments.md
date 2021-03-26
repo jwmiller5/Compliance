@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # Data Protection Impact Assessment for the GDPR

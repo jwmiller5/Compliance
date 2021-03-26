@@ -16,6 +16,7 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Enterprise business continuity management legal disclaimer

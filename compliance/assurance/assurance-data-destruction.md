@@ -18,6 +18,7 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Data destruction in Microsoft 365

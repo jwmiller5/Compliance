@@ -19,6 +19,7 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Administrative access controls in Microsoft 365 

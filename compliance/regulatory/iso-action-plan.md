@@ -15,6 +15,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
+hideEdit: true
 ---
 
 # Microsoft 365 ISO 27001 action plan — Top priorities for your first 30 days, 90 days, and beyond
