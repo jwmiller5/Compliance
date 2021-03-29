@@ -122,6 +122,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Microsoft 365 data immutability
       href: assurance-data-immutability.md
+    - name: Create a data classification framework
+      href: assurance-create-data-classification-framework.md
+    - name: Data classification and sensitivity labels
+      href: assurance-data-classification-and-labels.md
 
 - name: Resiliency and continuity
   items:
