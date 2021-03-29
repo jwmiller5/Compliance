@@ -26,7 +26,7 @@ hideEdit: true
 
 As you develop, revamp, or refine your data classification framework, consider the following leading practices:
 
-- ***Do not expect to go from 0-100 on day 1**: Microsoft recommends a crawl-walk-run approach, prioritizing features critical to the organization and mapping them against a timeline. Complete the first step, ensure it was successful, and then move on to the next phase applying lessons learned. Remember that your organization may still be exposed to risk while you design your data classification framework, so it is okay to start small with just a few classification levels and expand later as needed.
+- **Do not expect to go from 0-100 on day 1**: Microsoft recommends a crawl-walk-run approach, prioritizing features critical to the organization and mapping them against a timeline. Complete the first step, ensure it was successful, and then move on to the next phase applying lessons learned. Remember that your organization may still be exposed to risk while you design your data classification framework, so it is okay to start small with just a few classification levels and expand later as needed.
 - **You are not just writing for cybersecurity professionals**: Data classification frameworks are meant for a broad audience, including your average staff member, your legal and compliance teams, and your IT team. It is important to write clear, easy-to-understand definitions for your data classification levels, providing real-world examples wherever possible. Try to avoid jargon and consider a glossary for acronyms and highly technical terms. For example, use 'Personally Identifiable Information' and provide a definition instead of simply saying 'PII'.
 - **Data classification frameworks are meant to be implemented**: For data classification frameworks to be successful, they must be implemented. It is especially relevant when crafting the control requirements for each data classification level. Make sure requirements are clearly defined and that they anticipate and address any ambiguity that might arise during implementation. For example, if you have a control around Personally Identifiable Information, make sure to spell out exactly what that control means, such as Social Security or passport number.
 - **Only go granular if you need to**: Data classification frameworks typically contain anywhere from 3-5 data classification levels. But just because you *can* include five levels does not mean you *should*. Consider the following criteria when deciding on the number of classification levels you need:
@@ -43,7 +43,7 @@ Also keep in mind that a data classification framework only addresses *what* you
 
 ## Pain points in creating a data classification framework
 
-Data classification efforts are by nature wide-reaching, touching nearly every business function within an enterprise. Because of this broad scope and the complexity of managing content in modern digital environments, companies often face challenges in knowing where to start, how to manage a successful implementation, and how to measure their progress. Common pain points include:
+Data classification efforts are by nature wide-reaching, touching nearly every business function within an enterprise. Because of this broad scope and the complexity of managing content in modern digital environments, companies often face challenges in knowing where to start, how to manage a successful implementation, and how to measure their progress. Common pain points often include:
 
 - Designing a robust and easy-to-understand data classification framework, including determining classification levels and associated security controls.
 - Developing an implementation plan that includes confirming the appropriate technology solution, aligning the plan to existing business processes, and identifying impact to the workforce.
@@ -102,7 +102,7 @@ For smaller organizations or organizations with a relatively streamlined data cl
 | Unrestricted | Unrestricted | Apply 'Unrestricted' footer | All users |
 | General | General | Apply 'General' footer | All users |
 
->[!Note]
+>[!TIP]
 >During a Microsoft internal information protection pilot, there were difficulties with the understanding and use of the 'Personal' label. Users were confused as to whether this meant PII or merely related to a personal matter. The label was changed to 'non-business' to be clearer. This example shows that taxonomy does not need to be perfect from the start. Start with what you think is right, pilot it, and adjust the label based on feedback if needed
 
 For larger organizations with a global reach or more complex information security needs, you may find this one-to-one relationship between the number of classification levels in your policy and the number of sensitivity labels in your Microsoft 365 environment to be a challenge. This challenge is especially true in global organizations where a given data classification level such as 'Restricted' may have a different definition or different set of controls depending on region.
