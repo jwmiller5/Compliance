@@ -18,6 +18,7 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # Support your GDPR program with Accountability Readiness Checklists

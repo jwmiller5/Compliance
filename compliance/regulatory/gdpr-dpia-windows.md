@@ -17,6 +17,7 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
+hideEdit: true
 ---
 
 # Data Protection Impact Assessments: Guidance for Data Controllers Using Microsoft data processor service for Windows Enterprise

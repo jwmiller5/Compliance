@@ -19,6 +19,7 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Technology controls in Microsoft 365 

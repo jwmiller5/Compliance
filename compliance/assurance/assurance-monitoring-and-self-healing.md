@@ -20,6 +20,7 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
+hideEdit: true
 ---
 
 # Data monitoring and self-healing in Microsoft 365

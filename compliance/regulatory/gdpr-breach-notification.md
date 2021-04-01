@@ -18,6 +18,7 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
+hideEdit: true
 ---
 
 # GDPR Breach Notification

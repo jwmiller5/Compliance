@@ -100,12 +100,8 @@
   items:
     - name: Network security overview
       href: assurance-network-security.md
-    - name: Denial-of-service defense
-      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: Denial-of-service defense strategy
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: Core denial-of-service defense principles
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Virus detection in Microsoft 365 services
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 
@@ -126,6 +122,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Microsoft 365 data immutability
       href: assurance-data-immutability.md
+    - name: Data classification and sensitivity labels
+      href: assurance-data-classification-and-labels.md
+    - name: Create a data classification framework
+      href: assurance-create-data-classification-framework.md
 
 - name: Resiliency and continuity
   items:

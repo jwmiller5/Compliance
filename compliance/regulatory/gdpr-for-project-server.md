@@ -13,6 +13,7 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
+hideEdit: true
 ---
 
 # GDPR for Project Server
