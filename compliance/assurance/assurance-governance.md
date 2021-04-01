@@ -50,6 +50,10 @@ The Microsoft 365 Information Security Policy is supplemented by the Microsoft 3
 
 All exceptions to the Microsoft 365 Information Security Policy must have a legitimate business justification and be approved by an appropriate governance entity within Microsoft 365. Exceptions must also have service team management approval and be documented in the Microsoft 365 risk management tool. Depending on the scope of the exception and the potential risk it represents, approval for exceptions may need to be obtained from a corporate vice president or higher. Exceptions are tracked in the Microsoft 365 risk management tool, where they are reviewed and approved for continued relevance.
 
+## How does Microsoft 365 keep security and compliance requirements updated?
+
+The Microsoft 365 Trust team works to maintain the internal Microsoft 365 Control Framework on an ongoing basis. Several scenarios may require the Trust team to update the control framework, including: changes in relevant regulations or laws, emerging threats, penetration test results, security incidents, audit feedback, and new compliance requirements. When a framework change is required, the Trust team identifies key stakeholders responsible for approving and implementing the change to ensure it is feasible and will not cause unintended issues with Microsoft 365 services. Once the Trust team and relevant stakeholders agree on what the change requires, the workloads responsible for implementing the change set target completion dates and work to implement the change within their respective services. After implementation targets have been met, the Trust team updates the control framework with the new or updated controls.
+
 ## Related external regulations & certifications
 
 Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to governance.
