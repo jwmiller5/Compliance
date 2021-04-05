@@ -60,6 +60,8 @@ The Microsoft 365 Security team and the service teams work together on and take 
 - **Containment, eradication, recovery**: Refers to the required and appropriate actions taken to contain the security incident based on the analysis done in the previous phase. More analysis may also be necessary in this phase to fully recovery from the security incident.
 - **Post-incident activity**: Refers to the post-mortem analysis performed after the recovery of a security incident. The operational actions performed during the process are reviewed to determine if any changes need to be made in the preparation or detection and analysis phases.
 
+![Security incident management phases](../media/assurance-sim-phases.png)
+
 ## Federated security response model
 
 Microsoft 365 services include core Microsoft online services (Exchange, SharePoint, and Microsoft Teams, etc.) and other Microsoft cloud services, such as Azure Active Directory, the Microsoft Commerce Platform, and the MSTIC. These services are operated by separate teams with their own security operational processes. Other teams at Microsoft are also engaged in various security aspects of Microsoft 365. Because of the multitude of teams working on security operations management across all the various services that make up Microsoft 365, Microsoft has implemented a federated security response model.
