@@ -31,6 +31,8 @@ Employing a team of highly experienced, proficient, and skilled people is one of
 
 The security detection mechanisms in Microsoft 365 also include notification and alerts that are initiated by different sources. The Microsoft 365 Security Response team is the key orchestrator of the security incident escalation process. This team receives all escalations and is responsible for analyzing and confirming the validity of the security incident.
 
+![Security incident management workflow](../media/assurance-sim-workflow.png)
+
 One of the primary pillars of detection is notification:
 
 - Each service team is responsible to log any action or event inside the service based on the requirements from the Microsoft 365 Security team. All logs created by the different service teams are processed by a Security Information and Event Management (SIEM) solution with predefined security and detection rules. These rules evolve based on the Microsoft 365 Security team’s recommendation, on information learned from previous security incidents, to determine if there is any suspicious or malicious activity.
