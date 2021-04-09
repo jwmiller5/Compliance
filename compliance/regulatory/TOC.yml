@@ -310,7 +310,7 @@
         - name: Accountability readiness checklists
           href: gdpr-arc.md
         - name: Azure, Dynamics 365, and Windows
-          href: gdpr-arc-azure-dynamics.md
+          href: gdpr-arc-azure-dynamics-windows.md
         - name: Microsoft Support & Professional Services
           href: gdpr-arc-prof-services.md
         - name: Office 365
