@@ -2,6 +2,17 @@
 
 
 
+## Week of April 05, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/5/2021 | [Microsoft 365 security incident management](/compliance/assurance/assurance-security-incident-management) | modified |
+| 4/5/2021 | [Microsoft 365 security incident management: Detection and analysis](/compliance/assurance/assurance-sim-detection-analysis) | modified |
+| 4/5/2021 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
+| 4/9/2021 | [Datacenter threat, vulnerability, and risk assessment](/compliance/assurance/assurance-threat-vulnerability-risk-assessment) | modified |
+
+
 ## Week of March 29, 2021
 
 
