@@ -2,6 +2,14 @@
 
 
 
+## Week of April 12, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/16/2021 | [United Kingdom Government-Cloud (G-Cloud)](/compliance/regulatory/offering-g-cloud-uk) | modified |
+
+
 ## Week of April 05, 2021
 
 
