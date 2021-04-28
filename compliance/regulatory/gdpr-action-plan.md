@@ -65,4 +65,4 @@ These configurations are important privacy measures that build on previous work.
 
 ## Learn more
 
-- [Learn more about Microsoft service and the GDPR](gdpr.md)
+- [Learn more about Microsoft services and the GDPR](gdpr.md)
