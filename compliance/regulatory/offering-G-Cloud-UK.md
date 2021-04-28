@@ -24,7 +24,7 @@ titleSuffix: Microsoft Compliance
 
 Government Cloud (G-Cloud) is a UK government initiative to ease procurement of cloud services by government departments and promote government-wide adoption of cloud computing. G-Cloud comprises a series of framework agreements with cloud services suppliers (such as Microsoft), and a listing of their services in an online store, the Digital Marketplace. These enable public-sector organizations to compare and procure those services without having to do their own full review process. Inclusion in the Digital Marketplace requires a self-attestation of compliance, followed by a verification performed by the Government Digital Service (GDS) branch at its discretion.
 
-The G-Cloud appointment process was streamlined in 2014 to reduce the time and cost to the UK government, and the government’s security classification scheme was simplified from six to three levels: OFFICIAL, SECRET, and TOP SECRET. (G-Cloud certification levels are no longer expressed as an Impact Level, or IL; Microsoft formerly held an IL2 accreditation for Microsoft Azure, Microsoft Dynamics 365, and Microsoft Office 365.)
+The G-Cloud appointment process was streamlined in 2014 to reduce the time and cost to the UK government, and the government's security classification scheme was simplified from six to three levels: OFFICIAL, SECRET, and TOP SECRET. (G-Cloud certification levels are no longer expressed as an Impact Level, or IL; Microsoft formerly held an IL2 accreditation for Microsoft Azure, Microsoft Dynamics 365, and Microsoft Office 365.)
 
 Instead of the central assessment of cloud services previously provided, the new process requires cloud service providers to self-certify and supply evidence in support of the 14 Cloud Security Principles of G-Cloud. This has not changed either the evidence Microsoft produces or the standards that the company adheres to.
 
@@ -81,7 +81,7 @@ Moving your government services to the cloud is now easier than ever using the A
 
 **Who is eligible to use the Digital Marketplace?**
 
-All UK government departments, devolved administrations, local authorities, wider public-sector bodies, and arm’s-length bodies are eligible to buy services in the marketplace. If you’re uncertain of your eligibility, consult the [complete list of public-sector organizations](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore).
+All UK government departments, devolved administrations, local authorities, wider public-sector bodies, and arm's-length bodies are eligible to buy services in the marketplace. If you're uncertain of your eligibility, consult the [current Crown Commercial Service suppliers](https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know) guidance.
 
 **What is an arm's-length body?**
 
@@ -98,7 +98,7 @@ The Microsoft Cloud in the UK provides reliability and performance combined with
 
 In addition to the UK datacenters, Microsoft cloud services has data centers in multiple locations. For the most up-to-date list of all centers visit our [data location page](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located).
 
-**How can I get copies of the auditor’s reports?**
+**How can I get copies of the auditor's reports?**
 
 The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) provides independently audited compliance reports. You can use the portal to request audit reports so that your auditors can compare the Microsoft results with your own legal and regulatory requirements.
 
