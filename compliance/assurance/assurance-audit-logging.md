@@ -28,7 +28,7 @@ hideEdit: true
 
 Microsoft 365 employs audit logging to detect unauthorized activities in its products and services and provide accountability for Microsoft personnel. Audit logs capture details about system configuration changes and access events, with details to identify who was responsible for the activity, when and where the activity took place, and what the outcome of the activity was. Automated log analysis supports near real-time detection of suspicious behavior. Potential incidents are escalated to the Microsoft 365 Security Response team for further investigation.
 
-Microsoft 365 internal audit logging captures log data from a variety of sources, such as:
+Microsoft 365 internal audit logging captures log data from various sources, such as:
 
 - Event logs
 - AppLocker logs
@@ -43,17 +43,21 @@ Microsoft 365 internal audit logging captures log data from a variety of sources
 
 ## How does Microsoft 365 centralize and report on audit logs?
 
-Many different types of log data are uploaded from Microsoft 365 servers to an internal, big data computing service called Cosmos. Each service team uploads audit logs from their respective servers into the Cosmos database for aggregation and analysis. This data transfer occurs over a FIPS 140-2-validated TLS connection on approved ports and protocols using a proprietary automation tool called the Office Data Loader (ODL).
+Many different types of log data are uploaded from Microsoft 365 servers to a proprietary security monitoring solution for near real-time (NRT) analysis and an internal big data computing service (Cosmos) for long-term storage. This data transfer occurs over a FIPS 140-2-validated TLS connection on approved ports and protocols using a proprietary automation tool called the Office Data Loader (ODL).
 
-Service teams run scoped queries against their data in Cosmos for log correlation, alerting, and reporting. For example, the Microsoft 365 Security team uses data from Cosmos with a proprietary event log parser to correlate log data, send alerts, and generate actionable reports on possible suspicious activity in the Microsoft 365 production environment. The reports from this data are used to correct vulnerabilities and to improve the overall performance of the service.
+Logs are processed in NRT using rule-based, statistical, and machine learning methods to detect system performance indicators and potential security events. Machine learning models use incoming log data and historical log data stored in Cosmos to continuously improve detection capabilities. Security-related detections generate alerts, notifying on-call engineers of a potential incident and triggering automated remediation actions when applicable. In addition to automated security monitoring, service teams use analysis tools and dashboards for data correlation, interactive queries, and data analytics. These reports are used to monitor and improve the overall performance of the service.
+
+For more information on security monitoring and alerting, see the [Security monitoring overview](assurance-security-monitoring.md).
+
+![Audit data flow](../media/assurance-audit-data-flow.png)
 
 ## How does Microsoft 365 protect audit logs?
 
-The tools used in Microsoft 365 to collect and process audit records do not allow permanent or irreversible changes to the original audit record content or time ordering. Access to Microsoft 365 data stored in Cosmos is restricted to authorized personnel. Microsoft 365 restricts the management of audit functionality to the limited subset of service team members that are responsible for audit functionality. These team members do not have the ability to modify or delete data from Cosmos, and all changes to logging mechanisms for Cosmos are recorded and audited. Audit logs are retained long enough to support incident investigations and meet regulatory requirements. The exact period of audit log data retention in Cosmos is determined by the service teams; most audit log data is retained for 90 days or longer.
+The tools used in Microsoft 365 to collect and process audit records do not allow permanent or irreversible changes to the original audit record content or time ordering. Access to Microsoft 365 data stored in Cosmos is restricted to authorized personnel. In addition, Microsoft 365 restricts the management of audit logs to a limited subset of Security team members responsible for audit functionality. The Security Team does not have standing administrative access to Cosmos. Administrative access requires Just-In-Time (JIT) access approval, and all changes to logging mechanisms for Cosmos are recorded and audited. Audit logs are retained long enough to support incident investigations and meet regulatory requirements. The exact period of audit log data retention in Cosmos is determined by the service teams; most audit log data is retained for 90 days or longer.
 
 ## How does Microsoft 365 protect end-user identifiable information that may be captured in audit logs?
 
-Prior to uploading data into Cosmos, the ODL application uses a scrubbing service to obfuscate any fields that contain customer data, such as tenant information and end-user identifiable information, and replace those fields with a hash value. The anonymized and hashed logs are rewritten and then uploaded into Cosmos.
+Prior to uploading log data, the ODL application uses a scrubbing service to remove any fields that contain customer data, such as tenant information and end-user identifiable information, and replace those fields with a hash value. The anonymized and hashed logs are rewritten and then uploaded into Cosmos. All log transfers occur over a TLS encrypted connection (FIPS 140-2).
 
 ## Related external regulations & certifications
 
