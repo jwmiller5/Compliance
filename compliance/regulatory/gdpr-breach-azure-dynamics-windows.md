@@ -102,11 +102,11 @@ Microsoft Dynamics 365 takes advantage of the cloud service infrastructure and b
 
 The Microsoft Dynamics 365 offering follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to Microsoft Dynamics 365 as well.
 
-## Windows Diagnostic Data Processor Configuration 
+## Windows Diagnostic Data Processor Configuration
 
 The [Windows diagnostic data processor configuration](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization) takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.
 
-It follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the Microsoft Azure breach notification here is analogous to the Windows diagnostic data processor configuration as well.
+It follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the Microsoft Azure Data Breach notification document here is analogous to the Windows diagnostic data processor configuration as well.
 
 ## Learn more
 
