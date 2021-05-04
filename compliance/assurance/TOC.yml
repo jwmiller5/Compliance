@@ -162,6 +162,8 @@
   items:
     - name: Risk management overview
       href: assurance-risk-management.md
+    - name: Microsoft 365 risk management program
+      href: assurance-risk-management-program.md
 
 - name: Security development and operation
   items:
