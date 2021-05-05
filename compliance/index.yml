@@ -1,12 +1,12 @@
 ### YamlMime:Hub
 
-title: Compliance documentation # < 60 chars
+title: Microsoft Compliance # < 60 chars
 summary: Microsoft documentation and resources you need to get started with compliance for your business or organization. # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-bi | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
 brand: m365
 
 metadata:
-  title: Compliance documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  title: Microsoft Compliance # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Microsoft documentation and resources you need to get started with compliance for your business or organization. # Required; article description that is displayed in search results. < 160 chars.
   services: service
   ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
