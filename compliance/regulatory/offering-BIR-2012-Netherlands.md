@@ -40,8 +40,7 @@ While Microsoft is not subject to BIR 2012 compliance, customers from the govern
 
 ## Audits, reports, and certificates
 
-- [Azure and Office 365 BIR-2012 Baseline Coverage](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Azure and Office 365 BIR-2012 Baseline Coverage User Guide (Dutch)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Microsoft retained an independent, third-party auditing firm to analyze the extent to which current Azure and Office 365 certifications and attestations (such as ISO/IEC 27001 and SOC 2 Type 2) cover the part of BIR 2012 that Microsoft is responsible for. The resulting report provides a mapping of these existing certifications and attestations to the controls listed in the BIR 2012 standard. Customers can use the report as a tool to help adopt Azure in a BIR 2012 compliant way. The report clearly demonstrates which BIR 2012 controls are covered by Microsoft and which controls remain to be implemented by the customers. The 'Microsoft Cloud: Azure and Office 365 BIR 2012 Baseline Coverage' report can be downloaded from the [Service Trust Portal Audit Reports - GRC Assessment Reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) section.
 
 ## Frequently asked questions
 
