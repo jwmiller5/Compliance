@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## ISO/IEC 20000-1:2011 overview
 
-The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world’s largest developer of voluntary international standards. The International Electrotechnical Commission (IEC) is the world’s leading organization for the preparation and publication of international standards for electrical, electronic, and related technologies.  
+The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world's largest developer of voluntary international standards. The International Electrotechnical Commission (IEC) is the world's leading organization for the preparation and publication of international standards for electrical, electronic, and related technologies.  
   
 Published under the joint ISO/IEC subcommittee in 2005 and revised in 2011, ISO 20000-1:2011 is an international standard for the establishment, implementation, operation, monitoring, and review of an Information Technology Service Management System (SMS). It is the only standard in the ISO 20000 family that results in a formal certification. The standard is based on requirements for designing, transitioning, delivering, and improving services to fulfill agreed service requirements and to provide value to both customers and service providers. ISO 20000-1 helps organizations provide assurance to customers that their service requirements will be fulfilled.
 
@@ -65,11 +65,11 @@ The Service Trust Portal provides independently audited compliance reports. You 
 
 Yes. The ISO 20000-1:2011 annual assessment includes the underlying physical infrastructure datacenter. Review the certificate for the coverage details.
 
-**Where can I view Microsoft’s compliance information for ISO 20000-1:2011?**
+**Where can I view Microsoft's compliance information for ISO 20000-1:2011?**
 
 You can download the ISO 20000-1:2011 certificate for Azure and additional services that are in scope of this assessment.
 
-**Can I use the compliance of Microsoft services to ISO 20000-1:2011 in my organization’s certification process?**
+**Can I use the compliance of Microsoft services to ISO 20000-1:2011 in my organization's certification process?**
 
 Yes. If your business is seeking certification for implementations deployed on in-scope services, you can use the relevant Microsoft certifications in your compliance assessment. However, you are responsible for engaging an assessor to evaluate your implementation for compliance, and for the controls and processes within your own organization.
 

@@ -22,9 +22,9 @@ titleSuffix: Microsoft Compliance
 
 ## About FINRA Rule 4511
 
-The [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/#/) is the largest independent body regulating securities firms with oversight of more than 4,500 brokerage firms in the United States. It was authorized by the US Congress “to protect America’s investors by making sure that the broker-dealer industry operates fairly and honestly.”
+The [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/#/) is the largest independent body regulating securities firms with oversight of more than 4,500 brokerage firms in the United States. It was authorized by the US Congress 'to protect America's investors by making sure that the broker-dealer industry operates fairly and honestly.”
 
-In 2011, the US Security and Exchange Commission (SEC) approved the FINRA adoption of SEC rules governing the retention of books and records on electronic storage media. [FINRA Rule 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifies that “all books and records required to be made pursuant to the FINRA rules shall be preserved in a format and media that complies with SEA (Securities Exchange Act) Rule 17a-4.”
+In 2011, the US Security and Exchange Commission (SEC) approved the FINRA adoption of SEC rules governing the retention of books and records on electronic storage media. [FINRA Rule 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) specifies that 'all books and records required to be made pursuant to the FINRA rules shall be preserved in a format and media that complies with SEA (Securities Exchange Act) Rule 17a-4.”
 
 Also, FINRA Rule 4511(c) requires firms to preserve for a period of at least six years those books and records for which there is no specified retention period under applicable FINRA or SEA rules. Effectively, if the books and records pertain to an account, the retention period is mandated to be six years following account closure. Otherwise, the retention period is for six years after such books and records are created.
 

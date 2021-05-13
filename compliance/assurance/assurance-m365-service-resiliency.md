@@ -50,7 +50,7 @@ Fault isolation measures are applied at multiple stages of the development and d
 
 The Microsoft Security Development Lifecycle (SDL) further promotes resiliency and consists of a set of practices that support security and compliance requirements. SDL guides our developers in building resilient, secure, compliant services. Key elements of SDL include code reviews, threat modeling, penetration testing, and standardized incident response processes across the Microsoft cloud.
 
-Microsoft 365 services are highly interconnected, but the systems and technology behind them are engineered in a way that limits the impact of one service incident from spilling over to other services. For example, an issue affecting Exchange Online will not impact core functionality in Teams, or an issue with search functionality in SharePoint Online won’t affect users’ ability to upload or download files.
+Microsoft 365 services are highly interconnected, but the systems and technology behind them are engineered in a way that limits the impact of one service incident from spilling over to other services. For example, an issue affecting Exchange Online will not impact core functionality in Teams, or an issue with search functionality in SharePoint Online won't affect users' ability to upload or download files.
 
 ## Continuous service improvement
 

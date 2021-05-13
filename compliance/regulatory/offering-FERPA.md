@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## FERPA overview
 
-The Family Educational Rights and Privacy Act (FERPA) is a US federal law that protects the privacy of students’ education records, including personally identifiable and directory information. FERPA was enacted to ensure that parents and students age 18 and older can access those records, request changes to them, and control the disclosure of information, except in specific and limited cases where FERPA allows for disclosure without consent.
+The Family Educational Rights and Privacy Act (FERPA) is a US federal law that protects the privacy of students' education records, including personally identifiable and directory information. FERPA was enacted to ensure that parents and students age 18 and older can access those records, request changes to them, and control the disclosure of information, except in specific and limited cases where FERPA allows for disclosure without consent.
 
 The law applies to schools, school districts, and any other institution that receives funding from the US Department of Education — that is, virtually all public K–12 schools and school districts, as well as most post-secondary institutions, both public and private.
 
@@ -32,7 +32,7 @@ Security is central to compliance with FERPA, which requires the protection of s
 
 FERPA does not require or recognize audits or other certifications, so any academic institution that is subject to FERPA must assess for itself whether and how its use of a cloud service affects its ability to comply with FERPA requirements. However, Microsoft has made the following contractual commitments that attest to its compliance:
 
-- In its [Online Services Terms](https://aka.ms/Online-Services-Terms), Microsoft agrees to be designated as a “school official” with “legitimate educational interests” in customer data as defined under FERPA. (Customer data would include any student records provided through a school’s use of Microsoft cloud services.) When handling student education records, Microsoft agrees to abide by the limitations and requirements imposed by 34 CFR 99.33(a) just as school officials do.
+- In its [Online Services Terms](https://aka.ms/Online-Services-Terms), Microsoft agrees to be designated as a 'school official” with 'legitimate educational interests” in customer data as defined under FERPA. (Customer data would include any student records provided through a school's use of Microsoft cloud services.) When handling student education records, Microsoft agrees to abide by the limitations and requirements imposed by 34 CFR 99.33(a) just as school officials do.
 - Furthermore, Microsoft commits to using customer data only to provide organizations with its cloud services and compatible purposes (such as improving malware detection), and does not mine customer data for advertising.
 - Microsoft also contractually commits not to disclose customer data except as the educational institution directs, as described in the contract, or as required by law. Schools that provide education records to Microsoft through their use of a Microsoft cloud service can thus be assured that those records are subject to stringent contractual restrictions regarding their use and disclosure.
 
@@ -58,7 +58,7 @@ FERPA does not require or recognize audits or certifications.
 
 **Why is FERPA important?**
 
-This US federal law mandates the protection of the privacy of students’ education records. It also gives parents and eligible students access to those records and the ability to correct them, as well as certain rights related to the release of records to third parties.
+This US federal law mandates the protection of the privacy of students' education records. It also gives parents and eligible students access to those records and the ability to correct them, as well as certain rights related to the release of records to third parties.
 
 **Where can I find more information on FERPA?**
 

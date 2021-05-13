@@ -58,9 +58,9 @@ Learn more about how to use Microsoft Azure compliance reports when addressing y
 
 ## Frequently asked questions
 
-**How can I use Microsoft SOX compliance to facilitate my organization’s compliance process?**
+**How can I use Microsoft SOX compliance to facilitate my organization's compliance process?**
 
-When you migrate your applications and data to covered Microsoft cloud services, you can build on the attestations and certifications that Microsoft holds. Independent auditor reports attest to the effectiveness of controls that Microsoft has implemented to help maintain the security and privacy of your data. However, you are wholly responsible for ensuring your organization’s compliance with all applicable laws and regulations.
+When you migrate your applications and data to covered Microsoft cloud services, you can build on the attestations and certifications that Microsoft holds. Independent auditor reports attest to the effectiveness of controls that Microsoft has implemented to help maintain the security and privacy of your data. However, you are wholly responsible for ensuring your organization's compliance with all applicable laws and regulations.
 
 ## Resources
 

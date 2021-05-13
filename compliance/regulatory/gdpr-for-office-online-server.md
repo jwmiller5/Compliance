@@ -75,7 +75,7 @@ Office logs contain a variety of different types of data. The following are exam
 
 - Performance data about the app and/or particular features within the app
 
-- General location information about where the user’s computer is (e.g. country / region, state, and city, derived from the IP address), but not precise geo location.
+- General location information about where the user's computer is (e.g. country / region, state, and city, derived from the IP address), but not precise geo location.
 
 - Basic metadata about the browser, e.g. browser name and version, and the computer, e.g. OS type and version
 
