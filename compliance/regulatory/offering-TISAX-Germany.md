@@ -59,7 +59,7 @@ Use case overviews, solution guides, tutorials, and other resources to help buil
 
 **Why I can't see a copy of the Microsoft TISAX certification?**
 
-ENX provides certification confirmation only to registered industry representatives through the ENX portal. For details about how to proceed, see the “Audits, reports, and certificates” section above.
+ENX provides certification confirmation only to registered industry representatives through the ENX portal. For details about how to proceed, see the 'Audits, reports, and certificates” section above.
 
 ## Use Microsoft Compliance Manager to assess your risk
 

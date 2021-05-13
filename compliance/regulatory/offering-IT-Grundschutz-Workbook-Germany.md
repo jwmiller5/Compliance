@@ -50,7 +50,7 @@ This workbook can help Microsoft Cloud Germany customers implement the IT-Grunds
 
 Yes. The purpose of the workbook is to help Microsoft Cloud Germany customers use Microsoft Cloud Germany services to implement the IT-Grundschutz methodology within the scope of their existing or planned ISO 27001 certification based on IT-Grundschutz.
 
-**What’s the difference between IT-Grundschutz Catalogues and C5?**
+**What's the difference between IT-Grundschutz Catalogues and C5?**
 
 The Cloud Computing Compliance Controls Catalog (C5) is an audited standard from BSI that establishes a mandatory minimum baseline for cloud security and the adoption of public cloud solutions by German government agencies and organizations that work with government. The IT-Grundschutz Catalogues supplies the specific methodology to help organizations identify and implement security measures for IT systems and is one of the elements upon which the C5 standards are built.
 

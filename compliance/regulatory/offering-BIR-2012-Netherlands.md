@@ -28,7 +28,7 @@ The BIR coverage report provides guidance where the BIR standards are covered by
 
 ## Microsoft and BIR 2012
 
-While Microsoft is not subject to BIR 2012 compliance, customers from the government sector seeking to use cloud services can use Microsoft’s existing certifications to determine their compliance with this standard. Azure and Office 365 undergo various periodic independent certifications and attestations, some of which are closely related to BIR 2012.
+While Microsoft is not subject to BIR 2012 compliance, customers from the government sector seeking to use cloud services can use Microsoft's existing certifications to determine their compliance with this standard. Azure and Office 365 undergo various periodic independent certifications and attestations, some of which are closely related to BIR 2012.
 
 [Download the Microsoft Cloud: Azure and Office 365 BIR-2012 Baseline Coverage User Guide](https://go.microsoft.com/fwlink/p/?linkid=2099461)
 
@@ -58,7 +58,7 @@ Microsoft cloud services provide many controls that help organizations within th
 
 **Is the BIR coverage report a legal binding document?**
 
-No. It is a supporting tool for the customer’s internal BIR assurance process and helps to establish confidence and trust that BIR compliance is feasible. The report has a descriptive status and includes a legal disclaimer.
+No. It is a supporting tool for the customer's internal BIR assurance process and helps to establish confidence and trust that BIR compliance is feasible. The report has a descriptive status and includes a legal disclaimer.
 
 **Can we share this report?**
 

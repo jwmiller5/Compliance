@@ -30,7 +30,7 @@ Microsoft is a major software and cloud-services provider to consumers, business
   
 ## Microsoft and WCAG
 
-Microsoft’s consideration of the WCAG standard in the development of products and services points to its commitment to making technology and data accessible for all customers.
+Microsoft's consideration of the WCAG standard in the development of products and services points to its commitment to making technology and data accessible for all customers.
 
 Microsoft publishes WCAG reports that reflect the complete product or service. It generally does not create reports for individual features or components. Sometimes, Microsoft might release a new component for an existing product, or a new version of an existing component, which users can choose to install separately, and Microsoft might also publish a WCAG report for that component.
 

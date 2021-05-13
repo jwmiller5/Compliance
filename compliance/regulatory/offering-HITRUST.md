@@ -91,7 +91,7 @@ Microsoft provides the most comprehensive offerings compared to other cloud serv
 
 **Does Microsoft certification mean that if my organization uses Azure or Office 365, it is compliant with HITRUST CSF?**
 
-When you store your data in a SaaS like Office 365, it’s a shared responsibility between Microsoft and your organization to achieve compliance. Microsoft manages majority of the infrastructure controls including physical security, network controls, application level controls, etc., and your organization has the responsibility to manage access controls and protect your sensitive data. The Office 365 HITRUST certification demonstrates the compliance of Microsoft’s control framework. Building on that, your organization needs to implement and maintain your own data protection controls to meet HITRUST CSF requirements.
+When you store your data in a SaaS like Office 365, it's a shared responsibility between Microsoft and your organization to achieve compliance. Microsoft manages majority of the infrastructure controls including physical security, network controls, application level controls, etc., and your organization has the responsibility to manage access controls and protect your sensitive data. The Office 365 HITRUST certification demonstrates the compliance of Microsoft's control framework. Building on that, your organization needs to implement and maintain your own data protection controls to meet HITRUST CSF requirements.
 
 **Does Microsoft provide guidance for my organization to implement appropriate controls when using Office 365?**
 

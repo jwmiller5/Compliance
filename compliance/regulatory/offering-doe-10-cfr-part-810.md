@@ -27,7 +27,7 @@ Microsoft Azure Government can help support customers subject to the export cont
 - The FedRAMP High Provisional Authorization to Operate (P-ATO) issued by the Joint Authorization Board (JAB)
 - The Level 4 and 5 Provisional Authorizations from the Department of Defense (DoD) Defense Information Systems Agency
 
-FedRAMP offers an appropriate baseline to provide assurances that Azure Government delivers core infrastructure and virtualization technologies and services such as compute, storage, and networking that are designed with stringent NIST controls. These help meet customer data separation requirements and help enable secure connections to customers’ on-premises environments.
+FedRAMP offers an appropriate baseline to provide assurances that Azure Government delivers core infrastructure and virtualization technologies and services such as compute, storage, and networking that are designed with stringent NIST controls. These help meet customer data separation requirements and help enable secure connections to customers' on-premises environments.
 
 Furthermore, Azure Government is a US government community cloud that is physically separated from the Azure cloud. It provides additional assurances regarding specific background screening requirements by the US government, including specific controls that restrict access to information and systems to screened US citizens among Azure operations personnel.
 
@@ -42,7 +42,7 @@ Furthermore, Azure Government is a US government community cloud that is physica
 
 ## About DoE 10 CFR Part 810
 
-The US Department of Energy (DoE) export control regulation [10 CFR Part 810](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) governs the export of unclassified nuclear technology and assistance. It helps ensure that nuclear technologies exported from the United States will be used only for peaceful purposes. The revised Part 810 (Final Rule) took effect in March 2015 and is administered by the [National Nuclear Security Administration](https://www.energy.gov/nnsa/national-nuclear-security-administration). Section 810.6 states that specific DoE authorization is required for both provisions of assistance and transfers of sensitive nuclear technology that are “generally authorized,” as well as those requiring specific authorization (such as for assistance involving sensitive nuclear technologies like enrichment and heavy water production).
+The US Department of Energy (DoE) export control regulation [10 CFR Part 810](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) governs the export of unclassified nuclear technology and assistance. It helps ensure that nuclear technologies exported from the United States will be used only for peaceful purposes. The revised Part 810 (Final Rule) took effect in March 2015 and is administered by the [National Nuclear Security Administration](https://www.energy.gov/nnsa/national-nuclear-security-administration). Section 810.6 states that specific DoE authorization is required for both provisions of assistance and transfers of sensitive nuclear technology that are 'generally authorized,” as well as those requiring specific authorization (such as for assistance involving sensitive nuclear technologies like enrichment and heavy water production).
 
 ## Frequently asked questions
 

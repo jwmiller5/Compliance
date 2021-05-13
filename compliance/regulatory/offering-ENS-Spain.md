@@ -65,7 +65,7 @@ The certification is valid for two years, with an annual surveillance audit.
 
 The [Service Trust Portal](https://aka.ms/stphelp) provides the audit reports and certifications in both Spanish and English. Your auditors can use them to compare Microsoft cloud services results with your own legal and regulatory requirements.
 
-**Where do I start with my organization’s own compliance effort?**
+**Where do I start with my organization's own compliance effort?**
 
 If your organization is using Azure or Office 365, you can use ENS Microsoft audit reports and accreditation as part of your own accreditation process. However, you are responsible for engaging an auditor to evaluate your implementation for compliance, and for ensuring that the controls and processes within your own organization align with the framework.
 

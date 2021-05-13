@@ -59,7 +59,7 @@ Microsoft cloud services provide many controls that help organizations within Du
 
 **Is the NEN 7510 coverage report a legal binding document?**
 
-No. It is a supporting tool for the customer’s internal NEN 7510 assurance process and helps to establish confidence and trust that NEN 7510 compliance is feasible. The report (created by independent auditor, KPMG) has a descriptive status and includes a legal disclaimer.
+No. It is a supporting tool for the customer's internal NEN 7510 assurance process and helps to establish confidence and trust that NEN 7510 compliance is feasible. The report (created by independent auditor, KPMG) has a descriptive status and includes a legal disclaimer.
 
 **Did Microsoft pay for the report?**
 

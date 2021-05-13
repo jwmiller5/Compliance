@@ -26,9 +26,9 @@ Copyrighted content comes in many forms, pictures, videos, music, contracts, scr
 
 ## Microsoft and Federation Against Copyright Theft (FACT)
 
-To underscore Microsoft’s commitment to protect customers when they entrust such assets to the public cloud, Microsoft Azure has been certified by the Federation Against Copyright Theft (FACT) in the United Kingdom. FACT certification is based on ISO 27001, focusing on physical and digital security, staff screening and training, and access control. The FACT content protection and security program incorporates expertise across law enforcement, technology partners, and industry associations to fight copyright infringement and content theft, such as peer-to-peer sharing, illegal disc duplication, and signal theft.
+To underscore Microsoft's commitment to protect customers when they entrust such assets to the public cloud, Microsoft Azure has been certified by the Federation Against Copyright Theft (FACT) in the United Kingdom. FACT certification is based on ISO 27001, focusing on physical and digital security, staff screening and training, and access control. The FACT content protection and security program incorporates expertise across law enforcement, technology partners, and industry associations to fight copyright infringement and content theft, such as peer-to-peer sharing, illegal disc duplication, and signal theft.
 
-Based on the voluntary submission by Microsoft to a FACT audit, the FACT auditor certified Azure. Azure was the first multi-tenant public cloud service to achieve FACT certification, adding to Azure’s portfolio of media-related certifications, including CDSA certification and a formal assessment by the MPAA.
+Based on the voluntary submission by Microsoft to a FACT audit, the FACT auditor certified Azure. Azure was the first multi-tenant public cloud service to achieve FACT certification, adding to Azure's portfolio of media-related certifications, including CDSA certification and a formal assessment by the MPAA.
 
 ## Microsoft in-scope cloud services
 
@@ -46,7 +46,7 @@ Content security is critical for feature film and television development, as the
 
 **Does my organization still need to undergo a FACT audit, or can we use the Azure audit?**
 
-Compliance with FACT is voluntary, but Microsoft elected to carry out an independent assessment so that media customers can be confident in the content security and protection capabilities of Azure. However, customers’ individual cloud environments are not managed by Azure, and thus may be subject to additional regulation that is best addressed by an individual audit.
+Compliance with FACT is voluntary, but Microsoft elected to carry out an independent assessment so that media customers can be confident in the content security and protection capabilities of Azure. However, customers' individual cloud environments are not managed by Azure, and thus may be subject to additional regulation that is best addressed by an individual audit.
 
 ## Resources
 

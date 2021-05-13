@@ -28,7 +28,7 @@ Microsoft is a major software and cloud-services provider to U.S. federal and st
 
 ## Microsoft and U.S. Section 508
 
-Microsoft’s consideration of U.S. Section 508 in the development of products and services points to its commitment to making technology and data accessible for all customers.
+Microsoft's consideration of U.S. Section 508 in the development of products and services points to its commitment to making technology and data accessible for all customers.
 
 ## Microsoft in-scope cloud services
 

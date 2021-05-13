@@ -40,7 +40,7 @@ Microsoft engaged outside assessors to validate that Microsoft Azure, Dynamics 3
 
 Financial institutions can rely on this evaluation of the compliance of these three areas for the in-scope infrastructure and platform services of Azure, Dynamics 365, Office 365, and Microsoft Cloud App Security.
 
-[Learn more about validation of external assessors and links to assessor’s sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
+[Learn more about validation of external assessors and links to assessor's sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
 
 ## Microsoft in-scope cloud services
 
@@ -67,7 +67,7 @@ The FISC has published two reports from its Council of Experts:
 
 You can also see security references ([in Japanese](https://aka.ms/microsoftresponsetofiscguidancejapanese)) from third parties who have evaluated the FISC compliance of Microsoft cloud services.
 
-**Can I use Microsoft’s responses to this framework in my organization’s qualification process?**
+**Can I use Microsoft's responses to this framework in my organization's qualification process?**
 
 Yes. However, although Microsoft responses to this framework are confirmed compliant by third parties, customers are responsible for validating the compliance of solutions they have implemented on Azure or Office 365.
 
