@@ -26,7 +26,7 @@ titleSuffix: Microsoft Compliance
 
 In July 2016, the MAS, the sole bank regulator in Singapore and its central bank, issued its [Guidelines on Outsourcing Risk Management](https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulatory%20and%20Supervisory%20Framework/Risk%20Management/Outsourcing%20Guidelines_Jul%202016.pdf). In the guidelines, the MAS set out its expectations for outsourcing cloud services by financial institutions in Singapore, including banks, insurance companies, and trust companies. This was the result of an industry-wide consultation that began in October 2014 that included Microsoft participation.
 
-The MAS Guidelines substantially streamline the process for technology adoption, provide clarity on the regulator’s expectations, and address many of the misconceptions that had previously slowed the financial industry’s adoption of cloud solutions.
+The MAS Guidelines substantially streamline the process for technology adoption, provide clarity on the regulator's expectations, and address many of the misconceptions that had previously slowed the financial industry's adoption of cloud solutions.
 
 Furthermore, the guidelines are unequivocal in their support of the use of cloud services — including a public cloud — by financial institutions and that they stand to benefit from doing so. They have eliminated the expectation that financial institutions would notify the MAS before any significant material outsourcing commitments. Instead, MAS-regulated institutions are expected to refine their risk-based approach when assessing material outsourcing and conduct a self-assessment of all outsourcing arrangements against these guidelines. (For now, these guidelines are not legally binding, but the MAS has indicated that it will issue a statutory notice in the future.)
 
@@ -49,7 +49,7 @@ With the endorsement of cloud computing — including the use of public clouds �
 
 Get practical support for moving data and workloads to the Microsoft Cloud in compliance with MAS Guidelines
 
-[Download the Navigating your way to the cloud: Microsoft’s response to MAS outsourcing guidelines and ABS guidance](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
+[Download the Navigating your way to the cloud: Microsoft's response to MAS outsourcing guidelines and ABS guidance](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
 
 Compliance Checklist for Financial Institutions in Singapore
 
@@ -75,11 +75,11 @@ Get practical support for moving data and workloads to the Microsoft Cloud in co
 
 No, there is no requirement for prior notification, consultation, or approval of outsourcing arrangements. However, the MAS expects financial institutions to be ready to demonstrate how they comply, and to notify the MAS as soon as possible of adverse developments arising from a financial institution's outsourcing arrangements — for example, a data breach incident.
 
-**What is a “material” outsourcing arrangement and why is the definition important?**
+**What is a 'material” outsourcing arrangement and why is the definition important?**
 
-An outsourcing arrangement is “material” if a service failure or breach has the potential to materially affect a financial firm’s business operations or ability to manage risk and comply with applicable laws and regulations; or if it involves customer information and, in the event of any unauthorized access or disclosure, loss, or theft of customer information, has a material impact on a firm’s customers. The definition of “customer information” expressly excludes securely encrypted information.
+An outsourcing arrangement is 'material” if a service failure or breach has the potential to materially affect a financial firm's business operations or ability to manage risk and comply with applicable laws and regulations; or if it involves customer information and, in the event of any unauthorized access or disclosure, loss, or theft of customer information, has a material impact on a firm's customers. The definition of 'customer information” expressly excludes securely encrypted information.
 
-This definition is important since certain provisions of MAS Outsourcing Guidelines apply only to “material outsourcing arrangements.” These include an obligation to perform annual reviews, mandatory contractual clauses addressing audit rights, and ensuring that outsourcing outside of Singapore does not affect MAS supervisory efforts.
+This definition is important since certain provisions of MAS Outsourcing Guidelines apply only to 'material outsourcing arrangements.” These include an obligation to perform annual reviews, mandatory contractual clauses addressing audit rights, and ensuring that outsourcing outside of Singapore does not affect MAS supervisory efforts.
 
 ## Resources
 

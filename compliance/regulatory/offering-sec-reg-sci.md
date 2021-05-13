@@ -36,7 +36,7 @@ To help guide US financial services customers who must comply with this regulati
 
 - Provides an overview of overall Azure capabilities that support strong resiliency, high availability, and low latency.
 - Makes clear which control areas and regulatory aspects Azure addresses. This point-by-point mapping of Azure features and services to SCI requirements measures Azure compliance against the regulatory framework. It also helps customers understand where they can shift security responsibilities to Azure that they had fully owned when they operated on premises. These capabilities are backed by the promises Microsoft makes in Azure SLAs.
-- Specifies each Regulation SCI requirement that is the customer’s responsibility to address, and offers Azure documentation and services to help them address these responsibilities.
+- Specifies each Regulation SCI requirement that is the customer's responsibility to address, and offers Azure documentation and services to help them address these responsibilities.
 
 This document provides a thorough checklist of critical Regulation SCI focus areas. This checklist helps financial organizations understand how they can adopt Azure to help assure their regulators, customers, and leadership that they can comply with the applicable regulatory requirements.
 
@@ -55,7 +55,7 @@ This document provides a thorough checklist of critical Regulation SCI focus are
 
 **What does shared responsibility mean when using cloud technology?**
 
-As computing environments move from datacenters on-premises to those in the cloud, the responsibility of security also shifts—the cloud services provider (CSP) and customer now share that responsibility. For every application and solution, how much of that responsibility falls on the customer and how much on the CSP depends on the Azure model that a customer deploys—IaaS, SaaS, or PaaS. It is the customer’s duty to understand to what degree they are accountable for implementing the required security controls. However, Microsoft provides guidance to help customers navigate this complex dynamic. For more information, read [Shared Responsibilities for Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91).
+As computing environments move from datacenters on-premises to those in the cloud, the responsibility of security also shifts—the cloud services provider (CSP) and customer now share that responsibility. For every application and solution, how much of that responsibility falls on the customer and how much on the CSP depends on the Azure model that a customer deploys—IaaS, SaaS, or PaaS. It is the customer's duty to understand to what degree they are accountable for implementing the required security controls. However, Microsoft provides guidance to help customers navigate this complex dynamic. For more information, read [Shared Responsibilities for Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91).
 
 **Which financial institutions can take advantage of Azure to help meet Regulation SCI requirements?**
 

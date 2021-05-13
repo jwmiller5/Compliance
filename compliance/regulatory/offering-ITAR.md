@@ -26,7 +26,7 @@ The US Department of State is responsible for managing the export and temporary 
 
 ## Microsoft and ITAR
 
-Microsoft provides certain cloud services or service features that can support customers with ITAR obligations. While there is no compliance certification for the ITAR, Microsoft operates and has designed in-scope services to be capable of supporting a customer’s ITAR obligations and compliance program.  
+Microsoft provides certain cloud services or service features that can support customers with ITAR obligations. While there is no compliance certification for the ITAR, Microsoft operates and has designed in-scope services to be capable of supporting a customer's ITAR obligations and compliance program.  
   
 Microsoft Azure Government and Microsoft Office 365 U.S. Government for Defense provide support for customers with data subject to the ITAR through additional contractual commitments to customers regarding the location of stored data, and limitations on the ability to access such data to US persons. Microsoft provides these assurances for the infrastructure and operational components of these government cloud services, but customers are ultimately responsible for the protection and architecture of their applications within their environments.  
   

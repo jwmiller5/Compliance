@@ -27,7 +27,7 @@ Every log line contains a CorrelationID. Related log lines share the same Correl
 
 ## Gathering Logs
 
-In order to gather all logs associated with UserID 1, for example, the first step would be to gather all sessions associated with UserID 1 (i.e. SessionID 1 and SessionID2). The next step would be to gather all correlations associated with SessionID 1 (i.e. CorrelationIDs 1, 2, and 3) and with SessionID 2 (i.e. CorrelationID 4). Finally, gather all logs associated with each of the correlations in the list.
+In order to gather all logs associated with UserID 1, for example, the first step would be to gather all sessions associated with UserID 1 (that is, SessionID 1 and SessionID2). The next step would be to gather all correlations associated with SessionID 1 (that is, CorrelationIDs 1, 2, and 3) and with SessionID 2 (that is, CorrelationID 4). Finally, gather all logs associated with each of the correlations in the list.
 
 1. Launch UlsViewer
 
@@ -67,7 +67,7 @@ In order to gather all logs associated with UserID 1, for example, the first ste
 
 ## Types of Data
 
-Office logs contain a variety of different types of data. The following are examples of the data that ULS logs may contain:
+Office logs contain various different types of data. The following are examples of the data that ULS logs may contain:
 
 - Error codes for issues encountered during use of the product
 
@@ -75,10 +75,10 @@ Office logs contain a variety of different types of data. The following are exam
 
 - Performance data about the app and/or particular features within the app
 
-- General location information about where the user’s computer is (e.g. country / region, state, and city, derived from the IP address), but not precise geo location.
+- General location information about where the user's computer is (for example, country / region, state, and city, derived from the IP address), but not precise geo location.
 
-- Basic metadata about the browser, e.g. browser name and version, and the computer, e.g. OS type and version
+- Basic metadata about the browser, for example, browser name and version, and the computer, for example, OS type and version
 
-- Error messages from the document host (e.g. OneDrive, SharePoint, Exchange)
+- Error messages from the document host (for example, OneDrive, SharePoint, Exchange)
 
 - Information about processes internal to the app, unrelated to any action the user has taken

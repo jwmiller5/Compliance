@@ -67,7 +67,7 @@ Each audit results in the generation of an audit report, which Microsoft makes a
 
 Canadian customers of Microsoft business cloud services will [know where their customer data is stored](https://www.microsoft.com/trust-center/privacy/data-location). Furthermore, no matter where customer data is located, Microsoft does not control or limit the locations from which customers or their end users may access their data.  
 
-PIPEDA doesn’t require Canadian businesses to keep personal information in Canada. However, depending on the province where organizations do business, or their industry, they could be required to keep certain types of data within Canadian borders. To help address these types of requirements, Microsoft has established two datacenters in Canada that support Azure and Intune—in Toronto and Quebec City, and verifies that each datacenter meets stringent security requirements.
+PIPEDA doesn't require Canadian businesses to keep personal information in Canada. However, depending on the province where organizations do business, or their industry, they could be required to keep certain types of data within Canadian borders. To help address these types of requirements, Microsoft has established two datacenters in Canada that support Azure and Intune—in Toronto and Quebec City, and verifies that each datacenter meets stringent security requirements.
 
 ## Resources
 
