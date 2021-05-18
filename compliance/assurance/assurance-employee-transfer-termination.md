@@ -29,7 +29,7 @@ Microsoft 365 systems are designed to operate without standing administrative ac
 
 ## Transfer and reassignment
 
-Employee transfers are initiated through a transfer transaction request sent to HR by the employee's manager. This request requires the approval of either a Human Resources Assistant (HRA) or Business Administrator. Once approved, the employee's manager in the HRIS is changed, triggering IDM to set an expiration date for all the employee's eligibilities. The employee must submit a request and receive approval from their new manager to retain their eligibilities. Failure to submit a request or receive manager approval results in the revocation of the transferred employee's eligibilities. For transfers that include specific security implications, system accesses and security group memberships are reevaluated immediately to reflect their new role.
+Employee transfers are initiated through a transfer transaction request by the employee's manager. The manager creates a requisition and engages with Global Talent Acquisition for the offer letter process. Once the employee accepts the offer for the new role, HR services completes the transfer in the HR core tools, triggering IDM to set an expiration date for all the employee's eligibilities. The employee must submit a request and receive approval from their new manager to retain their eligibilities. Failure to submit a request or receive manager approval results in the revocation of the transferred employee's eligibilities. For transfers that include specific security implications, system accesses and security group memberships are reevaluated immediately to reflect their new role.
 
 ## Termination
 
