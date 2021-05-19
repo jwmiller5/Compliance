@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## ISO 22301 overview
 
-The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world’s largest developer of voluntary international standards. The ISO formed the TC 223 Societal Security technical committee to develop standards for protecting society, including organizations, if catastrophes such as a natural disaster, major terrorist attack, or the shutdown of power grids occur.
+The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world's largest developer of voluntary international standards. The ISO formed the TC 223 Societal Security technical committee to develop standards for protecting society, including organizations, if catastrophes such as a natural disaster, major terrorist attack, or the shutdown of power grids occur.
 
 Published in 2012 by the technical committee, ISO 22301:2012 is the first international standard for management systems that help ensure business continuity. ISO 22301 is the premium standard for business continuity, and certification demonstrates conformance to rigorous practices to prevent, mitigate, respond to, and recover from disruptive incidents.
 
@@ -64,7 +64,7 @@ ISO 22301 is a certification used by enterprises and governmental organization t
 
 The [Service Trust Portal](https://aka.ms/stphelp) provides independently audited compliance reports, so that your auditors can compare Microsoft's cloud services results with your own legal and regulatory requirements.
 
-**Can I use ISO 22301 compliance of Microsoft services in my organization’s certification?**
+**Can I use ISO 22301 compliance of Microsoft services in my organization's certification?**
 
 Yes. If your business requires ISO 22301 certification for implementations deployed on Microsoft services, you can use the Azure and Office 365 certifications in your compliance assessment. You are responsible, however, for engaging an assessor to evaluate the controls, processes, and implementation for ISO 22301 compliance within your own organization and for your own applications.
 

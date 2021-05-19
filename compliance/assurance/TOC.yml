@@ -67,6 +67,8 @@
       href: assurance-pre-employment-screening.md
     - name: Microsoft cloud background check
       href: assurance-cloud-background-check.md
+    - name: Microsoft employee transfer and termination
+      href: assurance-employee-transfer-termination.md
 
 - name: Identity and access management
   items:
@@ -162,6 +164,8 @@
   items:
     - name: Risk management overview
       href: assurance-risk-management.md
+    - name: Microsoft 365 risk management program
+      href: assurance-risk-management-program.md
 
 - name: Security development and operation
   items:

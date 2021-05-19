@@ -54,7 +54,7 @@ An independent third-party auditing firm performed a rigorous examination of Mic
 
 To whom does the standard apply?
 
-This standard of practice provides guidance and tools for cloud service providers and cloud service customers to ensure that cloud products and services consistently meet customers’ requirements. It is structured in a format similar to ISO 27001:2013.
+This standard of practice provides guidance and tools for cloud service providers and cloud service customers to ensure that cloud products and services consistently meet customers' requirements. It is structured in a format similar to ISO 27001:2013.
 
 **Where can I get the ISO 9001:2015 audit reports and scope statements for Microsoft services?**
 
@@ -64,7 +64,7 @@ The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tr
 
 Yes. The ISO 9001:2015 annual assessment includes the underlying physical infrastructure datacenter. [Review the certificate](https://www.microsoft.com/?ref=aka) for the coverage details.
 
-**Where can I view Microsoft’s compliance information for ISO 9001:2015?**
+**Where can I view Microsoft's compliance information for ISO 9001:2015?**
 
 You can download the [ISO 9001:2015 certificate](https://www.microsoft.com/?ref=aka) for Azure and additional services that are in scope of this assessment.
 

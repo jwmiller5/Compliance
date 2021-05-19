@@ -28,7 +28,7 @@ Microsoft is a major software and cloud-services provider to European states. To
 
 ## Microsoft and EN 301 549
 
-Microsoft’s consideration of EN 301 549 in the development of products and services points to its commitment to accessibility for all customers.
+Microsoft's consideration of EN 301 549 in the development of products and services points to its commitment to accessibility for all customers.
 
 ## Microsoft in-scope cloud services
 

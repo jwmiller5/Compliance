@@ -22,13 +22,13 @@ titleSuffix: Microsoft Compliance
 
 ## Spanish Royal Decree 1720/2007, Spanish Organic Law 15/1999 overview
 
-The AEPD is the public authority that oversees compliance with Spanish Organic Law 15/1999 for the Protection of Personal Data ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750), or LOPD), including the transfer of data across international boundaries. In 2014, the AEPD reviewed Microsoft’s terms and conditions applicable to the EU Model Clauses-covered Microsoft Azure, Dynamics 365, and Office 365, and issued a resolution determining that those terms provided adequate safeguards for customers to move their personal data to those services.
+The AEPD is the public authority that oversees compliance with Spanish Organic Law 15/1999 for the Protection of Personal Data ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750), or LOPD), including the transfer of data across international boundaries. In 2014, the AEPD reviewed Microsoft's terms and conditions applicable to the EU Model Clauses-covered Microsoft Azure, Dynamics 365, and Office 365, and issued a resolution determining that those terms provided adequate safeguards for customers to move their personal data to those services.
 
 Title VIII of Royal Decree 1720/2007 establishes stringent requirements for processing personal data, including a specific listing of basic, intermediate-level, and high-level security measures that must be implemented. Microsoft retained an independent third-party auditing firm in Spain, BDO Auditores, to assess Microsoft Azure and Office 365 for compliance with the high-level requirements and Microsoft Dynamics 365 for compliance with the intermediate-level requirements established in Royal Decree 1720/2007. Based on interviews, visits to facilities, and a review of the environmental and physical security measures and controls, the auditor determined that Microsoft Azure and Office 365 information systems, facilities, and data processing met the high-level standard with no points requiring correction.
 
 ## Microsoft and Spanish Royal Decree 1720/2007, Spanish Organic Law 15/1999
 
-Microsoft was the first hyper-scale cloud service provider to receive, for the benefit of its customers, an authorization from the Spanish Data Protection Agency (Agencia Española de Protección de Datos, or AEPD) for its compliance with the high standards governing international data transfer under Spanish Organic Law 15/1999 (Ley Orgánica 15/1999 de Protección de Datos, or LOPD). Microsoft is also the first hyper-scale cloud service provider to obtain a third-party audit certification for its online services’ compliance with the security measures set forth in Title VIII of Royal Decree 1720/2007. This authorization lets customers make transfers of personal data to Microsoft Azure, Dynamics 365, and Office 365 services covered by the European Union Model Clauses.
+Microsoft was the first hyper-scale cloud service provider to receive, for the benefit of its customers, an authorization from the Spanish Data Protection Agency (Agencia Española de Protección de Datos, or AEPD) for its compliance with the high standards governing international data transfer under Spanish Organic Law 15/1999 (Ley Orgánica 15/1999 de Protección de Datos, or LOPD). Microsoft is also the first hyper-scale cloud service provider to obtain a third-party audit certification for its online services' compliance with the security measures set forth in Title VIII of Royal Decree 1720/2007. This authorization lets customers make transfers of personal data to Microsoft Azure, Dynamics 365, and Office 365 services covered by the European Union Model Clauses.
 
 ## Microsoft in-scope cloud services
 
@@ -60,9 +60,9 @@ Microsoft was the first hyper-scale cloud service provider to receive, for the b
 
 The high-level standard applies to the processing of sensitive data such as health information. Customers who use Microsoft Azure and Office 365 can rest assured that their sensitive data is being processed in accordance with Royal Decree 1720/2007.
 
-**Can I use Microsoft’s compliance in my organization’s certification process?**
+**Can I use Microsoft's compliance in my organization's certification process?**
 
-Yes. If your organization requires or is seeking an accreditation in line with the LOPD or Royal Decree 1720/2007, you can use AEPD’s authorization and the security measures certification in your compliance assessment. However, you are responsible for engaging an assessor to evaluate your implementation as deployed on Microsoft Azure, Dynamics 365, or Office 365, and for the controls and processes within your own organization.
+Yes. If your organization requires or is seeking an accreditation in line with the LOPD or Royal Decree 1720/2007, you can use AEPD's authorization and the security measures certification in your compliance assessment. However, you are responsible for engaging an assessor to evaluate your implementation as deployed on Microsoft Azure, Dynamics 365, or Office 365, and for the controls and processes within your own organization.
 
 ## Resources
 

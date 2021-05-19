@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## About K-ISMS
 
-Under Article 47 in the “Act on Promotion of Information and Communications Network Utilization and Information Protection” ([Korean](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) and [English](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), the Korean government introduced the [Korea-Information Security Management System](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS). A country-specific ISMS framework, it defines a stringent set of control requirements designed to help ensure that organizations in Korea consistently and securely protect their information assets.
+Under Article 47 in the 'Act on Promotion of Information and Communications Network Utilization and Information Protection” ([Korean](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) and [English](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), the Korean government introduced the [Korea-Information Security Management System](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS). A country-specific ISMS framework, it defines a stringent set of control requirements designed to help ensure that organizations in Korea consistently and securely protect their information assets.
 
 To obtain the certification, a company must undergo an assessment by an independent auditor that covers both information security management and security countermeasures. It covers 104 criteria including 12 control items in 5 sectors for information security management, and 92 control items in 13 sectors for information security countermeasures. Some of these include examination of the organization’s security management responsibilities, security policies, security training, incident response, risk management, and more. A special committee examines the results of the audit and grants the certification.
 
@@ -61,11 +61,11 @@ There are voluntary and compulsory subjects. Voluntary subjects, like Microsoft,
 
 - Internet service providers that are authorized by Article 6, Section 1 of the Telecommunication Business Act and provide information network services in Seoul and all metropolitan cities.
 
-- Internet datacenters designated as an “integrated information and communication facilities” by Article 46 in the Act on Promotion of Information and Communications Network Utilization and Information Protection.
+- Internet datacenters designated as an 'integrated information and communication facilities” by Article 46 in the Act on Promotion of Information and Communications Network Utilization and Information Protection.
 
 - Any organization that meets these conditions:
 
-    - Hospitals categorized as a “higher general hospital” in Article 3, Section 4 of the Medical Service Act whose annual sales or tax revenue is at least USD$ 150 million.
+    - Hospitals categorized as a 'higher general hospital” in Article 3, Section 4 of the Medical Service Act whose annual sales or tax revenue is at least USD$ 150 million.
     - Schools, per Article 2 in the Higher Education Act, where the number of enrolled students is at least 10,000 as of December 31 of the immediately preceding year.
     - Information network service providers whose sales of information and communication services are at least USD$ 10 million or an average of at least 1 million users per day in the previous three months; excluding, however, a financial company under subparagraph 3 of Article 2 of the Electronic Financial Transactions Act.
 

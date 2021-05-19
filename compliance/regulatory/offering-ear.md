@@ -22,9 +22,9 @@ titleSuffix: Microsoft Compliance
 
 ## About the EAR
 
-The US Department of Commerce enforces the Export Administration Regulations (EAR) through the [Bureau of Industry and Security (BIS)](https://www.bis.doc.gov/). The EAR broadly governs and imposes controls on the export and re-export of most commercial goods, software, and technology, including “dual-use” items that can be used both for commercial and military purposes and certain defense items.
+The US Department of Commerce enforces the Export Administration Regulations (EAR) through the [Bureau of Industry and Security (BIS)](https://www.bis.doc.gov/). The EAR broadly governs and imposes controls on the export and re-export of most commercial goods, software, and technology, including 'dual-use” items that can be used both for commercial and military purposes and certain defense items.
 
-BIS guidance holds that, when data or software is uploaded to the cloud or transferred between user nodes, the customer, not the cloud provider, is the “exporter” who has the responsibility to ensure that transfers of, storage of, and access to that data or software complies with the EAR.
+BIS guidance holds that, when data or software is uploaded to the cloud or transferred between user nodes, the customer, not the cloud provider, is the 'exporter” who has the responsibility to ensure that transfers of, storage of, and access to that data or software complies with the EAR.
 
 [According to the BIS](https://www.bis.doc.gov/index.php/documents/regulation-docs/412-part-734-scope-of-the-export-administration-regulations/file), *export* refers to the transfer of protected technology or technical data to a foreign destination or its release to a foreign person in the United States (also referred to as a *deemed export*). The EAR broadly governs:
 
@@ -40,11 +40,11 @@ The [final rule](https://www.federalregister.gov/documents/2016/06/03/2016-12734
 
 Microsoft technologies, products, and services are subject to the US Export Administration Regulations (EAR). While there is no compliance certification for the EAR, Microsoft Azure, Microsoft Azure Government, and Microsoft Office 365 Government (GCCHigh and DoD environments) offer important features and tools to help eligible customers subject to the EAR manage export control risks and meet their compliance requirements.
 
-The US Commerce Department, which enforces the EAR, has taken the position that customers, not cloud service providers such as Microsoft, are considered to be exporters of their own customer data. While most customer data is not considered “technology” or “technical data” subject to EAR export controls, Microsoft in-scope cloud services are structured to help customers manage and significantly mitigate the potential export control risks they face. Microsoft generally, but not exclusively, recommends the use of its government cloud services for eligible customers. With appropriate planning, customers can use the following tools and their own internal procedures to help ensure full compliance with US export controls.
+The US Commerce Department, which enforces the EAR, has taken the position that customers, not cloud service providers such as Microsoft, are considered to be exporters of their own customer data. While most customer data is not considered 'technology” or 'technical data” subject to EAR export controls, Microsoft in-scope cloud services are structured to help customers manage and significantly mitigate the potential export control risks they face. Microsoft generally, but not exclusively, recommends the use of its government cloud services for eligible customers. With appropriate planning, customers can use the following tools and their own internal procedures to help ensure full compliance with US export controls.
 
-- **Controls on data location**. Customers have visibility into where their data is stored and access to robust tools to restrict its storage. They may therefore ensure that their data is stored in the United States and minimize transfer of controlled technology or technical data outside the United States. Furthermore, customer data is not stored in a non-conforming location, consistent with EAR prohibitions on where data is “intentionally stored”: no Azure datacenter is located in any of the 25 Group D:5 countries or the Russian Federation.
+- **Controls on data location**. Customers have visibility into where their data is stored and access to robust tools to restrict its storage. They may therefore ensure that their data is stored in the United States and minimize transfer of controlled technology or technical data outside the United States. Furthermore, customer data is not stored in a non-conforming location, consistent with EAR prohibitions on where data is 'intentionally stored”: no Azure datacenter is located in any of the 25 Group D:5 countries or the Russian Federation.
 - **End-to-end encryption**. By taking advantage of the end-to-end encryption safe harbor for physical storage locations specified in the EAR, Microsoft in-scope cloud services deliver encryption features that can help protect against export control risks. They also offer customers a [wide range of options for encrypting data](https://aka.ms/Azure-Encryption-Overview) in transit and at rest, and the flexibility to choose among encryption options.
-- **Tools and protocols to prevent unauthorized deemed export**. The use of encryption also helps protect against a potential deemed export (or deemed re-export) under the EAR, because even if a non-US person has access to encrypted data, nothing is revealed if they cannot read or understand the data while it is encrypted; thus there is no “release” of controlled data.
+- **Tools and protocols to prevent unauthorized deemed export**. The use of encryption also helps protect against a potential deemed export (or deemed re-export) under the EAR, because even if a non-US person has access to encrypted data, nothing is revealed if they cannot read or understand the data while it is encrypted; thus there is no 'release” of controlled data.
 
 ## Microsoft in-scope cloud services
 
@@ -74,11 +74,11 @@ Most Microsoft technologies, products, and services either:
 
 That said, a few Microsoft products have been assigned an ECCN that may or may not require a license. Consult the EAR or legal counsel to determine the appropriate license type and eligible countries for export purposes.
 
-**What’s the difference between the EAR and International Traffic in Arms Regulations (ITAR)?**
+**What's the difference between the EAR and International Traffic in Arms Regulations (ITAR)?**
 
 The primary US export controls with the broadest application are the EAR, administered by the US Department of Commerce. The EAR is applicable to dual-use items that have both commercial and military applications, and to items with purely commercial applications.
 
-The United States also has separate and more specialized export control regulations, such as the ITAR, that governs the most sensitive items and technology. Administered by the US Department of State, they impose controls on the export, temporary import, re-export, and transfer of many military, defense, and intelligence items (also known as “defense articles”), including related technical data.
+The United States also has separate and more specialized export control regulations, such as the ITAR, that governs the most sensitive items and technology. Administered by the US Department of State, they impose controls on the export, temporary import, re-export, and transfer of many military, defense, and intelligence items (also known as 'defense articles”), including related technical data.
 
 ## Resources
 

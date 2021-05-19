@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## About CNSS Instruction 1253
 
-The Committee on National Security Systems (CNSS) is a governmental organization that sets national cybersecurity policy for US government departments and agencies. The [CNSS Instruction No. 1253](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf), “Security Categorization and Control Selection for National Security Systems,” provides guidance on the security standards that federal agencies should apply to categorize national security information and systems at appropriate security levels.  
+The Committee on National Security Systems (CNSS) is a governmental organization that sets national cybersecurity policy for US government departments and agencies. The [CNSS Instruction No. 1253](https://www.dss.mil/Portals/69/documents/io/rmf/CNSSI_No1253.pdf), 'Security Categorization and Control Selection for National Security Systems,” provides guidance on the security standards that federal agencies should apply to categorize national security information and systems at appropriate security levels.  
   
 The CNSSI 1253 builds on NIST SP 800-53, which provides the control baseline for the FedRAMP High authorization. There are, however, some key differences between the CNSSI 1253 and NIST publications.  
   

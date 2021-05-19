@@ -26,9 +26,9 @@ The Federal Information Processing Standard (FIPS) Publication 140-2 is a U.S. g
 
 The [Cryptographic Module Validation Program](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) (CMVP), a joint effort of the U.S. National Institute of Standards and Technology (NIST) and the Canadian Centre for Cyber Security (CCCS), validates cryptographic modules to the *Security Requirements for Cryptographic Modules* standard (i.e., FIPS 140-2) and related FIPS cryptography standards. The FIPS 140-2 security requirements cover 11 areas related to the design and implementation of a cryptographic module. The NIST Information Technology Laboratory operates a related program that validates the FIPS approved cryptographic algorithms in the module.
 
-## Microsoft’s approach to FIPS 140-2 validation
+## Microsoft's approach to FIPS 140-2 validation
 
-Microsoft maintains an active commitment to meeting the 140-2 requirements, having validated cryptographic modules since the standard’s inception in 2001. Microsoft validates its cryptographic modules under the National Institute of Standards and Technology (NIST) [Cryptographic Module Validation Program](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) (CMVP). Multiple Microsoft products, including many cloud services, use these cryptographic modules.
+Microsoft maintains an active commitment to meeting the 140-2 requirements, having validated cryptographic modules since the standard's inception in 2001. Microsoft validates its cryptographic modules under the National Institute of Standards and Technology (NIST) [Cryptographic Module Validation Program](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) (CMVP). Multiple Microsoft products, including many cloud services, use these cryptographic modules.
 
 For technical information on Microsoft Windows cryptographic modules, the security policy for each module, and the catalog of CMVP certificate details, see the [Windows and Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud).
 
@@ -42,9 +42,9 @@ While the current CMVP FIPS 140-2 implementation guidance precludes a FIPS 140-2
 
 ## Frequently asked questions
 
-**What is the difference between “FIPS 140 Validated” and “FIPS 140 compliant”?**
+**What is the difference between 'FIPS 140 Validated” and 'FIPS 140 compliant”?**
 
-“FIPS 140 Validated” means that the cryptographic module, or a product that embeds the module has been validated (“certified”) by the CMVP as meeting the FIPS 140-2 requirements. “FIPS 140 compliant” is an industry term for IT products that rely on FIPS 140 Validated products for cryptographic functionality.
+'FIPS 140 Validated” means that the cryptographic module, or a product that embeds the module has been validated ('certified”) by the CMVP as meeting the FIPS 140-2 requirements. 'FIPS 140 compliant” is an industry term for IT products that rely on FIPS 140 Validated products for cryptographic functionality.
 
 **When does Microsoft undertake a FIPS 140 validation?**
 
@@ -70,7 +70,7 @@ Yes, the Federal Risk and Authorization Management Program (FedRAMP) relies on c
 
 Azure is built with a combination of hardware, commercially available operating systems (Linux and Windows), and Azure-specific version of Windows. Through the Microsoft [Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl/) (SDL), all Azure services use FIPS 140-2 approved algorithms for data security because the operating system uses FIPS 140-2 approved algorithms while operating at a hyper scale cloud.
 
-**Can I use Microsoft’s adherence to FIPS 140-2 in my agency’s certification process?**
+**Can I use Microsoft's adherence to FIPS 140-2 in my agency's certification process?**
 
 To comply with FIPS 140-2, your system must be configured to run in a FIPS approved mode of operation, which includes ensuring that a cryptographic module uses only FIPS-approved algorithms. For more information on configuring systems to be compliant, see the [Windows and Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud).
 
