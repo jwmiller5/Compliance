@@ -68,7 +68,7 @@ The checklists include the four basic categories of considerations for a privacy
 
 - **Online service terms**: You can find Microsoft contractual commitments with regard to the GDPR in the [Online Services Terms](https://go.microsoft.com/fwlink/p/?linkid=2052208).
 - **Microsoft product terms**: Microsoft extends the [GDPR Terms commitments](https://go.microsoft.com/fwlink/p/?linkid=2052213) to all Volume Licensing customers.
-- **Data protection addendum**: Microsoft services [extends the commitments](https://go.microsoft.com/fwlink/p/?linkid=2052215) to customers and others using Microsoft Consulting Services and Windows diagnostic data processor configuration.
+- **Data protection addendum**: Microsoft services [extends the commitments](https://go.microsoft.com/fwlink/p/?linkid=2052215) to Microsoft Consulting Services customers and others.
 
 ## GDPR compliance controls
 
