@@ -32,6 +32,15 @@ conceptualContent:
         - url: offering-cis-benchmark.md
           itemType: reference
           text: CIS Benchmark
+        - url: /azure/compliance/offerings/offering-csa-star-attestation
+          itemType: reference
+          text: CSA-STAR attestation
+        - url: /azure/compliance/offerings/offering-csa-star-certification
+          itemType: reference
+          text: CSA-STAR certification
+        - url: /azure/compliance/offerings/offering-csa-star-self-assessment
+          itemType: reference
+          text: CSA-STAR self-assessment
         - url: offering-ISO-20000-1-2011.md
           itemType: reference
           text: ISO 20000-1:2011
@@ -51,6 +60,12 @@ conceptualContent:
         - url: offering-ISO-27018.md
           itemType: reference
           text: ISO 27018
+        - url: /azure/compliance/offerings/offering-iso-27701
+          itemType: reference
+          text: ISO 27701
+        - url: /azure/compliance/offerings/offering-iso-9001
+          itemType: reference
+          text: ISO 9001
         - url: offering-soc.md
           itemType: reference
           text: SOC
@@ -64,6 +79,9 @@ conceptualContent:
         - url: offering-cjis.md
           itemType: reference
           text: CJIS
+        - url: /azure/compliance/offerings/offering-cnssi-1253
+          itemType: reference
+          text: CNSSI 1253
         - url: offering-dfars.md
           itemType: reference
           text: DFARS
@@ -117,12 +135,24 @@ conceptualContent:
         - url: offering-amf-acpr-france.md
           itemType: reference
           text: AMF and ACPR (France)
+        - url: /azure/compliance/offerings/offering-cdsa
+          itemType: reference
+          text: CDSA
         - url: offering-cftc-1-31-us.md
           itemType: reference
           text: CFTC 1.31 (US)
+        - url: /azure/compliance/offerings/offering-dpp-uk
+          itemType: reference
+          text: DPP (UK)
         - url: offering-eba-eu.md
           itemType: reference
           text: EBA (EU)
+        - url: /azure/compliance/offerings/offering-fact-uk
+          itemType: reference
+          text: FACT (UK)
+        - url: /azure/compliance/offerings/offering-fca-pra-uk
+          itemType: reference
+          text: FCA + PRA (UK)
         - url: offering-fda-cfr-title-21-part-11.md
           itemType: reference
           text: FDA CFR Title 21 Part 11
@@ -151,10 +181,6 @@ conceptualContent:
         - url: offering-glba.md
           itemType: reference
           text: GLBA
-
-    # Card
-    - title: Industry
-      links:
         - url: offering-gxp.md
           itemType: reference
           text: GxP
@@ -167,34 +193,62 @@ conceptualContent:
         - url: offering-hitrust.md
           itemType: reference
           text: HITRUST
-        - url: offering-knf-poland.md
-          itemType: reference
-          text: KNF (Poland)
-        - url: offering-mas-abs-singapore.md
-          itemType: reference
-          text: MAS + ABS (Singapore)
 
     # Card
     - title: Industry
       links:
+        - url: offering-knf-poland.md
+          itemType: reference
+          text: KNF (Poland)
+        - url: /azure/compliance/offerings/offering-mars-e-us
+          itemType: reference
+          text: MARS-E (US)
+        - url: offering-mas-abs-singapore.md
+          itemType: reference
+          text: MAS + ABS (Singapore)
+        - url: /azure/compliance/offerings/offering-mpa
+          itemType: reference
+          text: MPA
         - url: offering-nbb-fsma-belgium.md
           itemType: reference
           text: NBB + FSMA (Belgium)
         - url: offering-nen-7510-netherlands.md 
           itemType: reference
           text: NEN-7510 (Netherlands)
+        - url: /azure/compliance/offerings/offering-nerc
+          itemType: reference
+          text: NERC
         - url: offering-osfi-canada.md
           itemType: reference
           text: OSFI (Canada)
+        - url: /azure/compliance/offerings/offering-pci-3ds
+          itemType: reference
+          text: PCI-3DS
+        - url: /azure/compliance/offerings/offering-pci-dss
+          itemType: reference
+          text: PCI-DSS
         - url: offering-rbi-irdai-india.md
           itemType: reference
           text: RBI + IRDAI (India)
+
+    # Card
+    - title: Industry
+      links:
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
+        - url: /azure/compliance/offerings/offering-sec-reg-sci-us
+          itemType: reference
+          text: SEC Regulation SCI (US)
+        - url: /azure/compliance/offerings/offering-shared-assessments
+          itemType: reference
+          text: Shared Assessments
         - url: offering-sox.md
           itemType: reference
           text: SOX
+        - url: /azure/compliance/offerings/offering-tisax
+          itemType: reference
+          text: TISAX (Germany)
         - url: offering-trusight.md
           itemType: reference
           text: TruSight
@@ -202,34 +256,46 @@ conceptualContent:
     # Card
     - title: Regional
       links:
+        - url: /azure/compliance/offerings/offering-ospar-singapore
+          itemType: reference
+          text: ABS OSPAR (Singapore)
         - url: offering-bir-2012-netherlands.md
           itemType: reference
           text: BIR 2012 (Netherlands)
         - url: offering-c5-germany.md
           itemType: reference
           text: C5 (Germany)
+        - url: /azure/compliance/offerings/offering-canada-privacy-laws
+          itemType: reference
+          text: Canadian Privacy Laws
         - url: offering-ccpa.md
           itemType: reference
           text: CCPA (US-California)
+        - url: /azure/compliance/offerings/offering-uk-cyber-essentials-plus
+          itemType: reference
+          text: Cyber Essentials Plus (UK)
         - url: offering-irap-australia.md
           itemType: reference
           text: IRAP (Australia)
         - url: offering-cs-mark-gold-japan.md
           itemType: reference
           text: CS Mark Gold (Japan)
+
+    # Card
+    - title: Regional
+      links:
         - url: https://www.trustcenter.cn/compliance/default.html#DJCP
           itemType: reference
           text: DJCP (China)
         - url: offering-en-301-549-eu.md
           itemType: reference
           text: EN 301 549 (EU)
+        - url: /azure/compliance/offerings/offering-eu-enisa-iaf
+          itemType: reference
+          text: ENISA IAF (EU)
         - url: offering-ens-spain.md
           itemType: reference
           text: ENS (Spain)
-
-    # Card
-    - title: Regional
-      links:
         - url: offering-eu-model-clauses.md
           itemType: reference
           text: EU Model Clauses
@@ -242,19 +308,25 @@ conceptualContent:
         - url: gdpr.md
           itemType: reference
           text: GDPR (EU)
+
+    # Card
+    - title: Regional
+      links:
         - url: offering-g-cloud-uk.md
           itemType: reference
           text: G-Cloud (UK)
         - url: https://www.idw.de/the-idw/about-the-idw
           itemType: reference
           text: IDW PS 951 (Germany)
+        - url: /azure/compliance/offerings/offering-korea-k-isms
+          itemType: reference
+          text: ISMS (Korea)
+        - url: /azure/compliance/offerings/offering-germany-it-grundschutz-workbook
+          itemType: reference
+          text: IT-Grundschutz workbook (Germany)
         - url: offering-lopd-spain.md
           itemType: reference
           text: LOPD (Spain)
-
-    # Card
-    - title: Regional
-      links:
         - url: offering-meity-india.md
           itemType: reference
           text: MeitY (India)
@@ -264,6 +336,10 @@ conceptualContent:
         - url: offering-my-number-act-japan.md
           itemType: reference
           text: My Number (Japan)
+
+    # Card
+    - title: Regional
+      links:
         - url: offering-nz-cc-framework-nz.md
           itemType: reference
           text: NZ CC Framework (New Zealand)
@@ -279,68 +355,6 @@ conceptualContent:
         - url: https://aka.ms/TRUCS-Compliance
           itemType: reference
           text: TRUCS (China)
-
-additionalContent:
-  # Supports up to 3 sections
-  sections:
-    - title: Compliance offerings specifically for Azure
-      summary: Compliance offerings specifically for Azure to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
-      items:
-        # Card
-        - title: Global
-          links:
-            - text: CSA-STAR attestation
-              url: offering-csa-star-attestation.md
-            - text: CSA-STAR certification
-              url: offering-csa-star-certification.md
-            - text: CSA-STAR self-assessment
-              url: offering-csa-star-self-assessment.md
-            - text: ISO 27701
-              url: offering-ISO-27701.md
-            - text: ISO-9001
-              url: offering-ISO-9001.md
-        # Card
-        - title: US Government
-          links:
-            - text: CNSSI 1253
-              url: offering-cnssi-1253.md
-        # Card
-        - title: Industry
-          links:
-            - text: CDSA
-              url: offering-cdsa.md
-            - text: DPP (UK)
-              url: offering-dpp-uk.md
-            - text: FACT (UK)
-              url: offering-fact-uk.md
-            - text: FCA (UK)
-              url: offering-fca-uk.md
-            - text: MARS-E
-              url: offering-mars-e.md
-            - text: MPAA
-              url: offering-mpaa.md
-            - text: NERC
-              url: offering-nerc-cip.md
-            - text: PCI DSS
-              url: offering-pci-dss.md
-            - text: SEC Regulations SCI
-              url: offering-sec-reg-sci.md
-            - text: Shared Assessments
-              url: offering-shared-assessments.md
-            - text: TISAX (Germany)
-              url: offering-tisax-germany.md
-        # Card
-        - title: Regional
-          links:
-            - text: ABS OSPAR (Singapore)
-              url: offering-abs-ospar.md
-            - text: Canadian Privacy Laws
-              url: offering-canadian-privacy-laws.md
-            - text: Cyber Essentials Plus (UK)
-              url: offering-cyber-essentials-plus-uk.md
-            - text: ENISA IAF (EU)
-              url: offering-enisa.md
-            - text: ISMS (Korea)
-              url: offering-ISMS-korea.md
-            - text: IT Grundschutz Workbook (Germany)
-              url: offering-it-grundschutz-workbook-germany.md
+        - url: offering-meity-india.md
+          itemType: reference
+          text: MeitY (India)
