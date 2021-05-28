@@ -163,19 +163,19 @@
             - name: AMF and ACPR (France)
               href: offering-amf-acpr-france.md
             - name: CDSA
-              href: offering-cdsa.md
+              href: /azure/compliance/offerings/offering-cdsa?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.jso
             - name: CIS Benchmark
               href: offering-cis-benchmark.md
             - name: CSA-STAR attestation
-              href: offering-csa-star-attestation.md
+              href: /azure/compliance/offerings/offering-csa-star-attestation?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: DoE 10 CFR Part 810
               href: offering-doe-10-cfr-part-810.md
             - name: DPP (UK)
-              href: offering-dpp-uk.md
+              href: /azure/compliance/offerings/offering-dpp-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: EAR (US Export Admin. Reg.)
               href: offering-ear.md
             - name: ENISA IAF (EU)
-              href: offering-enisa.md
+              href: /azure/compliance/offerings/offering-eu-enisa-iaf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: EU Model Clauses
               href: offering-eu-model-clauses.md
             - name: EBA (EU)
@@ -183,9 +183,9 @@
             - name: EU U.S. Privacy Shield
               href: offering-eu-us-privacy-shield.md
             - name: FACT (UK)
-              href: offering-fact-uk.md
-            - name: FCA (UK)
-              href: offering-fca-uk.md
+              href: /azure/compliance/offerings/offering-fact-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: FCA + PRA (UK)
+              href: /azure/compliance/offerings/offering-fca-pra-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: FFIEC (US)
               href: offering-ffiec-us.md
             - name: FINMA (Switzerland)
@@ -199,21 +199,21 @@
             - name: ISO 27018
               href: offering-iso-27018.md
             - name: ISO-9001
-              href: offering-iso-9001.md
+              href: /azure/compliance/offerings/offering-iso-9001?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: ITAR
               href: offering-itar.md
             - name: KNF (Poland)
               href: offering-knf-poland.md
             - name: MARS-E
-              href: offering-mars-e.md
-            - name: MPAA
-              href: offering-mpaa.md
+              href: /azure/compliance/offerings/offering-mars-e-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: MPA
+              href: /azure/compliance/offerings/offering-mpa?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: NBB + FSMA (Belgium)
               href: offering-nbb-fsma-belgium.md
             - name: NIST CSF
               href: offering-nist-csf.md
             - name: PCI DSS
-              href: offering-pci-dss.md
+              href: /azure/compliance/offerings/offering-pci-dss?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: Section 508 VPATS
               href: offering-section-508-vpats.md
             - name: Shared Assessments
@@ -223,7 +223,7 @@
             - name: LOPD (Spain)
               href: offering-lopd-spain.md
             - name: Cyber Essentials Plus (UK)
-              href: offering-cyber-essentials-plus-uk.md
+              href: /azure/compliance/offerings/offering-uk-cyber-essentials-plus?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: G-Cloud (UK)
               href: offering-g-cloud-uk.md
     - name: Regional
