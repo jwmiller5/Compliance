@@ -7,7 +7,7 @@
         - name: CIS Benchmark
           href: offering-cis-benchmark.md
         - name: CSA-STAR attestation
-          href: offering-csa-star-attestation.md
+          href: /azure/compliance/offerings/offering-csa-star-attestation?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: CSA-STAR certification
           href: offering-csa-star-certification.md
         - name: CSA-STAR self-assessment
