@@ -15,7 +15,7 @@
         - name: ISO - Recommended action plan
           href: iso-action-plan.md
         - name: ISO 20000-1-2011
-          href: offering-iso-20000-1-2011.md
+          href: /azure/compliance/offerings/offering-iso-20000-1?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO 22301
           href: offering-iso-22301.md
         - name: ISO 27001
@@ -43,7 +43,7 @@
         - name: DoD DISA L2,L4,L5
           href: offering-dod-disa-l2-l4-l5.md
         - name: DoE 10 CFR Part 810
-          href: offering-doe-10-cfr-part-810.md
+          href: /azure/compliance/offerings/offering-doe-10-cfr-part-810?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: EAR (US Export Admin. Reg.)
           href: offering-ear.md
         - name: FedRAMP
@@ -169,7 +169,7 @@
             - name: CSA-STAR attestation
               href: /azure/compliance/offerings/offering-csa-star-attestation?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: DoE 10 CFR Part 810
-              href: offering-doe-10-cfr-part-810.md
+              href: /azure/compliance/offerings/offering-doe-10-cfr-part-810?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: DPP (UK)
               href: /azure/compliance/offerings/offering-dpp-uk?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: EAR (US Export Admin. Reg.)
@@ -192,6 +192,8 @@
               href: offering-finma-switzerland.md
             - name: GLBA
               href: offering-glba.md
+            - name: GSMA
+              href: /azure/compliance/offerings/offering-gsma?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: HITRUST
               href: offering-hitrust.md
             - name: IRS 1075
@@ -283,7 +285,7 @@
             - name: LOPD (Spain)
               href: offering-lopd-spain.md
             - name: PASF (UK)
-              href: offering-pasf-uk.md
+              href: /azure/compliance/offerings/offering-uk-pasf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: Personal Data Localization (Russia)
               href: offering-russia-data-localization.md
         - name: North America
