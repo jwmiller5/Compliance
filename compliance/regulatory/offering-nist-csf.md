@@ -65,7 +65,7 @@ Cybersecurity remains a critical management issue in the era of digital transfor
 
 **Has an independent assessor validated that Azure Government, Dynamics 365, and Office 365 support NIST CSF requirements?**
 
-Yes, a third-party assessment organization has attested that the Azure Government cloud service offering conforms to the NIST Cybersecurity Framework (CSF) risk management practices, as defined in the Framework for Improving Critical Infrastructure Cybersecurity, Version 1.0, dated February 12, 2014. The NIST CSF is mapped to FedRAMP Moderate controls framework and an independent assessor has assessed Dynamics 365 against the FedRAMP Moderate baseline. Also, Office 365 obtained [the NIST CSF letter of certification](https://aka.ms/O365NISTCSFcertification) from HITRUST in June 2018.
+Yes, a third-party assessment organization has attested that the Azure Government cloud service offering conforms to the NIST Cybersecurity Framework (CSF) risk management practices, as defined in the Framework for Improving Critical Infrastructure Cybersecurity, Version 1.0, dated February 12, 2014. The NIST CSF is mapped to FedRAMP Moderate controls framework and an independent assessor has assessed Dynamics 365 against the FedRAMP Moderate baseline. Also, Office 365 obtained [the NIST CSF letter of certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) from HITRUST in July 2019.
 
 **How do Microsoft Cloud Services demonstrate compliance with the framework?**
 
