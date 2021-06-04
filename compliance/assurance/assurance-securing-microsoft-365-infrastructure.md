@@ -50,7 +50,7 @@ To acquire elevated privileges, Microsoft engineers submit a request for the spe
 
 Rogue users and compromised accounts are a real possibility in any organization, and our access control system are designed to protect against these threats.
 
-For more information about access control, see [Identity and access management overview](/assurance-identity-and-access-management.md).
+For more information about access control, see [Identity and access management overview](assurance-identity-and-access-management.md).
 
 ### Encryption
 
