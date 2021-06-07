@@ -227,7 +227,7 @@ conceptualContent:
         - url: /azure/compliance/offerings/offering-pci-3ds
           itemType: reference
           text: PCI-3DS
-        - url: /azure/compliance/offerings/offering-pci-dss
+        - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
         - url: offering-rbi-irdai-india.md

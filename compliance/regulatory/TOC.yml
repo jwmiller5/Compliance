@@ -111,7 +111,7 @@
             - name: PCI 3DS
               href: /azure/compliance/offerings/offering-pci-3ds?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: PCI DSS
-              href: /azure/compliance/offerings/offering-pci-dss?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+              href: offering-PCI-DSS.md
             - name: RBI + IRDAI (India)
               href: offering-rbi-irdai-india.md
             - name: SEC 17a-4
@@ -215,7 +215,7 @@
             - name: NIST CSF
               href: offering-nist-csf.md
             - name: PCI DSS
-              href: /azure/compliance/offerings/offering-pci-dss?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+              href: offering-PCI-DSS.md
             - name: Section 508 VPATS
               href: offering-section-508-vpats.md
             - name: Shared Assessments
