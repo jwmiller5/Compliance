@@ -1561,7 +1561,7 @@ The export request goes into **Pending** status. You can view the report status 
 
 ### Notify about exporting or deleting issues
 
-If you run into issues while exporting or deleting data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management** > **Other Security and Compliance Request** > **Privacy Blade and GDPR Requests**.
+If you run into issues while exporting or deleting data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management** > **Privacy and compliance requests for Subscriptions** > **Privacy Blade and GDPR Requests**.
 
 > [!NOTE]
 > When you export data from the Azure portal, system-generated data for a few applications will not be exported. To export data for these applications, see [Additional steps to export system-generated log data](/microsoft-365/compliance/gdpr-system-generated-log-data).
