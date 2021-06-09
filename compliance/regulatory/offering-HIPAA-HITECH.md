@@ -28,7 +28,7 @@ HIPAA applies to covered entities (specifically, health care providers, health p
 
 When a covered entity engages the services of a cloud service provider, such as Microsoft, the cloud service provider would be a business associate under HIPAA. Moreover, when a business associate subcontracts with a cloud service provider to create, receive, maintain, or transmit PHI, the cloud service provider also becomes a business associate.
 
-## Microsoft and HIPAA and the HITECH Acts
+## Microsoft, HIPAA, and the HITECH Act
 
 HIPAA regulations require that covered entities (defined under the Rules) enter into agreements with business associates to ensure that PHI is adequately protected. This agreement is called a Business Associate Agreement. Among other things, a Business Associate Agreement establishes the permitted and required uses and disclosures of PHI by the business associate, based on the relationship between the parties and the activities or services being performed by the business associate. To support our customers compliance with HIPAA when utilizing Microsoft enterprise products and services, Microsoft will enter into Business Associate Agreements with its covered entity and business associate customers.
 
