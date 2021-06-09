@@ -61,7 +61,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 
 ## Accelerate your deployment of HIPAA/HITRUST solutions on Azure
 
-Get a head start on taking advantage of the benefits of the cloud for health data solutions with the [Azure Security and Compliance Blueprint]((/azure/governance/blueprints/samples/hipaa-hitrust-9-2)). This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
+Get a head start on taking advantage of the benefits of the cloud for health data solutions with the [Azure Security and Compliance Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2). This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
 
 Visit the [Azure and HIPAA offering](/azure/compliance/offerings/offering-hipaa-us) for more information.
 
