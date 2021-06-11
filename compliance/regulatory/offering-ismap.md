@@ -67,7 +67,7 @@ Cloud service providers that provide cloud services to the government. The ISMAP
 
 **Where can I get more information on ISMAP requirements?**
 
-Please refer to the website of Information-technology Promotion Agency (IPA): [ISMAP: Rules and Regulations and more](https://www.ipa.go.jp/security/ismap/policy.html).
+Please refer to the website of Information-technology Promotion Agency (IPA): [ISMAP: Rules and Regulations and more](https://www.ismap.go.jp/csm).
 
 **Where can I get the details of Microsoft’s responses to the ISMAP framework?**
 
