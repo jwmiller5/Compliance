@@ -312,7 +312,7 @@ Microsoft provides the ability to discover Customer Data directly via pre-existi
 
 ### Notify about exporting or deleting issues
 
-If you run into issues while exporting or deleting data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management > Other Security and Compliance Request > Privacy Blade and GDPR Requests**.
+If you run into issues while exporting or deleting data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management > Privacy and compliance requests for Subscriptions > Privacy Blade and GDPR Requests**.
 
 ## Learn more
 
