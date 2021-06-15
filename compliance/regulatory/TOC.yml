@@ -44,7 +44,7 @@
           href: offering-dod-disa-l2-l4-l5.md
         - name: DoE 10 CFR Part 810
           href: /azure/compliance/offerings/offering-doe-10-cfr-part-810?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
-        - name: EAR (US Export Admin. Reg.)
+        - name: EAR
           href: offering-ear.md
         - name: FedRAMP
           href: offering-fedramp.md
@@ -54,13 +54,19 @@
           href: offering-irs-1075.md
         - name: ITAR
           href: offering-itar.md
-        - name: NIST - Recommended action plan
-          href: nist-action-plan.md
+        - name: NDAA Section 889
+          href: /azure/compliance/offerings/offering-ndaa-section-889?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: NIST 800-161
+          href: /azure/compliance/offerings/offering-nist-800-161?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: NIST 800-171
           href: offering-nist-sp-800-171.md
+        - name: NIST 800-53
+          href: /azure/compliance/offerings/offering-nist-800-53?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+        - name: NIST 800-63
+          href: /azure/compliance/offerings/offering-nist-800-63?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: NIST CSF
           href: offering-nist-csf.md
-        - name: Section 508 VPATS
+        - name: Section 508 VPATs
           href: offering-section-508-vpats.md
     - name: Industry
       items: 
@@ -70,7 +76,7 @@
               href: /azure/compliance/offerings/offering-tisax?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Education
           items: 
-            - name: FERPA
+            - name: FERPA (US)
               href: offering-ferpa.md
         - name: Energy
           items: 
@@ -82,7 +88,7 @@
               href: offering-23-nycrr-part-500.md
             - name: AFM + DNB (Netherlands)
               href: offering-afm-dnb-netherlands.md
-            - name: AMF and ACPR (France)
+            - name: AMF + ACPR (France)
               href: offering-amf-acpr-france.md
             - name: APRA (Australia)
               href: offering-apra-australia.md
@@ -120,36 +126,34 @@
               href: offering-PCI-DSS.md
             - name: RBI + IRDAI (India)
               href: offering-rbi-irdai-india.md
-            - name: SEC 17a-4
+            - name: SEC 17a-4 (US)
               href: offering-sec-17a-4.md
-            - name: SEC Regulation SCI
+            - name: SEC Regulation SCI (US)
               href: /azure/compliance/offerings/offering-sec-reg-sci-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: Shared Assessments
               href: /azure/compliance/offerings/offering-shared-assessments?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json              
-            - name: SOC
-              href: offering-soc.md
-            - name: SOX
+            - name: SOX (US)
               href: offering-sox.md
             - name: TruSight
               href: offering-trusight.md
         - name: Healthcare & life sciences
           items: 
-            - name: HDS (France)
+            - name: ASIP HDS (France)
               href: offering-hds-france.md
-            - name: HIPAA/HITECH
-              href: offering-hipaa-hitech.md
-            - name: HITRUST
-              href: offering-hitrust.md
-            - name: MARS-E
-              href: /azure/compliance/offerings/offering-mars-e-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
-            - name: NEN-7510 (Netherlands)
-              href: offering-nen-7510-netherlands.md
-        - name: Manufacturing
-          items: 
+            - name: EPCS (US)
+              href: /azure/compliance/offerings/offering-epcs-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: FDA CFR Title 21 Part 11
               href: offering-fda-cfr-title-21-part-11.md
             - name: GxP
               href: offering-gxp.md
+            - name: HIPAA/HITECH (US)
+              href: offering-hipaa-hitech.md
+            - name: HITRUST
+              href: offering-hitrust.md
+            - name: MARS-E (US)
+              href: /azure/compliance/offerings/offering-mars-e-us?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: NEN-7510 (Netherlands)
+              href: offering-nen-7510-netherlands.md
         - name: Media & entertainment
           items: 
             - name: CDSA
@@ -202,6 +206,8 @@
               href: offering-en-301-549-eu.md
             - name: EU ENISA IAF
               href: /azure/compliance/offerings/offering-eu-enisa-iaf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+            - name: EU GDPR
+              href: gdpr.md
             - name: EU Model Clauses
               href: offering-eu-model-clauses.md
             - name: Germany C5
