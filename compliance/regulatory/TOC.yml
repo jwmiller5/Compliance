@@ -223,7 +223,7 @@
             - name: UK Cyber Essentials Plus
               href: /azure/compliance/offerings/offering-uk-cyber-essentials-plus?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: UK G-Cloud
-              href: offering-g-cloud-uk
+              href: offering-g-cloud-uk.md
             - name: UK PASF
               href: /azure/compliance/offerings/offering-uk-pasf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
 
