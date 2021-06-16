@@ -106,11 +106,11 @@ Adopting ISO/IEC 27001 is a strategic commitment. As a starting point, consult t
 
 Yes. If your business requires ISO/IEC 27001 certification for implementations deployed on Microsoft services, you can use the applicable certification in your compliance assessment. You are responsible, however, for engaging an assessor to evaluate the controls and processes within your own organization and your implementation for ISO/IEC 27001 compliance.
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager has a pre-built assessment for this regulation for Enterprise E5 customers. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Office 365 resources
+### Office 365 resources
 
 - [Mapping Microsoft Cyber Offerings to: NIST Cybersecurity (CSF),CIS Controls, and ISO27001:2013 Frameworks](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [The ISO/IEC 27000 Directory](https://www.27000.org/index.htm)
