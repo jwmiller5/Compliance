@@ -47,7 +47,7 @@ Financial institutions can rely on this evaluation of the compliance of these th
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
 ## Frequently asked questions

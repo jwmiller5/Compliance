@@ -38,7 +38,7 @@ To further help you comply with FFIEC requirements, Microsoft cloud services pro
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
 ## Audits, reports, and certificates

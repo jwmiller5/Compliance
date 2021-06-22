@@ -36,7 +36,7 @@ While Microsoft is not subject to BIR 2012 compliance, customers from the govern
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 
 ## Audits, reports, and certificates
 

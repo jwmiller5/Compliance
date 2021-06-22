@@ -54,7 +54,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 - [Dynamics 365 and Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Intune
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Azure DevOps Services

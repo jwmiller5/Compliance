@@ -50,7 +50,7 @@ The New York regulations require each financial institution to:
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
 ## Frequently asked questions

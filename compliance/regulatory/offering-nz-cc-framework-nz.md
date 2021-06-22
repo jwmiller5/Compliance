@@ -38,7 +38,7 @@ To help agencies undertake their analysis and evaluation of Microsoft enterprise
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - Exchange Online, SharePoint Online, and Microsoft Teams. Microsoft NZ has worked with the GCIO team to develop a reference architecture for integrating Exchange Online and SEEMail.
 
 ## Frequently asked questions

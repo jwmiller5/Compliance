@@ -36,8 +36,7 @@ Microsoft's consideration of U.S. Section 508 in the development of products and
 - Azure DevOps Services
 - Dynamics 365 and Dynamics 365 U.S. Government
 - Intune
-- [Office 365 and Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense
 - Windows Server 2016
 
 ## Microsoft accessibility conformance reports

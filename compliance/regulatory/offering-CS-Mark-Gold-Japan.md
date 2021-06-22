@@ -40,7 +40,7 @@ After rigorous assessments by a JASA-certified auditor, Microsoft received the C
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 
 ## Audits, reports, and certificates
 

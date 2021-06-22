@@ -53,7 +53,7 @@ Certifications were granted at Level 3 for Microsoft Azure services (IaaS and Pa
 - PowerApps
 - Power BI
 - Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 
 ## Audits, reports, and certificates
 

@@ -44,7 +44,7 @@ The group determined that implementation of the provisions in Microsoft agreemen
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Cloud service portion of the Intune Add-on Product and Mobile Device Management for Office 365
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 - Azure DevOps Services

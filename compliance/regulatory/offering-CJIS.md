@@ -40,18 +40,36 @@ Learn about the benefits of CJIS Security policy on the Microsoft Cloud: [Read h
 
 ## Microsoft in-scope cloud services
 
-- [Azure Government](/azure/azure-government/documentation-government-welcome)
-- [Dynamics 365 U.S. Government](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365 U.S. Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
+- Azure Government
+- Dynamics 365 U.S. Government
+- Office 365 U.S. Government
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and CJIS
+
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure CJIS offering](/azure/compliance/offerings/offering-cjis).
+
+## Office 365 and CJIS
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| GCC | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Flow, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, PowerBI, SharePoint Online, Skype for Business, Stream |
+
+### Office 365 audits, reports, and certificates
 
 The FBI does not offer certification of Microsoft compliance with CJIS requirements. Instead, a Microsoft attestation is included in agreements between Microsoft and a state's CJIS authority, and between Microsoft and its customers.
 
 [Microsoft CJIS Cloud Requirements](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## CJIS status in the United States (current as of 11/5/2020)
+### CJIS status in the United States (current as of 11/5/2020)
 
 45 states and the District of Columbia with management agreements, highlighted on the map in green include:
 
@@ -59,7 +77,7 @@ Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, 
 
 Microsoft's commitment to meeting the applicable CJIS regulatory controls allows Criminal Justice organizations to implement cloud-based solutions and be compliant with CJIS Security Policy V5.9.
 
-## Frequently asked questions
+### Frequently asked questions
 
 **Where can I request compliance information?**
 
@@ -73,15 +91,14 @@ Microsoft signs an Information Agreement with a state CJIS Systems Agency (CSA);
 
 [CJIS Security Policy](https://aka.ms/cjis-security-policy) covers the precautions that your agency must take to protect CJI. In addition, your Microsoft account representative can put you in touch with those familiar with the requirements of your jurisdiction
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Resources
+### Office 365 resources
 
 - [Criminal Justice Information Services](https://aka.ms/cjis)
 - [CJIS Security Policy](https://aka.ms/cjis-security-policy)
-- [CJIS implementation guidelines for Azure Government](https://aka.ms/cjisimplementationguidelines)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government Cloud](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

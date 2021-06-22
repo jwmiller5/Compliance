@@ -70,7 +70,7 @@ Get practical support for moving data and workloads to Azure in compliance with 
 ## Microsoft in-scope cloud services
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 - Dynamics 365
 
 ## Frequently asked questions

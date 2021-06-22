@@ -36,7 +36,7 @@ Microsoft's consideration of EN 301 549 in the development of products and servi
 - Azure DevOps Services
 - Dynamics 365 and Dynamics 365 U.S. Government
 - Intune
-- [Office 365 and Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365 and Office 365 U.S. Government
 - Office 365 U.S. Government Defense
 - Windows Server 2016
 

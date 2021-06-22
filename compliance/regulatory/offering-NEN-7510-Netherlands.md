@@ -34,7 +34,7 @@ Learn how to accelerate your NEN 7510 deployment with our Azure Security and Com
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 
 ## Audits, reports, and certificates
 

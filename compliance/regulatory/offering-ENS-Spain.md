@@ -39,7 +39,7 @@ Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment
 ## Microsoft in-scope cloud services
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
 
 ## Audits, reports, and certificates
 

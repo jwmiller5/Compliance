@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## ITAR overview
 
-The US Department of State is responsible for managing the export and temporary import of defense articles (meaning any item or technical data designated under the US Munitions List, as described in Title 22 CFR 121.1) that are governed by the Arms Export Control Act (Title 22 USC 2778) and the International Traffic in Arms Regulations (ITAR) (Title 22 CFR 120–130). The Directorate for Defense Trade Controls (DDTC) is responsible for managing entities governed under these programs.
+The US Department of State is responsible for managing the export and temporary import of defense articles (meaning any item or technical data designated under the US Munitions List, as described in Title 22 CFR 121.1) that are governed by the Arms Export Control Act (Title 22 USC 2778) and the International Traffic in Arms Regulations (ITAR) (Title 22 CFR 120-130). The Directorate for Defense Trade Controls (DDTC) is responsible for managing entities governed under these programs.
 
 ## Microsoft and ITAR
 
@@ -38,20 +38,37 @@ Customers seeking to host ITAR-regulated data should work with their Microsoft a
 
 ## Microsoft in-scope cloud services
 
-- [Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure Government
+- Office 365 U.S. Government - High, Office 365 Defense
 
-## Frequently asked questions
+## Azure, Dynamics 365, and ITAR
 
-**Where can I request compliance information?**
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure ITAR offering](/azure/compliance/offerings/offering-itar).
 
-Contact your Microsoft account representative.
+## Office 365 and ITAR
 
-## Resources
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| GCC High | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| DoD | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+
+### Frequently asked questions
+
+**Where can I request Office 365 compliance information for ITAR?**
+
+Contact your Microsoft Office 365 account representative.
+
+### Office 365 resources
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR Title 22 CFR 120–130](https://aka.ms/itar)
-- [Using Azure Government with ITAR controlled data](https://aka.ms/azure-itar-guide)
-- [Azure Government](https://azure.microsoft.com/features/gov/)
 - [Office 365 U.S. Government](https://products.office.com/government/office-365-web-services-for-government)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
