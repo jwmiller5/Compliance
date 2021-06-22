@@ -40,15 +40,29 @@ Microsoft engaged outside assessors to validate that Microsoft Azure, Dynamics 3
 
 Financial institutions can rely on this evaluation of the compliance of these three areas for the in-scope infrastructure and platform services of Azure, Dynamics 365, Office 365, and Microsoft Cloud App Security.
 
-[Learn more about validation of external assessors and links to assessor's sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
+[Learn more about validation of external assessors and links to assessor's sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
 ## Microsoft in-scope cloud services
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
 - Intune
+- Microsoft Cloud App Security
 - Office 365
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+- Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)
+
+## Office 365 and FISC
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI for Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 

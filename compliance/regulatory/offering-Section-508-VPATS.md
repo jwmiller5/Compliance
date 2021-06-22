@@ -32,18 +32,35 @@ Microsoft's consideration of U.S. Section 508 in the development of products and
 
 ## Microsoft in-scope cloud services
 
-- [Azure and Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
+- Azure and Azure Government
 - Azure DevOps Services
 - Dynamics 365 and Dynamics 365 U.S. Government
 - Intune
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense
 - Windows Server 2016
 
-## Microsoft accessibility conformance reports
+## Office 365 and U.S. Section 508
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, Flow, Forms, Kaizala, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 admin portal for Android,Office 365 admin portal for iOS, Office 365 admin portal, Office 365 Advanced Compliance add-on, Office 365 and Azure AD sign-in, Office 365 Business Center, Office 365 Security & Compliance Center, Office 365 Video, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, PowerBI, SharePoint Online, SharePoint, Skype for Business, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
+| GCC | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Flow, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, PowerBI, SharePoint Online, Skype for Business, Stream |
+| GCC High | Azure Active Directory, Exchange Online, Flow, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, PowerBI, SharePoint Online, Skype for Business |
+| DoD | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerBI, SharePoint Online, Skype for Business |
+
+### Microsoft accessibility conformance reports
 
 Find [conformance reports](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/) for all our products and services.
 
-## Resources
+### Office 365 resources
 
 - [Microsoft accessibility page](https://go.microsoft.com/fwlink/p/?linkid=2051579): Explore the ways in which Microsoft innovates so everyone has the ability to achieve more.
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): Office 365 resources for people with disabilities.
