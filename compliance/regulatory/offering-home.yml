@@ -321,6 +321,9 @@ conceptualContent:
         - url: https://www.idw.de/the-idw/about-the-idw
           itemType: reference
           text: IDW PS 951 (Germany)
+        - url: offering-ismap.md
+          itemType: reference
+          text: ISMAP (Japan)          
         - url: /azure/compliance/offerings/offering-korea-k-isms
           itemType: reference
           text: ISMS (Korea)
@@ -336,13 +339,13 @@ conceptualContent:
         - url: offering-mtcs-singapore.md
           itemType: reference
           text: MTCS (Singapore)
-        - url: offering-my-number-act-japan.md
-          itemType: reference
-          text: My Number (Japan)
 
     # Card
     - title: Regional
       links:
+        - url: offering-my-number-act-japan.md
+          itemType: reference
+          text: My Number (Japan)
         - url: offering-nz-cc-framework-nz.md
           itemType: reference
           text: NZ CC Framework (New Zealand)
