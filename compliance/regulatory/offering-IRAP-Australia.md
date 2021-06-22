@@ -40,7 +40,7 @@ In December 2020, Microsoft completed two incremental Azure & Dynamics and Offic
 
 For each assessment, Microsoft engaged an ACSC-accredited IRAP assessor who examined the security controls and processes used by Microsoft's IT operations team, physical datacenters, intrusion detection, cryptography, cross-domain and network security, access control, and information security risk management of in-scope services. The IRAP assessments found that the Microsoft system architecture is based on sound security principles, and that the applicable Australian Government Information Security Manual (ISM) controls are in place and fully effective within our assessed services.
 
-The risk management framework used by the ISM draws from [National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final), 'Risk Management Framework for Information Systems and Organizations: A System Life-Cycle Approach for Security and Privacy.' Within this risk management framework, the identification of risks and selection of security controls can be undertaken using various risk management standards, such as [International Organization for Standardization (ISO) 31000:2018, Risk management - Guidelines](https://www.iso.org/standard/65694.html). Broadly, the risk management framework used by the ISM has six steps:
+The risk management framework used by the ISM draws from [National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final). Within this risk management framework, the identification of risks and selection of security controls can be undertaken using various risk management standards, such as [International Organization for Standardization (ISO) 31000:2018, Risk management - Guidelines](https://www.iso.org/standard/65694.html). Broadly, the risk management framework used by the ISM has six steps:
 
 - Define the system
 - Select security controls
@@ -55,12 +55,30 @@ The IRAP assessment of Microsoft's services and cloud operations helps provide a
 
 ## Microsoft in-scope cloud services
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- Dynamics 365
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- [Office 365](https://aka.ms/Office365ComplianceOfferings)
+- Office 365
 
-## Frequently asked questions
+## Azure, Dynamics 365, and IRAP
+
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure IRAP offering](/azure/compliance/offerings/offering-australia-irap).
+
+## Office 365 and IRAP
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Whiteboard, Yammer |
+
+### Frequently asked questions
 
 **To whom does the IRAP apply?**
 
@@ -74,11 +92,11 @@ Yes. If your organization requires or is seeking an approval to operate in line 
 
 It is recommended that you read the [Cloud Security Assessments](https://www.cyber.gov.au/acsc/government/cloud-security-guidance) guidance from the ACSC.
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Resources
+### Office 365 resources
 
 - [Australian Government ISM](https://acsc.gov.au/infosec/ism/index.htm)
 - [Australia page of the Microsoft Service Trust Portal (STP)](https://aka.ms/au-irap)
