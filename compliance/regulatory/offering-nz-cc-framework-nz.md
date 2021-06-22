@@ -18,9 +18,9 @@ hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
 
-# New Zealand Government Cloud Computing Security and Privacy Considerations
+# New Zealand Government Information Security and Privacy Considerations (ISPC)
 
-## New Zealand Government Cloud Computing Security and Privacy overview
+## New Zealand Government Information Security and Privacy Considerations overview
 
 In October 2015, the New Zealand Government endorsed a revised all-government ICT strategy that reaffirmed its 'cloud first' policy on using information technology across the public sector. The revised strategy retains the 'Cloud Computing Risk and Assurance Framework' that was developed and implemented under the authority of the NZ Government Chief Information Officer (GCIO).
 
@@ -34,12 +34,28 @@ To help agencies undertake their analysis and evaluation of Microsoft enterprise
 
 ## Microsoft in-scope cloud services
 
-- [Azure and Azure Government](https://aka.ms/AzureCompliance)
+- Azure and Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 - Office 365
-- Exchange Online, SharePoint Online, and Microsoft Teams. Microsoft NZ has worked with the GCIO team to develop a reference architecture for integrating Exchange Online and SEEMail.
+- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+
+## Office 365 and ISPC
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Exchange Online, SharePoint Online, Skype for Business |
+
+>[!Note]
+>Microsoft NZ has worked with the GCIO team to develop a reference architecture for integrating Exchange Online and SEEMail described in Office 365: SEEMail Integration and Reference Architecture.
 
 ## Frequently asked questions
 
@@ -59,7 +75,7 @@ If your agency is required to undertake certification and accreditation of its I
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## Microsoft responses to 'Cloud Computing IPSC'
+## Microsoft responses to Cloud Computing IPSC
 
 - [Azure](https://aka.ms/Azure-NZ-response)
 - [Intune](https://aka.ms/Intune-NZ-response)

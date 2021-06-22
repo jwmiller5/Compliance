@@ -38,8 +38,22 @@ Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment
 
 ## Microsoft in-scope cloud services
 
-- [Azure and Azure Government](https://aka.ms/AzureCompliance)
+- Azure and Azure Government
 - Office 365
+
+## Office 365 and ENS High
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

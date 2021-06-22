@@ -38,14 +38,28 @@ The appointment of Microsoft services to the Digital Marketplace means that UK g
 
 ## Microsoft in-scope cloud services
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- Office 365: Exchange Online, SharePoint Online, and Skype for Business Online
-- PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+- Office 365
+- Power Automate (formerly Microsoft Flow) cloud service (either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite)
+- PowerApps cloud service (either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite)
+- Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)
+
+## Office 365 and UK G-Cloud
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Exchange Online, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 
