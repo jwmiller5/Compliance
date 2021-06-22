@@ -1,6 +1,6 @@
 ---
 title: Information System Security Management and Assessment Program (ISMAP)
-description: Microsoft has controls that meet the requirements of Information System Security Management and Assessment Program (ISMAP).
+description: Microsoft has controls that meet the requirements of the Information System Security Management and Assessment Program (ISMAP).
 keywords: Microsoft 365, compliance, offerings
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
