@@ -33,7 +33,7 @@ Similarly, the California Consumer Privacy Act (CCPA), provides privacy rights a
 
 The guide discusses how to use Microsoft products, services, and administrative tools to help our controller customers find and act on personal data to respond to DSRs. Specifically, this includes how to find, access, and act on personal data in the Windows diagnostic data collected by Microsoft when the Windows diagnostic data processor configuration is enabled. Here’s a quick overview of the processes outlined in this guide:
 
-1. **Access**—Retrieve Windows diagnostic data associated with a data subject, and if requested, make a copy of it that can be available to the data subject.
+1. **Access**—Retrieve Windows diagnostic data associated with a data subject and if requested, make a copy of it that can be available to the data subject.
 2. **Delete**—Permanently remove Windows diagnostic data associated with a data subject.
 3. **Export**—Provide an electronic copy (in a machine-readable format) of Windows diagnostic data to the data subject.
 
