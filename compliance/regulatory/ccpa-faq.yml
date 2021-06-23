@@ -92,7 +92,7 @@ sections:
           To take advantage of the first two exemptions, businesses will have to ensure that the transfers are governed by written contracts containing the specific terms required by the CCPA.
           
       - question: |
-          What do *Businesses* and *Service Providers* mean in the context of CCPA?
+          What do 'Businesses' and 'Service Providers' mean in the context of CCPA?
         answer: |
           In the context of CCPA, Businesses are individuals or entities that determine the purposes and means of the processing of consumer's personal data, and Service Providers are individuals or entities that process information on behalf of a business. These are broadly synonymous with the terms *Controllers* and *Processors* used in GDPR.
 
@@ -128,7 +128,7 @@ sections:
           The biggest difference in CCPA is the core requirement to enable an opt-out from sales of data to third parties (with 'sale” broadly defined to include sharing of data for valuable consideration). This is a narrower and more specific obligation than the broad GDPR right to object to processing, which encompasses this type of 'sale,” but is not specifically limited to covering this type of sharing.
           
       - question: |
-          What are *Processors* and *Controllers*?
+          What are 'Processors' and 'Controllers'?
         answer: |
           A controller is a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data. A processor is a natural or legal person, public authority, agency, or other body that processes personal data on behalf of the controller.
 
