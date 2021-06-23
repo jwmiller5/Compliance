@@ -44,7 +44,7 @@ Services for which Microsoft agrees to be designated as a 'school official' with
 
 - Azure
 - Azure DevOps Services
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government - High, and Office 365 U.S. Government Defense
 

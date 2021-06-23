@@ -45,7 +45,7 @@ Therefore, Microsoft business cloud services support My Number Act requirements 
 ## Microsoft in-scope cloud services
 
 - Azure
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
 

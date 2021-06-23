@@ -37,7 +37,7 @@ Achieving this ABS OSPAR attestation demonstrates that the set of security contr
 ## Microsoft and in-scope cloud services
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Microsoft Cloud App Security
 - Microsoft Graph

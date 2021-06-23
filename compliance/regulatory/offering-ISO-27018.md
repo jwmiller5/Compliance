@@ -41,7 +41,7 @@ By following the standards of ISO/IEC 27001 and the code of practice embodied in
 
 - Azure, Azure Government, and Azure Germany
 - Azure DevOps Services
-- Dynamics 365, Dynamics 365, and Dynamics 365 Germany
+- [Dynamics 365, Dynamics 365, and Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
 - Intune
 - Microsoft Cloud App Security
 - Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for medium business and enterprise customers of Microsoft 365 for business

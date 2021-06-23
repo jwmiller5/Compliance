@@ -40,7 +40,7 @@ The group determined that implementation of the provisions in Microsoft agreemen
 
 - Azure and Azure Government
 - Azure DevOps Services
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Cloud service portion of the Intune Add-on Product and Mobile Device Management for Office 365
 - Microsoft Cloud App Security
 - Microsoft Defender for Endpoint for the following cloud service portions: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score.

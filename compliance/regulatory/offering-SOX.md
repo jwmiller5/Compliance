@@ -39,7 +39,7 @@ At Microsoft, we share the responsibility of compliance with our customers. We s
 ## Microsoft in-scope cloud services
 
 - Azure
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
 - Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)

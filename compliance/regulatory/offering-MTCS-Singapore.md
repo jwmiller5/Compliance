@@ -42,7 +42,7 @@ Certifications were granted at Level 3 for Microsoft Azure services (IaaS and Pa
 ## Microsoft in-scope cloud services
 
 - Azure
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
 - Intune
 - Microsoft Cloud App Security

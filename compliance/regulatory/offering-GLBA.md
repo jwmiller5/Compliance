@@ -38,7 +38,7 @@ Microsoft has developed risk assessment tools for both [Azure](https://servicetr
 ## Microsoft in-scope cloud services
 
 - Azure
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365, Office 365 U.S. Government
 - Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)

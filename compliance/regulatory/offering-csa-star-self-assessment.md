@@ -42,7 +42,7 @@ As part of the STAR Self-Assessment, CSPs can submit two different types of docu
 ## Microsoft in-scope cloud services
 
 - Azure and Azure Government
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Office 365
 
 ## Azure, Dynamics 365, and CSA STAR self-assessment

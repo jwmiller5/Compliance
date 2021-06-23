@@ -70,7 +70,7 @@ Get practical support for moving data and workloads to Azure in compliance with 
 ## Microsoft in-scope cloud services
 
 - Azure
-- Dynamics 365
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Office 365
 
 ## Office 365 and APRA
