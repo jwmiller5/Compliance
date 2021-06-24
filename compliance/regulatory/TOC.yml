@@ -275,7 +275,7 @@
           href: gdpr-dsr-office365.md
         - name: Visual Studio family
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dsr-windows.md
     - name: Breach notification
       items: 
@@ -299,7 +299,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dpia-windows.md
     - name: GDPR for on-premises Office servers
       items: 
