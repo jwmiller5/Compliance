@@ -90,8 +90,6 @@ Microsoft also provides the ability to delete users, which in turn will delete W
 >[!IMPORTANT]
 >Deleting collected data does not stop further collection from the device. To turn off data collection follow the procedure described in the [respective service's reference documentation](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management).
 
- Additionally, user-based delete requests require deleting the user account itself.
-
 ### Step 3: Export
 
 The tenant administrator is the only person within your organization who can access Windows diagnostic data associated with a particular user's use of a device enabled with the Windows diagnostic data processor configuration. The data retrieved for an export request will be provided in a machine-readable format and will be provided in files that will allow the user to know which devices and services the data is associated with. As noted previously, the data retrieved will not include data that may compromise the security or stability of the Windows device. [Azure DSR, Part 2, Step 3: Export](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export), describes how to execute a DSR export request for Windows diagnostic data through the Azure portal.
