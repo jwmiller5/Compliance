@@ -74,7 +74,7 @@ No matter the size of your organization and whether it is a controller or a proc
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (formerly Microsoft Flow)
+- Power Automate
 - PowerApps
 - Power BI
 - Power BI Embedded
