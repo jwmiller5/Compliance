@@ -1,5 +1,5 @@
 ---
-title: Personal Data Protection Act (PDPA) Argentina
+title: Argentina Personal Data Protection Act (PDPA) 
 description: Microsoft business cloud services comply with PDPA standards for protecting the privacy of personal information.
 keywords: Microsoft 365, compliance, offerings
 localization_priority: Priority
@@ -18,7 +18,7 @@ hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
 
-# Personal Data Protection Act (PDPA) Argentina
+# Argentina Personal Data Protection Act (PDPA)
 
 ## About the PDPA
 
@@ -40,7 +40,21 @@ The Microsoft data-transfer agreement is an amendment (Amendment ID M314) to the
 
 - [Azure & Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## Office 365 and the PDPA
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive for Business, Planner, Power Apps, Power BI for Office 365, PowerApps, Power Automate, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## How to implement
 

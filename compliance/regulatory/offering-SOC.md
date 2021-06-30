@@ -51,7 +51,7 @@ Microsoft has achieved SOC 1 Type 2, SOC 2 Type 2, and SOC 3 reports. In general
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 - Microsoft Stream
@@ -66,7 +66,7 @@ Microsoft has achieved SOC 1 Type 2, SOC 2 Type 2, and SOC 3 reports. In general
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense
 - Power BI
 - Microsoft Stream
 
@@ -76,7 +76,7 @@ Microsoft has achieved SOC 1 Type 2, SOC 2 Type 2, and SOC 3 reports. In general
 
 Microsoft cloud services are audited at least annually against SOC 1 (SSAE18, ISAE 3402), SOC 2 (AT Section 101), and SOC 3 standards.
 
-#### Azure, Dynamics 365, Microsoft Cloud App Security, Flow, Microsoft Graph, Intune, Power BI, PowerApps, Microsoft Stream, and Microsoft Datacenters
+#### Azure, Dynamics 365, Microsoft Cloud App Security, Microsoft Graph, Intune, Power BI, PowerApps, Power Automate, Microsoft Stream, and Microsoft Datacenters
 
 - [Azure + Dynamics 365 and Azure + Dynamics 365 Government SOC 1 Type 2 Report](https://aka.ms/azuresoc1auditreport)
 - [Azure + Dynamics 365 and Azure + Dynamics 365 Government SOC 2 Type 2 Report](https://aka.ms/azuresoc2auditreport)
@@ -104,7 +104,7 @@ With the reports, your auditors can compare Microsoft business cloud services re
 
 **How often are Azure SOC reports issued?**
 
-SOC reports for Azure, Microsoft Cloud App Security, Flow, Microsoft Graph, Intune, Power BI, PowerApps, Microsoft Stream, and Microsoft Datacenters are based on a rolling 12-month run window (audit period) with new reports issued semi-annually (period ends are March 31 and September 30). Bridge letters are issued each quarter to cover the prior three month period. For example, the January letter covers 10/1-12/31, the April letter covers 1/1-3/31, the July letter covers 4/1-6/30, and the October letter covers 7/1-9/30. Customers can [download](https://aka.ms/stp) the latest reports from the Service Trust Portal.
+SOC reports for Azure, Microsoft Cloud App Security, Microsoft Graph, Intune, Power BI, PowerApps, Power Automate, Microsoft Stream, and Microsoft Datacenters are based on a rolling 12-month run window (audit period) with new reports issued semi-annually (period ends are March 31 and September 30). Bridge letters are issued each quarter to cover the prior three month period. For example, the January letter covers 10/1-12/31, the April letter covers 1/1-3/31, the July letter covers 4/1-6/30, and the October letter covers 7/1-9/30. Customers can [download](https://aka.ms/stp) the latest reports from the Service Trust Portal.
 
 **Do I need to conduct my own audit of Microsoft datacenters?**
 

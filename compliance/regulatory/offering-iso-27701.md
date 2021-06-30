@@ -69,12 +69,12 @@ No matter the size of your organization and whether it is a controller or a proc
 - Azure, Azure Government, and Azure Germany
 - Azure DevOps Services
 - Microsoft Cloud App Security
-- Dynamics 365, Dynamics 365 Government, and Dynamics 365 Germany
+- [Dynamics 365, Dynamics 365, and Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (formerly Microsoft Flow)
+- Power Automate
 - PowerApps
 - Power BI
 - Power BI Embedded
