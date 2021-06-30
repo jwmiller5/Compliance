@@ -302,9 +302,6 @@ conceptualContent:
         - url: offering-eu-model-clauses.md
           itemType: reference
           text: EU Model Clauses
-        - url: offering-eu-us-privacy-shield.md
-          itemType: reference
-          text: EU-US Privacy Shield
         - url: https://www.trustcenter.cn/compliance/default.html#GB18030
           itemType: reference
           text: GB 18030 (China)
