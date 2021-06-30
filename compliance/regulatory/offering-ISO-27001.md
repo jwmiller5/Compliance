@@ -87,7 +87,8 @@ Office 365 cloud services are audited at least annually against the ISO 27001:20
 
 ### Office 365 assessments and reports
 
-- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://aka.ms/o365isoreport)
+- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
+- [Office 365: ISO 27001, 27018, and 27017 Statement of Authority (SOA)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 - [Office 365: Information Security Management System (ISMS)—Statement Of Applicability for Security and Privacy](https://aka.ms/o365isosoa)
 - [Office 365 Germany: ISO 27001, 27017, and 27018 Audit Assessment Report](https://aka.ms/o365gerisoaudit)
 - [Yammer: ISO27001 Audit Assessment Report](https://aka.ms/yammeriso)
