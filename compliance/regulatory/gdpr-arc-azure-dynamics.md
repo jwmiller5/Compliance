@@ -24,7 +24,7 @@ ms.custom: seo-marvel-apr2020
 
 To support the General Data Protection Regulation (GDPR) when using Microsoft Azure and Dynamics 365, use the set of privacy and security controls for personal data processors:
 
-- [ISO/IEC 27701](https://shop.bsigroup.com/ProductDetail?pid=000000000030351736) for privacy management requirements
-- [ISO/IEC 27001](https://shop.bsigroup.com/ProductDetail?pid=000000000030347472) for security techniques requirements
+- [ISO/IEC 27701](https://www.iso.org/standard/71670.html) standard for privacy management requirements
+- [ISO/IEC 27001](https://www.iso.org/standard/54534.html) standard for security techniques requirements
 
-Microsoft Azure and Dynamics 365 services are [certified](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) to [ISO 27701 (PIMS)](offering-iso-27701.md).
+Microsoft Azure and Dynamics 365 services are [certified](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=4e5d7afb-2cee-4704-95cc-bb8c95a8e52a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) to [ISO 27701 (PIMS)](offering-iso-27701.md).
