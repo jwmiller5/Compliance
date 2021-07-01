@@ -36,34 +36,52 @@ To further help you comply with FFIEC requirements, Microsoft cloud services pro
 
 ## Microsoft in-scope cloud services
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+- Office 365, Office 365 U.S. Government
+- Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and FFIEC
 
-Azure and Office 365 SOC attestation reports.
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure FFIEC offering](/azure/compliance/offerings/offering-ffiec-us).
 
-## Frequently asked questions
+## Office 365 and FFIEC
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office 365 Video, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| GCC | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+
+### Office 365 audits, reports, and certificates
+
+See the Office 365 SOC attestation reports.
+
+### Frequently asked questions
 
 **Can I use Microsoft compliance with SOC standards to meet the FFIEC compliance obligations for my institution?**
 
 To help you meet these obligations, Microsoft supplies the specifics about our compliance with SOC standards as described above. However, ultimately, it is up to you to determine whether our services comply with the specific laws and regulations applicable to your institution. The FFIEC also advises that 'users of audit reports or reviews should not rely solely on the information contained in the report to verify the internal control environment of the TSP. They should use other verification and monitoring procedures as discussed more fully in the [Outsourcing Technology Booklet](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) of the FFIEC IT Examination Handbook.'
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Resources
+### Office 365 resources
 
 - [Federal Financial Institutions Examination Council (FFIEC)](https://www.ffiec.gov/)
 - [Compliance Map of Cloud Computing and Regulatory Principles in the US](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [FFIEC Audit IT Examination Handbook](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
 - [FFIEC Outsourcing Technology Services IT Examination Handbook](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
-- [Azure Security and Compliance FFIEC Financial Services Blueprint](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
 
-## Other Microsoft resources for financial services
+### Other Microsoft resources for financial services
 
 - [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)

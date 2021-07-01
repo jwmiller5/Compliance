@@ -39,20 +39,31 @@ STAR provides three levels of assurance; CSA-STAR Self-Assessment is the introdu
 
 As part of the STAR Self-Assessment, CSPs can submit two different types of documents to indicate their compliance with CSA best practices: a completed CAIQ, or a report documenting compliance with CCM. For the CSA STAR Self-Assessment, Microsoft publishes both a CAIQ and a CCM-based report for Microsoft Azure, and CCM-based reports for Microsoft Dynamics 365 and Microsoft Office 365.  
 
-Learn how to accelerate your CSA STAR Self-Assessment deployment with our Azure Security and Compliance Blueprint: [Download Azure response to the CSA Consensus Assessments](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
-
 ## Microsoft in-scope cloud services
 
-- [Azure and Azure Government](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365 CSA STAR Self-Assessment](https://cloudsecurityalliance.org/star/registry/microsoft/)
+- Azure and Azure Government
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and CSA STAR self-assessment
 
-- [Azure standard response for request for information](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7ca8423-1bc5-4be0-bff8-b6056f87c134&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ%20and%20White%20Papers)
-- [Azure Cloud Security Alliance CAIQ](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a966a424-ecfd-4de2-9739-b08aee2d3ca0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)
-- [Azure responses to the CSA CAIQ v3.0.1](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure CSA STAR self-assessment offering](/azure/compliance/offerings/offering-csa-star-self-assessment).
 
-## Frequently asked questions
+## Office 365 and CSA STAR self-assessment
+
+### Office 365 cloud environments
+
+[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365 |Exchange Online, Exchange Online Protection, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business,SharePoint Online, Skype for Business |
+
+### Frequently asked questions
 
 **Which industry standards does the CSA CCM align with?**
 
@@ -62,21 +73,14 @@ The CCM corresponds to industry-accepted security standards, regulations, and co
 
 It enables CSPs to document compliance with CSA published best practices in a transparent manner. Self-assessment reports are publicly available, thereby helping cloud customers gain visibility into the security practices of CSPs, and compare various CSPs using the same baseline.
 
-**Which CSA STAR levels of assurance have Microsoft business cloud services attained?**
+**Which CSA STAR levels of assurance has Office 365 attained?**
 
-- **Level 1**: **CSA STAR Self-Assessment**: Azure, Dynamics 365, and Office 365. The Self-Assessment is a complimentary offering from cloud service providers to document their security controls to help customers assess the security of the service.
-- **Level 2**: **CSA STAR Certification**: Azure, Microsoft Cloud App Security, Intune, and Power BI. STAR Certification is based on achieving ISO/IEC 27001 certification and meeting criteria specified in the CCM. It is awarded after a rigorous third-party assessment of the security controls and practices of a cloud service provider.
-- **Level 2**: **CSA STAR Attestation**: Azure and Intune. CSA and the AICPA have collaborated to provide guidelines for CPAs to use in conducting SOC 2 engagements, using criteria from the AICPA (Trust Service Principles, AT 101) and the CSA CCM. STAR Attestation is based on these guidelines and is awarded after rigorous independent assessments of cloud providers.
+- **Level 1**: **CSA STAR Self-Assessment**: a complimentary offering from cloud service providers to document their security controls to help customers assess the security of the service.
 
-## Resources
+### Office 365 Resources
 
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA Security, Trust & Assurance Registry (STAR)](https://cloudsecurityalliance.org/star/)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-
-## Microsoft CSA STAR self-assessments
-
-- [Azure](https://aka.ms/Azure_STAR)
-- [Dynamics 365](https://aka.ms/DynamicsCRM_Online_STAR)
