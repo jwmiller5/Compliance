@@ -39,15 +39,14 @@
   items:
     - name: Encryption and key management overview
       href: assurance-encryption.md
+    - name: Cloud encryption
+      href: /microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json      
     - name: Azure at-rest encryption
       href: /azure/security/fundamentals/encryption-atrest?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Azure encryption
       href: /azure/security/fundamentals/encryption-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: BitLocker and Distributed Key Manager (DKM) for encryption
       href: /microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-
-    - name: Cloud encryption
-      href: /microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online email connections security
       href: /microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online email secrets security
@@ -108,7 +107,7 @@
       href: assurance-sim-preparation.md
     - name: Phase 2 - Detection and analysis
       href: assurance-sim-detection-analysis.md
-    - name: Phase 3  - Containment, eradication, recovery
+    - name: Phase 3 - Containment, eradication, recovery
       href: assurance-sim-containment-eradication-recovery.md
     - name: Phase 4 - Post-incident activity
       href: assurance-sim-post-incident-activity.md
@@ -134,6 +133,8 @@
       href: /azure/security/fundamentals/protection-customer-data?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online data deletion
       href: assurance-exchange-online-data-deletion.md
+    - name: SharePoint Online data deletion
+      href: assurance-sharepoint-online-data-deletion.md      
     - name: Microsoft 365 data destruction
       href: assurance-data-destruction.md
     - name: Microsoft 365 data immutability
@@ -142,8 +143,6 @@
       href: /microsoft-365/enterprise/o365-data-locations?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Microsoft 365 data retention, deletion, and destruction
       href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: SharePoint Online data deletion
-      href: assurance-sharepoint-online-data-deletion.md
     - name: Create a data classification framework
       href: assurance-create-data-classification-framework.md      
     - name: Data classification and sensitivity labels
@@ -159,6 +158,8 @@
       href: /azure/security/fundamentals/infrastructure-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online data resiliency
       href: assurance-exchange-data-resiliency.md
+    - name: SharePoint & OneDrive data resiliency
+      href: assurance-sharepoint-onedrive-data-resiliency.md      
     - name: Microsoft 365 data corruption
       href: assurance-dealing-with-data-corruption.md
     - name: Microsoft 365 data monitoring & self-healing
@@ -181,8 +182,6 @@
           href: assurance-ebcm-plan-rehearsal-and-user-training.md
         - name: Service incident mitigation strategies
           href: assurance-microsoft-365-mitigations.md
-    - name: SharePoint & OneDrive data resiliency
-      href: assurance-sharepoint-onedrive-data-resiliency.md
 
 - name: Risk management
   items:
