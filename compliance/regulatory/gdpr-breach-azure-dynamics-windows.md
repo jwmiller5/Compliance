@@ -35,7 +35,7 @@ Microsoft does not monitor for or respond to security incidents within the custo
 
 Azure responds to a potential data breach according to the security incident response process, which is a subset of the Microsoft Azure incident management plan. Microsoft's Azure security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below:
 
-|**Stage**|**Description**|
+| Stage | Description |
 |:------- |------------- |
 | ***1: Detect*** | First indication of a potential incident. |
 | ***2: Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
