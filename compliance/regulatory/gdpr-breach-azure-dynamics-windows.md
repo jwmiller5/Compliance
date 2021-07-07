@@ -1,5 +1,5 @@
 ---
-title: Azure and Dynamics 365 breach notification under the GDPR
+title: Azure, Dynamics 365, and Windows breach notification under the GDPR
 description: How Azure and Dynamics 365 protect against a personal data breach and how Microsoft responds and notifies you if a breach occurs.
 keywords: Azure, Microsoft 365, Dynamics 365, Microsoft 365 documentation, GDPR
 localization_priority: Priority
@@ -19,7 +19,7 @@ titleSuffix: Microsoft GDPR
 hideEdit: true
 ---
 
-# Azure and Dynamics 365 breach notification under the GDPR
+# Azure, Dynamics 365, and Windows breach notification under the GDPR
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These measures include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
 
@@ -35,7 +35,7 @@ Microsoft does not monitor for or respond to security incidents within the custo
 
 Azure responds to a potential data breach according to the security incident response process, which is a subset of the Microsoft Azure incident management plan. Microsoft's Azure security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below:
 
-|**Stage**|**Description**|
+| Stage | Description |
 |:------- |------------- |
 | ***1: Detect*** | First indication of a potential incident. |
 | ***2: Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
@@ -91,6 +91,12 @@ The Microsoft Azure or Azure Government team may also elect to notify other Micr
 Microsoft Dynamics 365 takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data. In addition, Dynamics 365 provides efficient data access and collaboration with data integrity and privacy in the following areas: [secure identity, data protection, role based security, and threat management](https://www.microsoft.com/trustcenter/security/dynamics365-security).
 
 The Microsoft Dynamics 365 offering follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to Microsoft Dynamics 365 as well.
+
+## Windows Diagnostic Data Processor Configuration
+
+The [Windows diagnostic data processor configuration](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.
+
+It follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to the Windows diagnostic data processor configuration as well.
 
 ## Learn more
 

@@ -1,5 +1,5 @@
 ---
-title: Azure and Dynamics 365 accountability readiness checklist for the GDPR
+title: Azure, Dynamics 365, and Windows accountability readiness checklist for the GDPR
 description: Provides a convenient way to access information you may need to support GDPR when using Microsoft Azure.
 keywords: ARC Azure, Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
 localization_priority: Priority
@@ -20,11 +20,13 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ---
 
-# Azure and Dynamics 365 accountability readiness checklist for the GDPR
+# Azure, Dynamics 365, and Windows accountability readiness checklist for the GDPR
 
 To support the General Data Protection Regulation (GDPR) when using Microsoft Azure and Dynamics 365, use the set of privacy and security controls for personal data processors:
 
 - [ISO/IEC 27701](https://www.iso.org/standard/71670.html) standard for privacy management requirements
 - [ISO/IEC 27001](https://www.iso.org/standard/54534.html) standard for security techniques requirements
 
-Microsoft Azure and Dynamics 365 services are [certified](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=4e5d7afb-2cee-4704-95cc-bb8c95a8e52a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) to [ISO 27701 (PIMS)](offering-iso-27701.md).
+Microsoft Azure and Dynamics 365 services are [certified](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) to [ISO 27701 (PIMS)](offering-iso-27701.md).
+
+The [Windows diagnostic data processor configuration](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) follows the same set of privacy and security controls as referenced above.
