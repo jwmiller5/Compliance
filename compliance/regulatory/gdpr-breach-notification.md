@@ -55,12 +55,12 @@ Details regarding breach notification for specific Microsoft products and servic
 
     A customer may become aware of a breach and wish to contact Microsoft. In this case, notify Microsoft Support, which will then interface with engineering teams for more information.
 
-2. **[Azure & Dynamics 365](gdpr-breach-azure-dynamics.md)**  
-    Microsoft has a global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure and Dynamics 365.
+2. **[Azure, Dynamics 365 & Windows](gdpr-breach-azure-dynamics-windows.md)**
+    Microsoft has a global, 24x7 incident response service that works to mitigate the effects of attacks against Microsoft Azure, Dynamics 365 and Windows diagnostic data processor configuration.
 
     - *Detection of Breaches*: Since both Microsoft and the customer have security obligations, Azure services employ a shared responsibility model to define security and operational accountabilities. Microsoft does not monitor or respond to security incidents within the customer's realm of responsibility. Customer incident response may involve collaboration with Azure [customer support](https://azure.microsoft.com/support/options/), given appropriate service contracts. Microsoft Azure also offers various services (for example, [Azure Security Center](https://azure.microsoft.com/services/security-center/)) that customers can utilize for developing and managing security incident response.
 
-        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches). [Azure and Breach Notification under the GDPR](gdpr-breach-azure-dynamics.md) further details how Microsoft investigates, manages, and responds to security incidents within Azure.
+        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches). [Azure and Breach Notification under the GDPR](gdpr-breach-azure-dynamics-windows.md) further details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
     - *Data Breach Response*: Microsoft determines appropriate priority and severity levels of a breach by investigating the functional impact, recoverability, and information impact of the incident. Priority and severity may change over the course of the investigation, based on new findings and conclusions.
     Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response).
