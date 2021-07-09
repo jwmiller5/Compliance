@@ -207,9 +207,9 @@ For information on DSR for the IIS.NET website, see [The IIS.NET Website and GDP
 
 ## Other Visual Studio Family Services
 
-### SurveyMonkey
+### Survey Monkey
 
-From time to time, we invite customers to provide feedback on these products via SurveyMonkey. This data is deleted from Survey Monkey within 28 days. Microsoft may retain this data internally for up to 18 months. If survey responses are authenticated, then we include them in export and delete data subject requests when servicing data subject requests for these products.
+From time to time, we invite customers to provide feedback on these products via Survey Monkey. This data is deleted from Survey Monkey within 28 days. Microsoft may retain this data internally for up to 18 months. If survey responses are authenticated, then we include them in export and delete data subject requests when servicing data subject requests for these products.
 
 ## Learn more
 
