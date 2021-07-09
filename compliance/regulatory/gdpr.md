@@ -289,13 +289,13 @@ Personal data is any information relating to an identified or identifiable perso
 - Physical, physiological, or genetic information
 - Medical information
 - Cultural identity
-- Bank details / account numbers
+- Bank details/account numbers
 - Tax file number
 - Work address
 - Credit/Debit card numbers
 - Social media posts
 - IP address (EU region)
-- Location / GPS data
+- Location/GPS data
 - Cookies
 
 **Am I allowed to transfer data outside of the EU?**
