@@ -37,13 +37,13 @@ Background checks on employment candidates generally include review of the follo
 - Sex offender registry review
 - Global sanctions list review
 
-## What additional checks are performed for those who manage cloud services?
+## What additional checks are performed for employees that manage cloud services?
 
 In addition to pre-employment screening, Microsoft employees who maintain Microsoft online services in the United States must undergo a Microsoft Cloud Background Check as a prerequisite for access to online services systems. The requirements of background check vary to comply with applicable laws and service delivery models. The results from the Microsoft Cloud Background Check are stored in our employee database and must be renewed every two years at a minimum. If the Microsoft Cloud Background Check expires and the employee does not renew it, access to online services is revoked and no longer available until the Microsoft Cloud Background Check is completed. Likewise, when the employment relationship with Microsoft ends, all access is immediately revoked.
 
-## How does Microsoft ensure employees maintain sufficient skillset and knowledge to perform their responsibilities and follow Microsoft policies?
+## How does Microsoft ensure employees maintain sufficient skills and knowledge to perform their responsibilities and follow Microsoft policies?
 
-All Microsoft employees are required to complete basic security awareness training. Initial training occurs when a new employee begins working at Microsoft, and annual refresher training takes place every year thereafter. The training is designed to provide the employee with an understanding of Microsoft's fundamental approach to security. Applicable role-based security training is also required prior to granting any specific access needed for an individual's job responsibilities. Microsoft employees' security training is refreshed on an annual basis, as well as when system or policy changes warrant new training.
+All Microsoft employees are required to complete basic security awareness training. Initial training occurs when a new employee begins working at Microsoft, and annual refresher training takes place every year thereafter. The training is designed to provide the employee with an understanding of Microsoft's fundamental approach to security. Applicable role-based security training is also required prior to granting any specific access needed for an individual's job responsibilities. Microsoft employees' security training is refreshed on an annual basis, and when system or policy changes warrant new training.
 
 In addition to security awareness training, Microsoft employees must complete Standards of Business Conduct training. This training includes business ethics, employee safety, privacy, anti-harassment, and zero tolerance for non-ethical behavior. At the end of the course, employees must attest that they will abide by the Microsoft code of business conduct, which is tracked at the organization level. The Standards of Business Conduct training is refreshed on an annual basis.
 

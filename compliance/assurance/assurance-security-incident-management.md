@@ -45,7 +45,7 @@ Microsoft's approach to managing a security incident conforms to [National Insti
 | Microsoft security response teams | Independent Azure, Dynamics 365, and Microsoft 365 security teams that partner with service teams to build the appropriate security incident management process and to drive any security incident response. |
 | Microsoft Governance, Risk, and Compliance (GRC) teams | Provide guidance on regulatory requirements, compliance, and privacy. |
 | Service teams | Engineering teams for Azure, Dynamics 365, Microsoft 365 that are responsible for security-related policies and decisions for each service. |
-| Azure operations managers | Oversees the investigation and resolution of Azure related security and privacy incidents. |
+| Azure operations managers | Oversees the investigation and resolution of Azure-related security and privacy incidents. |
 | Microsoft Threat Intelligence Center (MSTIC) | Provides the current state of art in digital security threats against Microsoft infrastructure and assets, helps partner teams inside Microsoft prioritize mitigation and prevention effort action plans, and increases protection by adopting near real-time incident monitoring/detection. |
 | Customer experience communication teams | Engineering teams responsible for all customer communications about security and service incidents. Separate teams are dedicated to Azure, Dynamics 365, and Microsoft 365. |
 

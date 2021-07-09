@@ -23,7 +23,7 @@ hideEdit: true
 
 # Microsoft security incident management: Detection and analysis
 
-To detect malicious activity, each of Microsoft's online services centrally log security events and other data and perform various analytical techniques to find anomalous or suspicious activity. Log files are collected from Microsoft online services servers and infrastructure devices and stored in central and consolidated databases.
+To detect malicious activity, each of Microsoft's online services centrally logs security events and other data and perform various analytical techniques to find anomalous or suspicious activity. Log files are collected from Microsoft online services servers and infrastructure devices and stored in central and consolidated databases.
 
 Microsoft takes a risk-based approach to detecting malicious activity. We use incident data and threat intelligence to define and prioritize our detections.
 
