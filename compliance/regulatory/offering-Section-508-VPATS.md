@@ -43,7 +43,7 @@ Microsoft's consideration of U.S. Section 508 in the development of products and
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -60,7 +60,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 Find [conformance reports](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/) for all our products and services.
 
-### Office 365 resources
+### Resources
 
 - [Microsoft accessibility page](https://go.microsoft.com/fwlink/p/?linkid=2051579): Explore the ways in which Microsoft innovates so everyone has the ability to achieve more.
 - [Office 365 Accessibility Center](https://go.microsoft.com/fwlink/p/?linkid=2051801): Office 365 resources for people with disabilities.

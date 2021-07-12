@@ -60,18 +60,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-Microsoft Office 365 is a multi-tenant hyperscale cloud platform and an integrated experience of apps and services available to customers in several regions worldwide. Most Office 365 services enable customers to specify the region where their customer data is located. Microsoft may replicate customer data to other regions within the same geographic area (for example, the United States) for data resiliency, but Microsoft will not replicate customer data outside the chosen geographic area.
-
-This section covers the following Office 365 cloud environments:
-
-- **Office 365**: the commercial public Office 365 cloud service available globally.
-- **Office 365 Government Community Cloud (GCC)**: the [Office 365 GCC cloud service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) is available for United States Federal, State, Local, and Tribal governments, as well as contractors holding or processing data on behalf of the US Government.
-- **Office 365 Government Community Cloud - High (GCC High)**: the [Office 365 GCC High cloud service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) is designed according to Department of Defense (DoD) Security Requirements Guidelines Level 4 controls and supports strictly regulated federal and defense information. This environment is used by federal agencies, the Defense Industrial Base (DIBs), and government contractors.
-- **Office 365 DoD (DoD)**: the [Office 365 DoD cloud service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) is designed according to DoD Security Requirements Guidelines Level 5 controls and supports strict federal and defense regulations. This environment is for the exclusive use by the US Department of Defense.
-
-Use this section to help meet your compliance obligations across regulated industries and global markets. To find out which services are available in which regions, see the [International availability information](https://products.office.com/business/international-availability) and the [Where your Microsoft 365 customer data is stored](/microsoft-365/enterprise/o365-data-locations) article. For more information about Office 365 Government cloud environment, see the [Office 365 Government Cloud](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) article.
-
-Your organization is wholly responsible for ensuring compliance with all applicable laws and regulations. Information provided in this section does not constitute legal advice and you should consult legal advisors for any questions regarding regulatory compliance for your organization.
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -104,7 +93,7 @@ SOC reports for Office 365 and other online services are based on a rolling 12-m
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-### Office 365 resources
+### Resources
 
 - [Service Trust Portal audit reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
 - [AICPA SOC for Service Organizations](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)

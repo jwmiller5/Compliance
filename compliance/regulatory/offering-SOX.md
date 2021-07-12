@@ -52,7 +52,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -76,7 +76,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 When you migrate your applications and data to covered Microsoft cloud services, you can build on the attestations and certifications that Microsoft holds. Independent auditor reports attest to the effectiveness of controls that Microsoft has implemented to help maintain the security and privacy of your data. However, you are wholly responsible for ensuring your organization's compliance with all applicable laws and regulations.
 
-### Office 365 resources
+### Resources
 
 - [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)

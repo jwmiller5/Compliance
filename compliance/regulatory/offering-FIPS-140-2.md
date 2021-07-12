@@ -48,7 +48,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -92,7 +92,7 @@ To comply with FIPS 140-2, your system must be configured to run in a FIPS appro
 
 These are two separate security standards with different, but complementary, purposes. FIPS 140-2 is designed specifically for validating software and hardware cryptographic modules, while the Common Criteria is designed to evaluate security functions in IT software and hardware products. Common Criteria evaluations often rely on FIPS 140-2 validations to provide assurance that basic cryptographic functionality is implemented properly.
 
-### Office 365 resources
+### Resources
 
 - [FIPS Pub 140-2 Security Requirements for Cryptographic Modules](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/groups/STM/cmvp/index.html)
