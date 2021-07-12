@@ -39,7 +39,7 @@ Azure Media Services was the first hyperscale cloud media platform to offer encr
 - Learn about the benefits of CDSA on the Microsoft Cloud: [Learn how the CDSA transforms movie-making in the cloud with Microsoft Azure](https://customers.microsoft.com/story/cdsa-nonprofit-azure-sharepoint-office365-mobility-security-en)
 - Learn how to accelerate your CDSA deployment with our Azure Security and Compliance Blueprints: [Download the Microsoft Azure — Implementing CDSA-Compliant Content Protection and Security guide](https://gallery.technet.microsoft.com/Azure-Implementing-CDSA-8087c7a2)
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure Media Services](https://aka.ms/AzureCompliance)
 

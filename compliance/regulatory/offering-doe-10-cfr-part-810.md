@@ -31,7 +31,7 @@ FedRAMP offers an appropriate baseline to provide assurances that Azure Governme
 
 Furthermore, Azure Government is a US government community cloud that is physically separated from the Azure cloud. It provides additional assurances regarding specific background screening requirements by the US government, including specific controls that restrict access to information and systems to screened US citizens among Azure operations personnel.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure Government](https://aka.ms/AzureCompliance)
 - Intune

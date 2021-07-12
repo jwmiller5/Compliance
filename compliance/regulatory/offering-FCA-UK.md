@@ -40,7 +40,7 @@ Learn how Azure is enabling FCA compliance in UK banks: [Read Microsoft collabor
 
 [Download Microsoft approach to FCA finalized cloud guidance](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune

@@ -39,7 +39,7 @@ Azure and Azure Government are suitable for Registered Entities deploying certai
 
 The NERC ERO Enterprise [released](https://www.nerc.com/pa/comp/guidance/Pages/default.aspx) a Compliance Monitoring and Enforcement Program (CMEP) [practice guide](https://www.nerc.com/pa/comp/guidance/CMEPPracticeGuidesDL/ERO%20Enterprise%20CMEP%20Practice%20Guide%20_%20BCSI%20-%20v0.2%20CLEAN.pdf) to provide guidance to ERO Enterprise CMEP staff when assessing a Registered Entity's process to authorize access to designated BCSI storage locations and any access controls the Registered Entity implemented. Moreover, NERC reviewed Azure control implementation details and FedRAMP audit evidence related to NERC CIP-004-6 and CIP-011-2 standards that are applicable to BCSI. Based on the ERO-issued practice guide and reviewed FedRAMP controls to ensure that Registered Entities encrypt their data, no additional guidance or clarification is needed for Registered Entities to deploy BCSI and associated workloads in the cloud. However, Registered Entities are ultimately responsible for compliance with NERC CIP standards according to their own facts and circumstances. Registered Entities should review the [Cloud Implementation Guide for NERC Audits](https://aka.ms/AzureNERCGuide) for help with documenting their processes and evidence used to authorize electronic access to BCSI storage locations, including encryption key management used for BCSI encryption in Azure and Azure Government.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 

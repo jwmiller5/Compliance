@@ -41,7 +41,7 @@ The rigorous audit covered the measures Microsoft has taken to secure personal h
 - [ISO/IEC 27001:2013 Information Security Management](offering-iso-27001.md) certification of Microsoft cloud services, which are audited annually for compliance.
 - High level of privacy based on compliance with the GDPR and the [ISO/IEC 27018 Code of Practice for Protecting Personal Data in the Cloud](offering-iso-27018.md).
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance). The HDS certificate applies to Azure services listed as compliant with the ISO/IEC 27001 standard in Azure Compliance offerings and provisioned from the France Central, France South, Europe West, and Europe North Azure regions.
 - Dynamics 365. The HDS certificate applies to Dynamics 365 [Core Online Services](https://aka.ms/Online-Services-Terms) provisioned from France and European Union geographies.

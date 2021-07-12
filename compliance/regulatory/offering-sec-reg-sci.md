@@ -40,7 +40,7 @@ To help guide US financial services customers who must comply with this regulati
 
 This document provides a thorough checklist of critical Regulation SCI focus areas. This checklist helps financial organizations understand how they can adopt Azure to help assure their regulators, customers, and leadership that they can comply with the applicable regulatory requirements.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 
