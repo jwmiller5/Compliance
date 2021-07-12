@@ -42,7 +42,7 @@ The audit covered the measures Microsoft takes to secure data and protect its co
 - High level of privacy protection based on Microsoft compliance with the [ISO/IEC 27018 Code of Practice for Protecting Personal Data in the Cloud](offering-iso-27018.md).
 - Layered approach in how Microsoft datacenters are designed, built, and operated to strictly control physical access to the areas where customer data is stored.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - Intune

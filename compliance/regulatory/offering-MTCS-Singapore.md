@@ -39,7 +39,7 @@ After rigorous assessments conducted by the MTCS Certification Body, Microsoft c
 
 Certifications were granted at Level 3 for Microsoft Azure services (IaaS and PaaS), Microsoft Dynamics 365 services (SaaS), and Microsoft Office 365 services (SaaS). A Level 3 certification means that in-scope Microsoft cloud services can host high-impact data for regulated organizations with the strictest security requirements. It's required for certain cloud solution implementations by the Singapore government.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -65,7 +65,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
+| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

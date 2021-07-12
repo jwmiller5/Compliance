@@ -54,7 +54,7 @@ Based on FedRAMP authorizations, DISA Cloud Service Support granted a DoD Impact
 
 Impact Level 2 covers Non-Controlled Unclassified Information — data that is authorized for public release. It also covers other unclassified information that, while not considered 'mission critical,' still requires a minimal level of access control. This authorization enables US federal government customers to deploy non-sensitive information and basic defense applications and websites on in-scope Microsoft cloud services.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 ### Covered services for DoD Impact Level 5
 

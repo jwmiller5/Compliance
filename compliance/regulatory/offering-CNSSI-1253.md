@@ -36,7 +36,7 @@ Azure Government currently possesses a FedRAMP High Provisional Authorization to
   
 The compliance of Azure Government with the demanding CNSSI 1253 requirements means that Azure can offer public sector customers in the United States a rich array of services compliant with CNSSI 1253, enabling them to benefit from the cost savings and rigorous security of the Microsoft Cloud.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure Government](https://aka.ms/AzureCompliance)
 

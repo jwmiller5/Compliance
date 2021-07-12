@@ -36,7 +36,7 @@ For commercial customers doing business in California, Microsoft will be acting 
 
 As set out in the OST, Microsoft complies with all laws and regulations applicable to its provision of the Online Services, which would include the CCPA.  
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure Dev Ops

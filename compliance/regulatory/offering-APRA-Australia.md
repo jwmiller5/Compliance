@@ -67,7 +67,7 @@ By relying on our comprehensive approach to risk assurance in the cloud, we are 
 
 Get practical support for moving data and workloads to Azure in compliance with APRA regulations: [Download Microsoft cloud services: a compliance checklist for financial institutions in Australia](https://www.microsoft.com/cms/api/am/binary/RE3ez0C).
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -85,7 +85,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 

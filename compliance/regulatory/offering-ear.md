@@ -46,7 +46,7 @@ The US Commerce Department, which enforces the EAR, has taken the position that 
 - **End-to-end encryption**. By taking advantage of the end-to-end encryption safe harbor for physical storage locations specified in the EAR, Microsoft in-scope cloud services deliver encryption features that can help protect against export control risks. They also offer customers a [wide range of options for encrypting data](https://aka.ms/Azure-Encryption-Overview) in transit and at rest, and the flexibility to choose among encryption options.
 - **Tools and protocols to prevent unauthorized deemed export**. The use of encryption also helps protect against a potential deemed export (or deemed re-export) under the EAR, because even if a non-US person has access to encrypted data, nothing is revealed if they cannot read or understand the data while it is encrypted; thus there is no 'release” of controlled data.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Government (GCC-High and DoD)](https://aka.ms/Office-365-Export-Controls)

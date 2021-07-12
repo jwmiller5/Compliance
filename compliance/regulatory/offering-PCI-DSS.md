@@ -34,7 +34,7 @@ Customers who want to develop a cardholder environment or card processing servic
 
 It is important to understand that PCI DSS compliance status for Azure, OneDrive for Business, and SharePoint Online not automatically translate to PCI DSS certification for the services that customers build or host on these platforms. Customers are responsible for ensuring that they achieve compliance with PCI DSS requirements.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure and Azure Government
 - Intune
@@ -63,7 +63,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | OneDrive for Business (United States), SharePoint Online |
+| **Office 365** | OneDrive for Business (United States), SharePoint Online |
 
 ### Office 365 audit, reports, and certificates
 

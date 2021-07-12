@@ -34,7 +34,7 @@ Microsoft takes a holistic defense-in-depth approach to security. Our UK datacen
 
 These certifications are backed by the measures that we take to protect the physical security of our datacenters. We adopt a layered approach that starts with how we design, build, and operate datacenters to strictly control physical access to the areas where customer data is stored. Datacenters managed by Microsoft have extensive levels of protection with access approval required at the facility's perimeter, at the building's perimeter, inside the building, and on the datacenter floor. This structure reduces the risk of unauthorized users gaining physical access to data and datacenter resources.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)

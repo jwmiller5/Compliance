@@ -42,7 +42,7 @@ Financial institutions can rely on this evaluation of the compliance of these th
 
 [Learn more about validation of external assessors and links to assessor's sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - Intune
@@ -62,7 +62,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI for Office 365, Project Online, SharePoint Online, Skype for Business |
+| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI for Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 

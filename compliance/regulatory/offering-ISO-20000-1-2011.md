@@ -32,7 +32,7 @@ Obtaining the ISO 20000-1:2011 certification is a logical step for Microsoft Azu
   
 An independent third-party auditing firm performed a rigorous examination of Microsoft Azure and several Microsoft online services for adherence to the requirements established in the ISO 20000-1:2011 standard. The available ISO 20000-1 certificate demonstrates that Azure and covered Microsoft online services have implemented the right IT service management procedures to deliver efficient and reliable IT services that are subject to regular monitoring, review, and improvement.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security

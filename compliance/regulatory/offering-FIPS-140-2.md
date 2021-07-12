@@ -32,7 +32,7 @@ Microsoft maintains an active commitment to meeting the 140-2 requirements, havi
 
 For technical information on Microsoft Windows cryptographic modules, the security policy for each module, and the catalog of CMVP certificate details, see the [Windows and Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud).
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 While the current CMVP FIPS 140-2 implementation guidance precludes a FIPS 140-2 validation for a cloud service itself; cloud service providers can choose to obtain and operate FIPS 140 validated cryptographic modules for the computing elements that comprise their cloud service. Microsoft online services that include components, which have been FIPS 140-2 validated include, among others:
 

@@ -41,7 +41,7 @@ The Microsoft guidance addresses, point by point, each of the EBA recommendation
 
 For financial institutions in the EU, Microsoft has also published [Risk Assessment and Compliance Guide for Financial Institutions in the Microsoft Cloud](https://aka.ms/RiskGovernanceGuide), a checklist modeled after EBA guidance. It explains how to establish a governance model optimized to meet regulatory requirements, and efficiently evaluate the risks of using Microsoft cloud services, followed by submission for regulatory approval. Our guide includes a list of questions to be answered in a regulatory submission that are drawn from, and responsive to, EBA guidance on outsourcing to cloud service providers.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)

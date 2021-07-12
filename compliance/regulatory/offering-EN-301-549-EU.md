@@ -30,7 +30,7 @@ Microsoft is a major software and cloud-services provider to European states. To
 
 Microsoft's consideration of EN 301 549 in the development of products and services points to its commitment to accessibility for all customers.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure and Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps Services

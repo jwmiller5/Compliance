@@ -39,7 +39,7 @@ This workbook can help Microsoft Cloud Germany customers implement the IT-Grunds
 
 [Microsoft IT-Grundschutz Compliance workbook](https://aka.ms/grundschutzworkbook)
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure Germany](https://aka.ms/AzureCompliance)
 - Intune
