@@ -24,12 +24,12 @@ titleSuffix: Microsoft Compliance
 
 The Defense Information Systems Agency (DISA) is an agency of the US Department of Defense (DoD) that is responsible for developing and maintaining the DoD Cloud Computing [Security Requirements Guide (SRG)](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html). The SRG defines the baseline security requirements used by DoD to assess the security posture of a cloud service provider (CSP), supporting the decision to grant a DoD Provisional Authorization (PA) that allows a CSP to host DoD missions. It incorporates, supersedes, and rescinds the previously published DoD Cloud Security Model (CSM) and maps to the DoD Risk Management Framework (RMF).
 
-DISA guides DoD agencies and departments in planning and authorizing the use of a CSP. It also evaluates CSP offerings for compliance with the SRG — an authorization process whereby CSPs can furnish documentation outlining their compliance with DoD standards. It issues DoD Provisional Authorizations (PAs) when appropriate, so DoD agencies and supporting organizations can use cloud services without having to go through a full approval process on their own, saving time and effort.
+DISA guides DoD agencies and departments in planning and authorizing the use of a CSP. It also evaluates CSP offerings for compliance with the SRG, an authorization process whereby CSPs can furnish documentation outlining their compliance with DoD standards. It issues DoD Provisional Authorizations (PAs) when appropriate, so DoD agencies and supporting organizations can use cloud services without having to go through a full approval process on their own, saving time and effort.
 
 According to [SRG Section 3.2](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#3.2InformationImpactLevels) *Information Impact Levels*, IL5 information covers:
 
 - Controlled Unclassified Information (CUI) that requires higher level of protection than that afforded by IL4
-    - The [CUI Registry](https://www.archives.gov/cui) provides specific categories of information that is under protection by the Executive branch, e.g., more than 20 category groupings are included in the [CUI category list](https://www.archives.gov/cui/registry/category-list).
+    - The [CUI Registry](https://www.archives.gov/cui) provides specific categories of information that is under protection by the Executive branch, for example, more than 20 category groupings are included in the [CUI category list](https://www.archives.gov/cui/registry/category-list).
     - [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) *Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations* is intended for use by federal agencies in contracts or other agreements established with non-federal organizations.
 
 - National Security Systems (NSS)
@@ -42,8 +42,8 @@ The [15 December 2014 DoD CIO memo](https://www.esi.mil/contentview.aspx?id=585)
 
 Moreover, according to [SRG Section 5.2.2.3](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *IL5 Location and Separation Requirements*, the following requirements (among others) must be in place for a Level 5 PA:
 
-- Virtual/logical separation between DoD and Federal Government tenants / missions is sufficient. Virtual/logical separation between tenant/mission systems is minimally required.
-- Physical separation from non-DoD/non-Federal Government tenants (i.e., public, local/state government tenants) is required.
+- Virtual/logical separation between DoD and Federal Government tenants / missions is sufficient. Virtual/logical separation between tenant/mission systems is required.
+- Physical separation from non-DoD/non-Federal Government tenants (that is, public, local/state government tenants) is required.
 - The CSP restricts potential access to DoD's and the community's information to CSP employees that are U.S. Citizens.
 
 ## Microsoft in-scope cloud platforms & services
@@ -87,7 +87,7 @@ Select FedRAMP and DoD documentation, including System Security Plan (SSP), cont
 - [DoD Cloud Computing Security Requirements Guide](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html)
 - [FedRAMP documents](https://www.fedramp.gov/documents/)
 - [DoD Instruction 8510.01](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) *DoD Risk Management Framework (RMF) for DoD Information Technology (IT)*
-- [NIST SP 800-37](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final) *Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy*
+- [NIST SP 800-37](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final) *Risk Management Framework for Information Systems and Organizations: A System Life-Cycle Approach for Security and Privacy*
 - [NIST SP 800-53](https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/release-search#!/800-53) *Security and Privacy Controls for Information Systems and Organizations*
 - [NIST SP 800-59](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-59.pdf) *Guideline for Identifying an Information System as a National Security System*
 - [CNSSI 1253](https://www.dcsa.mil/portals/91/documents/ctp/nao/CNSSI_No1253.pdf) *Security Categorization and Control Selection for National Security Systems*

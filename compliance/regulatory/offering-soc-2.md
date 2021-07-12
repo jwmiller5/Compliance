@@ -30,9 +30,9 @@ A SOC 2 Type 2 attestation is performed under:
 - SOC 2 Reporting on an Examination of Controls at a Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy (AICPA Guide).
 - TSP section 100, 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy (AICPA, 2017 Trust Services Criteria).
 
-In addition, the Office 365 SOC 2 Type 2 attestation report addresses the requirements set forth in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM), as well as the Cloud Computing Compliance Criteria Catalogue (C5:2020) created by the German Federal Office for Information Security (BSI).
+In addition, the Office 365 SOC 2 Type 2 attestation report addresses the requirements set forth in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM), and the Cloud Computing Compliance Criteria Catalogue (C5:2020) created by the German Federal Office for Information Security (BSI).
 
-Office 365 SOC 2 attestations are based on rigorous independent third-party audits conducted by a reputable CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP's) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, Confidentiality, and Privacy.
+Office 365 SOC 2 attestations are based on rigorous independent third-party audits conducted by a reputable CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, Confidentiality, and Privacy.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -96,7 +96,7 @@ SOC reports for Office 365 and other online services are based on a rolling 12-m
 
 **Where can I get the Office 365 SOC audit documentation including bridge letters?**
 
-For links to audit documentation, see the audit report section. You must have an existing subscription or free trial account in Office 365or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to login. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
+For links to audit documentation, see the audit report section. You must have an existing subscription or free trial account in Office 365or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to log in. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
 
 **Where can I find an assessment of the Cloud Security Alliance CCM controls implementation?**
 
