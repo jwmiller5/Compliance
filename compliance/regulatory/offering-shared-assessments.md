@@ -37,7 +37,7 @@ Azure compliance is listed on the CSA STAR Registry, a free publicly accessible 
 
 Because these self-assessment reports are publicly available, Azure customers gain visibility into Microsoft security practices and can compare various CSPs using the same baseline.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 

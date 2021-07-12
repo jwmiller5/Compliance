@@ -44,7 +44,7 @@ The New York regulations require each financial institution to:
 - **Monitor the activity of authorized users, detect unauthorized access, and offer regular cybersecurity awareness training to employees**: Azure, Office 365, and Power BI include outside-in monitoring to raise alerts about incidents, and extensive diagnostics for logging and auditing. [Microsoft Virtual Academy](https://mva.microsoft.com/) offers online training that covers the cybersecurity of Microsoft cloud services.
 - **Develop plans to respond to and recover from cybersecurity incidents**: Microsoft helps you prepare for cybersecurity incidents using a defensive strategy to detect, predict, and prevent security breaches before they occur. When developing your own plans, you can draw on our incident management plan for responding to cybersecurity breaches.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - Intune
@@ -54,7 +54,7 @@ The New York regulations require each financial institution to:
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -62,7 +62,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 

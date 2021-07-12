@@ -30,7 +30,7 @@ Title VIII of Royal Decree 1720/2007 establishes stringent requirements for proc
 
 Microsoft was the first hyper-scale cloud service provider to receive, for the benefit of its customers, an authorization from the Spanish Data Protection Agency (Agencia Española de Protección de Datos, or AEPD) for its compliance with the high standards governing international data transfer under Spanish Organic Law 15/1999 (Ley Orgánica 15/1999 de Protección de Datos, or LOPD). Microsoft is also the first hyper-scale cloud service provider to obtain a third-party audit certification for its online services' compliance with the security measures set forth in Title VIII of Royal Decree 1720/2007. This authorization lets customers make transfers of personal data to Microsoft Azure, Dynamics 365, and Office 365 services covered by the European Union Model Clauses.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -41,7 +41,7 @@ Microsoft was the first hyper-scale cloud service provider to receive, for the b
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -49,7 +49,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office 365 Video, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender for Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office 365 Video, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## Audits, reports, and certificates
 

@@ -34,7 +34,7 @@ The auditor attested that the security controls of Azure and Dynamics 365 were s
 
 Achieving this ABS OSPAR attestation demonstrates that the set of security controls of Microsoft in-scope services meet the ABS Guidelines, putting these services on the official list, [OSPAR Audited Outsourced Service Providers](https://abs.org.sg/docs/library/OSPAR_Audited_OSPs_16102020.pdf). This, in turn, provides assurance to financial services customers with facilities in Singapore that Microsoft meets these high standards for deploying compliant financial services solutions.
 
-## Microsoft and in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

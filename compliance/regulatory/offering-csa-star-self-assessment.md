@@ -39,7 +39,7 @@ STAR provides three levels of assurance; CSA-STAR Self-Assessment is the introdu
 
 As part of the STAR Self-Assessment, CSPs can submit two different types of documents to indicate their compliance with CSA best practices: a completed CAIQ, or a report documenting compliance with CCM. For the CSA STAR Self-Assessment, Microsoft publishes both a CAIQ and a CCM-based report for Microsoft Azure, and CCM-based reports for Microsoft Dynamics 365 and Microsoft Office 365.  
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure and Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -53,7 +53,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -61,7 +61,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 |Exchange Online, Exchange Online Protection, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business,SharePoint Online, Skype for Business |
+| **Office 365** |Exchange Online, Exchange Online Protection, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business,SharePoint Online, Skype for Business |
 
 ### Frequently asked questions
 

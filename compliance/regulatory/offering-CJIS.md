@@ -38,7 +38,7 @@ Microsoft has assessed the operational policies and procedures of Microsoft Azur
 
 Learn about the benefits of CJIS Security policy on the Microsoft Cloud: [Read how Genetec cleared criminal investigations](https://customers.microsoft.com/story/genetec)
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure Government
 - Dynamics 365 U.S. Government
@@ -53,7 +53,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -61,7 +61,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| GCC | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### Office 365 audits, reports, and certificates
 
@@ -95,7 +95,7 @@ Microsoft signs an Information Agreement with a state CJIS Systems Agency (CSA);
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-### Office 365 resources
+### Resources
 
 - [Criminal Justice Information Services](https://aka.ms/cjis)
 - [CJIS Security Policy](https://aka.ms/cjis-security-policy)

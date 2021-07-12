@@ -85,22 +85,26 @@ conceptualContent:
         - url: offering-dfars.md
           itemType: reference
           text: DFARS
-        - url: offering-dod-disa-l2-l4-l5.md
+        - url: offering-dod-il2.md
           itemType: reference
-          text: DoD DISA L2, L4, L5
-        - url: offering-doe-10-cfr-part-810.md
+          text: DoD IL2
+        - url: offering-dod-il5.md
           itemType: reference
-          text: DoE 10 CFR Part 810
+          text: DoD IL5
         - url: /azure/compliance/offerings/offering-doe-10-cfr-part-810
           itemType: reference
-          text: EAR (US Export Adm. Reg.)
-        - url: offering-fedramp.md
+          text: DoE 10 CFR Part 810
+        - url: offering-ear.md
           itemType: reference
-          text: FedRAMP
+          text: EAR (US Export Adm. Reg.)
+
 
     # Card
     - title: US Government
       links:
+        - url: offering-fedramp.md
+          itemType: reference
+          text: FedRAMP      
         - url: offering-fips-140-2.md
           itemType: reference
           text: FIPS 140-2

@@ -28,7 +28,7 @@ ISO 9001:2015 is an international standard that establishes the criteria for a q
 
 An independent third-party auditing firm performed a rigorous examination of Microsoft Azure and several Microsoft online services for adherence to the quality management principles established by ISO 9001:2015. The available third-party certification provides independent confirmation that Azure and covered Microsoft online services meet the ISO 9001:2015 requirements.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security

@@ -45,7 +45,7 @@ Like all CIS benchmarks, the Microsoft benchmarks were created using a consensus
   
 In addition to the benchmarks for Microsoft products and services, CIS has also published [CIS Hardened Images for use on Azure virtual machines](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/) configured to meet CIS benchmarks. These include the CIS Hardened Image for Microsoft Windows Server 2016 certified to run on Azure. CIS states that, 'All CIS hardened images that are available on the [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) are certified to run on Azure. They have been pre-tested for readiness and compatibility with the Azure public cloud, the Microsoft Cloud Platform hosted by service providers through the Cloud OS Network, and on-premise private cloud Windows Server Hyper-V deployments managed by customers.'
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 - [Office and Microsoft 365](https://aka.ms/o365-compliance-framework)

@@ -53,7 +53,7 @@ As always, additional compensating controls can be implemented on a risk-managed
 
 The IRAP assessment of Microsoft's services and cloud operations helps provide assurance to public sector customers in government and their partners that Microsoft has appropriate and effective security controls in place for the processing, storage, and transmission of data classified up to and including the level of PROTECTED. This assessment includes most government, healthcare, and education data in Australia.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -68,7 +68,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -76,7 +76,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Whiteboard, Yammer |
+| **Office 365** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Whiteboard, Yammer |
 
 ### Frequently asked questions
 
@@ -96,7 +96,7 @@ It is recommended that you read the [Cloud Security Assessments](https://www.cyb
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-### Office 365 resources
+### Resources
 
 - [Australian Government ISM](https://acsc.gov.au/infosec/ism/index.htm)
 - [Australia page of the Microsoft Service Trust Portal (STP)](https://aka.ms/au-irap)

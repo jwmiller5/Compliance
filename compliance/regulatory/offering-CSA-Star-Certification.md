@@ -36,7 +36,7 @@ During the assessment, an accredited CSA certification auditor assigns a Maturit
 
 Learn how to accelerate your CSA STAR Certification deployment with our Azure Security and Compliance Blueprints: [Download the Microsoft Azure Responses to CSA Consensus Assessments Initiative Questionnaire](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security

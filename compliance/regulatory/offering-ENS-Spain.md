@@ -36,7 +36,7 @@ The framework prescribes an accreditation process that is voluntary for systems 
 
 Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment by BDO, an independent auditor, which issued an official statement of their compliance. BDO reports that the security measures in both services, and their information systems and data processing facilities, comply at the high level with RD 3/2010 without requiring any corrective measures. Microsoft was the first hyperscale cloud service provider to receive this certification in Spain.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure and Azure Government
 - Office 365
@@ -45,7 +45,7 @@ Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment
 
 ### Office 365 cloud environments
 
-[!INCLUDE [Conditional access services support table](../includes/o365-offering-introduction.md)]
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
 ### Office 365 applicability and in-scope services
 
@@ -53,7 +53,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| Office 365 | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
+| **Office 365** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

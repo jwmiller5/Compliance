@@ -32,7 +32,7 @@ Microsoft Azure has been awarded the DPP Committed to Security Mark for Broadcas
   
 This support means that broadcasters and other media customers using Azure can have confidence that its robust security and resilient service can help meet the unique demands of the broadcast industry, from program development to transmission.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 

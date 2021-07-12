@@ -64,7 +64,7 @@ Key points on ISO/IEC 27001 and PIMS:
 
 No matter the size of your organization and whether it is a controller or a processor, your organization should consider pursuing certification, either for your own organization, or requesting it from vendors or suppliers based on your business requirements. This applies especially for processors, sub-processors, and co-controllers that are processing sensitive or high volumes of personal data. In any case, your organization should assess its business needs to determine if certification for its own products and services is suitable.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - Azure, Azure Government, and Azure Germany
 - Azure DevOps Services

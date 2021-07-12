@@ -38,7 +38,7 @@ To support public- and private-sector organizations that are concerned about dat
 
 To assist Canadian customers who are considering outsourcing business functions to the cloud, Microsoft has published [Navigating your way to the cloud: A compliance checklist for financial institutions in Canada](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=626fb641-9dca-45c0-abaf-0a7849c15f81&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides). This document provides an overview of the regulatory landscape, including privacy regulations, and a detailed listing of how Microsoft business cloud services can help organizations meet contractual requirements for material outsourcing arrangements.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - Intune
