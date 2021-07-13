@@ -41,7 +41,7 @@ Microsoft retained [Montrium](https://www.montrium.com/), an independent organiz
 
 Life sciences organizations building GxP solutions on Azure and Office 365 can take advantage of the cloud's efficiencies while also protecting patient safety, product quality, and data integrity. Customers also benefit from multiple layers of security and governance technologies, operational practices, and compliance policies that enforce data privacy and integrity at specific levels.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft 365
