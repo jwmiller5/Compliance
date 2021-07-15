@@ -14,6 +14,7 @@ search.appverid:
 ms.collection:
 - Strat_O365_IP
 - M365-analytics
+- MS-Compliance
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
