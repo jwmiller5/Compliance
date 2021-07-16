@@ -55,7 +55,6 @@ Together, the above-listed protections provide robust logical isolation controls
 
 ## Resources
 
-- [Azure AD isolation controls](/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory)
-- [Isolation and Access Control in Azure Active Directory](/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory)
-- [Monitoring and Testing Tenant Boundaries](assurance-monitoring-and-testing.md)
-- [Isolation and Access Control in Microsoft 365](/microsoft-365/enterprise/microsoft-365-isolation-in-microsoft-365)
+- [Isolation and access control in Azure Active Directory](/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory)
+- [Monitoring and testing tenant boundaries](assurance-monitoring-and-testing.md)
+- [Isolation and access control in Microsoft 365](/microsoft-365/enterprise/microsoft-365-isolation-in-microsoft-365)
