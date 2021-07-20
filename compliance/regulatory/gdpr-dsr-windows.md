@@ -99,3 +99,6 @@ Microsoft also provides the ability to export Windows diagnostic data directly v
 ## Notify us about exporting or deleting issues
 
 If you run into issues while exporting or deleting Windows diagnostic data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management > Privacy and compliance requests for Subscriptions > Privacy Blade and GDPR Requests**.
+
+>[!IMPORTANT]
+>It might take up to 5 days to complete Windows diagnostic data export requests. Please wait 7 days before opening a support ticket.
