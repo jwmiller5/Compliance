@@ -36,19 +36,33 @@ Microsoft provided its Standard Contractual Clauses to the EU's Article 29 Worki
 
 The group determined that implementation of the provisions in Microsoft agreements was in line with their stringent requirements. (Microsoft was the first cloud service provider to receive a letter of endorsement and approval from the group.) Approval covered the engagements reflected in Model Clauses 2010/87/EU but not in the appendices, which describe the transfers of data and the security measures implemented by the data importer. The appendices may be analyzed separately by the DPA.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
-- [Azure and Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for Medium Business and Enterprise customers of Microsoft 365 for business
+- Azure and Azure Government
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Cloud service portion of the Intune Add-on Product and Mobile Device Management for Office 365
+- Microsoft Cloud App Security
+- Microsoft Defender for Endpoint for the following cloud service portions: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score.
+- Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for Medium Business and Enterprise customers of Microsoft 365 for business
+- Office 365
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
-- Azure DevOps Services
-- Microsoft Defender for Endpoint for the following cloud service portions: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score.
+
+## Office 365 and European Union Model Clauses
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Advanced Threat Protection, Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office 365 Video, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## Audits, reports, and certificates
 
@@ -83,7 +97,6 @@ You can enter an agreement such, as the [Online Services Terms](https://aka.ms/O
 - [EU Data Protection Directive](https://aka.ms/EU-DPD)
 - [European Data Protection Board](https://edpb.europa.eu/)
 - [EU Model Clauses FAQ for Dynamics 365 and Office 365](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Microsoft and the EU-U.S. Privacy Shield](offering-eu-us-privacy-shield.md)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

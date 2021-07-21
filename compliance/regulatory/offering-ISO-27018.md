@@ -37,51 +37,58 @@ By following the standards of ISO/IEC 27001 and the code of practice embodied in
 - **Microsoft customers know what's happening with their PII.** ISO/IEC 27018 requires a policy that allows for the return, transfer, and secure disposal of personal information within a reasonable period of time. If Microsoft works with other companies that need access to your customer data, Microsoft proactively discloses the identities of those sub-processors.
 - **Microsoft complies only with legally binding requests for disclosure of customer data.** If Microsoft must comply with such a request (as in the case of a criminal investigation), it will always notify the customer unless it is prohibited by law from doing so.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
-- [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
+- Azure, Azure Government, and Azure Germany
 - Azure DevOps Services
+- [Dynamics 365, Dynamics 365, and Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
+- Intune
 - Microsoft Cloud App Security
-- Dynamics 365, Dynamics 365, and Dynamics 365 Germany
 - Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for medium business and enterprise customers of Microsoft 365 for business
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (formerly Microsoft Flow): cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Microsoft Threat Experts
+- Microsoft Stream
+- Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense
 - Office 365 Germany
 - OMS Service Map
+- Power Automate (formerly Microsoft Flow): cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - PowerApps cloud service: either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service: either as a standalone service or as included in an Office 365 branded plan or suite
 - Power BI Embedded
 - Power Virtual Agents
-- Microsoft Threat Experts
-- Microsoft Stream
 - Microsoft Defender for Endpoint: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and ISO ISO/IEC 27018
 
-### Audit cycle
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure ISO/IEC 27018 offering](/azure/compliance/offerings/offering-iso-27018).
+
+## Office 365 and ISO ISO/IEC 27018
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices (including but not limited to Kaizala, ObjectStore, Sway, PowerPoint Online Document Service, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Project Online, Service Encryption with Customer Key, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, Compliance Manager, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance add-on, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+
+### Office 365 Audits, reports, and certificates
 
 Microsoft cloud and commercial technical support services are audited once a year for the ISO/IEC 27018 code of practice as part of the certification process for ISO/IEC 27001.
-
-### Audits and reports
-
-- [Azure, Dynamics 365, and Online Services: ISO27018 Certificate](https://aka.ms/azureiso27018cert)
-- [Azure, Dynamics 365, and Online Services: ISO27018 Assessment Report](https://aka.ms/azureiso27001report)
-- [Azure Germany: ISO27018 Code of Practice for Protecting Personal Data in the Cloud Certificate](https://servicetrust.microsoft.com/Documents/ComplianceReports?downloadDocument=1&documentId=6a0dab80-8382-4af6-980c-ed2ed9a341c6)
-
-### Office 365
 
 - [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://aka.ms/o365isoreport)
 - [Yammer ISO 27018 Audit Assessment Report](https://aka.ms/YammerISO27018Auditreport)
 
-### Azure DevOps Services
-
-- [Azure DevOps Services: ISO27018 Certificate PII 665918](https://go.microsoft.com/fwlink/p/?linkid=2062252)
-
-## Frequently asked questions
+### Frequently asked questions
 
 **To whom does ISO/IEC 27018 apply?**
 
@@ -94,11 +101,9 @@ In the context of ISO/IEC 27018:
 - 'Controllers' control the collection, holding, processing, or use of personal information; they include those who control it on another company's behalf.
 - 'Processors' process information on behalf of controllers; they do not make decisions as to how to use the information or the purposes of the processing. In providing its enterprise cloud services, Microsoft (as a vendor to you) is an information processor.
 
-**Where can I view Microsoft compliance information for ISO/IEC 27018?**
+**Where can I view Office 365 compliance information for ISO/IEC 27018?**
 
-- You can review the ISO/IEC 27018 certificates from BSI for [Azure](https://go.microsoft.com/fwlink/p/?linkid=2078016), [Microsoft Professional Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft%2bCorporation&licencenumber=PII%20642270), and [Power BI](https://go.microsoft.com/fwlink/p/?linkid=2078016).
-- You can also review ISO/IEC 27001 certificates from BSI upon which ISO/IEC 27018 certification is based for [Dynamics 365](https://aka.ms/Dynamics-CRM-Online-Cert), [Office 365](https://aka.ms/Office365-Cert), and [Azure DevOps Services](https://go.microsoft.com/fwlink/p/?linkid=2062159).
-- To review the BSI reports, the independent auditor that validated Microsoft compliance with ISO/IEC 27018, visit the [Service Trust Portal](https://aka.ms/stphelp).
+- You can review the ISO/IEC 27018 certificates from BSI (the independent auditor that validated Microsoft compliance with ISO/IEC 27018) for [Office 365](https://aka.ms/Office365-Cert).
 
 **Can I use Microsoft's compliance in my organization's certification process?**
 
@@ -106,11 +111,11 @@ Yes. If compliance with ISO/IEC 27018 is important for your business and impleme
 
 However, you are responsible for engaging an assessor to evaluate your implementation for compliance, and for the controls and processes within your own organization.
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Resources
+### Resources
 
 - [ISO/IEC 27018:2014 code of practice](https://aka.ms/ISO.IEC_27018.2014)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)

@@ -1,5 +1,5 @@
 ---
-title: Azure and Dynamics 365 breach notification under the GDPR
+title: Azure, Dynamics 365, and Windows breach notification under the GDPR
 description: How Azure and Dynamics 365 protect against a personal data breach and how Microsoft responds and notifies you if a breach occurs.
 keywords: Azure, Microsoft 365, Dynamics 365, Microsoft 365 documentation, GDPR
 localization_priority: Priority
@@ -19,7 +19,7 @@ titleSuffix: Microsoft GDPR
 hideEdit: true
 ---
 
-# Azure and Dynamics 365 breach notification under the GDPR
+# Azure, Dynamics 365, and Windows breach notification under the GDPR
 
 Microsoft takes its obligations under the General Data Protection Regulation (GDPR) seriously. Microsoft takes extensive security measures within its online services to protect against data breaches. These measures include both physical and logical security controls, as well as automated security processes, comprehensive information security and privacy policies, and security and privacy training for all personnel.
 
@@ -35,7 +35,7 @@ Microsoft does not monitor for or respond to security incidents within the custo
 
 Azure responds to a potential data breach according to the security incident response process, which is a subset of the Microsoft Azure incident management plan. Microsoft's Azure security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below:
 
-|**Stage**|**Description**|
+| Stage | Description |
 |:------- |------------- |
 | ***1: Detect*** | First indication of a potential incident. |
 | ***2: Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
@@ -43,38 +43,28 @@ Azure responds to a potential data breach according to the security incident res
 | ***4: Stabilize and Recover*** | The incident response team creates a recovery plan to mitigate the issue. Crisis containment steps such as quarantining impacted systems may occur immediately and in parallel with diagnosis. Longer term mitigations may be planned which occur after the immediate risk has passed. |
 | ***5: Close and Post-mortem*** | The incident response team creates a post-mortem that outlines the details of the incident, with the intention to revise policies, procedures, and processes to prevent a recurrence of the event. |
 
-The [Azure for secure worldwide public sector cloud adoption](/azure/azure-government/documentation-government-overview-wwps#breach-notification-process) topic details how Microsoft investigates, manages, and responds to security incidents within Azure.
-
 The detection processes used by Microsoft Azure are designed to discover events that risk the confidentiality, integrity, and availability of Azure services. Several events can trigger an investigation:
 
 - Automated system alerts via internal monitoring and alerting frameworks. These alerts could come in the way of signature-based alarms such as anti-malware, intrusion detection or via algorithms designed to profile expected activity and alert upon anomalies.
 - First party reports from Microsoft Services running on Microsoft Azure and Azure Government.
-- Security vulnerabilities are reported to the [Microsoft Security Response Center (MSRC)](https://technet.microsoft.com/security/dn440717) via [secure@microsoft.com](mailto:secure@microsoft.com). MSRC works with partners and security researchers around the world to help prevent security incidents and to advance Microsoft product security.
+- Security vulnerabilities are reported to the [Microsoft Security Response Center (MSRC)](https://www.microsoft.com/msrc) via [Report an issue](https://msrc.microsoft.com/create-report). MSRC works with partners and security researchers around the world to help prevent security incidents and to advance Microsoft product security.
 - Customer reports via the [Customer Support Portal](https://www.windowsazure.com/support/contact/) or Microsoft Azure and Azure Government Management Portal, that describe suspicious activity attributed to the Azure infrastructure (as opposed to activity occurring within the customer's scope of responsibility).
 - Security [Red Team and Blue Team](https://azure.microsoft.com/blog/red-teaming-using-cutting-edge-threat-simulation-to-harden-the-microsoft-enterprise-cloud/) activity. This strategy uses a highly skilled Red Team of offensive Microsoft security experts to uncover and attack potential weaknesses in Azure. The security response Blue Team must detect and defend against the Red Team's activity. Both Red and Blue Team actions are used to verify that Azure security response efforts are effectively managing security incidents. Security Red Team and Blue Team activities are operated under rules of engagement to help ensure the protection of customer data.
 - Escalations by operators of Azure Services. Microsoft employees are trained to identify and escalate potential security issues.
 
 ## Azure's data breach response
 
-Microsoft assigns the investigation appropriate priority and severity levels by determining the functional impact, recoverability, and information impact of the incident. Both the priority and severity may change over the course of the investigation, based on new findings and conclusions. Security events involving imminent or confirmed risk to customer data are treated as high severity and worked around the clock to resolution. 
-
-Microsoft Azure categorizes the information impact of the incident into the following breach categories:
-
-| **Category** | **Definition** |
-|:------------ |:-------------- |
-| ***None*** | No information was exfiltrated, changed, deleted, or otherwise compromised. |
-| ***Privacy Breach*** | Sensitive personal data of taxpayers, employees, beneficiaries, etc. was accessed or exfiltrated. |
-| ***Proprietary Breach*** | Unclassified proprietary information, such as protected critical infrastructure information (PCII), was accessed or exfiltrated. |
-| ***Integrity Loss*** | Sensitive or proprietary information was changed or deleted. |
+Microsoft assigns the investigation appropriate priority and severity levels by determining the functional impact, recoverability, and information impact of the incident. Both the priority and severity may change over the course of the investigation, based on new findings and conclusions. Security events involving imminent or confirmed risk to customer data are treated as high severity and worked around the clock to resolution.
 
 The Security Response Team works with Microsoft Azure Security Engineers and SMEs to classify the event based on factual data from the evidence. A security event may be classified as:
 
-- **False Positive**: An event that meets detection criteria but is found to be part of a normal business practice and may need to be filtered. The service team identifies the root cause for false positives and will address them in a systematic way using detection sources and fine-tuning them as needed.
-- **Security Incident**: An incident when unlawful access to any Customer Data or Support Data stored on Microsoft's equipment or in Microsoft's facilities, or unauthorized access to such equipment or facilities resulting in loss, disclosure, or alteration of Customer Data or Support Data has occurred.
-- **Customer Reportable Security/Privacy Incident (CRSPI)**: An unlawful or unauthorized access to or use of Microsoft's systems, equipment, or facilities resulting in disclosure, modification, or loss of customer data.
-- **Privacy Breach**: A subtype of Security Incident involving personal data. Handling procedures are no different than a security incident.
+- **False Positive**: An event that meets detection criteria but is found to be part of a normal business practice and may need to be filtered out. Service teams will identify the root cause for false positives and will address them in a systematic way to fine-tuning them as needed.
+- **Security Event**: An observable occurrence in a system, service, and/or network for attempted attack, circumvention of security controls, or an identified issue where the facts indicate that Customer Data or Personal Data may have been lost, destroyed, altered, disclosed, or accessed without authorization.
+- **Security Incident/Customer Reportable Security/Privacy Incident (CRSPI)**: A confirmed (for example, declared) breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Customer Data or Personal Data while processed by Microsoft.
+- **Privacy Event**: A Security Event that affects Personal Data or data processing that results in unintended consequences for privacy, including non-compliance with Microsoft privacy policies, standards, and controls.
+- **Privacy Incident/Customer Reportable Security/Privacy Incident (CRSPI)**: A Security Incident that affects Personal Data, Data or data processing that results in unintended consequences for privacy, including non-compliance with Microsoft privacy policies, standards, and controls.
 
-For a CRSPI to be declared, Microsoft must determine that unauthorized access to customer data has or has likely occurred and/or that there is a legal or contractual commitment that notification must occur. It is desired, but not required, that specific customer impact, resource access, and repair steps be known. An incident is generally declared a CRSPI after the conclusion of the Diagnose stage of a security incident. However, the declaration may happen at any point that all pertinent information is available. The security incident manager must establish evidence beyond reasonable doubt that a reportable event has occurred to begin execution of the Customer Incident Notification Process.
+For a CRSPI to be declared, Microsoft must determine that unauthorized access to customer data has or has likely occurred and/or that there is a legal or contractual commitment that notification must occur. It is desired, but not required, that specific customer impact, resource access, and repair steps be known. An incident is generally declared a CRSPI after the conclusion of the Diagnose stage of a security incident. However, the declaration may happen at any point that all pertinent information is available.
 
 Microsoft verifies that customer and business risk is successfully contained, and that corrective measures are implemented. If necessary, emergency mitigation steps to resolve immediate security risks associated with the event are taken.
 
@@ -94,13 +84,19 @@ Microsoft provides impacted customers with detailed information enabling them to
 
 Notification of a personal data breach will be delivered to the impacted customer by any means Microsoft selects, including via email. Notification of a data breach will be delivered to the list of security contacts provided in Azure Security Center, which can be configured by following the [implementation guidelines](/azure/security-center/security-center-provide-security-contact-details). If contact information is not provided in Azure Security Center, the notification is sent to one or more administrators in an Azure subscription. To ensure that notification can be successfully delivered, it is the customer's responsibility to ensure that the administrative contact information on each applicable subscription and online services portal is correct.
 
-The Microsoft Azure or Azure Government team may also elect to notify other Microsoft personnel such as members of Microsoft's Customer Support Service (CSS) team and the customer's Account Manager(s) (AM) or Technical Account Manager(s) (TAM). These individuals often have close relationships with the customer and can facilitate faster remediation
+The Microsoft Azure or Azure Government team may also elect to notify other Microsoft personnel such as members of Microsoft's Customer Support Service (CSS) team and the customer's Account Manager(s) (AM) or Technical Account Manager(s) (TAM). These individuals often have close relationships with the customer and can facilitate faster remediation.
 
 ## Microsoft Dynamics 365 built-in security features
 
 Microsoft Dynamics 365 takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data. In addition, Dynamics 365 provides efficient data access and collaboration with data integrity and privacy in the following areas: [secure identity, data protection, role based security, and threat management](https://www.microsoft.com/trustcenter/security/dynamics365-security).
 
 The Microsoft Dynamics 365 offering follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to Microsoft Dynamics 365 as well.
+
+## Windows diagnostic data processor configuration
+
+The [Windows diagnostic data processor configuration](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) takes advantage of the cloud service infrastructure and built-in security features to keep data safe using security measures and mechanisms to protect data.
+
+It follows the same Technical and Organizational measures one or more Microsoft Azure service teams take for securing against data breach processes. Therefore, any information documented in the 'Microsoft Azure Data Breach' notification document here is analogous to the Windows diagnostic data processor configuration as well.
 
 ## Learn more
 

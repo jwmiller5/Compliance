@@ -1,8 +1,8 @@
 ---
 title: Information System Security Management and Assessment Program (ISMAP)
-description: Microsoft meets the requirements of the Information System Security Management and Assessment Program (ISMAP) in Japan.
+description: Microsoft has controls that meet the requirements of the Information System Security Management and Assessment Program (ISMAP).
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Normal
+localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,69 +16,59 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 
 # Information System Security Management and Assessment Program (ISMAP)
 
-## ISMAP Overview
+## ISMAP overview
 
-The Information system Security Management and Assessment Program (ISMAP) is a system to ensure an appropriate security level in government cloud service procurement by evaluating and registering cloud services that meet the security requirements of the Japanese government in advance, and thereby enabling the smooth introduction of cloud services.
+The Information System Security Management and Assessment Program (ISMAP) is a cloud services assessment program administered by the Japanese government. The program was officially announced on 26 May 2020, and it was designed to ensure appropriate security in government cloud services procurement by evaluating and registering cloud services that meet the Japanese government security requirements. Cloud service providers who intend to participate in public sector procurement programs can apply for ISMAP certification that is administered by an independent third-party auditing firm approved by ISMAP. Japanese government agencies can then procure cloud services from cloud service providers registered with ISMAP instead of conducting their own individual assessments.
 
-The program was officially announced on May 26, 2020, and various information is available on the official website of the Information-technology Promotion Agency, Japan (IPA).
-
-In the program, a total of 1,600 items, consisting of governance standards, management standards and control measures standards, must be audited by a third-party auditing firm.
+For more information about ISMAP, see the official [ISMAP web site](https://www.ismap.go.jp/csm).
 
 ## Microsoft and ISMAP
 
-Many Microsoft cloud services have been certified following audit evaluation by the ISMAP audit organization.
+Microsoft cloud services have been assessed and certified under ISMAP as shown on the official [ISMAP cloud services list](https://www.ismap.go.jp/csm?id=cloud_service_list). The assessment was conducted by an independent third-party auditing firm approved by ISMAP. Microsoft products and services provide comprehensive compliance assurances to help your organization comply with national, regional, and industry-specific requirements.
 
-In the statement of compliance, Microsoft is certified under the two main categories of Office 365 and Azure, just like ISO 27000 series and SOC2 reports, but all services offered as Microsoft 365 and Dynamics 365 are included as in-scope services.
+## Applicability
 
-## Microsoft in-scope cloud services
+The following Azure regions are in scope for ISMAP certification as shown on the official [ISMAP cloud services list](https://www.ismap.go.jp/csm?id=cloud_service_list):
 
-- Microsoft Office 365
+- Japan East
+- Japan West
+- 40 more regions worldwide that are available to Japanese customers under contract, excluding Azure Government and Azure China regions.
 
-  - All 25 services
+## Services in scope
 
-  - Includes Office 365, Office 365 Microservices, and Office 365 Education Services.
+The following Microsoft cloud services are in scope for ISMAP certification as shown on the official [ISMAP cloud services list](https://www.ismap.go.jp/csm?id=cloud_service_list):
 
-- Microsoft Azure
+- Azure, Azure DevOps, Dynamics 365, and other Microsoft online services
+- Office 365 services
 
-  - All 206 services
+## Audit reports and certificates
 
-  - Includes security services included in Microsoft Azure, Azure DevOps, Microsoft Dynamics 365, and Microsoft 365 suites.
-
-- In-scope Data Centers
-
-  - Total 43 regions
-
-    - East Japan region (five data centers)
-
-    - West Japan region (five data centers)
-
-    - 41 regions worldwide that are available to Japanese customers under the contract. (It does not include U.S. Government regions and China regions that are not available under the contract of Japanese customers.)
+Evidence of Microsoft ISMAP certification is available from the official [ISMAP cloud services list](https://www.ismap.go.jp/csm?id=cloud_service_list).
 
 ## Frequently asked questions
 
-**To whom do the ISMAP guidelines apply?**
+**To whom does ISMAP certification apply?**
 
-Cloud service providers that provide cloud services to the government. The ISMAP is a system to ensure an appropriate security level in government cloud service procurement by evaluating and registering cloud services that meet the security requirements of the Japanese government in advance, and thereby enabling the smooth introduction of cloud services.
+ISMAP certification applies to cloud services that are available to Japanese government agencies through public sector procurement programs. ISMAP ensures appropriate security in government cloud services procurement by evaluating and registering cloud services that meet the Japanese government security requirements.
 
 **Where can I get more information on ISMAP requirements?**
 
-Please refer to the website of Information-technology Promotion Agency (IPA): [ISMAP: Rules and Regulations and more](https://www.ismap.go.jp/csm).
+For more information about ISMAP, see the official [ISMAP web site](https://www.ismap.go.jp/csm).
 
-**Where can I get the details of Microsoft’s responses to the ISMAP framework?**
+**Where can I get more information about Microsoft approach to ISMAP?**
 
-Concerning the Information System Security Management and Assessment Program (ISMAP) at Microsoft, please read [Microsoft's Approach to Compliance - Microsoft Legal](https://www.microsoft.com/ja-jp/mscorp/legal/compliance?activetab=service:primaryr7).
+For more information about Microsoft approach to ISMAP, see [Microsoft approach to compliance: ISMAP (Japanese)](https://www.microsoft.com/ja-jp/mscorp/legal/compliance?activetab=service%3aprimaryr7).
 
 ## Resources
 
-- [Information System Security Management and Assessment Program (ISMAP)](https://www.ismap.go.jp/) at the website of Information-technology Promotion Agency, Japan (Japanese)
-
-- [Microsoft's Approach to Compliance - Information System Security Management and Assessment Program (ISMAP)](https://www.microsoft.com/ja-jp/mscorp/legal/compliance?activetab=service%3aprimaryr7) (Japanese)
-
-## Resources (English)
-
-- [ISMAP Overview](https://www.ismap.go.jp/sys_attachment.do?sys_id=b135d21fdb53a4107766044cd396198f)
+- [ISMAP official site](https://www.ismap.go.jp/csm)
+- [Microsoft approach to compliance: ISMAP (Japanese)](https://www.microsoft.com/ja-jp/mscorp/legal/compliance?activetab=service%3aprimaryr7)
+- [Japan Cloud Security Mark Gold](offering-cs-mark-gold-japan.md)
+- [FISC (Japan)](offering-fisc-japan.md)
+- [Microsoft Online Services Terms (OST)](https://aka.ms/Online-Services-Terms)
+- [Microsoft OST Data Protection Addendum (DPA)](https://aka.ms/DPA)
+- [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

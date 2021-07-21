@@ -75,7 +75,7 @@ Office logs contain various different types of data. The following are examples 
 
 - Performance data about the app and/or particular features within the app
 
-- General location information about where the user's computer is (for example, country / region, state, and city, derived from the IP address), but not precise geo location.
+- General location information about where the user's computer is (for example, country/region, state, and city, derived from the IP address), but not precise geo location.
 
 - Basic metadata about the browser, for example, browser name and version, and the computer, for example, OS type and version
 

@@ -22,13 +22,11 @@ titleSuffix: Microsoft Compliance
 
 ## Title 23 NYCRR Part 500 overview
 
-In response to the significant and ever-increasing threats to the cybersecurity of information and financial systems, in 2017, the State of New York Department of Financial Services imposed a new set of cybersecurity requirements on financial institutions that are licensed or authorized to do business in the state. This regulation — Title 23 New York Codes, Rules, and Regulation Part 500: Cybersecurity Requirements for Financial Services Companies — is designed to protect customer data and the information technology systems of financial institutions such as state-chartered, private, and international banks, mortgage brokers, and insurance companies.
+In response to the significant and ever-increasing threats to the cybersecurity of information and financial systems, in 2017, the State of New York Department of Financial Services imposed a new set of cybersecurity requirements on financial institutions that are licensed or authorized to do business in the state. Title 23 New York Codes, Rules, and Regulation Part 500: Cybersecurity Requirements for Financial Services Companies is designed to protect customer data and the information technology systems of financial institutions such as state-chartered, private, and international banks, mortgage brokers, and insurance companies.
 
 ## Microsoft and Title 23 NYCRR Part 500
 
 Microsoft provides a comprehensive guide, [Microsoft Cloud Services: Supporting Compliance with NYDFS Cybersecurity Requirements](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides), for financial services regulated under Title 23 NYCRR Part 500. It explains in depth how Azure, Office 365, and Power BI cloud services support compliance with the requirements. Financial institutions that seek to operate in the global financial center of New York must meet them, so compliance is critical for many institutions.
-
-Follow this guidance to accelerate your compliance with Title 23 NYCRR Part 500: Microsoft Cloud Services: [Supporting Compliance with NYDFS Cybersecurity Requirements](https://go.microsoft.com/fwlink/p/?linkid=2098969)
 
 The New York regulations require each financial institution to:
 
@@ -46,24 +44,37 @@ The New York regulations require each financial institution to:
 - **Monitor the activity of authorized users, detect unauthorized access, and offer regular cybersecurity awareness training to employees**: Azure, Office 365, and Power BI include outside-in monitoring to raise alerts about incidents, and extensive diagnostics for logging and auditing. [Microsoft Virtual Academy](https://mva.microsoft.com/) offers online training that covers the cybersecurity of Microsoft cloud services.
 - **Develop plans to respond to and recover from cybersecurity incidents**: Microsoft helps you prepare for cybersecurity incidents using a defensive strategy to detect, predict, and prevent security breaches before they occur. When developing your own plans, you can draw on our incident management plan for responding to cybersecurity breaches.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+- Office 365
+
+## Office 365 and Title 23 NYCRR Part 500
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 
 **What institutions are covered under this regulation?**
 
-Consult the New York Department of Financial Services [Who We Supervise](https://go.microsoft.com/fwlink/p/?linkid=2099374) to determine whether your institution is governed by this regulation.
+Consult the [New York Department of Financial Services Who We Supervise](https://go.microsoft.com/fwlink/p/?linkid=2099374) site to determine whether your institution is governed by this regulation.
 
 ## Resources
 
 - [Featured resources](https://www.microsoft.com/trustcenter/compliance/NYCRR)
 - [New York State Department of Financial Services 23 NYCRR 500: Cybersecurity Requirements For Financial Services Companies](https://go.microsoft.com/fwlink/p/?linkid=2098976)
-- [FAQs: 23 NYCRR Part 500–Cybersecurity](https://go.microsoft.com/fwlink/p/?linkid=2098977)
+- [FAQs: 23 NYCRR Part 500-Cybersecurity](https://go.microsoft.com/fwlink/p/?linkid=2098977)
 - [Microsoft Cloud Services: Supporting Compliance with NYDFS Cybersecurity Requirements](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
@@ -71,5 +82,4 @@ Consult the New York Department of Financial Services [Who We Supervise](https:/
 
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Microsoft Cloud Financial Services Compliance Program](https://www.microsoft.com/download/confirmation.aspx?id=55332)
-- [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Shared responsibilities for cloud computing](https://aka.ms/sharedresponsibility)- 

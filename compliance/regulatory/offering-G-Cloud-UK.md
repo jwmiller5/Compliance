@@ -36,16 +36,30 @@ The appointment of Microsoft services to the Digital Marketplace means that UK g
 
  [14 Cloud Security Controls for UK cloud using Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) provides customer strategies to move their services to Azure and help meet their UK obligations mandated by the CESG/NCSC. The whitepaper provides insight into how Azure can be used to help address the 14 controls outlined in the cloud security principals, and outlines how customers can move faster and achieve more while saving money as they adopt Microsoft Azure services.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- Office 365: Exchange Online, SharePoint Online, and Skype for Business Online
-- PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
-- Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
+- Office 365
+- Power Automate (formerly Microsoft Flow) cloud service (either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite)
+- PowerApps cloud service (either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite)
+- Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)
+
+## Office 365 and UK G-Cloud
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

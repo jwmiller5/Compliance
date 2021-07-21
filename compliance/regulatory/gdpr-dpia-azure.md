@@ -22,12 +22,12 @@ ms.custom: seo-marvel-mar2020
 
 # Data Protection Impact Assessments: Guidance for Data Controllers Using Microsoft Azure
 
-Under the General Data Protection Regulation (GDPR), data controllers are required to prepare a Data Protection Impact Assessment (DPIA) for processing operations that are "likely to result in a high risk to the rights and freedoms of natural persons." There is nothing inherent in Microsoft Azure itself that would necessarily require the creation of a DPIA by a data controller using it. Rather, whether a DPIA is required will be dependent on the details and context of *how* the data controller deploys, configures, and uses Microsoft Azure.
+Under the General Data Protection Regulation (GDPR), data controllers are required to prepare a Data Protection Impact Assessment (DPIA) for processing operations that are "likely to result in a high risk to the rights and freedoms of natural persons." There is nothing inherent in Microsoft Azure itself that would necessarily require the creation of a DPIA by a data controller using it. Rather, whether a DPIA is required will be dependent on the details and context of *how* the data controller deploys, configures, and uses Microsoft Azure. In any case, a DPIA should begin early in the life of a project and run in parallel to the planning and development process.
 
 The purpose of this document is to provide data controllers with information about Microsoft Azure that will help them to determine whether a DPIA is needed and, if so, what details to include.
 
 >[!Note]
->Microsoft is not providing any legal advice in this document. This document is being provided for informational purposes only. Customers are encouraged to work with their privacy officers and legal counsel to determine the necessity and content of any DPIAs related to their use of Microsoft Azure or any other Microsoft online service.
+>Microsoft is not providing any legal advice in this article. This article is being provided for informational purposes only. Customers are encouraged to work with their privacy officers (and/or Data Protection Officer (DPO) where designated) and/or legal counsel and/or advisors to determine the necessity and content of any DPIAs related to their use of Microsoft Azure or any other Microsoft online service.
 
 ## Part 1: Determining whether a DPIA is needed
 

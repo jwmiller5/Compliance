@@ -36,7 +36,7 @@ In September 2018, TruSight issued its first risk assessment of Microsoft cloud 
 
 As a result of this rigorous TruSight evaluation, financial services customers now have access on demand to a high-quality assessment of Microsoft cloud services based on standardized, industry-backed methodology without having to expend the considerable resources they would need to conduct it themselves.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (version 9 and subsequent versions)](https://aka.ms/d365-compliance-list)

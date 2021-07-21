@@ -32,19 +32,37 @@ Microsoft maintains an active commitment to meeting the 140-2 requirements, havi
 
 For technical information on Microsoft Windows cryptographic modules, the security policy for each module, and the catalog of CMVP certificate details, see the [Windows and Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud).
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 While the current CMVP FIPS 140-2 implementation guidance precludes a FIPS 140-2 validation for a cloud service itself; cloud service providers can choose to obtain and operate FIPS 140 validated cryptographic modules for the computing elements that comprise their cloud service. Microsoft online services that include components, which have been FIPS 140-2 validated include, among others:
 
-- [Azure and Azure Government](/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 and Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- Azure and Azure Government
+- Dynamics 365 and Dynamics 365 Government
+- Office 365, Office 365 U.S. Government, and Office 365 U.S. Government Defense
 
-## Frequently asked questions
+## Azure, Dynamics 365, and FIPS 140-2
 
-**What is the difference between 'FIPS 140 Validated” and 'FIPS 140 compliant”?**
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure FIPS 140-2 offering](/azure/compliance/offerings/offering-fips-140-2).
 
-'FIPS 140 Validated” means that the cryptographic module, or a product that embeds the module has been validated ('certified”) by the CMVP as meeting the FIPS 140-2 requirements. 'FIPS 140 compliant” is an industry term for IT products that rely on FIPS 140 Validated products for cryptographic functionality.
+## Office 365 and FIPS 140-2
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| Office 365, GCC, GCC High, DoD | See [FIPS 140-2 Validation](/windows/security/threat-protection/fips-140-validation) |
+
+### Frequently asked questions
+
+**What is the difference between 'FIPS 140 Validated' and 'FIPS 140 compliant'?**
+
+'FIPS 140 Validated' means that the cryptographic module, or a product that embeds the module has been validated ('certified') by the CMVP as meeting the FIPS 140-2 requirements. 'FIPS 140 compliant' is an industry term for IT products that rely on FIPS 140 Validated products for cryptographic functionality.
 
 **When does Microsoft undertake a FIPS 140 validation?**
 
@@ -66,10 +84,6 @@ This caveat informs the reader that required configuration and security rules mu
 
 Yes, the Federal Risk and Authorization Management Program (FedRAMP) relies on control baselines defined by the [NIST SP 800-53 Revision 4](https://nvd.nist.gov/800-53/Rev4/), including [SC-13 Cryptographic Protection](https://nvd.nist.gov/800-53/Rev4/control/SC-13) mandating the use of FIPS-validated cryptography or NSA-approved cryptography.
 
-**How does Microsoft Azure support FIPS 140-2?**
-
-Azure is built with a combination of hardware, commercially available operating systems (Linux and Windows), and Azure-specific version of Windows. Through the Microsoft [Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl/) (SDL), all Azure services use FIPS 140-2 approved algorithms for data security because the operating system uses FIPS 140-2 approved algorithms while operating at a hyper scale cloud.
-
 **Can I use Microsoft's adherence to FIPS 140-2 in my agency's certification process?**
 
 To comply with FIPS 140-2, your system must be configured to run in a FIPS approved mode of operation, which includes ensuring that a cryptographic module uses only FIPS-approved algorithms. For more information on configuring systems to be compliant, see the [Windows and Windows Server FIPS 140-2 content](https://aka.ms/AA6ehud).
@@ -78,7 +92,7 @@ To comply with FIPS 140-2, your system must be configured to run in a FIPS appro
 
 These are two separate security standards with different, but complementary, purposes. FIPS 140-2 is designed specifically for validating software and hardware cryptographic modules, while the Common Criteria is designed to evaluate security functions in IT software and hardware products. Common Criteria evaluations often rely on FIPS 140-2 validations to provide assurance that basic cryptographic functionality is implemented properly.
 
-## Resources
+### Resources
 
 - [FIPS Pub 140-2 Security Requirements for Cryptographic Modules](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST Cryptographic Module Validation Program](https://csrc.nist.gov/groups/STM/cmvp/index.html)

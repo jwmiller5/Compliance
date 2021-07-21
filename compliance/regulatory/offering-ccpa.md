@@ -36,7 +36,7 @@ For commercial customers doing business in California, Microsoft will be acting 
 
 As set out in the OST, Microsoft complies with all laws and regulations applicable to its provision of the Online Services, which would include the CCPA.  
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure Dev Ops
@@ -99,5 +99,5 @@ The CCPA requires regulated businesses that collect, transfer, and sell personal
 - [5 tips to help you prepare for the new California Consumer Privacy Act](https://aka.ms/M365ComplianceBlog_RSA)
 - [Getting Started with CCPA Guide](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [Data Subject Requests and the GDPR](gdpr-data-subject-requests.md)
-- [California Consumer Privacy Act (CCPA) FAQ](ccpa-faq.md)
+- [California Consumer Privacy Act (CCPA) FAQ](ccpa-faq.yml)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

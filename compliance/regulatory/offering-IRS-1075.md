@@ -40,24 +40,41 @@ To help government agencies in their compliance efforts, Microsoft:
 - Provides to the IRS Azure Government Compliance Considerations and Office 365 U.S. Government Compliance Considerations, which outline how an agency can use Microsoft Cloud for Government services in a way that complies with IRS 1075. Government customers under NDA can request these documents.
 - Offers customers the opportunity (at their expense) to communicate with Microsoft subject matter experts or outside auditors if needed.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 FedRAMP authorizations are granted at three impact levels based on NIST guidelines — low, medium, and high. These rank the impact that the loss of confidentiality, integrity, or availability could have on an organization — low (limited effect), medium (serious adverse effect), and high (severe or catastrophic effect).
 
-- [Azure and Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
+- Azure and Azure Government
 - Dynamics 365 U.S. Government
-- [Office 365 and Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Office 365 U.S. Government Defense
+- Office 365, Office 365 U.S. Government
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and IRS 1075
+
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure IRS 1075 offering](/azure/compliance/offerings/offering-irs-1075).
+
+## Office 365 and IRS 1075
+
+### Office 365 cloud environments
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### Office 365 applicability and in-scope services
+
+Use the following table to determine applicability for your Office 365 services and subscription:
+
+| **Applicability** | **In-scope services** |
+|:------------------|:----------------------|
+| **Office 365** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Usage Reports, OneDrive for Business, People Card, Service Infrastructure, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+
+### Office 365 audits, reports, and certificates
 
 Compliance with the substantive requirements of IRS 1075 is covered under the FedRAMP audit every year.
 
 - [FedRAMP authorizations](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
-- [Azure IRS 1075 safeguard security report](https://aka.ms/AzureIRS1075SafeguardSecurityReport)
 
-## Frequently asked questions
+### Frequently asked questions
 
 **How does Microsoft address the requirements of IRS 1075?**
 
@@ -73,11 +90,11 @@ Yes, if your organization meets the eligibility requirements for Azure Governmen
 
 No. The only environments where FTI can be stored and processed are Azure Government or Office 365 U.S. Government. Government customers must meet the eligibility requirements to use these environments.
 
-## Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Compliance Manager to assess your risk
 
 [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## Resources
+### Resources
 
 - [IRS Publication 1075](https://www.irs.gov/pub/irs-pdf/p1075.pdf)
 - [IRS Safeguards Program](https://www.irs.gov/uac/Safeguards-Program)

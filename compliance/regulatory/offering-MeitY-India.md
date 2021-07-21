@@ -38,10 +38,10 @@ In November 2017, Microsoft became one of the first global cloud service provide
 
 The MeitY accreditation of Microsoft was the result of a rigorous audit conducted by the Standardization Testing and Quality Certification (STQC) Directorate, a government organization that provides quality assurance services, using an evaluation framework based on the work of the MeghRaj Cloud Initiative. Through Microsoft Azure, public sector organizations can now draw on a wide range of deployment models and service offerings, including infrastructure as a service (IaaS), platform as a service (PaaS), disaster recovery, DevOps, and managed backup.
 
-## Microsoft in-scope cloud services
+## Microsoft in-scope cloud platforms & services
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## Audits, reports, and certificates
