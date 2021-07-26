@@ -24,13 +24,13 @@ hideEdit: true
 
 # Resiliency and continuity overview
 
-## How does Microsoft ensure business continuity in the case of a disaster or other threat to service availability?
+## How does Microsoft ensure business continuity if a disaster or other threat to service availability occurs?
 
 Microsoft's Enterprise Business Continuity Management (EBCM) team oversees business continuity management and disaster recovery activities across Microsoft services and cloud offerings. Representatives from Microsoft business units coordinate with the EBCM team to develop business continuity plans and validate compliance with business continuity requirements.
 
-At the core of our Business Continuity Management (BCM) methodology is the BCM lifecycle. This three-phase process is designed to be adaptable so it can be implemented by a wide variety of business models across Microsoft. It begins with an **Assessment** phase to identify critical processes and objectives that should be included in the business continuity program. The Assessment phase also requires a Business Impact Analysis (BIA). The **Planning** phase focuses on developing and implementing resilience and recovery strategies, as well as documenting them in official business continuity plans. Finally, **Capability Validation** tests business continuity plans and their implementations to verify effectiveness and identify potential improvements.
+The Business Continuity Management (BCM) lifecycle is at the core of our BCM methodology. This three-phase process is designed to be adaptable so it can be implemented by a wide variety of business models across Microsoft. It begins with an **Assessment** phase to identify critical processes and objectives that should be included in the business continuity program. The Assessment phase also requires a Business Impact Analysis (BIA). The **Planning** phase focuses on developing and implementing resilience and recovery strategies and documenting them in official business continuity plans. Finally, **Capability Validation** tests business continuity plans and their implementations to verify effectiveness and identify potential improvements.
 
-Microsoft online services business continuity strategies leverages hardware, network, and datacenter redundancy. Data replication between datacenters provides high availability and reliability in the case of a catastrophic incident. It also increases resilience to mundane incidents such as isolated hardware failure or data corruption.
+Microsoft online services business continuity strategies use hardware, network, and datacenter redundancy. Data replication between datacenters provides high availability and reliability during a catastrophic incident. It also increases resilience to mundane incidents such as isolated hardware failure or data corruption.
 
 ## How does Microsoft test business continuity and disaster recovery plans?
 
@@ -42,7 +42,7 @@ Per EBCM guidelines, annual reviews of business continuity plans and capability 
 
 ## How do Microsoft online services ensure system capacity meets demand?
 
-Capacity planning helps service teams allocate the resources necessary to support Microsoft online service availability. Regular capacity planning is required as part of Microsoft's EBCM program. Service teams review capacity data during quarterly reviews, as well as during emergency situations that warrant additional capacity review.
+Capacity planning helps service teams allocate the resources necessary to support Microsoft online service availability. Regular capacity planning is required as part of Microsoft's EBCM program. Service teams review capacity data during quarterly reviews, and during emergency situations that warrant more capacity review.
 
 The raw data for capacity planning is maintained by each service team and includes metrics like system processing, memory, and hardware capacity. Scheduled reviews use a model of the system's current capacity and test it against projected needs in emergency situations. If the model indicates gaps in capacity, proposed changes to system capacity are submitted to service team leadership for review. Approved changes are incorporated into a new model before implementation by service team engineers.
 

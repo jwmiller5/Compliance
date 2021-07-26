@@ -26,13 +26,13 @@ hideEdit: true
 
 ## What role does encryption play in protecting customer content?
 
-Most Microsoft business cloud services are multi-tenant, meaning that customer content may be stored on the same physical hardware as that of other customers. To protect the confidentiality of customer content, Microsoft online services encrypt all data at rest and in transit with some of the strongest and most secure encryption protocols available.
+Most Microsoft business cloud services are multi-tenant, meaning that customer content may be stored on the same physical hardware as other customers. To protect the confidentiality of customer content, Microsoft online services encrypt all data at rest and in transit with some of the strongest and most secure encryption protocols available.
 
 Encryption is not a substitute for strong access controls. Microsoft online services' access control policy of Zero Standing Access (ZSA) protects customer content from unauthorized access by Microsoft employees. Encryption complements access control by protecting the confidentiality of customer content wherever it is stored and by preventing content from being read while in transit between Microsoft online services systems or between Microsoft online services and the customer.
 
 ## How do Microsoft online services encrypt data-at-rest?
 
-All customer content in Microsoft online services is protected by one or more forms of encryption. Microsoft servers use BitLocker to encrypt the disk drives containing customer content at the volume-level. The encryption provided by BitLocker protects customer content in case of lapses in other processes or controls (for example, access control or recycling of hardware) that could lead to unauthorized physical access to disks containing customer content.
+All customer content in Microsoft online services is protected by one or more forms of encryption. Microsoft servers use BitLocker to encrypt the disk drives containing customer content at the volume-level. The encryption provided by BitLocker protects customer content if there are lapses in other processes or controls (for example, access control or recycling of hardware) that could lead to unauthorized physical access to disks containing customer content.
 
 In addition to volume-level encryption, Microsoft online services use Service Encryption at the application layer to encrypt customer content. Service Encryption provides rights protection and management features on top of strong encryption protection. It also allows for separation between Windows operating systems and the customer data stored or processed by those operating systems.
 
@@ -46,9 +46,9 @@ For Microsoft online services, data is considered 'in transit' whenever a user's
 
 Strong encryption is only as secure as the keys used to encrypt data. Microsoft uses its own security certificates to encrypt TLS connections for data-in-transit. For data-at-rest, BitLocker-protected volumes are encrypted with a full volume encryption key, which is encrypted with a volume master key, which in turn is bound to the Trusted Platform Module (TPM) in the server. BitLocker uses FIPS-compliant algorithms to ensure that encryption keys are never stored or sent over the wire in the clear.
 
-Service Encryption provides an additional layer of encryption for customer data-at-rest giving customers two options for encryption key management: Microsoft-managed keys or Customer Key. When using Microsoft-managed keys, Microsoft online services automatically generate and securely store the root keys used for Service Encryption.
+Service Encryption provides another layer of encryption for customer data-at-rest giving customers two options for encryption key management: Microsoft-managed keys or Customer Key. When using Microsoft-managed keys, Microsoft online services automatically generate and securely store the root keys used for Service Encryption.
 
-Customers with requirements to control their own root encryption keys can leverage Service Encryption with Customer Key. Using Customer Key, customers can generate their own cryptographic keys using either an on-premises Hardware Service Module (HSM) or Azure Key Vault (AKV). Customer root keys are stored in AKV, where they can be used as the root of one of the keychains that encrypts customer mailbox data or files. Customer root keys can only be accessed indirectly by Microsoft online service code for data encryption and cannot be accessed directly by Microsoft employees.
+Customers with requirements to control their own root encryption keys can use Service Encryption with Customer Key. Using Customer Key, customers can generate their own cryptographic keys using either an on-premises Hardware Service Module (HSM) or Azure Key Vault (AKV). Customer root keys are stored in AKV, where they can be used as the root of one of the keychains that encrypts customer mailbox data or files. Customer root keys can only be accessed indirectly by Microsoft online service code for data encryption and cannot be accessed directly by Microsoft employees.
 
 ## Related external regulations & certifications
 
