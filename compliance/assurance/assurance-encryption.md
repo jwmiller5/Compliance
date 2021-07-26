@@ -28,7 +28,7 @@ hideEdit: true
 
 Most Microsoft business cloud services are multi-tenant, meaning that customer content may be stored on the same physical hardware as other customers. To protect the confidentiality of customer content, Microsoft online services encrypt all data at rest and in transit with some of the strongest and most secure encryption protocols available.
 
-Encryption is not a substitute for strong access controls. Microsoft online services' access control policy of Zero Standing Access (ZSA) protects customer content from unauthorized access by Microsoft employees. Encryption complements access control by protecting the confidentiality of customer content wherever it is stored and by preventing content from being read while in transit between Microsoft online services systems or between Microsoft online services and the customer.
+Encryption is not a substitute for strong access controls. Microsoft's access control policy of Zero Standing Access (ZSA) protects customer content from unauthorized access by Microsoft employees. Encryption complements access control by protecting the confidentiality of customer content wherever it is stored and by preventing content from being read while in transit between Microsoft online services systems or between Microsoft online services and the customer.
 
 ## How do Microsoft online services encrypt data-at-rest?
 
