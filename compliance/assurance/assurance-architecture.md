@@ -66,7 +66,7 @@ Microsoft online services architecture is validated regularly and automatically 
 
 ## Related external regulations & certifications
 
-Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to the architecture of Microsoft 365.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to architecture.
 
 ### Azure and Dynamics 365
 
