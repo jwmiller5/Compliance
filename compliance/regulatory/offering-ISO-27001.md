@@ -123,6 +123,7 @@ Yes. If your business requires ISO/IEC 27001 certification for implementations d
 
 ### Resources
 
+- [Microsoft 365 ISO 27001 action plan](iso-action-plan.md)
 - [Mapping Microsoft Cyber Offerings to: NIST Cybersecurity (CSF),CIS Controls, and ISO27001:2013 Frameworks](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [The ISO/IEC 27000 Directory](https://www.27000.org/index.htm)
 - [ISO/IEC 27001: 2013 standard](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=54534) (for purchase)
