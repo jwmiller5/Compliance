@@ -54,7 +54,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive for Business, Planner, Power Apps, Power BI for Office 365, PowerApps, Power Automate, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Commercial** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive for Business, Planner, Power Apps, Power BI for Office 365, PowerApps, Power Automate, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## How to implement
 
