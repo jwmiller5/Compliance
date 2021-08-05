@@ -63,7 +63,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | OneDrive for Business (United States), SharePoint Online |
+| **Commercial** | OneDrive for Business (United States), SharePoint Online |
 
 ### Office 365 audit, reports, and certificates
 

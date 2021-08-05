@@ -52,7 +52,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online, SharePoint Online, Skype for Business |
 
 >[!Note]
 >Microsoft NZ has worked with the GCIO team to develop a reference architecture for integrating Exchange Online and SEEMail described in Office 365: SEEMail Integration and Reference Architecture.

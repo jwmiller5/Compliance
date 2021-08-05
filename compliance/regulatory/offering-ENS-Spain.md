@@ -53,7 +53,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 
