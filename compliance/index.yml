@@ -235,7 +235,7 @@ additionalContent:
       items:
         # Card
         - title: Microsoft Azure
-          summary: If your organization needs to comply with legal or regulatory standards, start here to learn about compliance in Azure.
+          summary: Azure compliance provides you with compliance offerings, blueprints, compliance guides, and resources for Azure services.
           url: /azure/compliance/
         # Card
         - title: Dynamics 365
@@ -243,7 +243,7 @@ additionalContent:
           url: /dynamics365/business-central/compliance/compliance-overview
         # Card
         - title: Microsoft 365
-          summary: Start here to learn more about compliance solutions in Microsoft 365.
+          summary: If your organization needs to comply with legal or regulatory standards, start here to learn about compliance in Microsoft 365.
           url: /microsoft-365/compliance/
 
   
