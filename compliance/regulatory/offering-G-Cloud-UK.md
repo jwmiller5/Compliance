@@ -59,7 +59,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

@@ -65,7 +65,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
+| **Commercial** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

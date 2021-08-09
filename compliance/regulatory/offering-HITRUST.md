@@ -59,7 +59,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **Commercial** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
 
 ### Office 365 audits, reports, and certificates
 
