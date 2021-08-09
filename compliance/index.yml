@@ -235,7 +235,7 @@ additionalContent:
       items:
         # Card
         - title: Microsoft Azure
-          summary: Azure compliance provides you with compliance offerings, blueprints, compliance guides, and resources for Azure services.
+          summary: Azure compliance provides you with compliance offerings, blueprints, compliance guides, and resources to help you meet your compliance obligations.
           url: /azure/compliance/
         # Card
         - title: Dynamics 365
