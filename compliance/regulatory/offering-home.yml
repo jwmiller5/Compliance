@@ -203,13 +203,13 @@ conceptualContent:
         - url: offering-hipaa-hitech.md
           itemType: reference
           text: HIPAA / HITECH
-        - url: offering-hitrust.md
-          itemType: reference
-          text: HITRUST
 
     # Card
     - title: Industry
       links:
+        - url: offering-hitrust.md
+          itemType: reference
+          text: HITRUST
         - url: offering-knf-poland.md
           itemType: reference
           text: KNF (Poland)
@@ -240,13 +240,13 @@ conceptualContent:
         - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
-        - url: offering-rbi-irdai-india.md
-          itemType: reference
-          text: RBI + IRDAI (India)
 
     # Card
     - title: Industry
       links:
+        - url: offering-rbi-irdai-india.md
+          itemType: reference
+          text: RBI + IRDAI (India)
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
