@@ -28,7 +28,7 @@ The FINMA published [Circular 2018/3 Outsourcing–banks and insurers](https://w
 
 ## Microsoft and FINMA
 
-To help guide financial institutions in Switzerland considering outsourcing business functions to the cloud, Microsoft has published [A compliance checklist for financial institutions in Switzerland](https://aka.ms/FinServ-Guide-Switzerland). By reviewing and completing the checklist, financial organizations can adopt Microsoft business cloud services with the confidence that they are complying with applicable regulatory requirements.
+To help guide financial institutions in Switzerland considering outsourcing business functions to the cloud, Microsoft has published [A compliance checklist for financial institutions in Switzerland](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides). By reviewing and completing the checklist, financial organizations can adopt Microsoft business cloud services with the confidence that they are complying with applicable regulatory requirements.
 
 When Swiss financial institutions outsource business activities, they must comply with the requirements of the Swiss Financial Market Supervisory Authority (FINMA) and be cognizant of other requirements and guidelines that include those of the Swiss Bank Act, the Swiss Bank Ordinance, and the Swiss Insurance Supervision Act.
 
@@ -45,7 +45,7 @@ The Microsoft checklist helps Swiss financial firms conducting due-diligence ass
 
 ## How to implement
 
-- [Compliance checklist: Switzerland](https://aka.ms/FinServ-Guide-Switzerland): Financial firms can get help in conducting risk assessments of Microsoft business cloud services.
+- [Compliance checklist: Switzerland](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): Financial firms can get help in conducting risk assessments of Microsoft business cloud services.
 - [Risk Assessment & Compliance Guide](https://aka.ms/RiskGovernanceGuide): Create a governance model for risk assessment of Microsoft cloud services, and regulator notification.
 - [Financial use cases](/azure/industry/financial/): Use case overviews, tutorials, and other resources to build Azure solutions for financial services.
 
