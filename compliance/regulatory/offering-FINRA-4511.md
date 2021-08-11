@@ -55,7 +55,7 @@ For [FINRA Rule 4511(c)](/microsoft-365/compliance/retention-regulatory-requirem
 
 ### Azure & FINRA Rule 4511(c)
 
-[SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+- [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
 ### Office 365 & FINRA Rule 4511(c)
 

@@ -38,7 +38,7 @@ Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment
 
 ## Microsoft in-scope cloud platforms & services
 
-- Azure and Azure Government
+- Azure
 - Office 365
 
 ## Office 365 and ENS High
