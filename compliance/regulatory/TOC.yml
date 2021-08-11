@@ -76,7 +76,7 @@
       items: 
         - name: Automotive
           items: 
-            - name: TISAX (Germany)
+            - name: TISAX
               href: /azure/compliance/offerings/offering-tisax?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Education
           items: 
@@ -106,13 +106,13 @@
               href: offering-ffiec-us.md
             - name: FINMA (Switzerland)
               href: offering-finma-switzerland.md
-            - name: FINRA 4511
+            - name: FINRA 4511 (US)
               href: offering-finra-4511.md
             - name: FISC (Japan)
               href: offering-fisc-japan.md
             - name: FSA (Denmark)
               href: offering-fsa-denmark.md
-            - name: GLBA
+            - name: GLBA (US)
               href: offering-glba.md
             - name: KNF (Poland)
               href: offering-knf-poland.md
