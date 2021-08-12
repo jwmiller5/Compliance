@@ -79,7 +79,7 @@ The FISC has published two reports from its Council of Experts:
 
 **Where can I get the details of Microsoft's responses to the FISC framework?**
 
-You can also see security references ([in Japanese](https://aka.ms/microsoftresponsetofiscguidancejapanese)) from third parties who have evaluated the FISC compliance of Microsoft cloud services.
+For security references from third parties who have evaluated the FISC compliance of Microsoft cloud services, contact your Microsoft account representative.
 
 **Can I use Microsoft's responses to this framework in my organization's qualification process?**
 
