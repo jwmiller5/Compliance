@@ -2,7 +2,7 @@
 title: ISO/IEC 27018 Code of Practice for Protecting Personal Data in the Cloud
 description: Microsoft was the first cloud provider to adhere to this code of practice for cloud privacy.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

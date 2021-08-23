@@ -14,7 +14,7 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21

@@ -2,7 +2,7 @@
 title: Information protection
 description: Learn about information protection capabilities in Microsoft 365 for the General Data Protection Regulation (GDPR).
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
