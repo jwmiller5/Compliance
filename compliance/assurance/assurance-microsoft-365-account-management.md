@@ -28,7 +28,7 @@ Microsoft has invested heavily in systems and controls that automate most Micros
 
 By default, Microsoft personnel have zero standing privileged access to any Microsoft 365 environment or customer data for an organization. It is only through a robust system of checks and approvals that service team personnel can gain privileged access with a narrow action and time scope. Through this system, Microsoft can significantly reduce the potential of Microsoft 365 service personnel and attackers from gaining unauthorized access or causing malicious or accidental harm to Microsoft services and customers.
 
-## Account Types
+## Account types
 
 Microsoft 365 meets all organizational missions and business functions using three categories of accounts: service team accounts, service accounts, and customer accounts. Managing these accounts is a shared responsibility between Microsoft and customers. Microsoft manages both service team and service accounts, which are used to operate and support Microsoft products and services. Customer accounts are managed by the customer and allow them to tailor account access to meet their internal access control requirements.
 
@@ -38,11 +38,11 @@ Microsoft 365 meets all organizational missions and business functions using thr
 
 **Service team accounts** are used by Microsoft 365 service team personnel developing and maintaining Microsoft 365 services. These accounts do not have standing privileged access to Microsoft 365 services, instead they can be used to request temporary and limited privileged access to perform a specified job function. Not every service team account can perform the same actions, separation of duties is enforced using role-based access control (RBAC). Roles ensure that service team members and their accounts have only the minimum access required to perform specific job duties. Additionally, service team accounts cannot belong to multiple roles where they can act as the approver for their own actions.
 
-**Service accounts** are used by Microsoft 365 services to authenticate when communicating with other services through automated processes. Just as service team accounts are only given the minimum access necessary to perform the specific personnel’s job duties, service accounts are only granted the bare minimum access needed for their intended purpose. Additionally, there are multiple types of service accounts that are designed to fulfill a specific need. One Microsoft 365 service may have multiple service accounts, each with a different role to perform.
+**Service accounts** are used by Microsoft 365 services to authenticate when communicating with other services through automated processes. Just as service team accounts are only given the minimum access necessary to perform the specific personnel's job duties, service accounts are only granted the bare minimum access needed for their intended purpose. Additionally, there are multiple types of service accounts that are designed to fulfill a specific need. One Microsoft 365 service may have multiple service accounts, each with a different role to perform.
 
 ## Customer-managed accounts
 
-**Customer accounts** are used to access Microsoft 365 service and are the only accounts each customer is responsible for. It is the customer's duty to provision and manage the accounts in their organization to maintain a secure environment. Management of customer accounts is done through Azure Active Directory (AAD) or federated with on-premises Active Directory (AD). Each customer has a unique set of access control requirements they must meet, and customer accounts grant each customer the ability to satisfy their individual needs. Customer accounts cannot access any data outside of their customer tenant.
+**Customer accounts** are used to access Microsoft 365 service and are the only accounts each customer is responsible for. It is the customer's duty to create and manage the accounts in their organization to maintain a secure environment. Management of customer accounts is done through Azure Active Directory (AAD) or federated with on-premises Active Directory (AD). Each customer has a unique set of access control requirements they must meet, and customer accounts grant each customer the ability to satisfy their individual needs. Customer accounts cannot access any data outside of their customer organization.
 
 ## Service team account management
 
