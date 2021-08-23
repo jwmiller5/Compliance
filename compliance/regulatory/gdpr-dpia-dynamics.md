@@ -3,7 +3,7 @@ title: DPIA Dynamics for the GDPR
 description: Provides data controllers with information about Dynamics 365 to help determine whether a DPIA is needed and what details to include.
 keywords: DPIA, Microsoft 365, Dynbamics 365, Microsoft 365 documentation, GDPR
 robots:  "NOINDEX,NOFOLLOW"
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

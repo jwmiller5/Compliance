@@ -18,7 +18,7 @@ metadata:
   author: robmazz #Required; your GitHub user alias, with correct capitalization.
   ms.author: robmazz #Required; microsoft alias of author; optional team alias.
   ms.date: 11/30/2020 #Required; mm/dd/yyyy format.
-  localization_priority: Normal
+  ms.localizationpriority: medium
 
 # conceptualContent section (optional)
 conceptualContent:

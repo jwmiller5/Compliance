@@ -2,7 +2,7 @@
 title: Dutch Authority for the Financial Markets and the Central Bank of the Netherlands
 description: Microsoft has published guidance to help financial institutions in the Netherlands with cloud adoption.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

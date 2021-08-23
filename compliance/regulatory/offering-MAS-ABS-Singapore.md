@@ -2,7 +2,7 @@
 title: Monetary Authority of Singapore (MAS) and Association of Banks in Singapore (ABS)
 description: Microsoft helps financial clients comply with Monetary Authority of Singapore outsourcing guidelines and apply guidance from the Association of Banks in Singapore.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

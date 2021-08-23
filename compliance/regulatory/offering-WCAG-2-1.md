@@ -2,7 +2,7 @@
 title: Web Content Accessibility Guidelines
 description: Microsoft publishes WCAG AA reports that reflect the complete product or service, or portions of the product that may be installed separately.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

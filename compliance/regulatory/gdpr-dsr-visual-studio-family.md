@@ -2,7 +2,7 @@
 title: Visual Studio Family Data Subject Requests for the GDPR and CCPA
 description: Learn how to use Microsoft tools to manage Family Data Subject Requests in Visual Studio for the GDPR and CCPA.
 keywords: Visual Studio, Visual Studio Code, Visual Studio for Mac, Visual Studio documentation, privacy, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 audience: itpro
 ms.prod: visual-studio-family
 ms.topic: article
