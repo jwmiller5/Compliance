@@ -2,7 +2,7 @@
 title: My Number Act (Japan)
 description: Microsoft business cloud services comply with My Number Act standards for protecting the privacy of My Number data.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

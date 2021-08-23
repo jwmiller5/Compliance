@@ -2,7 +2,7 @@
 title: Windows diagnostic data processor configuration Data Subject Requests for the GDPR and CCPA
 description: Learn how to use Microsoft products, services, and admin tools to find and act on personal data to respond to DSRs.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article

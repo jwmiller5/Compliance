@@ -2,7 +2,7 @@
 title: Reserve Bank of India (RBI) and Insurance Regulatory and Development Authority of India (IRDAI)
 description: Microsoft has published guidance to help financial institutions in India with cloud adoption.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

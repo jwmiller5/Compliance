@@ -3,7 +3,7 @@ title: Microsoft 365 NIST 800-53 action plan, priorities for the first 30 days, 
 description: A prioritized action plan you can follow as you work to meet the requirements of the National Institute of Standards and Technology (NIST)
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, NIST, NIST 800-53
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
