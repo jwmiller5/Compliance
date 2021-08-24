@@ -25,21 +25,21 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card 1
-    - title: Quick tasks for getting started with Microsoft 365 compliance
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    # Card 2
-    - title: Get started with Microsoft 365 compliance solution guides
-      itemType: get-started
-      url: /microsoft-365/solutions/
-    # Card 3
     - title: Learn how Microsoft safeguards customer data
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    # Card 4
+    # Card 2
+    - title: Learn about shared responsibility in the cloud
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
+    # Card 3
     - title: Learn about Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
+    # Card 4
+    - title: Get started with Microsoft 365 compliance solution guides
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 
 # productDirectory section (optional)
 productDirectory:
