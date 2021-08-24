@@ -29,33 +29,17 @@ highlightedContent:
       itemType: get-started
       url: /microsoft-365/compliance/compliance-quick-tasks
     # Card 2
-    - title: Deploy information protection for data privacy regulations
+    - title: Get started with Microsoft 365 compliance solution guides
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
     # Card 3
-    - title: Learn about shared responsibility in the cloud
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
-    # Card 4
     - title: Learn how Microsoft safeguards customer data
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    # Card 5
+    # Card 4
     - title: Learn about Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
-    # Card 6
-    - title: Manage insider risk in Microsoft 365
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    # Card 7
-    - title: Manage information protection and governance
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    # Card 8
-    - title: Learn about Advanced eDiscovery and Advanced Audit
-      itemType: learn
-      url: /learn/paths/compliance-discover/
 
 # productDirectory section (optional)
 productDirectory:
