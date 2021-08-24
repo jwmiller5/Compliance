@@ -39,7 +39,7 @@ highlightedContent:
     # Card 4
     - title: Get started with Microsoft 365 compliance solution guides
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
 
 # productDirectory section (optional)
 productDirectory:
