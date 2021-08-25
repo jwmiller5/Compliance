@@ -2,7 +2,7 @@
 title: NEN 7510
 description: Organizations in the Netherlands must demonstrate control over patient health data in accordance with the NEN 7510 standard.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

@@ -2,7 +2,7 @@
 title: Health Data Hosting (HDS) France
 description: Microsoft cloud services are certified for their compliance with the Health Data Hosting (Hébergeurs de Données de Santé) standard.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -43,7 +43,11 @@ The rigorous audit covered the measures Microsoft has taken to secure personal h
 
 ## Microsoft in-scope cloud platforms & services
 
-- [Azure](https://aka.ms/AzureCompliance). The HDS certificate applies to Azure services listed as compliant with the ISO/IEC 27001 standard in Azure Compliance offerings and provisioned from the France Central, France South, Europe West, and Europe North Azure regions.
+- [Azure](https://aka.ms/AzureCompliance). The HDS certificate applies to Azure services listed as compliant with the ISO/IEC 27001 standard in Azure Compliance offerings and provisioned in the following regions:
+    - France Central (Paris)
+    - France South (Marseille)
+    - North Europe (Ireland)
+    - West Europe (Netherlands)
 - Dynamics 365. The HDS certificate applies to Dynamics 365 [Core Online Services](https://aka.ms/Online-Services-Terms) provisioned from France and European Union geographies.
 - Intune
 - Microsoft 365. The HDS certificate applies to Office 365 [Core Online Services](https://aka.ms/Online-Services-Terms) provisioned from France and European Union geographies.
@@ -53,10 +57,7 @@ The HDS certificate does not apply to Microsoft online services in preview or pr
 
 ## Audits, reports, and certificates
 
-The HDS certification is valid for three years.
-
-- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
-- [BSI Group](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
+[HDS certification](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante) imposes advanced security and privacy requirements on hosting services and cloud providers to ensure that the confidentiality and integrity of sensitive data is adequately protected. Microsoft cloud services (including Azure) have been granted the HDS certification, as shown on the ASIP Santé [list of HDS-certified hosts](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies).
 
 ## How to implement
 
@@ -65,6 +66,7 @@ The HDS certification is valid for three years.
 
 ## Resources
 
+- [Azure compliance documentation](/azure/compliance/)
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Microsoft HDS certification blog](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure France](https://azure.microsoft.com/global-infrastructure/france/)

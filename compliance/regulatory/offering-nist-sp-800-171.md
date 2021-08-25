@@ -2,7 +2,7 @@
 title: NIST SP 800-171
 description: Microsoft cloud services comply with NIST SP 800-171 guidelines to protect controlled unclassified information (CUI) in nonfederal information systems.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

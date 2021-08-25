@@ -2,7 +2,7 @@
 title: Australian Government Information Security Registered Assessor Program (IRAP)
 description: Microsoft is included on the Australian Certified Cloud Services List for both Unclassified Dissemination Limiting Markers (DLM) and PROTECTED data based on an IRAP assessment and certification by the Australian Cyber Security Centre (ACSC).
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

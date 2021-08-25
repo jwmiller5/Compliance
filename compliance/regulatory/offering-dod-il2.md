@@ -2,7 +2,7 @@
 title: Department of Defense (DoD) Impact Level 2 (IL2)
 description: Learn how Microsoft meets Department of Defense (DoD) Impact Level 2 (IL2) standards.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

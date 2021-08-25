@@ -10,7 +10,7 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise

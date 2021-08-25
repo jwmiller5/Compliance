@@ -2,7 +2,7 @@
 title: European Union Model Clauses
 description: Microsoft offers EU Standard Contractual Clauses, guarantees for transfers of personal data.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -22,9 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## European Union Model Clauses overview
 
-European Union (EU) data protection law regulates the transfer of EU customer personal data to countries outside the European Economic Area (EEA), which includes all EU countries and Iceland, Liechtenstein, and Norway. The EU Model Clauses are standardized contractual clauses used in agreements between service providers (such as Microsoft) and their customers to ensure that any personal data leaving the EEA will be transferred in compliance with EU data-protection law and meet the requirements of the EU Data Protection Directive 95/46/EC.
-
-On a practical level, compliance with EU data protection laws also means that customers need fewer approvals from individual authorities to transfer personal data outside of the EU, since most EU member states do not require additional authorization if the transfer is based on an agreement that complies with the Model Clauses.
+European Union (EU) data protection law regulates the transfer of EU customer personal data to countries outside the European Economic Area (EEA), which includes all EU countries and Iceland, Liechtenstein, and Norway. On a practical level, compliance with EU data protection laws also means that customers need fewer approvals from individual authorities to transfer personal data outside of the EU, since most EU member states do not require additional authorization if the transfer is based on an agreement that complies with the Model Clauses.
 
 ## Microsoft and European Union Model Clauses
 
@@ -66,10 +64,6 @@ Microsoft continually assesses the EU standards, and updates its services as nee
 
 ## Frequently asked questions
 
-**What is the EU Data Protection Directive 95/46/EC?**
-
-This directive sets the baseline for handling personal data in the EU. It provides the regulatory framework under which Microsoft transfers personal data out of the EU. Under this directive and our contractual agreements, Microsoft acts as the data processor of customer data. The customer acts as the data controller, with final ownership and responsibility for ensuring that the data can be legally provided to Microsoft for processing outside of the EEA.
-
 **Why is compliance with the Model Clauses important?**
 
 A service provider that commits contractually to the Model Clauses gives its customers assurance that personal data will be transferred and processed in compliance with EU data protection law. Use of the Model Clauses also means that customers need to get fewer approvals from individual data-protection authorities to transfer personal data outside the EU.
@@ -88,6 +82,7 @@ You can enter an agreement such, as the [Online Services Terms](https://aka.ms/O
 
 ## Resources
 
+- [Azure compliance documentation](/azure/compliance/)
 - [EU Standards Organization](https://eur-lex.europa.eu/)
 - [EU Model Clauses](https://aka.ms/EU-model_clauses)
 - [EU Data Protection Directive](https://aka.ms/EU-DPD)
