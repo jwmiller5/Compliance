@@ -48,7 +48,7 @@
       "feedback_github_repo": "MicrosoftDocs/Compliance",
       "feedback_product_url": "https://github.com/MicrosoftDocs/Compliance",
       "searchScope": ["Compliance"],
-      "recommendations": true,
+      "recommendations": false,
       "contributors_to_exclude": [
         "rjagiewich",
         "traya1",
