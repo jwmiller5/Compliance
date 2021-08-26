@@ -57,6 +57,7 @@ Learn about the benefits of ISO/IEC 27001 on the Microsoft Cloud: [Download the 
 - Microsoft Stream
 - Microsoft Threat Expert
 - Microsoft Translator
+- Windows 365
 
 ## Azure, Dynamics 365, and ISO 27001
 
