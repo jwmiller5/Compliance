@@ -63,7 +63,7 @@ Details regarding breach notification for specific Microsoft products and servic
         For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#detection-of-potential-breaches). [Azure and Breach Notification under the GDPR](gdpr-breach-azure-dynamics-windows.md) further details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
     - *Data Breach Response*: Microsoft determines appropriate priority and severity levels of a breach by investigating the functional impact, recoverability, and information impact of the incident. Priority and severity may change over the course of the investigation, based on new findings and conclusions.
-    Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#azures-data-breach-response).
+    Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows.md#azures-data-breach-response).
 
     - *Customer Notification*: Microsoft Azure notifies customers and regulatory authorities of data breaches as required. Customer notices are delivered in no more than 72 hours from the time we declared a breach except for the following circumstances:
 
