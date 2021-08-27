@@ -59,6 +59,7 @@ By following the standards of ISO/IEC 27001 and the code of practice embodied in
 - Power BI Embedded
 - Power Virtual Agents
 - Microsoft Defender for Endpoint: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score
+- Windows 365
 
 ## Azure, Dynamics 365, and ISO ISO/IEC 27018
 

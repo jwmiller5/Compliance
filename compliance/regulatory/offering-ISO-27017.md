@@ -53,6 +53,7 @@ ISO/IEC 27017 is unique in providing guidance for both cloud service providers a
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 - Power BI Embedded
+- Windows 365
 
 ## Azure, Dynamics 365, and ISO 27017:2015
 
