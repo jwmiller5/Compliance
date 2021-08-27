@@ -30,7 +30,7 @@ Risk management is the process of identifying, assessing, and responding to thre
 
 Microsoft's risk management align to the Enterprise Risk Management (ERM) framework. ERM enables the overall enterprise risk management process and works with management across the enterprise to identify and ensure accountability for Microsoft's most significant risks.
 
-![Risk management structure](../media/assurance-risk-management-structure.png)
+![Risk management structure.](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM enables common risk management principles across the enterprise so business units can independently facilitate consistent and comparative risk assessments. This coordination gives Microsoft the ability to aggregate and report risk information in a consolidated manner for management. ERM provides business units in Microsoft with common methodologies, tools, and goals for the risk management process. Microsoft 365 and other engineering groups and business units use these tools to conduct individual risk assessments as part of their own risk management programs under the guidance of ERM.
 

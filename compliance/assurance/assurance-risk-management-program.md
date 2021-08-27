@@ -32,7 +32,7 @@ The Trust team also maintains the Microsoft 365 Controls Framework, a set of rat
 
 Risk management activities fall into four phases: identification, assessment, response, and monitoring and reporting.
 
-![Risk management process activities](../media/assurance-risk-management-review-process.png)
+![Risk management process activities.](../media/assurance-risk-management-review-process.png)
 
 ## Identification
 
