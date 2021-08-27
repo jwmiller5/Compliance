@@ -78,7 +78,7 @@ Here's a sample dependency analysis (DA) you can start from. In your dependency 
 Once you have inventoried your business processes and mapped out relationships to other process and technologies, you need to build validation scenarios for all the processes. Basically, figure out how you are going to validate your business process continuity plans. You'll probably find that some are more important that others and you'll want to prioritize those.
 Don't forget that regularly training employees on incident response and continuity measures is important once the plan is established. Post incident reviews should be used to enhance your resiliency strategies by incorporating learnings from each validation or test.
 
-![capability validation visio](../media/capability-validation-visio.png)
+![capability validation visio.](../media/capability-validation-visio.png)
 
 ## Incident coordination and communication
 

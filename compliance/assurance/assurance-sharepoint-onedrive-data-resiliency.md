@@ -38,7 +38,7 @@ SharePoint has a custom-built solution for storage of customer data in Azure Sto
 
 SharePoint uses Append-Only storage. This process ensures that files cannot be changed or corrupted after an initial save, but also by using in-product versioning, any previous version of the file contents can be retrieved.
 
-![Blob storage resilience](../media/assurance-blob-storage-resiliency-diagram.png)
+![Blob storage resilience.](../media/assurance-blob-storage-resiliency-diagram.png)
 
 SharePoint environments in either datacenter can access storage containers in both Azure regions. For performance reasons the storage container in the same local datacenter is always preferred, however, read requests that do not see results within a desired threshold will have the same content requested from the remote datacenter to ensure data is always available.
 
@@ -48,7 +48,7 @@ SharePoint metadata is also critical to accessing user content as it stores the 
 
 SharePoint uses the replication model provided by Azure SQL and has built a proprietary automation technology to determine a failover is required and to initiate the operation if necessary. As such, it falls into the 'Manual database failover' category from an Azure SQL perspective. The latest metrics for Azure SQL database recoverability are available [here](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server).
 
-![Metadata resilience](../media/assurance-metadata-resiliency-diagram.png)
+![Metadata resilience.](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint uses Azure SQL's backup system to enable Point in Time Restores (PITR) for up to 14 days. PITR is covered more in a [later section.](#deletion-backup-and-point-in-time-restore)
 

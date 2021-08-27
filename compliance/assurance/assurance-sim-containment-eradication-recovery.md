@@ -48,7 +48,7 @@ A key aspect to the recovery is to have enhanced vigilance and controls in place
 
 If Microsoft determines that a security incident has occurred, we will notify you with undue delay, and within contractual and compliance requirements we have agreed to. After identifying all affected tenants, the corresponding communications team works to identify any relevant regulations that might apply to affected tenants. The communications team uses the appropriate communication channel defined in applicable regulations to notify the appropriate tenant contact.
 
-![Incident response process](../media/assurance-incident-response-process.png)
+![Incident response process.](../media/assurance-incident-response-process.png)
 
 Notification will include detailed information about the incident, such as a description of the incident, the effect on customer data, if any, actions taken by Microsoft, and/or suggested actions for customers to take to resolve the issue and prevent recurrence. Notification will be delivered to the designated administrator(s) of the Microsoft online services tenant. To ensure notifications are received, you should ensure that your administrators provide and maintain accurate contact information in their tenant profiles. In addition, depending on the nature of the incident, Microsoft 365 customers can also be notified via the [Microsoft 365 Service Health Dashboard](http://status.yammer.com/).
 
