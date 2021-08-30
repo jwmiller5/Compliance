@@ -31,7 +31,7 @@ highlightedContent:
     # Card 2
     - title: Learn about shared responsibility in the cloud
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
+      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     # Card 3
     - title: Learn about Microsoft Compliance Manager
       itemType: learn
