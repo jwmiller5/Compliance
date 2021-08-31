@@ -49,6 +49,8 @@ Logs are processed in NRT using rule-based, statistical, and machine learning me
 
 For more information on security monitoring and alerting, see the [Security monitoring overview](assurance-security-monitoring.md).
 
+![Audit data flow.](../media/assurance-audit-data-flow.png)
+
 ## How do Microsoft online services protect audit logs?
 
 The tools used in Microsoft online services to collect and process audit records do not allow permanent or irreversible changes to the original audit record content or time ordering. Access to Microsoft online service data stored in Cosmos or Kusto is restricted to authorized personnel. In addition, Microsoft restricts the management of audit logs to a limited subset of security team members responsible for audit functionality. Security team personnel do not have standing administrative access to Cosmos or Kusto. Administrative access requires Just-In-Time (JIT) access approval, and all changes to logging mechanisms for Cosmos are recorded and audited. Audit logs are retained long enough to support incident investigations and meet regulatory requirements. The exact period of audit log data retention determined by the service teams; most audit log data is retained for 90 days in Cosmos and 180 days in Kusto.
