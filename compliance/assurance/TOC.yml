@@ -32,6 +32,8 @@
       href: assurance-datacenter-security.md
     - name: Datacenter TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: Data-bearing device destruction
+      href: assurance-data-bearing-device-destruction.md
     - name: Supply chain security
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 
@@ -135,8 +137,6 @@
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online data deletion
       href: assurance-sharepoint-online-data-deletion.md      
-    - name: Microsoft 365 data destruction
-      href: assurance-data-destruction.md
     - name: Microsoft 365 data immutability
       href: assurance-data-immutability.md
     - name: Microsoft 365 data locations

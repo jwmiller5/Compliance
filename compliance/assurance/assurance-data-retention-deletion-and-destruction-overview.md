@@ -52,7 +52,7 @@ For more information on expedited de-provisioning, see [Cancel your subscription
 
 ## Related Links
 
-- [Data Destruction](assurance-data-destruction.md)
+- [Data-bearing device destruction](assurance-data-bearing-device-destruction.md)
 - [Immutability in Office 365](assurance-data-immutability.md)
 - [Exchange Online Data Deletion](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online Data Deletion](assurance-sharepoint-online-data-deletion.md)
