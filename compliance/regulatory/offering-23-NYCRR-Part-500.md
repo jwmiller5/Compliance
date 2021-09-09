@@ -2,7 +2,7 @@
 title: Title 23 NYCRR Part 500
 description: Microsoft has prepared a guide to explain how Azure, Office 365, and Power BI can help financial institutions comply with 23 NYCRR 500 requirements.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -62,7 +62,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online Protection, Exchange Online, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 

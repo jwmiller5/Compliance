@@ -2,7 +2,7 @@
 title: Intune Data Subject Requests for the GDPR and CCPA
 description: Learn how to find and act on personal data and respond to DSR and CCPA requests by customers using Microsoft Intune.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

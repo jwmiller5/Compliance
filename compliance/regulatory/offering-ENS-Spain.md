@@ -2,7 +2,7 @@
 title: Spain Esquema Nacional de Seguridad (ENS) High-Level Security Measures
 description: Microsoft received Spain's Esquema Nacional de Seguridad (National Security Framework) certification.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -38,7 +38,7 @@ Microsoft Azure and Microsoft Office 365 have gone through a rigorous assessment
 
 ## Microsoft in-scope cloud platforms & services
 
-- Azure and Azure Government
+- Azure
 - Office 365
 
 ## Office 365 and ENS High
@@ -53,7 +53,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Outlook Mobile, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

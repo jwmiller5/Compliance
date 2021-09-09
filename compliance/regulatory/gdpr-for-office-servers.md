@@ -9,7 +9,7 @@ manager: pamgreen
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
@@ -39,7 +39,7 @@ Before doing any work with on-premises data, consult with your legal and complia
 
 The following illustration lists recommended capabilities to use across each of these workloads to discover, classify, protect, and monitor personal data. See the articles in this section for more information.
 
-![Diagram describing the capabilities to discover, classify, protect, and monitor personal data across workloads](../media/gdpr-for-office-servers-image1.png)
+![Diagram describing the capabilities to discover, classify, protect, and monitor personal data across workloads.](../media/gdpr-for-office-servers-image1.png)
 
 ## Illustration description
 

@@ -10,10 +10,11 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
@@ -43,18 +44,28 @@ Third-party sharing is the sharing or onward disclosure of data to third parties
 
 ## How does Microsoft delete customer data when a customer leaves the service?
 
-The Microsoft Data Handling Standard specifies how long customer data is retained after deletion. When a customer ends their subscription, Microsoft retains customer data in a limited function account for 90 days to enable the customer to extract the data. After the 90-day retention period ends, Microsoft will delete customer data unless authorized to retain it or required to retain it by law. No more than 180 days after expiration or termination of a subscription to Microsoft 365, Microsoft disables the account and deletes all customer data from the account. Once the maximum retention period for any data has elapsed, the data is rendered commercially unrecoverable.
+The Microsoft Data Handling Standard specifies how long customer data is retained after deletion. When a customer ends their subscription, Microsoft retains customer data in a limited function account for 90 days to enable the customer to extract the data. After the 90-day retention period ends, Microsoft will delete customer data unless authorized to retain it or required to retain it by law. No more than 180 days after expiration or termination of a subscription to Microsoft online services, Microsoft disables the account and deletes all customer data from the account. Once the maximum retention period for any data has elapsed, the data is rendered commercially unrecoverable.
 
-Microsoft also deletes all service-generated and diagnostic data as part of the standard Microsoft data lifecycle unless the data is required to maintain the security and stability of the service. For any subscription, a subscriber can contact Microsoft Support and request expedited subscription de-provisioning. When a customer leverages this process, all user data is deleted three days after the administrator enters the lockout code provided by Microsoft. This deletion includes data in SharePoint Online and Exchange Online under hold or stored in inactive mailboxes.
+Microsoft also deletes all service-generated and diagnostic data as part of the standard Microsoft data lifecycle unless the data is required to maintain the security and stability of the service. For any subscription, a subscriber can contact Microsoft Support and request expedited subscription de-provisioning. When a customer uses this process, all user data is deleted three days after the administrator enters the lockout code provided by Microsoft. This deletion includes data in SharePoint Online and Exchange Online under hold or stored in inactive mailboxes.
 
 ## Related external regulations & certifications
 
 Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to privacy.
 
+### Azure and Dynamics 365
+
 | **External audits** | **Section** | **Latest report date** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Public cloud PII processor's purpose | April 20, 2021 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Service level agreements (SLAs) <br> CA-17: Microsoft security policy <br> CA-25: Control framework updates | December 24, 2020 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Public cloud PII processor's purpose | December 2, 2020 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Customer subscription termination/expiration <br> SDL-1: Security Development Lifecycle (SDL) methodology <br> LA-4: Protection of confidential customer data | March 21, 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Customer subscription termination/expiration <br> SDL-1: Security Development Lifecycle (SDL) methodology <br> LA-4: Protection of confidential customer data <br> SOC2-1: Asset classification <br> SOC2-7: Published confidentiality and security obligations | March 31, 2021 |
+
+### Office 365
+
+| **External audits** | **Section** | **Latest report date** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Public cloud PII processor's purpose | April 20, 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Service level agreements (SLAs) <br> CA-17: Microsoft security policy <br> CA-25: Control framework updates | December 24, 2020 |
 
 ## Resources
 

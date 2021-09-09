@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -31,7 +31,7 @@ Employing a team of highly experienced, proficient, and skilled people is one of
 
 The security detection mechanisms in Microsoft online services also include notifications and alerts that are initiated by different sources. Microsoft online services security response teams are the key orchestrators of the security incident escalation process. These teams receive all escalations and are responsible for analyzing and confirming the validity of the security incident.
 
-![Security incident management workflow](../media/assurance-sim-workflow.png)
+![Security incident management workflow.](../media/assurance-sim-workflow.png)
 
 One of the primary pillars of detection is notification:
 

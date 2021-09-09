@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -16,7 +16,7 @@ f1.keywords:
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
-- MS-Compliance0
+- MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---
@@ -58,7 +58,7 @@ Microsoft online services security teams and service teams work together on and 
 - **Containment, eradication, recovery**: Refers to the required and appropriate actions taken to contain the security incident based on the analysis done in the previous phase. More analysis may also be necessary in this phase to fully recovery from the security incident.
 - **Post-incident activity**: Refers to the post-mortem analysis performed after the recovery of a security incident. The operational actions performed during the process are reviewed to determine if any changes need to be made in the preparation or detection and analysis phases.
 
-![Security incident management phases](../media/assurance-sim-phases.png)
+![Security incident management phases.](../media/assurance-sim-phases.png)
 
 ## Federated security response model
 

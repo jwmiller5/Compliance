@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -35,7 +35,9 @@ In addition to volume, your content may range in importance from highly sensitiv
 ## What is a data classification framework?
 
 Often codified in a formal, enterprise-wide policy, a data classification framework (sometimes called a 'data classification policy') is typically comprised of 3-5 classification levels. These usually include three elements: a name, description, and real-world examples. Microsoft recommends no more than five top-level parent labels, each with five sub-labels (25 total) to keep the user interface (UI) manageable. Levels are typically arranged from least to most sensitive such as *Public*, *Internal*, *Confidential*, and *Highly*
-*Confidential*. Other level name variations you may encounter include *Restricted*, *Unrestricted*, and *Consumer Protected*. Microsoft recommends label names that are self-descriptive and that highlight their relative sensitivity clearly. For example, *Confidential* and *Restricted* may leave users guessing which label is appropriate, while *Confidential* and *Highly Confidential* are clearer on which is more sensitive. The following table shows examples of data classification framework levels.
+*Confidential*. Other level name variations you may encounter include *Restricted*, *Unrestricted*, and *Consumer Protected*. Microsoft recommends label names that are self-descriptive and that highlight their relative sensitivity clearly. For example, *Confidential* and *Restricted* may leave users guessing which label is appropriate, while *Confidential* and *Highly Confidential* are clearer on which is more sensitive. 
+
+The following table shows an example of a *Highly Confidential* data classification framework level:
 
 |**Classification level**|**Description**|**Examples**|
 |:-----------------------|:--------------|:-----------|

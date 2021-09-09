@@ -2,7 +2,7 @@
 title: Financial Industry Regulatory Authority (FINRA) Rule 4511(c) United States
 description: An independent assessment firm validated that Azure and Office 365 can help financial firms meet FINRA Rule 4511 records retention and immutable storage requirements.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -36,7 +36,7 @@ Microsoft Azure Immutable Blob Storage with Policy Lock and Microsoft Office 365
 
 ## Microsoft Azure
 
-To evaluate Azure compliance with FINRA Rule 4511(c), Microsoft retained an independent assessment firm that specializes in records management and information governance, Cohasset Associates. The resulting report, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), encompasses Azure compliance with FINRA Rule 4511(c), which defers to the format and media requirements of SEC Rule 17a-4(f).
+To evaluate Azure compliance with FINRA Rule 4511(c), Microsoft retained an independent assessment firm that specializes in records management and information governance, Cohasset Associates. The resulting report, [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment: Microsoft Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/), encompasses Azure compliance with FINRA Rule 4511(c), which defers to the format and media requirements of SEC Rule 17a-4(f).
 
 Cohasset validated that [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) with the Policy Lock option, when used to retain time-based Blobs in a non-erasable and non-rewritable (WORM) format, meets relevant FINRA storage requirements. Each Blob (record) is protected from being modified, overwritten, or deleted until the required retention period has expired and any associated legal holds have been released.
 
@@ -55,7 +55,7 @@ For [FINRA Rule 4511(c)](/microsoft-365/compliance/retention-regulatory-requirem
 
 ### Azure & FINRA Rule 4511(c)
 
-[SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+- [SEC 17a-4(f) & CFTC 1.31 (c-d) Compliance Assessment of Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
 ### Office 365 & FINRA Rule 4511(c)
 

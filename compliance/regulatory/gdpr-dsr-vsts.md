@@ -2,7 +2,7 @@
 title: Azure DevOps Data Subject Requests for GDPR and CCPA
 description: Learn how to use Microsoft tools to export or delete personal data collected during an authenticated session of Azure DevOps Services.
 keywords: Visual Studio Team Services, VSTS, Azure DevOps documentation, privacy, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 audience: itpro
 ms.prod: devops
 ms.topic: article

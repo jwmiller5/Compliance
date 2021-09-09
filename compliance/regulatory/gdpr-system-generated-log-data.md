@@ -2,7 +2,7 @@
 title: Additional steps to export system-generated log data
 description: Additional steps to export system-generated log data
 keywords: Export log data, Office 365 Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

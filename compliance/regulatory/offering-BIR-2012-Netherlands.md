@@ -2,7 +2,7 @@
 title: Baseline Informatiebeveiliging Rijksdienst standard (BIR 2012)
 description: Microsoft cloud services help public sector agencies in the Netherlands comply with the BIR 2012 standard.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -50,7 +50,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive for Business, Planner, Power Apps, Power Automate, Power BI for Office 365, PowerApps, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Commercial** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, Office Delve, OneDrive for Business, Planner, Power Apps, Power Automate, Power BI for Office 365, PowerApps, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## Audits, reports, and certificates
 

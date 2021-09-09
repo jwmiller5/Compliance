@@ -10,10 +10,11 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
@@ -23,15 +24,15 @@ hideEdit: true
 
 # Microsoft 365 Risk Management program
 
-The purpose of the Microsoft 365 Risk Management program is to identify, assess, and manage risks to Microsoft 365. Microsoft 365's priority is to meet contractual obligations and accreditations, increase customer trust, and maintain our competitive edge. While the Microsoft 365 Risk Management program functions independently, it aligns with the overarching Enterprise Risk Management (ERM) program's policies, priorities, and methodologies. Working with the ERM program allows for consistent comparison across business units and engineering groups, contributing to a more cohesive approach to risk management across the enterprise.
+The purpose of the Microsoft 365 Risk Management program is to identify, assess, and manage risks to Microsoft 365. Microsoft's top priority is to proactively identify and address risks that could impact our service infrastructure, as well as our customers, their data, and their trust. In addition, a robust risk management program is necessary to meet contractual obligations and maintain public accreditations that our customers rely on to satisfy their own compliance requirements. While the Microsoft 365 Risk Management program functions independently, it aligns with the overarching Enterprise Risk Management (ERM) program's policies, priorities, and methodologies. Working with the ERM program allows for consistent comparison across business units and engineering groups, contributing to a more cohesive approach to risk management across the enterprise.
 
-The Microsoft 365 Trust team is responsible for managing the Microsoft 365 Risk Management program and conducting the activities laid out by the ERM program. The Trust team focuses on integrating the risk management framework with existing Microsoft 365 engineering, service operations, and compliance process to make the Risk Management program more effective and efficient.
+The Microsoft 365 Trust team is responsible for managing the Microsoft 365 Risk Management program and conducting the activities defined by the ERM program. The Trust team focuses on integrating the risk management framework with existing Microsoft 365 engineering, service operations, and compliance process to make the Risk Management program more effective and efficient.
 
 The Trust team also maintains the Microsoft 365 Controls Framework, a set of rationalized controls that, when properly implemented with supporting compliance activities, allows engineering teams to comply with key regulations and certifications. This framework is continuously updated based on feedback and findings as part of the risk management process.
 
 Risk management activities fall into four phases: identification, assessment, response, and monitoring and reporting.
 
-![Risk management process activities](../media/assurance-risk-management-review-process.png)
+![Risk management process activities.](../media/assurance-risk-management-review-process.png)
 
 ## Identification
 

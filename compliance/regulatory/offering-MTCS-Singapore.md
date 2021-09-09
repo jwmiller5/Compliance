@@ -2,7 +2,7 @@
 title: Multi-Tier Cloud Security (MTCS) Standard for Singapore
 description: Microsoft received certification for the Multi-Tier Cloud Security Standard for Singapore.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -65,7 +65,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
+| **Commercial** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

@@ -2,7 +2,7 @@
 title: Dynamics 365 Data Subject Requests for the GDPR and CCPA
 description: Learn how to find and act on personal data and respond to DSR and CCPA requests made by Dynamics 365 customers.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -165,7 +165,7 @@ When a data subject asks you to delete their customer data, there are several wa
 - Bulk editing multiple Dynamics 365 records, you can utilize the Microsoft Office add-in to export data to Microsoft Excel, make your changes, and then import that modified data from Excel back into the online service.
 - You can delete customer data stored in any field by locating the data you want to delete and then manually deleting the data element containing the target customer data, for example like employing a hard delete on the contact record representing the data subject and other records that contain personal data
 
-Additionally, For Dynamics 365 Marketing, deletion of a contact will assure that interaction data with personal information will be removed as well. For any custom fields or entities, you must customize your system to make sure it deletes all customer data from related records and/or unlinks them from the contact record so that all personal information is removed. More information: [Developer Guide (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
+Additionally, for Dynamics 365 Marketing, deletion of a contact ensures that outbound marketing interaction data with personal information is removed as well. For any custom fields or entities, you must customize your system to make sure it deletes all customer data from related records and/or unlinks them from the contact record so that all personal information is removed. Customers using the real-time marketing module should also file a support ticket with their deletion ask so that all real-time interaction data is removed. For more information, see the [Developer Guide (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
 
 ***Dynamics 365 Customer Service Insights*** also provides organizations with capabilities to [delete customer data](/dynamics365/ai/customer-service-insights/gdpr-delete).
 

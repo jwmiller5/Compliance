@@ -2,7 +2,7 @@
 title: Commodity Futures Trading Commission (CFTC) Rule 1.31(c-d) United States 
 description: An independent assessment firm validated that Azure and Office 365 can help financial firms meet CFTC Rule 1.31 records retention and immutable storage requirements.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -34,7 +34,7 @@ Financial services customers, representing one of the most heavily regulated ind
 
 ### Microsoft Azure
 
-To evaluate Azure compliance with CFTC Rule 1.31(c-d), Microsoft retained an independent assessment firm that specializes in records management and information governance, Cohasset Associates. In the resulting report, [CFTC 1.31 (c)–(d) Compliance Assessment: Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), Cohasset validated that [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) with the Policy Lock option, when used to retain time-based Blobs in a non-erasable and non-rewritable (WORM) format, meets the principles-based requirements of the CFTC rule. Each Blob (record) is protected from being modified, overwritten, or deleted until the required retention period has expired and any associated legal holds have been released. Software providers and partners with sensitive workloads can now rely on Azure Immutable Blob Storage as a one-stop shop cloud solution for records retention. Financial institutions can now build their own applications taking advantage of these features while remaining compliant.
+To evaluate Azure compliance with CFTC Rule 1.31(c-d), Microsoft retained an independent assessment firm that specializes in records management and information governance, Cohasset Associates. In the resulting report, [CFTC 1.31 (c) (d) Compliance Assessment: Microsoft Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/), Cohasset validated that [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) with the Policy Lock option, when used to retain time-based Blobs in a non-erasable and non-rewritable (WORM) format, meets the principles-based requirements of the CFTC rule. Each Blob (record) is protected from being modified, overwritten, or deleted until the required retention period has expired and any associated legal holds have been released. Software providers and partners with sensitive workloads can now rely on Azure Immutable Blob Storage as a one-stop shop cloud solution for records retention. Financial institutions can now build their own applications taking advantage of these features while remaining compliant.
 
 ### Microsoft 365
 
@@ -47,9 +47,8 @@ For [CFTC 1.31(c)-(d)](/microsoft-365/compliance/retention-regulatory-requiremen
 
 ## Audits, reports, and certificates
 
-[Azure & CFTC Rule 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) Compliance Assessment of Azure Storage
-
-[Office 365 & CFTC Rule 1.31: Archiving in Office 365, data retention, and SEC Rule 17a-4 compliance
+- [Azure & CFTC Rule 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) Compliance Assessment of Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+- Office 365 & CFTC Rule 1.31: Archiving in Office 365, data retention, and SEC Rule 17a-4 compliance
 
 ## How to implement
 

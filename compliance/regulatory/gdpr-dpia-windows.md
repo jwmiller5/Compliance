@@ -2,7 +2,7 @@
 title: Data Protection Impact Assessment (DPIA) - Guidance for Controllers Using Windows diagnostic data processor configuration
 description: Find information to determine if a Data Protection Impact Assessment (DPIA) is necessary when using Microsoft data processor service for Windows Enterprise.
 keywords: DPIA, Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article

@@ -2,7 +2,7 @@
 title: United Kingdom Government-Cloud (G-Cloud)
 description: The Crown Commercial Service renewed the Microsoft cloud services classification to Government Cloud v.6.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -59,7 +59,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
+| **Commercial** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## Audits, reports, and certificates
 

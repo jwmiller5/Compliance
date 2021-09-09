@@ -2,7 +2,7 @@
 title: Breach Notification
 description: Learn how Microsoft services protect against a personal data breach and how Microsoft responds and notifies you if a breach occurs.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -60,17 +60,17 @@ Details regarding breach notification for specific Microsoft products and servic
 
     - *Detection of Breaches*: Since both Microsoft and the customer have security obligations, Azure services employ a shared responsibility model to define security and operational accountabilities. Microsoft does not monitor or respond to security incidents within the customer's realm of responsibility. Customer incident response may involve collaboration with Azure [customer support](https://azure.microsoft.com/support/options/), given appropriate service contracts. Microsoft Azure also offers various services (for example, [Azure Security Center](https://azure.microsoft.com/services/security-center/)) that customers can utilize for developing and managing security incident response.
 
-        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches). [Azure and Breach Notification under the GDPR](gdpr-breach-azure-dynamics-windows.md) further details how Microsoft investigates, manages, and responds to security incidents within Azure.
+        For a list of events that trigger a breach investigation in Microsoft Azure, see [Detection of Potential Breaches](/compliance/regulatory/gdpr-breach-azure-dynamics-windows#detection-of-potential-breaches). [Azure and Breach Notification under the GDPR](gdpr-breach-azure-dynamics-windows.md) further details how Microsoft investigates, manages, and responds to security incidents within Azure.
 
     - *Data Breach Response*: Microsoft determines appropriate priority and severity levels of a breach by investigating the functional impact, recoverability, and information impact of the incident. Priority and severity may change over the course of the investigation, based on new findings and conclusions.
-    Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response).
+    Microsoft's security response team works closely with global legal advisors to help ensure that forensics are performed in accordance with legal obligations and commitments to customers. These processes are detailed in [Azure's Data Breach Response](/compliance/regulatory/gdpr-breach-azure-dynamics-windows#azures-data-breach-response).
 
     - *Customer Notification*: Microsoft Azure notifies customers and regulatory authorities of data breaches as required. Customer notices are delivered in no more than 72 hours from the time we declared a breach except for the following circumstances:
 
         - Microsoft believes the act of performing a notification increases the risk to other customers.
         - The 72-hour timeline may leave some incident details available. These details will be provided to you as the investigation proceeds.
 
-        Further details can be found in [Customer Notification](/microsoft-365/compliance/gdpr-breach-azure-dynamics#customer-notification).
+        Further details can be found in [Customer Notification](/compliance/regulatory/gdpr-breach-azure-dynamics-windows#customer-notification).
 
 3. **[Microsoft Support and Professional Services](gdpr-breach-Microsoft-Support-Professional-Services.md)**  
     The nature of professional services means that some data protection incidents may fall within the customer's realm of responsibility. When Microsoft Professional Services identifies a data protection incident, it follows documented industry standard response plan as outlined in [Scope & Limits of Data Protection Incident Response Process](/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services#scope--limits-of-data-protection-incident-response-process).

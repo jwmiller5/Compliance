@@ -2,7 +2,7 @@
 title: Payment Card Industry (PCI) Data Security Standard (DSS)
 description: Azure, SharePoint Online, and OneDrive for Business comply with Payment Card Industry Data Security Standards Level 1 version 3.2.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -63,7 +63,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | OneDrive for Business (United States), SharePoint Online |
+| **Commercial** | OneDrive for Business (United States), SharePoint Online |
 
 ### Office 365 audit, reports, and certificates
 

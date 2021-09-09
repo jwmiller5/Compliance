@@ -2,7 +2,7 @@
 title: Sarbanes-Oxley Act of 2002 (SOX)
 description: Financial services firms can use Microsoft compliance reports to address their compliance with the Sarbanes-Oxley Act.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -22,9 +22,9 @@ titleSuffix: Microsoft Compliance
 
 ## SOX overview
 
-The Sarbanes-Oxley Act of 2002 is a US federal law administered by the Securities and Exchange Commission (SEC). Among other directives, SOX requires publicly traded companies to have proper internal control structures in place to validate that their financial statements accurately reflect their financial results.
+The [Sarbanes-Oxley Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX) is a US federal law administered by the [Securities and Exchange Commission](https://www.sec.gov/) (SEC). Among other things, SOX requires publicly traded companies to have proper internal control structures in place to validate that their financial statements reflect their financial results accurately. SOX is heavily influenced by customer’s internal processes especially when it comes to controls for financial reporting. For example, SOX requirements involve internal customer controls for the preparation and review of financial statements, and especially controls that affect accuracy, completeness, effectiveness, and public disclosure of material changes related to financial reporting.
 
-The SEC does not define or impose a SOX certification process. Instead, it provides broad guidelines for the companies it regulates to determine how to comply with SOX reporting requirements.
+The SEC does not define or impose a SOX certification process. Instead, it provides broad guidelines for publicly traded companies to determine how to comply with SOX reporting requirements.
 
 ## Microsoft and SOX
 
@@ -46,7 +46,16 @@ At Microsoft, we share the responsibility of compliance with our customers. We s
 
 ## Azure, Dynamics 365, and SOX
 
-For more information about Azure, Dynamics 365, and other online services compliance, see the [Azure SOX offering](/azure/compliance/offerings/offering-sox-us).
+As cloud adoption gains momentum, more and more customers are exploring how to migrate applications and workloads subject to SOX compliance obligations to the cloud. Even though there is no SOX certification or validation for cloud service providers, Azure can help you meet your SOX obligations.
+
+If you are subject to SOX compliance obligations, you should review the Azure [SOC 1 Type 2 attestation](./offering-soc-1.md), which is performed according to:
+
+- SSAE No. 18, Attestation Standards: Clarification and Recodification, which includes AT-C section 320, *Reporting on an Examination of Controls at a Service Organization Relevant to User Entities' Internal Control Over Financial Reporting* (AICPA, Professional Standards).
+- SOC 1 Reporting on an Examination of Controls at a Service Organization Relevant to User Entities' Internal Control Over Financial Reporting (AICPA Guide).
+
+The AICPA SSAE 18 standard replaced SAS 70, and it is appropriate for reporting on controls at a service organization relevant to user entities internal controls over financial reporting. This is the formal audit that you can rely on for third-party reviews of technology service providers when pursuing your own industry specific compliance obligations for assets deployed on Azure. It includes auditor's opinion on control effectiveness to achieve the related control objectives during the specified monitoring period.
+
+Moreover, Azure has produced [guidance documentation](https://azure.microsoft.com/resources/microsoft-azure-guidance-for-sarbanes-oxley-sox/) to help you use Azure's existing compliance reports when addressing your own SOX compliance obligations. It draws on internal Microsoft experience with migrating SOX relevant applications to Azure. Moreover, this guidance provides migration best practices, including SOX compliance implications, reviews of two publicly available case studies, and lessons learned from Microsoft's internal migration projects.
 
 ## Office 365 and SOX
 
@@ -60,7 +69,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Commercial** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### Audits, reports, and certificates
 
@@ -78,7 +87,14 @@ When you migrate your applications and data to covered Microsoft cloud services,
 
 ### Resources
 
-- [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Shared responsibilities for cloud computing](https://aka.ms/sharedresponsibility)
+- [Azure compliance documentation](/azure/compliance/)
+- [Azure enables a world of compliance](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365 compliance offerings](/compliance/regulatory/offering-home)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Sarbanes-Oxley Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX)
+- [Securities and Exchange Commission](https://www.sec.gov/) (SEC)
+- [Microsoft Cloud financial services resources](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft Cloud financial services compliance program](https://aka.ms/FSCP-Print)
+- [Compliance map of cloud computing regulatory principles and Microsoft online services](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Risk assessment and compliance guide for financial institutions in the Microsoft Cloud](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [Financial Services industry use cases](/azure/industry/financial/)

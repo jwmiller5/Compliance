@@ -2,7 +2,7 @@
 title: Azure, Dynamics 365, and Windows accountability readiness checklist for the GDPR
 description: Provides a convenient way to access information you may need to support GDPR when using Microsoft Azure.
 keywords: ARC Azure, Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -29,4 +29,4 @@ To support the General Data Protection Regulation (GDPR) when using Microsoft Az
 
 Microsoft Azure and Dynamics 365 services are [certified](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) to [ISO 27701 (PIMS)](offering-iso-27701.md).
 
-The [Windows diagnostic data processor configuration](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) follows the same set of privacy and security controls as referenced above.
+The [Windows diagnostic data processor configuration](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) takes advantage of the Enterprise Data Platform service within the Azure cloud service infrastructure.  It is subject to the same set of privacy and security controls, and certification referenced above.

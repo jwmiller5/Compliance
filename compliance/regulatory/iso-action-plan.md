@@ -3,7 +3,7 @@ title: Microsoft 365 ISO 27001 action plan, priorities for your first 30 days, 9
 description: A prioritized action plan you can follow as you work to meet the requirements of the International Organization for Standardization (ISO)
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, ISO, ISO 27001
 author: BrendaCarter
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -24,7 +24,7 @@ The International Organization for Standardization (ISO) is an independent nongo
 
 ISO/IEC 27001 is the international standard for implementing an information security management system (ISMS). An ISMS describes the necessary methods used and evidence associated with requirements that are essential for the reliable management of information asset security in any type of organization.  
 
-This article includes a prioritized action plan you can follow as you work to meet the requirements of ISO/IEC 27001. This action plan was developed in partnership with Protiviti, a Microsoft partner specializing in regulatory compliance. Learn more about how to use this action plan at Microsoft Ignite by attending this session: [Chart your Microsoft 365 compliance path and information protection strategy](https://myignite.techcommunity.microsoft.com/videos/65720), presented by Maithili Dandige (Microsoft) and Antonio Maio (Protiviti).
+This article includes a prioritized action plan you can follow as you work to meet the requirements of ISO/IEC 27001. This action plan was developed in partnership with Protiviti, a Microsoft partner specializing in regulatory compliance.
 
 ## Action plan outcomes
 

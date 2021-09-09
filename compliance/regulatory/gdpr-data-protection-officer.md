@@ -3,7 +3,7 @@ title: Microsoft's data protection officer
 description: "This article contains information about Microsoft's European Union Data Protection Officer (DPO) for the GDPR."
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
 ms.custom: seo-marvel-apr2020
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:

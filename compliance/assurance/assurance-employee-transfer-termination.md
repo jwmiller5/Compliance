@@ -10,10 +10,11 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
@@ -35,4 +36,4 @@ Employee transfers are initiated through a transfer transaction request by the e
 
 Microsoft uses clearly defined policies and procedures to promptly revoke physical and logical access to Microsoft systems and resources when an employee is terminated. When an employee gives their notice, the employee's manager enters the termination date into the HRIS. Following the employee's last working day, the HRIS marks the employee as terminated and shares the information to IDM, which removes all service team accounts and eligibilities automatically.
 
-For involuntary terminations, HR works with the employee's manager to follow the appropriate steps to terminate and offboard the employee. Similar to a voluntary termination, the termination information is entered into the HRIS along with any necessary steps such as effective date coordination, access removal. and any other steps relative to transitioning out of role.
+For involuntary terminations, HR works with the employee's manager to follow the appropriate steps to terminate and offboard the employee. Similar to a voluntary termination, the termination information is entered into the HRIS along with any necessary steps such as effective date coordination, access removal, and any other steps relative to transitioning out of role.

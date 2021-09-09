@@ -18,13 +18,13 @@ metadata:
   author: robmazz #Required; your GitHub user alias, with correct capitalization.
   ms.author: robmazz #Required; microsoft alias of author; optional team alias.
   ms.date: 11/30/2020 #Required; mm/dd/yyyy format.
-  localization_priority: Normal
+  ms.localizationpriority: medium
 
 # conceptualContent section (optional)
 conceptualContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
-  title: Microsoft compliance offerings # < 60 chars (optional)
-  summary: Information for Microsoft 365, Azure, Dynamics 365, Power Platform, and other services to help with national, regional, and industry-specific regulations for data collection and use. # < 160 chars (optional)
+  title: Azure, Dynamics 365, and Microsoft 365 compliance offerings # < 60 chars (optional)
+  summary: Information for Azure, Dynamics 365, Microsoft 365, and Power Platform, and other services to help with national, regional, and industry-specific regulations for data collection and use. # < 160 chars (optional)
   items:
     # Card
     - title: Global
@@ -181,7 +181,7 @@ conceptualContent:
           text: FINMA (Switzerland)
         - url: offering-finra-4511.md
           itemType: reference
-          text: FINRA 4511
+          text: FINRA 4511 (US)
         - url: offering-fisc-japan.md
           itemType: reference
           text: FISC (Japan)
@@ -190,7 +190,7 @@ conceptualContent:
           text: FSA (Denmark)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA
+          text: GLBA (US)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA
@@ -203,13 +203,13 @@ conceptualContent:
         - url: offering-hipaa-hitech.md
           itemType: reference
           text: HIPAA / HITECH
-        - url: offering-hitrust.md
-          itemType: reference
-          text: HITRUST
 
     # Card
     - title: Industry
       links:
+        - url: offering-hitrust.md
+          itemType: reference
+          text: HITRUST
         - url: offering-knf-poland.md
           itemType: reference
           text: KNF (Poland)
@@ -240,13 +240,13 @@ conceptualContent:
         - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
-        - url: offering-rbi-irdai-india.md
-          itemType: reference
-          text: RBI + IRDAI (India)
 
     # Card
     - title: Industry
       links:
+        - url: offering-rbi-irdai-india.md
+          itemType: reference
+          text: RBI + IRDAI (India)
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
@@ -261,7 +261,7 @@ conceptualContent:
           text: SOX
         - url: /azure/compliance/offerings/offering-tisax
           itemType: reference
-          text: TISAX (Germany)
+          text: TISAX
         - url: offering-trusight.md
           itemType: reference
           text: TruSight

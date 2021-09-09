@@ -2,7 +2,7 @@
 title: Center for Financial Industry Information Systems (FISC)
 description: Microsoft meets the requirements of the Financial Industry Information Systems v.8 standard in Japan.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -62,7 +62,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI for Office 365, Project Online, SharePoint Online, Skype for Business |
+| **Commercial** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI for Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## Frequently asked questions
 
@@ -79,7 +79,7 @@ The FISC has published two reports from its Council of Experts:
 
 **Where can I get the details of Microsoft's responses to the FISC framework?**
 
-You can also see security references ([in Japanese](https://aka.ms/microsoftresponsetofiscguidancejapanese)) from third parties who have evaluated the FISC compliance of Microsoft cloud services.
+For security references from third parties who have evaluated the FISC compliance of Microsoft cloud services, contact your Microsoft account representative.
 
 **Can I use Microsoft's responses to this framework in my organization's qualification process?**
 

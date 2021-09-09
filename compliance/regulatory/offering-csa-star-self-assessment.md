@@ -2,7 +2,7 @@
 title: Compliance offering- Cloud Security Alliance (CSA) STAR self-assessment
 description: Microsoft STAR Self-Assessment details how cloud services fulfill Cloud Security Alliance requirements.
 keywords: Microsoft 365, compliance, offerings
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -61,7 +61,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Office 365** |Exchange Online, Exchange Online Protection, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business,SharePoint Online, Skype for Business |
+| **Commercial** |Exchange Online, Exchange Online Protection, Office 365 Customer Portal, Office Online, Office Services Infrastructure, OneDrive for Business,SharePoint Online, Skype for Business |
 
 ### Frequently asked questions
 

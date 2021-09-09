@@ -2,7 +2,7 @@
 title: Windows diagnostic data processor configuration Data Subject Requests for the GDPR and CCPA
 description: Learn how to use Microsoft products, services, and admin tools to find and act on personal data to respond to DSRs.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -99,3 +99,6 @@ Microsoft also provides the ability to export Windows diagnostic data directly v
 ## Notify us about exporting or deleting issues
 
 If you run into issues while exporting or deleting Windows diagnostic data from the Azure portal, go to the Azure portal **Help + Support** blade and submit a new ticket under **Subscription Management > Privacy and compliance requests for Subscriptions > Privacy Blade and GDPR Requests**.
+
+>[!NOTE]
+>It can take up to 5 days to complete a Windows diagnostic data export request. If you experience issues, please allow at least 7 days before opening a support ticket.
