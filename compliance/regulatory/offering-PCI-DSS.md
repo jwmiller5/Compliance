@@ -63,11 +63,11 @@ Use the following table to determine applicability for your Office 365 services 
 
 | **Applicability** | **In-scope services** |
 |:------------------|:----------------------|
-| **Commercial** | OneDrive for Business (United States), SharePoint Online |
+| **Commercial** | OneDrive for Business (United States), SharePoint Online (United States) |
 
 ### Office 365 audit, reports, and certificates
 
-- [OneDrive for Business and SharePoint Online PCI DSS Attestation of Compliance (AoC)](https://aka.ms/spo-pci)
+- [OneDrive for Business and SharePoint Online PCI DSS Attestation of Compliance (AoC)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=f1962237-32ea-4123-939e-1c8f04d13c16&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_PCI_DSS)
 
 ### Frequently asked questions
 
