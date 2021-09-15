@@ -22,8 +22,9 @@ hideEdit: true
 
 # Windows diagnostic data processor configuration Data Subject Requests for the GDPR and CCPA
 
->[!NOTE]
->This topic applies to Windows 10 Enterprise, Pro and Education editions, version 1809 with July 2021 update and newer.
+**Applies to:**
+-	Windows 10 Enterprise, Pro and Education edition version 1809 with July 2021 update and later
+-	Windows 11 Enterprise, Pro and Education edition
 
 ## Introduction to Data Subject Requests (DSRs)
 
@@ -67,7 +68,7 @@ Microsoft provides you with the ability to access, delete, and export Windows di
 > Some Windows diagnostic data is only associated with a device identifier and is not associated with a specific user. This type of device level data is not exported and is deleted from our systems within 30 days.<br><br>
 > The ability to rectify Windows diagnostic data is not supported. Windows diagnostic data constitutes factual actions conducted within Windows, and modifications to such data would compromise the historical record of actions, increasing security risks and harming reliability.
 
-The next section provides steps on how to execute a data subject request for Windows diagnostic data that is associated with an Azure Active Directory (AAD) User ID. For more information, see [Windows 10 & Privacy Compliance: A Guide for IT and Compliance Professionals](/windows/privacy/windows-10-and-privacy-compliance).
+The next section provides steps on how to execute a data subject request for Windows diagnostic data that is associated with an Azure Active Directory (AAD) User ID. For more information, see [Windows 10 & Windows 11 Privacy Compliance: A Guide for IT and Compliance Professionals](/windows/privacy/windows-10-and-privacy-compliance).
 
 ## Executing DSRs against Windows diagnostic data
 
