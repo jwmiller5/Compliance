@@ -34,13 +34,13 @@ The [Q\&A](https://www.ppc.go.jp/legal/policy/faq/) (Japanese) published by the 
 
 Microsoft business cloud services address those requirements in the [Microsoft Online Services Terms](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), which stipulate that the ownership of and responsibility for customer data that contains My Number data lie with our customers, not Microsoft. The customer, therefore, must have appropriate controls in place to protect My Number data contained in customer data.
 
-Because Microsoft does not have standing access to My Number data stored in its cloud services, an 'outsourcing' contract for handling My Number data is not required. If a customer wants Microsoft to have access to customer data that contains My Number data, the customer must create an additional outsourcing contract with Microsoft for every case before making such a request.
+Because Microsoft does not have standing access to My Number data stored in its cloud services, an 'outsourcing' contract for handling My Number data is not required. If a customer wants Microsoft to access customer data that contains My Number data, the customer must create another outsourcing contract with Microsoft for every case before making such a request.
 
 The terms also state that Microsoft commits to use customer data only to provides services to the customer—not for any advertising or similar commercial purposes, and that Microsoft has robust access control systems in place.
 
 Regarding security concerns, Microsoft business cloud services meet the [Cloud Security Mark (Gold)](offering-cs-mark-gold-japan.md) standard, the first Japanese security accreditation for cloud service providers.
 
-Therefore, Microsoft business cloud services support My Number Act requirements and do not create any additional obligations under the act for customers, such as consent from an individual owner of personal data.
+Therefore, Microsoft business cloud services support My Number Act requirements and do not create any other obligations under the act for customers, such as consent from an individual owner of personal data.
 
 ## Microsoft in-scope cloud platforms & services
 
