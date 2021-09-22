@@ -4,6 +4,7 @@ Microsoft Office 365 is a multi-tenant hyperscale cloud platform and an integrat
 
 This section covers the following Office 365 cloud environments:
 
+- **Client software (Client)**: commercial client software running on customer devices.
 - **Office 365 (Commercial)**: the commercial public Office 365 cloud service available globally.
 - **Office 365 Government Community Cloud (GCC)**: the [Office 365 GCC cloud service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) is available for United States Federal, State, Local, and Tribal governments, as well as contractors holding or processing data on behalf of the US Government.
 - **Office 365 Government Community Cloud - High (GCC High)**: the [Office 365 GCC High cloud service](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) is designed according to Department of Defense (DoD) Security Requirements Guidelines Level 4 controls and supports strictly regulated federal and defense information. This environment is used by federal agencies, the Defense Industrial Base (DIBs), and government contractors.
