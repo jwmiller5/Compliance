@@ -38,7 +38,9 @@ Customers seeking to host ITAR-regulated data should work with their Microsoft a
 
 ## Microsoft in-scope cloud platforms & services
 
+- Azure
 - Azure Government
+- Azure Government Secret
 - Office 365 U.S. Government - High, Office 365 Defense
 
 ## Azure, Dynamics 365, and ITAR
