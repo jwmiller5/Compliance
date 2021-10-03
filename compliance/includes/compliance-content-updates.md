@@ -2,6 +2,16 @@
 
 
 
+## Week of September 27, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/1/2021 | [Windows diagnostic data processor configuration Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-windows) | modified |
+| 10/1/2021 | [Information protection](/compliance/regulatory/gdpr-information-protection) | modified |
+| 10/1/2021 | [General Data Protection Regulation](/compliance/regulatory/gdpr) | modified |
+
+
 ## Week of September 20, 2021
 
 
