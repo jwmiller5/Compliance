@@ -2,6 +2,14 @@
 
 
 
+## Week of October 04, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/4/2021 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
+
+
 ## Week of September 27, 2021
 
 
