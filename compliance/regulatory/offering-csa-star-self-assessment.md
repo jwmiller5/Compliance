@@ -75,11 +75,11 @@ It enables CSPs to document compliance with CSA published best practices in a tr
 
 **Which CSA STAR levels of assurance has Office 365 attained?**
 
-- **Level 1**: **CSA STAR Self-Assessment**: a complimentary offering from cloud service providers to document their security controls to help customers assess the security of the service.
+- **Level 1**: **CSA STAR Self-Assessment**: a [complimentary offering](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365) from cloud service providers to document their security controls to help customers assess the security of the service.
 
 ### Office 365 Resources
 
-- [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+- [Cloud Security Alliance - Microsoft 365](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA Security, Trust & Assurance Registry (STAR)](https://cloudsecurityalliance.org/star/)
