@@ -9,8 +9,6 @@ f1.keywords:
 - NOCSH
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'ms.o365.cc.SupervisoryReview'
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
