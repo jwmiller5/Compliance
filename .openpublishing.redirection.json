@@ -8,7 +8,7 @@
     },
     {
       "source_path": "compliance/regulatory/gdpr-breach-windows.md",
-      "redirect_url": "/en-us/compliance/regulatory/gdpr-breach-azure-dynamics-windows",
+      "redirect_url": "compliance/regulatory/gdpr-breach-azure-dynamics-windows",
       "redirect_document_id": true
     },
     {
