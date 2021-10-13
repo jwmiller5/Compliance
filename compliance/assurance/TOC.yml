@@ -38,6 +38,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: Physical access security
       href: assurance-datacenter-physical-access-security.md
+    - name: Asset management
+      href: assurance-datacenter-asset-management.md
     - name: Data-bearing device destruction
       href: assurance-data-bearing-device-destruction.md
     - name: Business continuity and disaster recovery
