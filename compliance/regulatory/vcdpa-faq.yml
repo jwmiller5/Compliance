@@ -1,0 +1,179 @@
+### YamlMime:FAQ
+metadata:
+  title: "Virginia Consumer Data Protection Act (VCDPA) Frequently Asked Questions"
+  description: "Frequently asked questions about Microsoft services and the Virginia Consumer Data Protection Act (VCDPA)."
+  keywords: Microsoft 365, compliance, CCPA, GDPR, VCDPA
+  ms.localizationpriority: high
+  ms.service: O365-seccomp
+  ms.reviewer: ronandwa
+  ms.topic: article
+  f1.keywords:
+  - NOCSH
+  ms.author: robmazz
+  author: robmazz
+  manager: laurawi
+  audience: itpro
+  ms.collection: 
+  - M365-security-compliance
+  - MS-Compliance
+    
+title: Virginia Consumer Data Protection Act (VCDPA) Frequently Asked Questions
+summary: |
+  >[!Note]
+  >This topic is provided "as-is." Information and views expressed in this topic, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. This topic has been created as a guide and should not be construed as legal advice. You should consult with your own legal professionals. This topic does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this topic for your internal, reference purposes.
+  
+
+sections:
+  - name: Fast FAQs
+    questions:
+      - question: What are the top four VCDPA facts that I should know about?
+        answer: |
+          1. The Virginia Consumer Data Protection Act (VCDPA) is a comprehensive privacy law in the United States, and it **will be enforced by the Virginia Attorney General (AG) beginning on January 1, 2023**. The Attorney General may seek **'damages for up to $7,500 for each violation'**.
+          2. The VCDPA provides a **variety of privacy rights to Virginia consumers**. Businesses regulated by the VCDPA will have many obligations to those consumers, including providing disclosures, responding similarly to General Data Protection Regulation (GDPR) consumer data subject requests (DSRs), and complying with certain data processing obligations (*for example*, data minimization, reasonable data security practices).
+          3. While companies with strong GDPR compliance programs may enjoy a head start on VCDPA compliance, **there are key differences between the GDPR and VCDPA** that are important to consider. Compliance cannot occur overnight; it takes time to understand the VCDPA's regulatory intricacies and implement internal tools and mechanisms to ensure that data estates are VCDPA compliance ready.
+          4. As described in further detail in the Comprehensive FAQs section, Microsoft provides products and services to **help customers achieve VCDPA compliance** and **to provide certain elemental tools to assist customers in** establishing, implementing, and maintaining 'reasonable administrative, technical, and physical data security practices to protect the confidentiality, integrity, and accessibility of personal data,' as required by the VCDPA.
+          
+      - question: Will the VCDPA apply to my organization?
+        answer: |
+          The VCDPA will apply to for-profit companies that control or process personal data of Virginia residents on a larger scale.
+          
+          More specifically, the VCDPA applies to organizations 'that conduct business in the commonwealth of Virginia or produce products or services that are targeted to residents of the Commonwealth' and, during the calendar year, either: (1) control or process personal data of at least 100,000 Virginia residents, or (2) derive over 50% of gross revenue from the sale of personal data (the VCDPA does not clarify if the revenue threshold applies to Virginia residents only) and control or process personal data of at least 25,000 Virginia residents.
+          
+          As a note, although the VCDPA does not define 'conducting business in Virginia', a regulated business can assume that the VCDPA will apply to it if there is some economic activity that triggers tax liability or personal jurisdiction in Virginia.
+          
+      - question: Is there a need to update Microsoft contracts to comply with the VCDPA?
+        answer: No. As described in the Are there any other data processing terms that need to be in place? section, the terms of the Microsoft Products and Services Data Protection Addendum will meet the requirements of the VCDPA.
+
+      - question: How will the VCDPA affect my company?
+        answer: |
+          Many of the VCDPA's rights afforded to Virginia consumers are similar to the rights the GDPR provides, including consumer rights such as the rights to access, deletion, and portability of personal data. As such, a regulated business can look to our existing GDPR solutions to help them with their VCDPA compliance efforts.
+          
+          Depending on the unique circumstances of your business and where you are in developing your VCDPA privacy program, you may consider focusing on the below five key steps to begin your VCDPA journey:
+          
+          - **Discover**: Identify what personal data your business has and where it resides.
+          - **Map**: Determine how your business shares personal data with third parties.
+          - **Manage**: Govern how personal data is used and accessed.
+          - **Protect**: Establish security controls to prevent, detect, and respond to vulnerabilities and data breaches.
+          - **Document**: Document a data breach response program.
+          
+          Additionally, [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. For more information, see the [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments) article.
+          
+          You need to understand what your organization's specific obligations are under VCDPA and how you meet them, though Microsoft is here to help you on your journey.
+          
+  - name: Comprehensive FAQs
+    questions:
+      - question: When will the VCDPA come into effect?
+        answer: The VCDPA was signed into law on March 2, 2021. However, enforcement by the Attorney General of Virginia (AG) will not begin until January 1, 2023.
+
+      - question: Are there certain organizations that are exempted from the VCDPA?
+        answer: |
+          Certain organizations are exempted from the VCDPA, including:
+          
+          - Virginia state agencies
+          - Financial institutions subject to the Gramm-Leach-Bliley Act
+          - Covered entities or business associates that are governed by the privacy, security, and breach notification rules established pursuant to the Health Insurance Portability and Accountability Act
+          - Non-profit organizations; and higher education institutions.
+          
+      - question: What consumer rights must businesses enable under the VCDPA?
+        answer: |
+          The VCDPA also provides protections against discrimination if/when consumers elect to exercise their rights and gives consumers the ability to opt-out of the sale of their personal data, targeted advertising, and certain profiling. To learn more about how to utilize Microsoft products, services, and administrative tools to help find and 'act' on personal data, see [Data Subject Requests and the GDPR and CCPA](/compliance/regulatory/gdpr-data-subject-requests).
+          
+          The VCDPA requires regulated business to respond to requests to exercise consumer rights within 45 days, and this period can be extended for an additional 45 days if notice is provided to the requesting consumer explaining the reason for such delay. The VCDPA also provides consumers with the right to appeal a business's refusal of such a request through an appeal process provided by the business that must be 'conspicuously available.' A business must respond to an appeal in writing within 60 days; if the appeal is denied, the business must provide the consumer with an 'online mechanism (if available) or other method' through which a consumer can submit a complaint to the AG.
+          
+      - question: What are the data processing obligations under the VCDPA?
+        answer: |
+          Business obligations under the VCDPA include:
+          
+          - **Data Minimization**: Limit collection of personal data to what is adequate, relevant, and reasonably necessary (*such as*, the specified and express purposes for processing).
+          - **Purpose Limitation**: Process personal data only for purposes reasonably necessary or compatible with the purposes disclosed to the consumer (*for example*, in a privacy notice).
+          - **Security Controls**: Establish, implement, and maintain 'reasonable administrative, technical, and physical data security practices' to protect consumers' personal data.
+          - **Non-Discrimination**: Not process personal data in a way that violates state or federal antidiscrimination laws. In addition, businesses are prohibited from discriminating against a consumer for exercising their rights under VCDPA (with some exceptions, including for loyalty programs).
+          - **Consent**: Obtain express consent from consumers when the business (1) processes sensitive data, or (2) deviates from the purposes of data processing disclosed to the consumer (*for example*, within the business's privacy notice).
+          
+      - question: What specifically is deemed 'personal data' and 'sensitive data'?
+        answer: |
+          'Personal data' is defined as any information that is linked or reasonably linkable to an identified or identifiable natural person but does not include de-identified data or publicly available information. The VCDPA's definition of 'personal data' roughly aligns with 'personal data' under GDPR.
+          
+          'Sensitive data' is a category of 'personal data' that includes the following:
+          
+          - Personal data revealing racial or ethnic origin, religious beliefs, mental or physical health diagnosis, sexual orientation, citizenship, or immigrations status;
+          - The processing of genetic or biometric data for the purposes of uniquely identifying a natural person;
+          - The personal data collected from a known child; or
+          - Precise geolocation data.
+          
+          As mentioned above, the VCDPA requires consumer 'consent' before processing data in certain circumstances, including before processing a consumer's sensitive data. 'Consent'is defined as a 'clear affirmative act signifying a consumer's freely given, specific, informed, and unambiguous agreement to process personal data relating to the customer' and could include 'a written statement, including a statement written by electronic means, or any other unambiguous affirmative action.'
+          
+      - question: Are there any VCDPA required privacy policy disclosures?
+        answer: |
+          The following information must be included in a reasonably accessible, clear privacy notice:
+          
+          - The categories of personal data processed;
+          - The purpose for processing personal data;
+          - How consumers may exercise their rights with respect to their personal data (*for example*, the right to correct personal information);
+          - The categories of personal data that are shared with third parties (if any);
+          - The categories of third parties that a regulated business shares personal data with (if any).
+          - The fact that personal data is sold to third parties or processed for targeted advertising, and how to opt out (this statement is *only* required if a controller sells or processes data for targeted advertising); and
+          - How consumers may appeal a rights-request decision made by the business.
+          
+      - question: How is data 'sold' under the VCDPA?
+        answer: |
+          The 'sale of personal data' is defined as 'the exchange of personal data for monetary consideration' by a business to a third party. The VCDPA provides consumers with the right to 'opt-out' of the sale of their personal data.
+          
+          As a note, the VCDPA states that a regulated business does not need to honor 'opt-out' sale requests in the following disclosures:
+          
+          (i) to a processor (*such as* an entity that processes personal data on behalf of the business),
+          (ii) to a third party for purposes of providing a product or service requested by a consumer,
+          (iii) to an affiliate,
+          (iv) of information that a consumer intentionally made available to the general public via a mass media channel and did not restrict such information to a specific audience, and
+          (v) as part of a merger, acquisition, etc., in which a third party assumes control of all or part of the business's assets.
+          
+      - question: What is a Data Protection Assessment (DPA)?
+        answer: |
+          A DPA is an assessment that identifies and weighs the benefits versus potential risks to consumers that result from certain processing of personal data. Under VCDPA, a DPA must be conducted for the following activities: the sale of personal data, when processing sensitive personal data, when processing personal data for targeted advertising, when processing personal data for certain profiling purposes, and instances where processing presents a heightened risk of harm to consumers. To learn how to utilize Microsoft products, services, and administrative tools to conduct a DPA, see [Data Protection Impact Assessment for the GDPR](/compliance/regulatory/gdpr-data-protection-impact-assessments).
+          
+      - question: Are there any data processing contractual terms that need to be in place?
+        answer: |
+          The VCDPA requires that a controller (*such as*, the entity that determines the purpose and means of processing personal data) and a data processor (*such as*, an entity that processes personal data on behalf of the controller) enter into an agreement that includes certain data processing terms. The terms of this agreement must include certain provisions, such as: instructions for processing data, types of data subject to processing, nature and purpose of processing, duration of processing, and rights and obligations of both parties. Furthermore, the contract must include obligations associated with subcontracting, assessments, duty of confidentiality, deletion or return of personal data, and demonstrate a processor's compliance with the VCDPA.
+          
+          Microsoft may be considered a data processor in some circumstances when providing services to our customers. If that is the case, the terms of the Microsoft Products and Services Data Protection Addendum (DPA) already meet the requirements of the VCDPA since these requirements are similar to the GDPR's contractual requirements; there is no need to update your organization's contract with Microsoft. As set out in the DPA, Microsoft complies with all laws and regulations applicable to its provision of the Online Services, which would include the VCDPA.
+          
+      - question: How much can companies be fined for noncompliance?
+        answer: |
+          The VCDPA grants the AG exclusive authority to enforce its provision, subject to a 30-day cure period for any alleged VCDPA violations. The AG may seek injunctive relief and damages of up to 7,500 for each violation and any 'reasonable expenses incurred in investigating and preparing the case, including attorney's fees.'
+          
+          As a note, the VCDPA does not grant consumers a private right of action.
+          
+      - question: What is Microsoft doing to assist you in achieving VCDPA compliance?
+        answer: |
+          Among other things, Microsoft has implemented GDPR-related DSRs globally, so we already are in an excellent position to help you meet similar VCDPA requirements. We have also reviewed our third-party data sharing agreements and taken steps to establish that the necessary contractual terms and guardrails are in place to ensure that we do not 'sell' personal information.
+          
+          Microsoft also helps you meet your obligations under the VCDPA by implementing appropriate technical and organizational measures aimed at facilitating your responses to consumer DSRs, providing technical compliance tools/mechanisms, and adhering to data processing instructions.
+          
+          Due to the nature of cloud computing, Microsoft operates under a [shared responsibility model](/azure/security/fundamentals/shared-responsibility) for online services. Shared responsibility is an important topic, as both cloud services providers and regulated businesses are accountable for portions of cloud security. To learn more information about our security and privacy practices, visit the [Microsoft Trust Center](https://www.microsoft.com/trust-center/privacy) 
+          
+      - question: What are some Microsoft tools that can help my organization to start preparing for VCDPA?
+        answer: |
+          - Start using the GDPR assessment in Compliance Manager as part of your organization's VCDPA privacy program.
+          - Establish a process to efficiently respond to consumer rights requests.
+          - Set up policies to discover, classify, label, and protect sensitive data with Microsoft Information Protection.
+          - Use email encryption capabilities to further control sensitive information.
+          
+      - question: How does the VCDPA apply to children?
+        answer: |
+          The VCDPA defines a child as any individual that is younger than 13 years of age. Businesses that comply with verifiable consent requirements under Children's Online Privacy Protection Rule (COPPA) will be deemed compliant with any obligations to obtain parental consent under the VCDPA.
+          
+          The VCDPA provides that a child's sensitive data must be processed in accordance with [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) requirements.
+          
+      - question: What about personal data from a business's employees?
+        answer: VCDPA obligations do not apply to personal data collected and used in an employment context.
+
+      - question: What are the differences between GDPR and VCDPA?
+        answer: |
+          There are many differences. It's easier to focus on the similarities, including:
+          
+          - Transparency/disclosure obligations.
+          - Consumer rights to access, delete, and correct their personal data.
+          
+          Importantly, VCDPA requires businesses to enable consumers to opt out from sales of data to third parties, targeted advertising, and certain profiling. These are narrower and more specific obligations than the broad GDPR right to object to processing, which encompasses these types of disclosures, but is not specifically limited to covering those disclosures.
+          
+          Additionally, the VCDPA also provides consumers with the right to appeal a business's refusal to effectuate a data subject request through an appeal process provided by the business that must be 'conspicuously available'. Such an appeal process is not required by the GDPR.
