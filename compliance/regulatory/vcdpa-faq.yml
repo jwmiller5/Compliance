@@ -121,11 +121,11 @@ sections:
           
           As a note, the VCDPA states that a regulated business does not need to honor 'opt-out' sale requests in the following disclosures:
           
-          (i) to a processor (*such as* an entity that processes personal data on behalf of the business),
-          (ii) to a third party for purposes of providing a product or service requested by a consumer,
-          (iii) to an affiliate,
-          (iv) of information that a consumer intentionally made available to the general public via a mass media channel and did not restrict such information to a specific audience, and
-          (v) as part of a merger, acquisition, etc., in which a third party assumes control of all or part of the business's assets.
+          - (i) to a processor (*such as* an entity that processes personal data on behalf of the business),
+          - (ii) to a third party for purposes of providing a product or service requested by a consumer,
+          - (iii) to an affiliate,
+          - (iv) of information that a consumer intentionally made available to the general public via a mass media channel and did not restrict such information to a specific audience, and
+          - (v) as part of a merger, acquisition, etc., in which a third party assumes control of all or part of the business's assets.
           
       - question: What is a Data Protection Assessment (DPA)?
         answer: |
@@ -139,7 +139,7 @@ sections:
           
       - question: How much can companies be fined for noncompliance?
         answer: |
-          The VCDPA grants the AG exclusive authority to enforce its provision, subject to a 30-day cure period for any alleged VCDPA violations. The AG may seek injunctive relief and damages of up to 7,500 for each violation and any 'reasonable expenses incurred in investigating and preparing the case, including attorney's fees.'
+          The VCDPA grants the AG exclusive authority to enforce its provision, subject to a 30-day cure period for any alleged VCDPA violations. The AG may seek injunctive relief and damages of up to $7,500 for each violation and any 'reasonable expenses incurred in investigating and preparing the case, including attorney's fees.'
           
           As a note, the VCDPA does not grant consumers a private right of action.
           
@@ -149,7 +149,7 @@ sections:
           
           Microsoft also helps you meet your obligations under the VCDPA by implementing appropriate technical and organizational measures aimed at facilitating your responses to consumer DSRs, providing technical compliance tools/mechanisms, and adhering to data processing instructions.
           
-          Due to the nature of cloud computing, Microsoft operates under a [shared responsibility model](/azure/security/fundamentals/shared-responsibility) for online services. Shared responsibility is an important topic, as both cloud services providers and regulated businesses are accountable for portions of cloud security. To learn more information about our security and privacy practices, visit the [Microsoft Trust Center](https://www.microsoft.com/trust-center/privacy) 
+          Due to the nature of cloud computing, Microsoft operates under a [shared responsibility model](/azure/security/fundamentals/shared-responsibility) for online services. Shared responsibility is an important topic, as both cloud services providers and regulated businesses are accountable for portions of cloud security. To learn more information about our security and privacy practices, visit the [Microsoft Trust Center](https://www.microsoft.com/trust-center/privacy). 
           
       - question: What are some Microsoft tools that can help my organization to start preparing for VCDPA?
         answer: |
