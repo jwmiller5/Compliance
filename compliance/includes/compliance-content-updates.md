@@ -2,6 +2,21 @@
 
 
 
+## Week of October 11, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/11/2021 | [Datacenter architecture and infrastructure](/compliance/assurance/assurance-datacenter-architecture-infrastructure) | added |
+| 10/11/2021 | [Datacenter business continuity and disaster recovery](/compliance/assurance/assurance-datacenter-business-continuity-disaster-recovery) | added |
+| 10/11/2021 | [Datacenter environmental safeguards](/compliance/assurance/assurance-datacenter-environmental-safeguards) | added |
+| 10/11/2021 | [Datacenter physical access security](/compliance/assurance/assurance-datacenter-physical-access-security) | added |
+| 10/11/2021 | [Datacenter security overview](/compliance/assurance/assurance-datacenter-security) | modified |
+| 10/11/2021 | [Compliance offering- Cloud Security Alliance (CSA) STAR self-assessment](/compliance/regulatory/offering-csa-star-self-assessment) | modified |
+| 10/13/2021 | [Datacenter asset management](/compliance/assurance/assurance-datacenter-asset-management) | added |
+| 10/14/2021 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
+
+
 ## Week of October 04, 2021
 
 
@@ -54,12 +69,3 @@
 | 9/13/2021 | [Payment Card Industry (PCI) Data Security Standard (DSS)](/compliance/regulatory/offering-pci-dss) | modified |
 | 9/16/2021 | [Multi-Tier Cloud Security (MTCS) Standard for Singapore](/compliance/regulatory/offering-mtcs-singapore) | modified |
 | 9/17/2021 | [Malware and ransomware protection in Microsoft 365](/compliance/assurance/assurance-malware-and-ransomware-protection) | modified |
-
-
-## Week of September 06, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/7/2021 | [Risk management program](/compliance/assurance/assurance-risk-management-program) | modified |
-| 9/8/2021 | [US Internal Revenue Service Publication 1075](/compliance/regulatory/offering-irs-1075) | modified |
