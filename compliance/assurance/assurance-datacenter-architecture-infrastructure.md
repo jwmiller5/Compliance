@@ -31,6 +31,10 @@ Regions are sets of datacenters that are interconnected via a massive and resili
 
 Physically separate locations within a region are referred to as availability zones, each being made up of one or more datacenters equipped with independent power, cooling, and networking. Availability zones allow for mission-critical applications to run with high availability and low-latency replication.
 
+The following figure shows how the global infrastructure pairs region and availability zones within the same data residency boundary for high availability, disaster recovery, and backup.
+
+![Data residency boundaries.](../media/assurance-data-residency-boundary.png)
+
 Geographically distributed datacenters enable Microsoft to bring services closer to customers, reduce network latency, and allow for geo-redundant backup and failover.
 
 ## Availability
