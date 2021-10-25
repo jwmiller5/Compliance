@@ -29,9 +29,9 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
     # Card 2
-    - title: Learn about shared responsibility in the cloud
+    - title: Risk Assessment Guide for Microsoft Cloud
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     # Card 3
     - title: Learn about Microsoft Compliance Manager
       itemType: learn

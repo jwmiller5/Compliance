@@ -1,3 +1,5 @@
+- name: Risk Assessment Guide for Microsoft Cloud
+  href: assurance-risk-assessment-guide.md
 - name: Architecture
   items: 
     - name: Architecture overview
