@@ -2,6 +2,17 @@
 
 
 
+## Week of October 18, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/18/2021 | [Datacenter architecture and infrastructure](/compliance/assurance/assurance-datacenter-architecture-infrastructure) | modified |
+| 10/18/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
+| 10/19/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
+| 10/19/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
+
+
 ## Week of October 11, 2021
 
 
@@ -58,14 +69,3 @@
 | 9/22/2021 | [Microsoft denial-of-service defense strategy](/compliance/assurance/assurance-microsoft-dos-defense-strategy) | modified |
 | 9/23/2021 | [Microsoft denial-of-service defense strategy](/compliance/assurance/assurance-microsoft-dos-defense-strategy) | modified |
 | 9/23/2021 | [International Traffic in Arms Regulations (ITAR)](/compliance/regulatory/offering-itar) | modified |
-
-
-## Week of September 13, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/13/2021 | [Malware and ransomware protection in Microsoft 365](/compliance/assurance/assurance-malware-and-ransomware-protection) | modified |
-| 9/13/2021 | [Payment Card Industry (PCI) Data Security Standard (DSS)](/compliance/regulatory/offering-pci-dss) | modified |
-| 9/16/2021 | [Multi-Tier Cloud Security (MTCS) Standard for Singapore](/compliance/regulatory/offering-mtcs-singapore) | modified |
-| 9/17/2021 | [Malware and ransomware protection in Microsoft 365](/compliance/assurance/assurance-malware-and-ransomware-protection) | modified |
