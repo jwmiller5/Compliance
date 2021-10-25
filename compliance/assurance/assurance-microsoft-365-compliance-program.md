@@ -32,11 +32,11 @@ Let's take a deeper dive into each of these components to understand their role 
 
 ## Security
 
-The security assessment is owned by the Microsoft 365 Security Team and is designed to identify all the security solutions that service teams need to install and configure. Microsoft 365 has developed solutions for service teams to secure each individual service and connect them to the centralized systems which helps protect Microsoft as a whole. These solutions include identity and access management, anti-malware software, central logging, TLS configuration, and others. Service teams are also required to create data flow diagrams for threat modeling to help map potential attack vectors. The Microsoft 365 Security Team is available to service teams for guidance and perform a final review and approval of the service security functions.
+The security assessment is owned by the Microsoft 365 Security Team and is designed to identify all the security solutions that service teams need to install and configure. Microsoft 365 has developed solutions for service teams to secure each individual service and connect them to the centralized systems that helps protect Microsoft as a whole. These solutions include identity and access management, anti-malware software, central logging, TLS configuration, and others. Service teams are also required to create data flow diagrams for threat modeling to help map potential attack vectors. The Microsoft 365 Security Team is available to service teams for guidance and perform a final review and approval of the service security functions.
 
 ## Privacy
 
-Privacy focuses on customer data the service team transmits, processes, and stores. Tasks include identifying data types collected, retention periods, classification, and any third-party interactions. Once service teams complete their tasks, a dedicated privacy manager and a lawyer perform a review of the data handling functions. Threat models are also leveraged to safeguard against unexpected data leakage. The privacy manager must provide official approval and verification of privacy assessment completion.
+Privacy focuses on customer data the service team transmits, processes, and stores. Tasks include identifying data types collected, retention periods, classification, and any third-party interactions. Once service teams complete their tasks, a dedicated privacy manager and a lawyer perform a review of the data handling functions. Threat models are also used to safeguard against unexpected data leakage. The privacy manager must provide official approval and verification of privacy assessment completion.
 
 ## Compliance
 
