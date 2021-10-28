@@ -23,7 +23,7 @@ hideEdit: true
 
 # Microsoft 365 service engineer access control
 
-Zero Standing Access (ZSA) means that Microsoft service team personnel do not have any standing privileged access to the Microsoft 365 production environment or to customer data. Any time a Microsoft service team member wants to update the service or access customer data for any reason, they must submit a request justifying the need and receive approval from an authorized manager. At scale, it isn't feasible to manually provide and remove access as required to maintain Microsoft 365 services, so Microsoft has developed an automated solution to manage privileged access as needed.
+Zero Standing Access (ZSA) means that Microsoft service team personnel do not have any standing privileged access to the Microsoft 365 production environment or to customer data. When a Microsoft service team member wants to update the service or access customer data for any reason, they must submit a request justifying the need and receive approval from an authorized manager. At scale, it isn't feasible to manually provide and remove access as required to maintain Microsoft 365 services, so Microsoft has developed an automated solution to manage privileged access as needed.
 
 ## Lockbox
 
@@ -58,11 +58,11 @@ Service engineers use two management interfaces to perform administrative tasks:
 
 ## Remote Desktop
 
-Service team members administrating their service using Remote Desktop must connect from a SAW, a specially designed and manufactured laptops managed by Microsoft specifically for this use case. Microsoft partners with suppliers to build SAWs, creating a short and secure supply chain. SAWs use hardened operating systems which are configured to limit all functionality except what is needed for defined management tasks. These limitations include disabling of all USB ports, strict application access lists, removal of email access, limiting internet browsing, and enforcing inactivity screensaver lockouts. Microsoft access control systems examine SAW machines periodically to ensure they are compliant with the latest security controls and automatically disables machines if they are determined to be non-compliant.
+Service team members administrating their service using Remote Desktop must connect from a SAW, specially designed and manufactured laptops managed by Microsoft specifically for this use case. Microsoft partners with suppliers to build SAWs, creating a short and secure supply chain. SAWs use hardened operating systems that are configured to limit all functionality except what is needed for defined management tasks. These limitations include disabling of all USB ports, strict application access lists, removal of email access, limiting internet browsing, and enforcing inactivity screensaver lockouts. Microsoft access control systems examine SAW machines periodically to ensure they are compliant with the latest security controls and automatically disables machines if they are determined to be non-compliant.
 
-Service engineers are only permitted to connect to one TSG at a time and multiple sessions are not allowed. However, TSGs allow Microsoft 365 service team administrators to connect to multiple servers, each with only one concurrent session, so that administrators can effectively perform their duties. Service team administrators do not have any permissions on the TSGs themselves. The TSG is used only to enforce multi-factor authentication (MFA) and encryption requirements. Once the service team administrator connects to a specific server through a TSG, the specific server enforces a session limit of one per administrator.
+Service engineers are only permitted to connect to one TSG at a time and multiple sessions are not allowed. However, TSGs allow Microsoft 365 service team administrators to connect to multiple servers, each with only one concurrent session, so that administrators can effectively perform their duties. Service team administrators do not have any permissions on the TSGs themselves. The TSG is used only to enforce multifactor authentication (MFA) and encryption requirements. Once the service team administrator connects to a specific server through a TSG, the specific server enforces a session limit of one per administrator.
 
-Usage restrictions, connection and configuration requirements for Microsoft 365 personnel are established by Active Directory group policies. These policies include the following TSG characteristics:
+Usage restrictions, connection, and configuration requirements for Microsoft 365 personnel are established by Active Directory group policies. These policies include the following TSG characteristics:
 
 - Use only [FIPS 140-2](/compliance/regulatory/offering-FIPS-140-2) validated encryption
 - Sessions disconnect after 15 minutes of inactivity
@@ -72,7 +72,7 @@ Connections to TSGs also require MFA using a separate physical smart card. Servi
 
 ## Remote PowerShell
 
-In addition to remote access using specially configured TSGs, service team personnel with the Service Engineer Operations Lockbox role can access certain administrative functionality on production servers using Remote PowerShell. To do this, the user must be authorized for read-only (debug) access to the Microsoft 365 production environment. Privilege escalation is enabled the same way it is enabled for TSGs using the Lockbox process.
+In addition to remote access using specially configured TSGs, service team personnel with the Service Engineer Operations Lockbox role can access certain administrative functionality on production servers using Remote PowerShell. To use this access, the user must be authorized for read-only (debug) access to the Microsoft 365 production environment. Privilege escalation is enabled the same way it is enabled for TSGs using the Lockbox process.
 
 For remote access, each datacenter has a load-balanced virtual IP that serves as a single point of access. The available Remote PowerShell cmdlets are based on the privilege level identified in the access claim obtained during authentication. These cmdlets provide the only administrative functionality accessible by users connecting using this method. Remote PowerShell limits the scope of commands available to the engineer and is based on the level of access granted via the Lockbox process. For example, in Exchange Online, the Get-Mailbox cmdlet might be available, but the Set-Mailbox cmdlet would not.
 
