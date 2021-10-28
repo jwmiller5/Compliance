@@ -102,12 +102,10 @@
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Microsoft 365 account management
       href: assurance-microsoft-365-account-management.md
-    - name: Microsoft 365 technology controls
-      href: assurance-technology-controls.md
+    - name: Microsoft 365 service engineer access control
+      href: assurance-microsoft-365-service-engineer-access-control.md
     - name: Office 365 Customer Lockbox
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Yammer Enterprise access controls
-      href: assurance-yammer-enterprise-access-controls.md
       
 - name: Incident management
   items:
