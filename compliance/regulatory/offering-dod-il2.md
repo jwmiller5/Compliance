@@ -34,7 +34,7 @@ The [15 December 2014 DoD CIO memo](https://www.esi.mil/contentview.aspx?id=585)
 
 - Azure
 - Dynamics 365
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint
 - Microsoft Graph
 - Microsoft Intune

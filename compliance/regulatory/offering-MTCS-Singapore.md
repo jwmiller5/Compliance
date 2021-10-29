@@ -45,7 +45,7 @@ Certifications were granted at Level 3 for Microsoft Azure services (IaaS and Pa
 - Dynamics 365 online services (Business Central, Commerce, Customer Service, Field Service, Finance, Fraud Protection, Marketing, Sales, Supply Chain Management)
 - Genomics
 - Intune
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Office 365

@@ -41,7 +41,7 @@ ISO/IEC 27017 is unique in providing guidance for both cloud service providers a
 ## Microsoft in-scope cloud platforms & services
 
 - [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - [Dynamics 365, Dynamics 365, and Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
 - Intune
 - Microsoft Defender for Endpoint

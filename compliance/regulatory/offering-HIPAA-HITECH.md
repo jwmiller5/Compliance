@@ -48,7 +48,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 - Azure DevOps Services
 - Dynamics 365 and Dynamics 365 U.S. Government
 - Intune
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
@@ -97,7 +97,7 @@ No, Microsoft cannot use a customer's Business Associate Agreement. Because we o
 
 **How can I get copies of third party audit reports?**
 
-The [Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx) provides independently audited compliance reports. You can use the portal to request audit reports so that your auditors can compare Microsoft's cloud services results with your own legal and regulatory requirements. Azure customers can also retrieve Azure certificates and audit reports in the Azure portal through the [audit reports blade in Azure Security Center](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade).
+The [Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx) provides independently audited compliance reports. You can use the portal to request audit reports so that your auditors can compare Microsoft's cloud services results with your own legal and regulatory requirements. Azure customers can also retrieve Azure certificates and audit reports in the Azure portal through the [audit reports blade in Microsoft Defender for Cloud](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade).
 
 **How can I learn more about how Microsoft supports compliance with HIPAA and the HITECH Act?**
 
