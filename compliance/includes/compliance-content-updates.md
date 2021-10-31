@@ -2,6 +2,34 @@
 
 
 
+## Week of October 25, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 10/25/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | added |
+| 10/25/2021 | [Microsoft Compliance # < 60 chars](/compliance/index) | modified |
+| 10/25/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
+| 10/25/2021 | [Architecture overview](/compliance/assurance/assurance-architecture) | modified |
+| 10/25/2021 | [Audit logging overview](/compliance/assurance/assurance-audit-logging) | modified |
+| 10/25/2021 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
+| 10/25/2021 | [Governance overview](/compliance/assurance/assurance-governance) | modified |
+| 10/25/2021 | [Human resources overview](/compliance/assurance/assurance-human-resources) | modified |
+| 10/25/2021 | [Incident management overview](/compliance/assurance/assurance-incident-management) | modified |
+| 10/25/2021 | [Privacy overview](/compliance/assurance/assurance-privacy) | modified |
+| 10/25/2021 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
+| 10/25/2021 | [Risk management](/compliance/assurance/assurance-risk-management) | modified |
+| 10/25/2021 | [Security development and operations overview](/compliance/assurance/assurance-security-development-and-operation) | modified |
+| 10/25/2021 | [Security monitoring overview](/compliance/assurance/assurance-security-monitoring) | modified |
+| 10/25/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
+| 10/25/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
+| 10/25/2021 | [Microsoft 365 compliance program](/compliance/assurance/assurance-microsoft-365-compliance-program) | added |
+| 10/28/2021 | [Criminal Justice Information Services (CJIS) Security Policy](/compliance/regulatory/offering-cjis) | modified |
+| 10/28/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
+| 10/28/2021 | Technology controls in Microsoft 365 | removed |
+| 10/28/2021 | Microsoft 365 Yammer enterprise access controls | removed |
+
+
 ## Week of October 18, 2021
 
 
@@ -44,28 +72,3 @@
 | 10/1/2021 | [Windows diagnostic data processor configuration Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-windows) | modified |
 | 10/1/2021 | [Information protection](/compliance/regulatory/gdpr-information-protection) | modified |
 | 10/1/2021 | [General Data Protection Regulation](/compliance/regulatory/gdpr) | modified |
-
-
-## Week of September 20, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 9/22/2021 | [Baseline Informatiebeveiliging Rijksdienst standard (BIR 2012)](/compliance/regulatory/offering-bir-2012-netherlands) | modified |
-| 9/22/2021 | [Cloud Security Mark Gold (CS Gold Mark)](/compliance/regulatory/offering-cs-mark-gold-japan) | modified |
-| 9/22/2021 | [European Union Model Clauses](/compliance/regulatory/offering-eu-model-clauses) | modified |
-| 9/22/2021 | [Family Educational Rights and Privacy Act (FERPA)](/compliance/regulatory/offering-ferpa) | modified |
-| 9/22/2021 | [Federal Financial Institutions Examination Council (FFIEC)](/compliance/regulatory/offering-ffiec-us) | modified |
-| 9/22/2021 | [Federal Risk and Authorization Management Program (FedRAMP)](/compliance/regulatory/offering-fedramp) | modified |
-| 9/22/2021 | [Gramm-Leach-Bliley Act (GLBA)](/compliance/regulatory/offering-glba) | modified |
-| 9/22/2021 | [Spanish Royal Decree 1720/2007, Spanish Organic Law 15/1999 (LOPD)](/compliance/regulatory/offering-lopd-spain) | modified |
-| 9/22/2021 | [My Number Act (Japan)](/compliance/regulatory/offering-my-number-act-japan) | modified |
-| 9/22/2021 | [NEN 7510](/compliance/regulatory/offering-nen-7510-netherlands) | modified |
-| 9/22/2021 | [Sarbanes-Oxley Act of 2002 (SOX)](/compliance/regulatory/offering-sox) | modified |
-| 9/22/2021 | [U.S. Section 508](/compliance/regulatory/offering-section-508-vpats) | modified |
-| 9/22/2021 | [Web Content Accessibility Guidelines](/compliance/regulatory/offering-wcag-2-1) | modified |
-| 9/22/2021 | [ENISA Information Assurance Framework](/compliance/regulatory/offering-enisa) | modified |
-| 9/22/2021 | [Argentina Personal Data Protection Act (PDPA)](/compliance/regulatory/offering-pdpa-argentina) | modified |
-| 9/22/2021 | [Microsoft denial-of-service defense strategy](/compliance/assurance/assurance-microsoft-dos-defense-strategy) | modified |
-| 9/23/2021 | [Microsoft denial-of-service defense strategy](/compliance/assurance/assurance-microsoft-dos-defense-strategy) | modified |
-| 9/23/2021 | [International Traffic in Arms Regulations (ITAR)](/compliance/regulatory/offering-itar) | modified |
