@@ -82,9 +82,9 @@ Use the following table to determine applicability for your Office 365 services 
 
 ### Office 365 audit reports
 
-- [Office 365 Core - SSAE 18 SOC 2 Report](https://aka.ms/o365SOC-2)
-- [Office 365 Microservices T1-SSAE 18 SOC2 Type I Report](https://aka.ms/o365-MS-SOC-2-type1)
-- [See bridge letters and additional audit reports](https://aka.ms/auditreports)
+- [Office 365 Core - SSAE 18 SOC 2 Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Office 365 Microservices T1-SSAE 18 SOC2 Type I Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [See bridge letters and additional audit reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 You must have an existing subscription or free trial account in Office 365 or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to download SOC 1 and SOC 2 attestation reports and any bridge letters as needed.
 
