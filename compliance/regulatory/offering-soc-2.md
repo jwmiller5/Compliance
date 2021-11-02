@@ -39,7 +39,7 @@ Office 365 SOC 2 attestations are based on rigorous independent third-party audi
 Microsoft online services in scope are shown in the Azure SOC 2 Type 2 attestation report:
 
 - Azure (for detailed insight, see [Microsoft Azure Compliance Offerings](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) or Azure SOC 2 Type 2 attestation report)
-- Azure DevOps (see separate Azure DevOps SOC 2 Type 2 attestation report)
+- Azure DevOps (see separate [Azure DevOps SOC 2 Type 2 attestation report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3))
 - Dynamics 365 (for detailed insight, see Azure SOC 2 Type 2 attestation report)
 - Microsoft 365 Defender
 - Microsoft Cloud App Security (MCAS)
