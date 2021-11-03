@@ -49,7 +49,6 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 - Dynamics 365 and Dynamics 365 U.S. Government
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for medium business and enterprise customers of Microsoft 365 for business
