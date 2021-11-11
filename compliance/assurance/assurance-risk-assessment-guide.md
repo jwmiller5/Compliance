@@ -26,7 +26,7 @@ hideEdit: true
 
 The goal of a cloud risk assessment is to ensure that the system and data considered for migration to the cloud don't introduce any new or unidentified risk into the organization. The focus is to ensure confidentiality, integrity, availability, and privacy of information processing and to keep identified risks below the accepted internal risk threshold.
 
-In a shared responsibility model, the Cloud Service Provider (CSP) is responsible for managing security and compliance *of the cloud* as the provider. The customer remains responsible for managing and configuring security and compliance in the cloud in accordance with their needs and risk tolerance.
+In a shared responsibility model, the Cloud Service Provider (CSP) is responsible for managing security and compliance *of the cloud* as the provider. The customer remains responsible for managing and configuring security and compliance *in the cloud* in accordance with their needs and risk tolerance.
 
 ![Shared responsibility model.](../media/assurance-shared-responsibility-model.png)
 

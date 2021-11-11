@@ -42,19 +42,13 @@ These centers include navigation panes for access to several features:
 - **Reports:** Enables you to quickly access [reports](https://support.office.com/article/Reports-in-the-Office-365-Security-Compliance-Center-7acd33ce-1ec8-49fb-b625-43bac7b58c5a) for SharePoint Online, OneDrive for Business, Exchange Online, and Azure AD.
 - **Service assurance:** Provides information about how Microsoft maintains security, privacy, and compliance with global standards for Microsoft 365, Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and other cloud services. Also includes access to third-party ISO, SOC, and other audit reports, as well as Audited Controls, which provides details about the various controls that have been tested and verified by third-party auditors of Microsoft 365.
 
-## Service Assurance
+## Service assurance
 
 Many organizations in regulated industries are subject to extensive compliance requirements. To perform their own risk assessments, customers often need in-depth information about how Microsoft 365 maintains the security and privacy of their data. Microsoft is committed to the security and privacy of customer data in its cloud services and to earning customer trust by providing a transparent view of its operations, and easy access to independent compliance reports and assessments.
 
 Service Assurance provides transparency of operations and information about how Microsoft maintains the security, privacy, and compliance of customer data in Microsoft 365. It includes third-party audit reports along with a library of white papers, FAQs, and other materials on Microsoft 365 topics such as data encryption, data resiliency, security incident management and more. Customers can use this information to perform their own regulatory risk assessments. Compliance officers can assign the "Service Assurance User" role to give users access to Service Assurance. The tenant administrator can also provide external users, such as independent auditors, with access to information in the Service Assurance dashboard through the [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) (STP).
 
-## OneDrive for Business admin center
-
-The Microsoft OneDrive admin center helps you quickly and easily manage your organization's OneDrive for Business settings in one place. To use the OneDrive admin center, access to onedrive.com is required. You must also be a global admin for your organization or a custom admin with the SharePoint administrator role. Access the OneDrive for Business admin center at [https://admin.onedrive.com](https://admin.onedrive.com/).
-
-Key features include a compliance area that provides administrators with links to the appropriate management center for key scenarios like searching the audit log, working with DLP, retention, eDiscovery, and alerting.
-
-## Related Links
+## Resources
 
 - [Microsoft 365 Reporting Features](assurance-reporting-features.md)
 - [Internal Logging for Microsoft 365 Engineering](assurance-internal-logging.md)
