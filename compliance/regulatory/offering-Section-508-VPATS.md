@@ -41,7 +41,7 @@ Microsoft's consideration of U.S. Section 508 in the development of products and
 
 ## Office 365 and U.S. Section 508
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

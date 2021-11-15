@@ -75,7 +75,7 @@ Get practical support for moving data and workloads to Azure in compliance with 
 
 ## Office 365 and APRA
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

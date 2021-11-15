@@ -40,7 +40,7 @@ While Microsoft is not subject to BIR 2012 compliance, customers from the govern
 
 ## Office 365 and BIR 2012
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

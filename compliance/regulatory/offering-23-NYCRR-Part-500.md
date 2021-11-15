@@ -52,7 +52,7 @@ The New York regulations require each financial institution to:
 
 ## Office 365 and Title 23 NYCRR Part 500
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

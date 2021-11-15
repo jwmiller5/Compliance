@@ -39,7 +39,7 @@ Microsoft was the first hyper-scale cloud service provider to receive, for the b
 
 ## Office 365 and LOPD
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
