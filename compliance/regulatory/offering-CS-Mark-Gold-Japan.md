@@ -44,7 +44,7 @@ After rigorous assessments by a JASA-certified auditor, Microsoft received the C
 
 ## Office 365 and CS Gold Mark
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

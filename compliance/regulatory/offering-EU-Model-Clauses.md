@@ -46,7 +46,7 @@ In July 2020, the Court of Justice of the European Union (CJEU) invalidated the 
 
 ## Office 365 and European Union Model Clauses
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

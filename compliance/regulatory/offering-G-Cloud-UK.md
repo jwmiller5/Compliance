@@ -49,7 +49,7 @@ The appointment of Microsoft services to the Digital Marketplace means that UK g
 
 ## Office 365 and UK G-Cloud
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

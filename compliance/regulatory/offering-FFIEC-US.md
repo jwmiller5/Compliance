@@ -55,7 +55,7 @@ To assist financial institutions subject to FFIEC oversight with cloud adoption,
 
 ## Office 365 and FFIEC
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

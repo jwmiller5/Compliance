@@ -2,7 +2,7 @@
 
 Microsoft Office 365 is a multi-tenant hyperscale cloud platform and an integrated experience of apps and services available to customers in several regions worldwide. Most Office 365 services enable customers to specify the region where their customer data is located. Microsoft may replicate customer data to other regions within the same geographic area (for example, the United States) for data resiliency, but Microsoft will not replicate customer data outside the chosen geographic area.
 
-This section covers the following Office 365 cloud environments:
+This section covers the following Office 365 environments:
 
 - **Client software (Client)**: commercial client software running on customer devices.
 - **Office 365 (Commercial)**: the commercial public Office 365 cloud service available globally.
