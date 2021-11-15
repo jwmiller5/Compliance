@@ -30,7 +30,7 @@ In addition, any ISO/IEC 27701 audit requires the organization to declare applic
 
 Microsoft online services in scope are shown on the Azure ISO/IEC 27701 certificate:
 
-- Azure
+- Azure (for detailed insight, see the Azure ISO/IEC 27701 offering)
 - Dynamics 365 (for detailed insight, see the Azure ISO/IEC 27701 offering)
 - Microsoft 365 Defender (not in scope for Azure Government)
 - Microsoft Bing for Commerce (not in scope for Azure Government)
