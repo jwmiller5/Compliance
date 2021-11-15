@@ -55,7 +55,7 @@ Certifications were granted at Level 3 for Microsoft Azure services (IaaS and Pa
 
 ## Office 365 and MTCS
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

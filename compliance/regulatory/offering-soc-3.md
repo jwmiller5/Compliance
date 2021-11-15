@@ -58,7 +58,7 @@ For more information about Azure, Dynamics 365, and other online services compli
 
 ## Office 365 and SOC 3
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
