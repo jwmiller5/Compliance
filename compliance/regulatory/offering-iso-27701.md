@@ -1,6 +1,6 @@
 ---
 title: ISO/IEC 27701:2019
-description: Learn more about how Microsoft meets ISO/IEC 27701:2019 guidlines.
+description: Learn more about how Microsoft meets ISO/IEC 27701:2019 guidelines.
 keywords: Microsoft 365, compliance, offerings
 ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
