@@ -14,7 +14,6 @@ search.appverid:
 f1.keywords:
 - NOCSH
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
 - MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance

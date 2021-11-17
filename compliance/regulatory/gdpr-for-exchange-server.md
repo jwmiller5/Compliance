@@ -10,7 +10,9 @@ audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
 ms.localizationpriority: high
-ms.collection: MS-Compliance
+ms.collection:
+- MS-Compliance
+- MS-Compliance-GDPR
 ms.custom:
 - seo-marvel-mar2020
 - seo-marvel-apr2020

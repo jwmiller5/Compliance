@@ -14,9 +14,8 @@ manager: laurawi
 ms.reviewer: delinat
 audience: itpro
 ms.collection: 
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 hideEdit: true
 ---
 

@@ -12,7 +12,6 @@ f1.keywords:
 ms.service: o365-solutions
 ms.localizationpriority: medium
 ms.collection: 
-- M365-subscription-management
 - MS-Compliance
 - MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance

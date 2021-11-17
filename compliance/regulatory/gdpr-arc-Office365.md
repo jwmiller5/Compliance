@@ -11,9 +11,8 @@ ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.collection: 
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ---

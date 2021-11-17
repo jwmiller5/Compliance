@@ -12,7 +12,6 @@ ms.topic: overview
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
 - MS-Compliance-Assurance
 search.appverid:

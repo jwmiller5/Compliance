@@ -12,9 +12,6 @@ ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
-- M365-security-compliance
-- M365-analytics
-- SPO_Content
 - MS-Compliance
 - MS-Compliance-Assurance
 f1.keywords:

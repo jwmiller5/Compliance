@@ -9,10 +9,8 @@ manager: laurawi
 audience: ITPro
 ms.topic: article
 ms.collection: 
-- Ent_O365
-- Strat_O365_Enterprise
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 ms.service: O365-seccomp
 ms.localizationpriority: high
 search.appverid:
