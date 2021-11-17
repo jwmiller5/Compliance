@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---

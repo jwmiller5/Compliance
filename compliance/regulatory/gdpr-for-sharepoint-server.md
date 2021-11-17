@@ -12,7 +12,9 @@ ms.service: O365-seccomp
 ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.collection: MS-Compliance
+ms.collection:
+- MS-Compliance
+- MS-Compliance-GDPR
 hideEdit: true
 ---
 

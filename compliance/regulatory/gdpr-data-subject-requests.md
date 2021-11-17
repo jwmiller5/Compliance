@@ -11,9 +11,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection: 
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 titleSuffix: Microsoft GDPR
 description: Learn how to complete DSRs under the General Data Protection Regulation (GPDR) and California Consumer Privacy Act (CCPA) using Microsoft products and services.
 ms.custom: seo-marvel-mar2020

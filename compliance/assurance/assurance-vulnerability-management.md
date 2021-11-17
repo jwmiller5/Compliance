@@ -12,9 +12,8 @@ f1.keywords:
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
-- Strat_O365_IP
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Assurance
 search.appverid:
 - MET150
 - MOE150

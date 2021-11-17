@@ -13,9 +13,8 @@ author: MohitKumar
 manager: laurawi
 audience: itpro
 ms.collection:
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 titleSuffix: Microsoft GDPR
 hideEdit: true
 ---

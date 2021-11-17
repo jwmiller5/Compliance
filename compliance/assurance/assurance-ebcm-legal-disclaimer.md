@@ -12,9 +12,8 @@ ms.topic: article
 ms.service: o365-solutions
 ms.localizationpriority: medium
 ms.collection: 
-- M365-subscription-management
-- Strat_O365_Enterprise
 - MS-Compliance
+- MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---
