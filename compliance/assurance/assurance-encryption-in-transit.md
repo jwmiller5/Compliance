@@ -14,10 +14,9 @@ ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
-- Strat_O365_Enterprise
 - M365-security-compliance
-- Strat_O365_Enterprise
 - MS-Compliance
+- MS-Compliance-Assurance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true

@@ -14,11 +14,10 @@ ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
-- Strat_O365_Enterprise
 - M365-security-compliance
-- Strat_O365_Enterprise
 - SPO_Content
 - MS-Compliance
+- MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---

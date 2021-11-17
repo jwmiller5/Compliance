@@ -14,9 +14,9 @@ search.appverid:
 f1.keywords:
 - NOCSH
 ms.collection:
-- Strat_O365_IP
 - M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---

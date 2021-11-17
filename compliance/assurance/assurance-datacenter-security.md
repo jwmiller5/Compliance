@@ -8,13 +8,13 @@ ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
 audience: Admin
-ms.topic: article
+ms.topic: overview
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
-- Strat_O365_IP
 - M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Assurance
 search.appverid:
 - MET150
 - MOE150

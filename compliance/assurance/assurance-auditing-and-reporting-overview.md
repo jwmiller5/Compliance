@@ -6,17 +6,17 @@ author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 audience: ITPro
-ms.topic: article
+ms.topic: overview
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
-- Strat_O365_IP
 - M365-security-compliance
 - M365-analytics
 - SPO_Content
 - MS-Compliance
+- MS-Compliance-Assurance
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
