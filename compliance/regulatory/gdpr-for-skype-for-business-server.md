@@ -11,7 +11,9 @@ ms.topic: article
 ms.service: O365-seccomp
 ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
-ms.collection: MS-Compliance
+ms.collection:
+- MS-Compliance
+- MS-Compliance-GDPR
 hideEdit: true
 ---
 

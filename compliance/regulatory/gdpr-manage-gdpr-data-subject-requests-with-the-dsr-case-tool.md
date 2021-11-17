@@ -13,10 +13,8 @@ ms.localizationpriority: high
 search.appverid:
 - MET150
 ms.collection: 
-- Strat_O365_IP
-- M365-security-compliance
-- SPO_Content
 - MS-Compliance
+- MS-Compliance-GDPR
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
