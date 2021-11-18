@@ -36,7 +36,7 @@ In July 2020, the Court of Justice of the European Union (CJEU) invalidated the 
 - Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Cloud service portion of the Intune Add-on Product and Mobile Device Management for Office 365
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint for the following cloud service portions: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score.
 - Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for Medium Business and Enterprise customers of Microsoft 365 for business
 - Office 365
