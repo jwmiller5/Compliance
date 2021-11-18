@@ -28,12 +28,12 @@ Published in 2012 by the technical committee, ISO 22301:2012 is the first intern
 
 ## Microsoft and ISO 22301
 
-Microsoft is the first hyperscale cloud service provider to receive the ISO 22301 certification for business continuity management. An independent certification body awarded this certification to Microsoft Azure, Microsoft Azure Government, Microsoft Office 365 (including Commercial, Government, and Education offerings), Microsoft Cloud App Security, Microsoft Intune, and Microsoft Power BI after a stringent audit covering all aspects of their business continuity processes. The audit covered the in-scope services listed below and Azure management features, the Azure Portal, and the systems used to monitor, operate, and update the in-scope services.
+Microsoft is the first hyperscale cloud service provider to receive the ISO 22301 certification for business continuity management. An independent certification body awarded this certification to Microsoft Azure, Microsoft Azure Government, Microsoft Office 365 (including Commercial, Government, and Education offerings), Microsoft Defender for Cloud Apps, Microsoft Intune, and Microsoft Power BI after a stringent audit covering all aspects of their business continuity processes. The audit covered the in-scope services listed below and Azure management features, the Azure Portal, and the systems used to monitor, operate, and update the in-scope services.
 
 ## Microsoft in-scope cloud platforms & services
 
 - [Azure, Azure Government, and Azure Germany](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Dynamics 365, Dynamics 365 Government, and Dynamics 365 Germany
 - Microsoft Defender for Endpoint
 - Microsoft Graph

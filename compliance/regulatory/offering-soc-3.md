@@ -35,7 +35,7 @@ Microsoft in-scope services are shown in the Azure [SOC 2 Type 2 attestation](of
 - Azure (for detailed insight, see [Microsoft Azure Compliance Offerings](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) or Azure SOC 2 Type 2 attestation report)
 - Dynamics 365 (for detailed insight, see Azure SOC 2 Type 2 attestation report)
 - Microsoft 365 Defender
-- Microsoft Cloud App Security (MCAS)
+- Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint
 - Microsoft Defender for Identity
 - Microsoft Forms Pro (not in scope for Azure Government)

@@ -78,7 +78,7 @@
   items:
     - name: Governance overview
       href: assurance-governance.md
-    - name: Azure Security Center
+    - name: Microsoft Defender for Cloud
       href: /azure/security-center/security-center-introduction?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Microsoft 365 compliance center
       href: /microsoft-365/compliance/microsoft-365-compliance-center?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
