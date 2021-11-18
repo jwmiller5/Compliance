@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -44,7 +44,7 @@ The Microsoft data-transfer agreement is an amendment (Amendment ID M314) to the
 
 ## Office 365 and the PDPA
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

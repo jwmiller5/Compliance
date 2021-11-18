@@ -12,16 +12,15 @@ ms.topic: article
 ms.service: o365-solutions
 ms.localizationpriority: medium
 ms.collection: 
-- M365-subscription-management
-- Strat_O365_Enterprise
 - MS-Compliance
+- MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---
 
 # Developing your business continuity plan
 
-This topic provides guidance on developing a business continuity plan that takes Microsoft 365 dependencies into account. Here we recommend methods for analyzing your business functions and identifying the ones which depend on Microsoft 365 services. You'll perform this analysis with the anticipation that there will be service failures and that you have to prepare for those possibilities.
+This topic provides guidance on developing a business continuity plan that takes Microsoft 365 dependencies into account. Here we recommend methods for analyzing your business functions and identifying the ones that depend on Microsoft 365 services. You'll perform this analysis with the anticipation that there will be service failures and that you have to prepare for those possibilities.
 
 Broadly speaking, business continuity planning involves four aspects, assessment, planning, capability validation, and communication and coordination.
 
@@ -36,13 +35,13 @@ This is a BIA document for `name of the service, system, process, or function`
 |---------|---------|
 |BIA type|`is it a business process or technology, service or system?`|
 |BIA name|`name of the service/system/function/process`|
-|service description|`give a full description of the service, process, or function`|
-|enterprise function|`some examples: customer services; legal; marketing; risk management, security, sales, information technology, production, manufacturing`|
-|fiscal year|`the current fiscal year, re-evaluate these on a regular basis`|
-|criticality|`develop your own classifications, but here are some examples: mission critical, important, deferrable`|
-|business unit|`name of the business unit that owns this business function`|
-|process (service, feature)|`the name of the process, service, or feature`|
-|business group senior leader|`the name and contact information of the senior leader of the business group that owns this business process`|
+|Service description|`give a full description of the service, process, or function`|
+|Enterprise function|`some examples: customer services; legal; marketing; risk management, security, sales, information technology, production, manufacturing`|
+|Fiscal year|`the current fiscal year, re-evaluate these on a regular basis`|
+|Criticality|`develop your own classifications, but here are some examples: mission critical, important, deferrable`|
+|Business unit|`name of the business unit that owns this business function`|
+|Process (service, feature)|`the name of the process, service, or feature`|
+|Business group senior leader|`the name and contact information of the senior leader of the business group that owns this business process`|
 |Does the technology have an established **internal** SLA or OLA?|`please explain in as much detail as possible`|
 |Does the technology have an established **external** SLA or OLA?|`please explain in as much detail as possible`|
 |Does the technology have a known executive mandate driving a specific process SLA? If yes, explain in detail.|`details here`|
@@ -50,10 +49,10 @@ This is a BIA document for `name of the service, system, process, or function`
 |Does the service have a workaround or alternative in place for some or all of its key functions and features? If yes, explain in detail.|`details here`|
 |Does the service process, store, or transmit customer data, such as personally identifiable information (PII)? If yes, explain in detail.|`details here`|
 |BIA status|`develop your own status classification, here are some examples: planned, started, in-progress, complete, on-hold, expired`|
-|completion date|`the date this BIA was completed`|
+|Completion date|`the date this BIA was completed`|
 |BIA facilitator|`name of the person or group who is responsible for developing and maintaining this BIA`|
 |BIA approval|`name of the person or group who is the executive sponsor of this BIA and who has responsibility for approving it.`|
-|contributors|`optional list of the people who helped develop this BIA and their contact information`|
+|Contributors|`optional list of the people who helped develop this BIA and their contact information`|
 |BIA approval location|`indicate where the executive approval is located, or attach proof to this document`|
 
 ## Planning
@@ -65,18 +64,18 @@ You can use [Microsoft Service Map](/azure/azure-monitor/insights/service-map) t
 Here's a sample dependency analysis (DA) you can start from. In your dependency analysis (DA), you will identify and examine the process dependencies. Make sure you include people, suppliers, customers, partnerships, and facilities. The data from this analysis will be used to identify gaps between the recovery requirements of a process and the recovery capabilities of supporting dependencies.
 
 
-|field|description|
+|Field|Description|
 |---------|---------|
-|process type|         |
-|facilitator|         |
-|completed by|         |
-|completed date|         |
-|contributors|         |
+|Process type|         |
+|Facilitator|         |
+|Completed by|         |
+|Completed date|         |
+|Contributors|         |
   
 ## Capability validation
 
 Once you have inventoried your business processes and mapped out relationships to other process and technologies, you need to build validation scenarios for all the processes. Basically, figure out how you are going to validate your business process continuity plans. You'll probably find that some are more important that others and you'll want to prioritize those.
-Don't forget that regularly training employees on incident response and continuity measures is important once the plan is established. Post incident reviews should be used to enhance your resiliency strategies by incorporating learnings from each validation or test.
+Don't forget that regularly training for employees on incident response and continuity measures is important once the plan is established. Post incident reviews should be used to enhance your resiliency strategies by incorporating learnings from each validation or test.
 
 ![capability validation visio.](../media/capability-validation-visio.png)
 
@@ -95,13 +94,13 @@ During your Business Impact Analysis and Dependency Analysis, you will be mappin
 
 ## Know your external points of integration
 
-Regardless of business model, every company has points of integration with their customers, partners, and vendors. The business value supply chain is built on integration with external entities. Improving business continuity in case of service disruption requires consideration – and protection – of each point of integration.  
+Regardless of business model, every company has points of integration with their customers, partners, and vendors. The business value supply chain is built on integration with external entities. Improving business continuity for service disruptions requires consideration and protection of each point of integration.  
 As you analyze your supply chain, external communications should be considered in the same way internal communications are analyzed. Do your customers rely on your Exchange Online servers as the only method of contacting you? Have you established and made your suppliers aware of alternative communication methods, in the event uptime is impacted? Here's
 a sample table that suggests how to organize your thinking.
 
-|external entity name|impacting incident scenario|Microsoft 365 services integrated|alternatives|
+| External entity name | Impacting incident scenario | Microsoft 365 services integrated | Alternatives |
 |---------|---------|---------|---------|
-|`vendor name`|mail flow|Exchange Online is the only means of communication with Contoso|set up external Microsoft Teams channels or a third-party collaboration software          |
-|`service supplier name`|chat|Microsoft Teams|third-party instant messaging|
-|`partner name`|voice|Microsoft Teams|mobile or public pstn      |
-|`supplier name`|file sharing|externally shared SharePoint sites and OneDrive|third-party file sharing         |
+|`vendor name`|Mail flow|Exchange Online is the only means of communication with Contoso|set up external Microsoft Teams channels or a third-party collaboration software          |
+|`service supplier name`|Chat|Microsoft Teams|Third-party instant messaging|
+|`partner name`|Voice|Microsoft Teams|Mobile or public pstn      |
+|`supplier name`|File sharing|Externally shared SharePoint sites and OneDrive|Third-party file sharing         |

@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -41,7 +41,7 @@ Microsoft's consideration of U.S. Section 508 in the development of products and
 
 ## Office 365 and U.S. Section 508
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

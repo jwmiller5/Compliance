@@ -12,9 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection: 
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR

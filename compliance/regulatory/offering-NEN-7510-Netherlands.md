@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -38,7 +38,7 @@ Learn how to accelerate your NEN 7510 deployment with our Azure Security and Com
 
 ## Office 365 and ISO 27001
 
-### Office 365 cloud environments
+### Office 365 environments
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

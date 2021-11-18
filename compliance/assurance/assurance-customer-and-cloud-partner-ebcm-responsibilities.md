@@ -12,9 +12,8 @@ ms.topic: article
 ms.service: o365-solutions
 ms.localizationpriority: medium
 ms.collection: 
-- M365-subscription-management
-- Strat_O365_Enterprise
 - MS-Compliance
+- MS-Compliance-Assurance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---
@@ -29,7 +28,7 @@ As a trusted partner, Microsoft  builds highly resilient cloud services and foll
 
 ## Timely
 
-Microsoft notifies Microsoft 365 administrators by updating the tenant-specific Service Health Dashboard (SHD) in the Microsoft 365 Admin Portal. Service incident updates are normally provided on an hourly cadence. If a different cadence is needed we'll keep you informed of the change in the SHD communication postings.
+Microsoft notifies Microsoft 365 administrators by updating the tenant-specific Service Health Dashboard (SHD) in the Microsoft 365 Admin Portal. Service incident updates are normally provided on an hourly cadence. If a different cadence is needed, we'll keep you informed of the change in the SHD communication postings.
 
 ## Targeted
 
@@ -44,12 +43,12 @@ Microsoft maintains multiple channels for service status communications that cus
 - The Admin App for Microsoft 365 tenant administrators gives you the ability to connect with your organization's Microsoft 365 service status on the go. Tenant administrators will have the ability to view service health information and maintenance status updates from their mobile devices. For more information, visit the [Admin App FAQ](/office365/admin/admin-overview/admin-mobile-app).
 - The [Microsoft 365 Service Communications API](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api) enables you to access service communications so you can more easily monitor your environment. You can connect to the API, receive real-time service health data, and publish the information on an internal dashboard to inform enterprise users of incidents. Distributing the information internally can decrease your helpdesk traffic during an outage.
 - For major incidents, Microsoft publishes Post Incident Reviews (PIR) to the SHD within the Admin center. PIRs contain key incident information to help you understand the nature of the outage. It generally contains the following sections:
-    - user impact
-    - scope of impact
-    - incident start-end date and time
-    - root cause
-    - actions taken
-    - next steps
+    - User impact
+    - Scope of impact
+    - Incident start-end date and time
+    - Root cause
+    - Actions taken
+    - Next steps
 - Ancillary communications are available in the Microsoft 365 Message Center, such as notices of upcoming changes, new features, or planned maintenance.
 - For more information, see the [Service Health and Continuity guide](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity) to learn more about the different communication channels and how to monitor service health.
 
@@ -59,7 +58,7 @@ Providing access to Microsoft 365 online services is a partnership between your 
 
 ## Your environment - service continuity
 
-When thinking about your continuity plan, be mindful of events which may impact your organization and it's overall ability to communicate. At a high level there are three factors that could impact your business.
+When thinking about your continuity plan, be mindful of events that may impact your organization and its overall ability to communicate. At a high level, there are three factors that could impact your business.
 
 ### People
 
@@ -72,7 +71,7 @@ Microsoft publishes [network connectivity principles](/microsoft-365/enterprise/
 
 ### Systems
 
-Many collaboration solutions are dependent on systems, such as the company wide area network (WAN). When those systems are not available, how would your organization respond?
+Many collaboration solutions are dependent on systems, such as the company-wide area network (WAN). When those systems are not available, how would your organization respond?
 This graphic represents issues that may impact more than one area. The accompanying table provides examples to consider
 
 ![Venn diagram of systems.](../media/venn-diagram.png)
