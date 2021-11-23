@@ -60,7 +60,7 @@ conceptualContent:
         - url: offering-ISO-27018.md
           itemType: reference
           text: ISO 27018
-        - url: /azure/compliance/offerings/offering-iso-27701
+        - url: offering-iso-27701.md
           itemType: reference
           text: ISO 27701
         - url: /azure/compliance/offerings/offering-iso-9001

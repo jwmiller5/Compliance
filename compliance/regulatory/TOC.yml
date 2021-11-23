@@ -23,7 +23,7 @@
         - name: ISO 27018
           href: offering-iso-27018.md
         - name: ISO 27701
-          href: /azure/compliance/offerings/offering-iso-27701?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
+          href: offering-iso-27701.md
         - name: ISO-9001
           href: /azure/compliance/offerings/offering-iso-9001?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: SOC 1
