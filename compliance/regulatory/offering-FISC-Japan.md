@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -38,7 +38,7 @@ Microsoft engaged outside assessors to validate that Microsoft Azure, Dynamics 3
 - Operational guidelines for organizations, training, access control, system development, and auditing.
 - Technical guidelines for measures to improve the reliability of hardware and software, and for countermeasures against security risks including data protection, prevention against unauthorized use, threat detection, and disaster recovery.
 
-Financial institutions can rely on this evaluation of the compliance of these three areas for the in-scope infrastructure and platform services of Azure, Dynamics 365, Office 365, and Microsoft Cloud App Security.
+Financial institutions can rely on this evaluation of the compliance of these three areas for the in-scope infrastructure and platform services of Azure, Dynamics 365, Office 365, and Microsoft Defender for Cloud Apps.
 
 [Learn more about validation of external assessors and links to assessor's sites (Japanese Only](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
@@ -46,7 +46,7 @@ Financial institutions can rely on this evaluation of the compliance of these th
 
 - Azure
 - Intune
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Office 365
 - Power BI cloud service (either as a standalone service or as included in an Office 365 branded plan or suite)
 

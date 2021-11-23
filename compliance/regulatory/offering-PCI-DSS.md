@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -38,7 +38,7 @@ It is important to understand that PCI DSS compliance status for Azure, OneDrive
 
 - Azure and Azure Government
 - Intune
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - [Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 - Microsoft Graph
 - Office 365

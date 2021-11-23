@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -39,7 +39,7 @@ The appointment of Microsoft services to the Digital Marketplace means that UK g
 ## Microsoft in-scope cloud platforms & services
 
 - Azure
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365

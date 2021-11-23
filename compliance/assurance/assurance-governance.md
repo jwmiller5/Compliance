@@ -6,15 +6,14 @@ author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 audience: Admin
-ms.topic: article
+ms.topic: overview
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
-- Strat_O365_IP
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Assurance
 search.appverid:
 - MET150
 - MOE150
@@ -65,7 +64,7 @@ Microsoft's online services are regularly audited for compliance with external r
 | [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.18.1: Compliance with legal and contractual requirements <br> A.18.2: Information security reviews | December 2, 2020 |
 | [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a3bca0ac-867d-4204-b66b-13665f5f1e8d&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=25718a8a-f34d-41e1-a95a-c49246508787&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.18.1: Compliance with legal and contractual requirements <br> A.18.2: Information security reviews | December 2, 2020 |
 | [SOC 1](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fservicetrust.microsoft.com%2FViewPage%2FMSComplianceGuideV3%3Fcommand%3DDownload%26downloadType%3DDocument%26downloadId%3D66043614-5628-4e26-83be-057eb3bb026c%26tab%3D7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb%26docTab%3D7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%252F_SSAE_16_Reports&data=04%7C01%7Csostah%40microsoft.com%7Cb9591cf4bd214d42c4f408d93cd83520%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637607721602686385%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=B2xjy%2Bx70e8vI%2FKC2BCa4AyJt0OSMzAGuhwllHF4NGM%3D&reserved=0) | IS-1: Microsoft security policy <br> IS-2: Microsoft security policy review <br> IS-3: Security roles and responsibilities | March 31, 2021 |
-| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | C5-1: Standard operating procedures <br> IS-1: Microsoft security policy <br> IS-2: Microsoft security policy review <br> IS-3: Security roles and responsibilities <br> SOC2-14: Confidentiality and non-disclosure agreements <br> SOC2-18: Statutory, regulatory, and contractual requirements <br> SOC2-19: Cross-functional compliance program <br> SOC2-20: ISMS program | March 31, 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=af02eb56-4261-416b-98e3-2e713e37a77e&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=645b2f97-5bfd-4cea-b02c-c4bcda328a37&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | C5-1: Standard operating procedures <br> IS-1: Microsoft security policy <br> IS-2: Microsoft security policy review <br> IS-3: Security roles and responsibilities <br> SOC2-14: Confidentiality and non-disclosure agreements <br> SOC2-18: Statutory, regulatory, and contractual requirements <br> SOC2-19: Cross-functional compliance program <br> SOC2-20: ISMS program | November 12, 2021 |
 
 ### Office 365
 

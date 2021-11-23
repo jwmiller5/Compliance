@@ -12,9 +12,8 @@ f1.keywords:
 - NOCSH
 manager: laurawi
 ms.collection: 
-- GDPR
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-GDPR
 ms.workload:
   - "multiple"
 titleSuffix: Microsoft GDPR

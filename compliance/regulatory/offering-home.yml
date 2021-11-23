@@ -13,8 +13,8 @@ metadata:
   ms.subservice: subservice # Optional; Remove if no subservice is used.
   ms.topic: hub-page # Required
   ms.collection:
-  - M365-security-compliance
   - MS-Compliance
+  - MS-Compliance-Offering
   author: robmazz #Required; your GitHub user alias, with correct capitalization.
   ms.author: robmazz #Required; microsoft alias of author; optional team alias.
   ms.date: 11/30/2020 #Required; mm/dd/yyyy format.

@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -39,7 +39,7 @@ Microsoft online services in scope are shown in the Azure SOC 1 Type 2 attestati
 - Azure DevOps (see separate Azure DevOps SOC 1 Type 2 attestation report)
 - Dynamics 365 (for detailed insight, see Azure SOC 1 Type 2 attestation report)
 - Microsoft 365 Defender
-- Microsoft Cloud App Security (MCAS)
+- Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint (formerly Microsoft Defender Advanced Threat Protection)
 - Microsoft Defender for Identity (formerly Azure Advanced Threat Protection)
 - Microsoft Forms Pro (not in scope for Azure Government)

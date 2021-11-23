@@ -12,8 +12,8 @@ author: robmazz
 manager: laurawi
 audience: itpro
 ms.collection:
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Offering
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
@@ -45,7 +45,7 @@ Certifications were granted at Level 3 for Microsoft Azure services (IaaS and Pa
 - Dynamics 365 online services (Business Central, Commerce, Customer Service, Field Service, Finance, Fraud Protection, Marketing, Sales, Supply Chain Management)
 - Genomics
 - Intune
-- Microsoft Cloud App Security
+- Microsoft Defender for Cloud Apps
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Office 365

@@ -6,15 +6,14 @@ author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 audience: Admin
-ms.topic: article
+ms.topic: overview
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
 ms.localizationpriority: medium
 ms.collection:
-- Strat_O365_IP
-- M365-security-compliance
 - MS-Compliance
+- MS-Compliance-Assurance
 search.appverid:
 - MET150
 - MOE150
@@ -36,7 +35,7 @@ In addition to Microsoft's redundant system architecture, Microsoft uses sophist
 
 ## How does Microsoft protect users against spam and malware being uploaded or sent through online services?
 
-Microsoft online services build antimalware protection into services that might be vectors for malicious code, such as Exchange Online and SharePoint Online. Exchange Online Protection (EOP) scans all emails and email attachments for malware as they enter and exit the system, preventing infected messages and attachments from being delivered. Advanced spam filtering is automatically applied to inbound and outbound messages to help prevent customer organizations from receiving and sending spam. This layer of protection guards against attacks that take advantage of unsolicited or unauthorized email, such as phishing attacks. SharePoint Online uses the same virus detection engine to selectively scan uploaded files for malware. If a file is marked as infected, users are prevented from downloading or syncing the file to protect client endpoints. Similarly, Azure compares hashes related to files uploaded to Azure Storage to those hashes of known malware. When matches are found, an alert is raised in Azure Security Center where a decision is made about the legitimacy of the alert and how it should be addressed.
+Microsoft online services build antimalware protection into services that might be vectors for malicious code, such as Exchange Online and SharePoint Online. Exchange Online Protection (EOP) scans all emails and email attachments for malware as they enter and exit the system, preventing infected messages and attachments from being delivered. Advanced spam filtering is automatically applied to inbound and outbound messages to help prevent customer organizations from receiving and sending spam. This layer of protection guards against attacks that take advantage of unsolicited or unauthorized email, such as phishing attacks. SharePoint Online uses the same virus detection engine to selectively scan uploaded files for malware. If a file is marked as infected, users are prevented from downloading or syncing the file to protect client endpoints. Similarly, Azure compares hashes related to files uploaded to Azure Storage to those hashes of known malware. When matches are found, an alert is raised in Microsoft Defender for Cloud where a decision is made about the legitimacy of the alert and how it should be addressed.
 
 ## Related external regulations & certifications
 
@@ -46,7 +45,7 @@ Microsoft's online services are regularly audited for compliance with external r
 
 | **External audits** | **Section** | **Latest report date** |
 |:--------------------|:------------|:-----------------------|
-| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | VM-1: Security event logging <br> VM-3: Intrusion detection and monitoring <br> VM-4: Malicious events investigation <br> VM-6: Vulnerability scanning <br> VM-7: Network device configuration <br> VM-8: Penetration testing <br> VM-9: Network device security event logging <br> VM-13: Network device vulnerability mitigation | March 31. 2021 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=af02eb56-4261-416b-98e3-2e713e37a77e&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=645b2f97-5bfd-4cea-b02c-c4bcda328a37&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | VM-1: Security event logging <br> VM-3: Intrusion detection and monitoring <br> VM-4: Malicious events investigation <br> VM-6: Vulnerability scanning <br> VM-7: Network device configuration <br> VM-8: Penetration testing <br> VM-9: Network device security event logging <br> VM-13: Network device vulnerability mitigation | March 31, 2021 <br> November 12, 2021 <br> November 12, 2021 |
 
 ### Office 365
 

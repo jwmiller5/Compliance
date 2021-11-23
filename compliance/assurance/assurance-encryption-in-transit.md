@@ -14,10 +14,8 @@ ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
-- Strat_O365_Enterprise
-- M365-security-compliance
-- Strat_O365_Enterprise
 - MS-Compliance
+- MS-Compliance-Assurance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
@@ -27,9 +25,9 @@ hideEdit: true
 
 In addition to protecting customer data at rest, Microsoft uses encryption technologies to protect customer data in transit. Data is in transit:
 
-- when a client machine communicates with a Microsoft server;
-- when a Microsoft server communicates with another Microsoft server; and
-- when a Microsoft server communicates with a non-Microsoft server (for example, Exchange Online delivering email to a third-party email server).
+- When a client machine communicates with a Microsoft server;
+- When a Microsoft server communicates with another Microsoft server; and
+- When a Microsoft server communicates with a non-Microsoft server (for example, Exchange Online delivering email to a third-party email server).
 
 Inter-data center communications between Microsoft servers take place over TLS or IPsec, and all customer-facing servers negotiate a secure session using TLS with client machines (for example, Exchange Online uses TLS 1.2 with 256-bit cipher strength is used (FIPS 140-2 Level 2-validated). (See [Technical reference details about encryption](/microsoft-365/compliance/technical-reference-details-about-encryption) for a list of TLS cipher suites supported by Office 365.) This applies to the protocols that are used by clients such as Outlook, Skype for Business, Microsoft Teams, and Outlook on the web (for example, HTTP, POP3, etc.).
 
