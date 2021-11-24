@@ -39,11 +39,7 @@ Before a Microsoft service engineer can connect to any Microsoft 365 systems or 
 
 Once all criteria have been met and verified by Lockbox, temporary access is granted to perform the specific action requested. After the time for the request has elapsed, the access is revoked.
 
-![Lockbox access process.](../media/assurance-lockbox-process.png)
-
 Additionally, if a customer licenses and enables the [Customer Lockbox](/microsoft-365/compliance/customer-lockbox-requests) feature, any attempt from a Microsoft service engineer to access customer data must be additionally approved by an administrator in the customer tenant. The need to access customer data can arise from both customer and Microsoft. For example, an incident raised by a customer may require access to their data to fix the issue or when Microsoft needs data access to apply a specific update.
-
-![Customer Lockbox access process.](../media/assurance-customer-lockbox-process.png)
 
 Customers do not have any tools to initiate a Customer Lockbox request; they must submit a ticket to Microsoft that requires a Customer Lockbox request to be raised. A Customer Lockbox request raised by a Microsoft service engineer must be approved by a Microsoft Manager and an authorized administrator in the customer tenant.
 
