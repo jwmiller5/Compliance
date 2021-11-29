@@ -2,6 +2,18 @@
 
 
 
+## Week of November 22, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 11/22/2021 | [Audit logging overview](/compliance/assurance/assurance-audit-logging) | modified |
+| 11/23/2021 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
+| 11/23/2021 | [ISO/IEC 27701:2019](/compliance/regulatory/offering-iso-27701) | added |
+| 11/24/2021 | [Identity and access management overview](/compliance/assurance/assurance-identity-and-access-management) | modified |
+| 11/24/2021 | [Microsoft 365 service engineer access control](/compliance/assurance/assurance-microsoft-365-service-engineer-access-control) | modified |
+
+
 ## Week of November 15, 2021
 
 
@@ -288,14 +300,3 @@
 | 10/28/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
 | 10/28/2021 | Technology controls in Microsoft 365 | removed |
 | 10/28/2021 | Microsoft 365 Yammer enterprise access controls | removed |
-
-
-## Week of October 18, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 10/18/2021 | [Datacenter architecture and infrastructure](/compliance/assurance/assurance-datacenter-architecture-infrastructure) | modified |
-| 10/18/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
-| 10/19/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
-| 10/19/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
