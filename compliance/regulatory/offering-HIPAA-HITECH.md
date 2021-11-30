@@ -56,6 +56,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 - Power Automate (formerly Microsoft Flow) cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - PowerApps cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
 - Power BI cloud service either as a standalone service or as included in an Office 365 or Dynamics 365 branded plan or suite
+- Windows 365
 
 ## Azure, Dynamics 365, and HIPAA
 
