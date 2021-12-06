@@ -2,6 +2,14 @@
 
 
 
+## Week of November 29, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 11/30/2021 | [Health Insurance Portability and Accountability Act (HIPAA) & Health Information Technology for Economic and Clinical Health (HITECH) Act](/compliance/regulatory/offering-hipaa-hitech) | modified |
+
+
 ## Week of November 22, 2021
 
 
@@ -272,31 +280,3 @@
 | 11/18/2021 | [System and Organization Controls (SOC) 1 Type 2](/compliance/regulatory/offering-soc-1) | modified |
 | 11/18/2021 | [System and Organization Controls (SOC) 2 Type 2](/compliance/regulatory/offering-soc-2) | modified |
 | 11/18/2021 | [System and Organization Controls (SOC) 3](/compliance/regulatory/offering-soc-3) | modified |
-
-
-## Week of October 25, 2021
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 10/25/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | added |
-| 10/25/2021 | [Microsoft Compliance # < 60 chars](/compliance/index) | modified |
-| 10/25/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
-| 10/25/2021 | [Architecture overview](/compliance/assurance/assurance-architecture) | modified |
-| 10/25/2021 | [Audit logging overview](/compliance/assurance/assurance-audit-logging) | modified |
-| 10/25/2021 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
-| 10/25/2021 | [Governance overview](/compliance/assurance/assurance-governance) | modified |
-| 10/25/2021 | [Human resources overview](/compliance/assurance/assurance-human-resources) | modified |
-| 10/25/2021 | [Incident management overview](/compliance/assurance/assurance-incident-management) | modified |
-| 10/25/2021 | [Privacy overview](/compliance/assurance/assurance-privacy) | modified |
-| 10/25/2021 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
-| 10/25/2021 | [Risk management](/compliance/assurance/assurance-risk-management) | modified |
-| 10/25/2021 | [Security development and operations overview](/compliance/assurance/assurance-security-development-and-operation) | modified |
-| 10/25/2021 | [Security monitoring overview](/compliance/assurance/assurance-security-monitoring) | modified |
-| 10/25/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
-| 10/25/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
-| 10/25/2021 | [Microsoft 365 compliance program](/compliance/assurance/assurance-microsoft-365-compliance-program) | added |
-| 10/28/2021 | [Criminal Justice Information Services (CJIS) Security Policy](/compliance/regulatory/offering-cjis) | modified |
-| 10/28/2021 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
-| 10/28/2021 | Technology controls in Microsoft 365 | removed |
-| 10/28/2021 | Microsoft 365 Yammer enterprise access controls | removed |
