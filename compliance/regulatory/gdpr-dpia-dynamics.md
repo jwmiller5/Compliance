@@ -45,9 +45,9 @@ Article 35 of the GDPR requires a data controller to create a Data Protection Im
 
 Article 35(7) mandates that a Data Protection Impact Assessment specifies the purposes of processing and a systematic description of the envisioned processing. A systematic description of a comprehensive DPIA might include factors such as the types of data processed, how long data is retained, where the data is located and transferred, and what third parties may have access to the data. In addition, the DPIA must include:
 
-- an assessment of the necessity and proportionality of the processing operations in relation to the purposes;
-- an assessment of the risks to the rights and freedoms of natural persons; and
-- the measures envisaged to address the risks, including safeguards, security measures, and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
+- An assessment of the necessity and proportionality of the processing operations in relation to the purposes;
+- An assessment of the risks to the rights and freedoms of natural persons; and
+- The measures envisaged to address the risks, including safeguards, security measures, and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
 
 The table below contains information about Dynamics 365 that is relevant to each of those elements. As in Part 1, data controllers must consider the details provided below, along with any other relevant factors, in the context of the controller's specific implementation(s) and use(s) of Dynamics 365.
 
