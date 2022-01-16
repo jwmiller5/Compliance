@@ -2,6 +2,15 @@
 
 
 
+## Week of January 10, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/11/2022 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
+| 1/12/2022 | [Malware and ransomware protection in Microsoft 365](/compliance/assurance/assurance-malware-and-ransomware-protection) | modified |
+
+
 ## Week of January 03, 2022
 
 
