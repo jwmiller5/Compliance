@@ -92,7 +92,7 @@ You must have an existing subscription or free trial account in Office 365 or [O
 
 **How often are Office 365 SOC reports issued?**
 
-SOC reports for Office 365 and other online services are based on a rolling 12-month run window (audit period) with new reports issued semi-annually (period ends are March 31 and September 30). *Bridge letters* are issued each quarter to cover the prior three-month period. For example, the January letter covers 1-Oct through 31-Dec, the April letter covers 1-Jan through 31-Mar, the July letter covers 1-Apr through 30-Jun, and the October letter covers 1-Jul through 30-Sep.
+SOC reports for Office 365 and are issued semi-annually. SOC audits for core and micro-services are based on a rolling 12-month run window (audit period) with new reports issued annually for the period 1-October through 30-September of the next calendar year. SOC audit reports are also issued in the spring for new services coming into scope for Office 365. *Bridge letters* are issued at the end of each audit quarter to cover the prior three-month period. For example, bridge letters are typically issued in December, March, June, and September.
 
 **Where can I get the Office 365 SOC audit documentation including bridge letters?**
 
