@@ -34,7 +34,7 @@ Microsoft online services in scope are shown on the Azure ISO/IEC 27701 certific
 - Dynamics 365 (for detailed insight, see the Azure ISO/IEC 27701 offering)
 - Microsoft 365 Defender (not in scope for Azure Government)
 - Microsoft Bing for Commerce (not in scope for Azure Government)
-- Microsoft Defender for Cloud Apps
+- Microsoft Cloud App Security
 - Microsoft Defender for Endpoint
 - Microsoft Graph
 - Microsoft Intune
