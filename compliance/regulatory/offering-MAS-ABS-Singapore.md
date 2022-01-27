@@ -75,11 +75,11 @@ Get practical support for moving data and workloads to the Microsoft Cloud in co
 
 No, there is no requirement for prior notification, consultation, or approval of outsourcing arrangements. However, the MAS expects financial institutions to be ready to demonstrate how they comply, and to notify the MAS as soon as possible of adverse developments arising from a financial institution's outsourcing arrangements — for example, a data breach incident.
 
-**What is a 'material” outsourcing arrangement and why is the definition important?**
+**What is a 'material' outsourcing arrangement and why is the definition important?**
 
-An outsourcing arrangement is 'material” if a service failure or breach has the potential to materially affect a financial firm's business operations or ability to manage risk and comply with applicable laws and regulations; or if it involves customer information and, in the event of any unauthorized access or disclosure, loss, or theft of customer information, has a material impact on a firm's customers. The definition of 'customer information” expressly excludes securely encrypted information.
+An outsourcing arrangement is 'material' if a service failure or breach has the potential to materially affect a financial firm's business operations or ability to manage risk and comply with applicable laws and regulations; or if it involves customer information and, in the event of any unauthorized access or disclosure, loss, or theft of customer information, has a material impact on a firm's customers. The definition of 'customer information' expressly excludes securely encrypted information.
 
-This definition is important since certain provisions of MAS Outsourcing Guidelines apply only to 'material outsourcing arrangements.” These include an obligation to perform annual reviews, mandatory contractual clauses addressing audit rights, and ensuring that outsourcing outside of Singapore does not affect MAS supervisory efforts.
+This definition is important since certain provisions of MAS Outsourcing Guidelines apply only to 'material outsourcing arrangements.' These include an obligation to perform annual reviews, mandatory contractual clauses addressing audit rights, and ensuring that outsourcing outside of Singapore does not affect MAS supervisory efforts.
 
 ## Resources
 
