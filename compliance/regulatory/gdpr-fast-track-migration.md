@@ -1,6 +1,6 @@
 ---
-title: GDPR
-description: Microsoft technical guidance — FASTTRACK MIGRATIONS TOOLSET FOR SUBMITTING DELETE REQUEST
+title: FastTrack Migration Toolset for Submitting Delete Request
+description: Learn more about the FastTrack Migration Toolset for submitting delete requests
 keywords: FastTrack Migration, Microsoft 365 Education, Microsoft 365 documentation, GDPR
 ms.localizationpriority: high
 Robots:  NOFOLLOW,NOINDEX
@@ -23,7 +23,7 @@ hideEdit: true
 
 ## Toolset purpose
 
-In the event that you are a customer currently engaged in FastTrack migrations, deleting the user account will not delete the data copy held by the Microsoft FastTrack team, which is held for the sole purpose of completing the migration. If during the migration you would like the Microsoft FastTrack team to also delete the data copy, submit a request via this tool set. In the ordinary course of business, Microsoft FastTrack will delete all data copies once the migration is complete.
+If you're a customer currently engaged in FastTrack migrations, deleting the user account won't delete the data copy held by the Microsoft FastTrack team, which is held for the sole purpose of completing the migration. If during the migration you would like the Microsoft FastTrack team to also delete the data copy, submit a request via this tool set. In the ordinary course of business, Microsoft FastTrack will delete all data copies once the migration is complete.
 
 ### Supported platforms
 
@@ -41,7 +41,7 @@ Microsoft supports the initial release of this  toolset in the Windows platform 
 
 ### Obtaining the toolset
 
-This toolset is available in the PowerShell Gallery on the PowerShell console application.  To locate and load this cmdlet module, first open PowerShell in administrator mode so it has the appropriate permissions to install the module. If you have not used PowerShell previously go to your Windows Task Bar and in the search box type 'PowerShell'. Select the console app using right-click and choose **Run as administrator**, then click **Yes** to run Windows PowerShell.
+This toolset is available in the PowerShell Gallery on the PowerShell console application.  To locate and load this cmdlet module, first open PowerShell in administrator mode so it has the appropriate permissions to install the module. If you haven't used PowerShell previously go to your Windows Task Bar and in the search box type 'PowerShell'. Select the console app using right-click and choose **Run as administrator**, then select **Yes** to run Windows PowerShell.
 
 ![PowerShell — Run as administrator.](../media/fasttrack-powershell_image.png)
 
@@ -53,7 +53,7 @@ Now that the console is open, you need to set permissions for script execution. 
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ```
 
-You will be prompted to confirm this action, as the administrator can change the scope at their discretion.
+You'll be prompted to confirm this action, as the administrator can change the scope at their discretion.
 
 ***Set Execution Policy***
 
@@ -67,9 +67,9 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 ### Prerequisites for module
 
-To successfully execute this module, you may need to install dependent modules for use if they are not already installed. You may need to restart PowerShell.
+To successfully execute this module, you may need to install dependent modules for use if they aren't already installed. You may need to restart PowerShell.
 
-In order to submit a DSR, you must first log in using your Office 365 credentials. Entering the proper credentials will validate your global administrator status and collect tenant information.
+In order to submit a DSR, you must first sign in using your Office 365 credentials. Entering the proper credentials will validate your global administrator status and collect tenant information.
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -77,7 +77,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Once successfully logged in, the credentials and key will be stored for use with FastTrack modules for the remainder of the current PowerShell session.
 
-If you need to connect to a cloud environment, other than commercial, *-Environment* will need to be added to *Log in* command with one of the following valid environments:
+If you need to connect to a cloud environment, other than commercial, *-Environment* will need to be added to *sign in* command with one of the following valid environments:
 
 - AzureCloud
 - AzureChinaCloud
