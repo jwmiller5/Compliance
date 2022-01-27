@@ -29,13 +29,13 @@ Microsoft Professional Services takes its obligations under the General Data Pro
 
 ### Introduction to DPIAs
 
-Under the General Data Protection Regulation (GDPR), data controllers are required to prepare a DPIA for processing operations that are 'likely to result in a high risk to the rights and freedoms of natural persons.” There is nothing inherent in Microsoft Professional Services that would necessarily require the creation of a DPIA by a data controller using it. Rather, whether a DPIA is required will be dependent on the details and context of the type of services and how the data controller uses the professional services.
+Under the General Data Protection Regulation (GDPR), data controllers are required to prepare a DPIA for processing operations that are 'likely to result in a high risk to the rights and freedoms of natural persons.' There is nothing inherent in Microsoft Professional Services that would necessarily require the creation of a DPIA by a data controller using it. Rather, whether a DPIA is required will be dependent on the details and context of the type of services and how the data controller uses the professional services.
 
 The purpose of this document is to provide data controllers with information about Professional Services that will help them to determine whether a DPIA is needed and, if so, what details to include.
 
 ## Part 1: Determining whether a DPIA is needed
 
-Article 35 of the GDPR requires a data controller to create a Data Protection Impact Assessment '[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context, and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.” It further sets out particular factors that would indicate such a high risk, which is discussed in the following table: In determining whether a DPIA is needed, a data controller should consider these factors, along with any other relevant factors, in light of the data controller's specific implementation(s) and use(s) of Professional Services.
+Article 35 of the GDPR requires a data controller to create a Data Protection Impact Assessment '[w]here a type of processing in particular using new technologies, and taking into account the nature, scope, context, and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons.' It further sets out particular factors that would indicate such a high risk, which is discussed in the following table: In determining whether a DPIA is needed, a data controller should consider these factors, along with any other relevant factors, in light of the data controller's specific implementation(s) and use(s) of Professional Services.
 
 |**Risk Factor**|**Relevant Information about Professional Services**|
 |:-----|:-----|
@@ -45,7 +45,7 @@ Article 35 of the GDPR requires a data controller to create a Data Protection Im
 |||
 
 > [!Note]
-> <sup>1</sup> With respect to the criteria that the processing be on a 'large scale,” Recital 91 of the GDPR clarifies that: 'The processing of personal data should not be considered to be on a large scale if the processing concerns personal data from patients or clients by an individual physician, other health care professional, or lawyer. In such cases, a data protection impact assessment should not be mandatory.”
+> <sup>1</sup> With respect to the criteria that the processing be on a 'large scale,' Recital 91 of the GDPR clarifies that: 'The processing of personal data should not be considered to be on a large scale if the processing concerns personal data from patients or clients by an individual physician, other health care professional, or lawyer. In such cases, a data protection impact assessment should not be mandatory.'
   
 [Custom Development Note] Professional Services offers a wide variety of consulting solutions. A data controller could potentially request a solution that, in accordance with the above criteria, would be a high-risk solution. For instance, a data controller may request that Professional Services create a solution to develop a business intelligence engine for employment decisions or credit applications or a solution that involves user tracking, specialized use of Artificial Intelligence (AI)/Analytics, or processing of special categories of personal data.
 
