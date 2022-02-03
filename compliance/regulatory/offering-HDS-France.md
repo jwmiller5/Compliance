@@ -53,11 +53,11 @@ The rigorous audit covered the measures Microsoft has taken to secure personal h
 - Microsoft 365. The HDS certificate applies to Office 365 [Core Online Services](https://aka.ms/Online-Services-Terms) provisioned from France and European Union geographies.
 - Power BI cloud service either as a standalone service or as included in an Office 365 branded plan or suite
 
-The HDS certificate does not apply to Microsoft online services in preview or pre-release.
+The HDS certificate doesn't apply to Microsoft online services in preview or pre-release.
 
 ## Audits, reports, and certificates
 
-[HDS certification](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante) imposes advanced security and privacy requirements on hosting services and cloud providers to ensure that the confidentiality and integrity of sensitive data is adequately protected. Microsoft cloud services (including Azure) have been granted the HDS certification, as shown on the ASIP Santé [list of HDS-certified hosts](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies).
+[HDS certification](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante) imposes advanced security and privacy requirements on hosting services and cloud providers to ensure that the confidentiality and integrity of sensitive data is adequately protected. Microsoft cloud services (including Azure) have been granted the HDS certification, as shown on the ASIP Santé [list of HDS-certified hosts](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies). Download the latest ASIP Sante HDS certificate from the [Service Trust Portal: GRC Assessment Reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) section.
 
 ## How to implement
 
