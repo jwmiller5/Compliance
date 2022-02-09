@@ -32,7 +32,7 @@ The assessment results in an Attestation of Compliance (AoC), which is available
 
 Customers who want to develop a cardholder environment or card processing service can use these validations in many of the underlying portions, thereby reducing the associated effort and costs of getting their own PCI DSS certification.
 
-It is important to understand that PCI DSS compliance status for Azure, OneDrive for Business, and SharePoint Online not automatically translate to PCI DSS certification for the services that customers build or host on these platforms. Customers are responsible for ensuring that they achieve compliance with PCI DSS requirements.
+It is important to understand that PCI DSS compliance status for Azure, OneDrive for Business, and SharePoint Online does not automatically translate to PCI DSS certification for the services that customers build or host on these platforms. Customers are responsible for ensuring that they achieve compliance with PCI DSS requirements.
 
 ## Microsoft in-scope cloud platforms & services
 
