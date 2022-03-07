@@ -235,7 +235,7 @@ After the data is exported, the search results and export reports are located in
 
 After you run the built-in search, you can revise it to narrow the scope to return fewer search results. You can do this by adding conditions to the query. A condition is logically connected to the keyword query by the **AND** operator. That means to be returned in the search results, items must satisfy both the keyword query and any conditions you add. This is how conditions help to narrow the results. If you add two or more unique conditions to a search query (conditions that specify different properties), those conditions are logically connected by the **AND** operator. That means only items that satisfy all the conditions (in addition to the keyword query) are returned. If you add multiple values (separated by commas or semi-colons) to a single condition, those values are connected by the **OR** operator. That means items are returned if they contain any of the specified values for the property in the condition.
   
-Here are some examples of the conditions that you can add to the built-in search query of a UDS case. The name of the actual property used in a search query is shown parentheses.
+Here are some examples of the conditions that you can add to the built-in search query of a UDS case. The name of the actual property used in a search query is shown in parentheses.
   
 - **File type ( `filetype`)** – Specifies the extension of a document or file. Use this condition to search for documents and files created by specific Office applications, such as Word, Excel, and OneNote. 
 
