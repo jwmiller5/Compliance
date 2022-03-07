@@ -401,7 +401,7 @@ For more information about using Content Search to search for items in Microsoft
   
 ### Searching Exchange public folders
 
-The built-in search in a UDS case will only return email messages that the data subject sent to a mail-enabled public folder or messages that someone else sent to a public folder and also copied the data subject. It doesn't return messages that the data subject posted to a public folder. To search for items that the data subject posted to a public folder, you can create a separate create a separate Content Search that searches for any item posted to a public folder by the data subject.
+The built-in search in a UDS case will only return email messages that the data subject sent to a mail-enabled public folder or messages that someone else sent to a public folder and also copied the data subject. It doesn't return messages that the data subject posted to a public folder. To search for items that the data subject posted to a public folder, you can create a separate Content Search that searches for any item posted to a public folder by the data subject.
   
 Here's a high-level process to search for items that the data subject posted to a public folder. 
   
