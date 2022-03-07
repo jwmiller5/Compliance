@@ -145,7 +145,7 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
 
  **To run the built-in search for a UDS case:**
   
-1. In the Microsoft 365 compliance center,  select **eDiscovery** then click **User data search**, select the case that you created in Step 2, and then click **Open case**.
+1. In the Microsoft 365 compliance center,  select **eDiscovery**, then click **User data search**, select the case that you created in Step 2, and then click **Open case**.
 
 2. Select the **Searches** tab at the top of the page, and then click the checkbox next to the built-in search that was created when you created the UDS case. The search has the same name as the UDS case. 
 
