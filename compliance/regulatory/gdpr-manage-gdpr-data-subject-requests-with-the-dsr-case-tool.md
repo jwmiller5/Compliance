@@ -117,7 +117,7 @@ The next step is to create a UDS case. When you create a case, you can choose to
 
 10. Select the people to add as members of the UDS case, click **Add**, and then save your changes.
 
-    You can also add role groups as members of UDS case by clicking **Add** under **Manage role groups**. 
+    You can also add role groups as members of the UDS case by clicking **Add** under **Manage role groups**. 
 
 ## Step 3: Run the search query
 
