@@ -296,7 +296,7 @@ When you export data from the Office Roaming Service, the data is saved to a sep
 
 **To search for and export Office Roaming Service data**:
   
-1. In the Microsoft 365 compliance center,  select **eDiscovery** then click **User data search**, and then click **Open case** next to the UDS case for the data subject that you want to export usage data for. 
+1. In the Microsoft 365 compliance center,  select **eDiscovery**, then click **User data search**, and then click **Open case** next to the UDS case for the data subject that you want to export usage data for. 
 
 2. Click the **Search** tab at the top of the page, and then click ![Add Icon.](../media/ITPro-EAC-AddIcon.gif) **Guided search**.
 
