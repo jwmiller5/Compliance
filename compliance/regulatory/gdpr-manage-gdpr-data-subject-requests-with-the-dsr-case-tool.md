@@ -137,7 +137,7 @@ Here's what the keyword query looks like for the built-in search that gets autom
 participants:"<email address>" OR author:"<display name>" OR createdby:"<display name>"
 ```
 
-For example, if the name of the data subject is Ina Leonte, the keyword query would look like this:
+For example, if the name of the data subject is _Ina Leonte_, the keyword query would look like this:
   
 ```powershell
 participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
