@@ -5,7 +5,7 @@ metadata:
   keywords: Microsoft 365, compliance, CCPA, GDPR
   ms.localizationpriority: high
   ms.prod: microsoft-365-enterprise
-  ms.topic: article
+  ms.topic: faq
   f1.keywords:
   - NOCSH
   ms.author: robmazz
@@ -15,7 +15,6 @@ metadata:
   ms.collection: 
   - M365-security-compliance
   - MS-Compliance
-    
 title: "California Consumer Privacy Act (CCPA) Frequently Asked Questions"
 summary: |
   > [!Note]
