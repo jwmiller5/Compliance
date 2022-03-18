@@ -79,7 +79,7 @@ When you store your data in a SaaS like Office 365, it's a shared responsibility
 
 **Does Microsoft provide guidance for my organization to implement appropriate controls when using Office 365?**
 
-Yes, you can find recommended customer actions in Compliance Score, cross-Microsoft Cloud solutions that help your organization meet complex compliance obligations when using cloud services. Specifically, for HITRUST CSF, we recommend that you perform risk assessments using the NIST 800-53 and NIST CSF assessments in Compliance Score. In the assessments, we provide you with step-by-step guidance and the Microsoft solutions you can use to implement your data protection controls. You can learn more about Compliance Score in [Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager).
+Yes, you can find recommended customer actions in Compliance Manager, cross-Microsoft Cloud solutions that help your organization meet complex compliance obligations when using cloud services. Specifically, for HITRUST CSF, we recommend that you perform risk assessments using the NIST 800-53 and NIST CSF assessments in Compliance Manager. In the assessments, we provide you with step-by-step guidance and the Microsoft solutions you can use to implement your data protection controls. You can learn more about Compliance Manager in [Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager).
 
 ### Use Microsoft Purview Compliance Manager to assess your risk
 
