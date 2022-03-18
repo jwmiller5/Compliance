@@ -2,28 +2,19 @@
 
 
 
-## Week of January 10, 2022
+## Week of March 14, 2022
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 1/11/2022 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
-| 1/12/2022 | [Malware and ransomware protection in Microsoft 365](/compliance/assurance/assurance-malware-and-ransomware-protection) | modified |
+| 3/16/2022 | Enterprise business continuity management legal disclaimer | removed |
+| 3/17/2022 | [California Consumer Privacy Act (CCPA) FAQ](/compliance/regulatory/ccpa-faq) | modified |
+| 3/17/2022 | [Virginia Consumer Data Protection Act (VCDPA) Frequently Asked Questions](/compliance/regulatory/vcdpa-faq) | modified |
 
 
-## Week of January 03, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 1/4/2022 | [Microsoft 365 service engineer access control](/compliance/assurance/assurance-microsoft-365-service-engineer-access-control) | modified |
-| 1/5/2022 | [DPIA Azure for the GDPR](/compliance/regulatory/gdpr-dpia-azure) | modified |
-| 1/5/2022 | [DPIA Dynamics for the GDPR](/compliance/regulatory/gdpr-dpia-dynamics) | modified |
-
-
-## Week of December 20, 2021
+## Week of March 07, 2022
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 12/21/2021 | [Azure, Dynamics 365, and Windows breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics-windows) | modified |
+| 3/8/2022 | [Office 365 Data Subject Requests Under the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-office365) | modified |
