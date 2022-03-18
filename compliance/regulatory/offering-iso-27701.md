@@ -106,9 +106,9 @@ ISO/IEC 27701 is built on top of ISO/IEC 27001, one of the most widely adopted i
 
 No matter the size of your organization and whether it is a controller or a processor, your organization should consider pursuing certification, either for your own organization, or requesting it from vendors or suppliers based on your business requirements. This situation applies especially for processors, sub-processors, and co-controllers that are processing sensitive or high volumes of personal data. Your organization should assess its business needs to determine if certification for its own products and services is suitable.
 
-### Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Purview Compliance Manager to assess your risk
 
-Microsoft Compliance Manager is a feature in the Microsoft 365 compliance center to help you understand your organization’s compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to build assessments in Compliance Manager.
+Microsoft Purview Compliance Manager is a feature in the Microsoft 365 compliance center to help you understand your organization’s compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to build assessments in Compliance Manager.
 
 ### Resources
 
