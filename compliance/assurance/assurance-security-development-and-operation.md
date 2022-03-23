@@ -74,4 +74,5 @@ Microsoft's online services are regularly audited for compliance with external r
 
 ## Resources
 
+- [Video: Microsoft 365 security development and operation](https://www.youtube.com/watch?v=zLyY08o0k-g)
 - [Microsoft's Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl)
