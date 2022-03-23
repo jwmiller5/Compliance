@@ -209,11 +209,30 @@ Here's the high-level process for deleting users from your tenant.
 
    ![View user work information.](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
+###### Delete a user's data when there is no account in the Azure tenant
+
+While some users have an account in your Azure tenant that you are able to delete, [business-to-business (B2B) direct connect users](/azure/active-directory/external-identities/external-identities-overview#b2b-direct-connect) do not. B2B direct connect users use their native identities to receive cross-tenant access to the apps and resources hosted in your tenant. They use the user account hosted in their home tenant without requiring a guest account in your tenant.
+
+To honor the DSR for these users, you'll delete the personal data associated with the user in your tenant instead of the user account itself.
+
+1. Open the Azure portal, select **All services**, type *policy* into the filter, and then select **Policy**.
+2. In the **Policy** blade, select **User privacy**, select **Manage User Requests**, and then select **Add delete request**.
+3. Complete the **New delete data request**:
+    
+    - **User**. Type the email address of the Azure Active Directory user that requested the delete.
+
+4. Select **Delete**.
+
+The delete request goes into *Pending* status. You can review the report status on the **User privacy** > **Overview** blade.
+
+>[!IMPORTANT]
+>Because personal data can come from multiple systems, the delete process may take up to one month to complete.
+
 #### Service-specific interfaces
 
 Microsoft provides the ability to discover Customer Data directly via pre-existing application programming interfaces (APIs) or user interfaces (UIs) for specific services. Details are described in the respective services' reference documentation, describing applicable CRUD (create, read, update, delete) operations.
 
-## Step 6: Export
+### Step 6: Export
 
 The "right of data portability" allows a data subject to request a copy of their personal data in an electronic format (that's a "structured, commonly used, machine read-able, and interoperable format") that may be transmitted to another data controller. Azure supports this by enabling your organization to export the data in the native JSON format, to your specified Azure Storage Container.
 
@@ -303,7 +322,7 @@ Here's the high-level process for exporting data from your tenant.
 The export request goes into **Pending** status. You can view the report status on the **User privacy — Overview** blade.
 
 >[!IMPORTANT]  
->Because personal data can come from multiple systems, it's possible that the export process might take up to one month to complete.
+>Because personal data can come from multiple systems, the export process may take up to one month to complete.
 
 #### Service-Specific Interfaces
 
