@@ -72,6 +72,7 @@ Microsoft's online services are regularly audited for compliance with external r
 
 ## Resources
 
+- [Video: Microsoft Online Services incident management](https://www.youtube.com/watch?v=jpTRdV5eZYE)
 - [Online Services Terms (OST)](https://www.microsoft.com/licensing/product-licensing/products)
 - [Data Protection Addendum (DPA)](https://www.microsoft.com/licensing/product-licensing/products)
 - [Microsoft Cloud Incident Management Implementation Guidance for Azure and Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a8a7cb87-9710-4d09-8748-0835b6754e95&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
