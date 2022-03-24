@@ -37,7 +37,7 @@ Through in-place retention and preservation policy features of archiving in Micr
 - Documents shared during online meetings
 - Voicemails
 
-In addition, Microsoft has developed add-on features to allow [archiving of data](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) from other sources through integration with third-party data capturing and management solutions. After third-party data is imported, you can apply Microsoft 365 compliance features to the data, including:
+In addition, Microsoft has developed add-on features to allow [archiving of data](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) from other sources through integration with third-party data capturing and management solutions. After third-party data is imported, you can apply Microsoft Purview features to the data, including:
 
 - [Litigation Hold](/microsoft-365/compliance/create-a-litigation-hold)
 - [In-Place eDiscovery and Hold](/microsoft-365/compliance/manage-legal-investigations)

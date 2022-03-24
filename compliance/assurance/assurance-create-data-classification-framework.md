@@ -92,7 +92,7 @@ While financial services firms and government agencies are among the most heavil
 
 ## Implementing your data classification framework in Microsoft 365
 
-Once you have developed your data classification framework, your next step is implementation. The [Microsoft 365 compliance center](https://compliance.microsoft.com/) allows administrators to discover, classify, review, and monitor their data in accordance with their data classification framework. Sensitivity labels can be used to help protect your data by enforcing various protections such as encryption and content marking. They can be applied to data manually; by default, based on policy settings; or automatically, as the result of a condition such as identified PII.
+Once you have developed your data classification framework, your next step is implementation. The [Microsoft Purview portal](https://compliance.microsoft.com/) allows administrators to discover, classify, review, and monitor their data in accordance with their data classification framework. Sensitivity labels can be used to help protect your data by enforcing various protections such as encryption and content marking. They can be applied to data manually; by default, based on policy settings; or automatically, as the result of a condition such as identified PII.
 
 For smaller organizations or organizations with a relatively streamlined data classification framework, creating a single sensitivity label for each of your data classification levels may suffice. The following example shows a one-to-one data classification level to sensitivity label mapping:
 

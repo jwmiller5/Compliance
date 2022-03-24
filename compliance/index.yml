@@ -37,7 +37,7 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compmgmt/
     # Card 4
-    - title: Get started with Microsoft 365 compliance solution guides
+    - title: Get started with Microsoft Purview solution guides
       itemType: get-started
       url: /microsoft-365/solutions/
 
