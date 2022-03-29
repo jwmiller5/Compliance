@@ -2,6 +2,22 @@
 
 
 
+## Week of March 21, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 3/23/2022 | [Azure Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-azure) | modified |
+| 3/23/2022 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
+| 3/23/2022 | [Audit logging overview](/compliance/assurance/assurance-audit-logging) | modified |
+| 3/23/2022 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
+| 3/23/2022 | [Identity and access management overview](/compliance/assurance/assurance-identity-and-access-management) | modified |
+| 3/23/2022 | [Incident management overview](/compliance/assurance/assurance-incident-management) | modified |
+| 3/23/2022 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
+| 3/23/2022 | [Security development and operations overview](/compliance/assurance/assurance-security-development-and-operation) | modified |
+| 3/23/2022 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
+
+
 ## Week of March 14, 2022
 
 
