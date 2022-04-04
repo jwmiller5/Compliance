@@ -74,6 +74,7 @@ In addition to external audit reports, Microsoft highly encourages customers to 
 
 ## Resources
 
+- [Video: Learn how Microsoft safeguards customer data](https://www.youtube.com/playlist?list=PL3ZTgFEc7LytWdh_3XE_K-smGzWxgUrXX)
 - [Risk Assessment and Compliance Guide for Financial Institutions in the Microsoft Cloud](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 - [Concentration Risk: Perspectives from Microsoft](https://azure.microsoft.com/mediahandler/files/resourcefiles/concentration-risk-perspectives-from-microsoft-/Concentration_Risk_Perspectives_092020.pdf)
 - [Service Trust Portal](https://servicetrust.microsoft.com/)
