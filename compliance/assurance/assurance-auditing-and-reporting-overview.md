@@ -27,7 +27,7 @@ Microsoft cloud services include several auditing and reporting features you can
 
 ## Security & Compliance Centers
 
-The [Microsoft 365 Security & Compliance Center](https://protection.office.com), [Microsoft 365 Defender portal](https://security.microsoft.com), and [Microsoft Purview portal](https://compliance.microsoft.com) are one-stop portals for protecting data in your organization, and they include many auditing and reporting features. These centers help you with your data protection or compliance needs and audit user and administrator activity. You can access these centers using your subscription admin account.
+The [Microsoft 365 Security & Compliance Center](https://protection.office.com), [Microsoft 365 Defender portal](https://security.microsoft.com), and [Microsoft Purview compliance portal](https://compliance.microsoft.com) are one-stop portals for protecting data in your organization, and they include many auditing and reporting features. These centers help you with your data protection or compliance needs and audit user and administrator activity. You can access these centers using your subscription admin account.
 
 These centers include navigation panes for access to several features:
 
