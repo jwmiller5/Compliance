@@ -39,9 +39,9 @@ Microsoft cloud services are audited at least annually against SOC 2 (AT Section
 - [Azure, Azure Government, and Azure Germany](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Germany
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and C5
 
-- [Azure, Azure Government, and Azure Germany SOC 2 Type II Report.pdf](https://go.microsoft.com/fwlink/p/?linkid=2093520)
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Germany C5:2020 offering](/azure/compliance/offerings/offering-germany-c5).
 
 ## Frequently asked questions
 
