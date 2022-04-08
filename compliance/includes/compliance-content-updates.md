@@ -2,6 +2,15 @@
 
 
 
+## Week of April 04, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/7/2022 | [Cloud Computing Compliance Controls Catalog (C5)](/compliance/regulatory/offering-c5-germany) | modified |
+| 4/8/2022 | [System and Organization Controls (SOC) 2 Type 2](/compliance/regulatory/offering-soc-2) | modified |
+
+
 ## Week of March 21, 2022
 
 
