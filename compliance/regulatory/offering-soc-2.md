@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## SOC 2 Type 2 overview
 
-System and Organization Controls (SOC) for Service Organizations are internal control reports created by the American Institute of Certified Public Accountants (AICPA). They are intended to examine services provided by a service organization so that end users can assess and address the risk associated with an outsourced service.
+System and Organization Controls (SOC) for Service Organizations are internal control reports created by the American Institute of Certified Public Accountants (AICPA). They're intended to examine services provided by a service organization so that end users can assess and address the risk associated with an outsourced service.
 
 A SOC 2 Type 2 attestation is performed under:
 
@@ -32,7 +32,7 @@ A SOC 2 Type 2 attestation is performed under:
 
 In addition, the Office 365 SOC 2 Type 2 attestation report addresses the requirements set forth in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM), and the Cloud Computing Compliance Criteria Catalogue (C5:2020) created by the German Federal Office for Information Security (BSI).
 
-Office 365 SOC 2 attestations are based on rigorous independent third-party audits conducted by a reputable CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, Confidentiality, and Privacy.
+Office 365 SOC 2 attestations are based on rigorous comprehensive third-party examinations (also known as *audits*) conducted by an independent AICPA accredited CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, and Confidentiality.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -45,19 +45,18 @@ Microsoft online services in scope are shown in the Azure SOC 2 Type 2 attestati
 - Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint
 - Microsoft Defender for Identity
-- Microsoft Forms Pro (not in scope for Azure Government)
-- Microsoft Graph
+- Microsoft Forms Pro
 - Microsoft Intune
-- Microsoft Managed Desktop (not in scope for Azure Government)
+- Microsoft Managed Desktop
 - Microsoft Stream
-- Microsoft Threat Experts (not in scope for Azure Government)
+- Microsoft Threat Experts
 - Nomination Portal
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government - High, Office 365 U.S. Government Defense
 - Power Apps
 - Power Automate
 - Power BI
-- Power Virtual Agents (not in scope for Azure Government)
-- Update Compliance (not in scope for Azure Government)
+- Power Virtual Agents
+- Update Compliance
 
 ## Azure, Dynamics 365, and SOC 2
 
@@ -86,29 +85,41 @@ Use the following table to determine applicability for your Office 365 services 
 - [Office 365 Microservices T1-SSAE 18 SOC2 Type I Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 - [See bridge letters and additional audit reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
-You must have an existing subscription or free trial account in Office 365 or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to download SOC 1 and SOC 2 attestation reports and any bridge letters as needed.
+In accordance with AICPA requirements, you must have an existing subscription or free trial account in Office 365 or [Office 365 U.S. Government](https://azure.microsoft.com/global-infrastructure/government/request/) to download SOC 1 and SOC 2 attestation reports and any bridge letters as needed.
 
 ### Frequently asked questions
 
 **How often are Office 365 SOC reports issued?**
 
-SOC reports for Office 365 and are issued semi-annually. SOC audits for core and micro-services are based on a rolling 12-month run window (audit period) with new reports issued annually for the period 1-October through 30-September of the next calendar year. SOC audit reports are also issued in the spring for new services coming into scope for Office 365. *Bridge letters* are issued at the end of each audit quarter to cover the prior three-month period. For example, bridge letters are typically issued in December, March, June, and September.
+Microsoft commissions a full SOC 1 Type 2 and SOC 2 Type 2 examination of Office 365 annually. The auditor's reports on these examinations (also known as audits) are issued as soon as they're ready after that audit.
+
+Because Microsoft doesn't control the investigative scope of the examination nor the timeframe of the auditor's completion, there's no set timeframe when these reports are issued. The reports are usually issued a few months after the end of the period under examination. Microsoft doesn't allow any gaps in the consecutive periods of examination from one examination to the next.
+
+Microsoft also commissions a mid-year SOC 1 Type 1 and SOC 2 Type 1 examination of Office 365 for new Microsoft services that have been issued since the last SOC Type 2 audit.  Type 1 audits don't look back over a period of performance.
+
+Due to the sophisticated nature of Office 365, the service scope is large if examined as a whole. This can lead to examination completion delays simply due to scale. Microsoft organizes all the examinations described above into 2 categories: Core Services and Microservices. Microsoft issues reports scoped to each examination.
+
+SOC Type 2 audits examine a rolling 12-month *run window* (also known as audit period or more formally *period of performance*) with examinations conducted annually for the period 1-October through 30-September of the next calendar year. The examination starts promptly after the period of performance is complete.
+
+Microsoft also issues *bridge letters* (also known as *gap letters*). These are self-attestations by Microsoft, not reports based on examinations by the auditor. Bridge letters are issued during the current period of performance that isn't yet complete and ready for audit examination. Microsoft issues bridge letters at the end of each quarter to attest our performance during the prior three-month period. Due to the period of performance for the SOC type 2 audits, the bridge letters are typically issued in December, March, June, and September of the current operating period.
 
 **Where can I get the Office 365 SOC audit documentation including bridge letters?**
 
-For links to audit documentation, see the audit report section. You must have an existing subscription or free trial account in Office 365or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to log in. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
+For links to audit documentation, see the audit report section of the [Service Trust Portal](https://servicetrust.microsoft.com). You must have an existing subscription or free trial account in Office 365 or [Office 365 U.S. Government](https://azure.microsoft.com/global-infrastructure/government/request/) to log in. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
 
 **Where can I find an assessment of the Cloud Security Alliance CCM controls implementation?**
 
-The Office 365 SOC 2 Type 2 audit is based on the American Institute of Certified Public Accountants (AICPA) Trust Services Principles and Criteria, including security, availability, confidentiality, privacy, and processing integrity, and the criteria in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM). The objective is to meet both the AICPA criteria and requirements set forth in the CCM. The Office 365 SOC 2 Type 2 audit incorporates the CCM controls assessment as required by the CSA STAR Attestation. For more information, see the Office 365 SOC 2 Type 2 attestation report.
+Microsoft commissions an examination of Office 365 to be based on the American Institute of Certified Public Accountants (AICPA) Trust Services Principles and Criteria, including security, availability, confidentiality, and processing integrity, and the criteria in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM). 
 
-**Where can I see management responses to exceptions noted?**
+The objective is to assess both the AICPA criteria and requirements set forth in the CCM in one efficient inspection. The Office 365 SOC 2 Type 2 audit incorporates the CCM controls assessment as required by the CSA STAR attestation. For more information, see the Office 365 SOC 2 Type 2 attestation report.
 
-Management responses are located towards the end of the SOC attestation report. Search the document for 'Management Response'.
+**Where can I see management responses to any exceptions noted?**
+
+Most examinations have some observations on one or more of the specific controls examined. This is to be expected. Management responses to any exceptions are located towards the end of the SOC attestation report. Search the document for 'Management Response'.
 
 **Where can I see user entity responsibilities?**
 
-User entity responsibilities are located at the very end of the SOC attestation report. Search the document for 'User Entity Responsibilities'.
+User entity responsibilities are your control responsibilities necessary if the system as a whole is to meet the SOC 2 control standards. These are located at the very end of the SOC attestation report. Search the document for 'User Entity Responsibilities'.
 
 ### Use Microsoft Compliance Manager to assess your risk
 
