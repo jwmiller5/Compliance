@@ -226,8 +226,8 @@ additionalContent:
           summary: Business Central contains functionality and is built on a platform that makes it easy for customers to comply with compliance and regulatory legislation.
           url: /dynamics365/business-central/compliance/compliance-overview
         # Card
-        - title: Microsoft 365
-          summary: If your organization needs to comply with legal or regulatory standards, start here to learn about compliance in Microsoft 365.
+        - title: Microsoft Purview
+          summary: If your organization needs to comply with legal or regulatory standards, start here to learn about compliance in Microsoft Purview.
           url: /microsoft-365/compliance/
 
   
