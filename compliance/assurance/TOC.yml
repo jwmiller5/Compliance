@@ -80,7 +80,7 @@
       href: assurance-governance.md
     - name: Microsoft Defender for Cloud
       href: /azure/security-center/security-center-introduction?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Microsoft 365 compliance center
+    - name: Microsoft Purview compliance portal
       href: /microsoft-365/compliance/microsoft-365-compliance-center?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 
 - name: Human resources
@@ -202,7 +202,7 @@
   items:
     - name: Security development and operation overview
       href: assurance-security-development-and-operation.md
-    - name: Microsoft 365 compliance program
+    - name: Microsoft 365 service compliance program
       href: assurance-microsoft-365-compliance-program.md
     - name: Azure code integrity
       href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
