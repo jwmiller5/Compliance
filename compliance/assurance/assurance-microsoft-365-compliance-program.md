@@ -1,6 +1,6 @@
 ---
-title: "Microsoft 365 compliance program"
-description: "Learn about the Microsoft 365 compliance program"
+title: "Microsoft 365 service compliance program"
+description: "Learn about the Microsoft 365 service compliance program"
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -21,7 +21,7 @@ titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ---
 
-# Microsoft 365 compliance program
+# Microsoft 365 service compliance program
 
 Microsoft runs on trust and Microsoft 365 customers require world class security and privacy functions within their products. The thorough auditing of Microsoft 365 assures customers that the security functions, data handling practices, associated policies, and tooling work in harmony to meet customer needs for certifications, accreditations, and attestations. Microsoft 365's internal compliance program is designed to ensure security and privacy are considered at all phases of the development process.
 
