@@ -32,10 +32,10 @@ The FICIC references globally recognized standards including NIST SP 800-53 foun
 
 NIST Cybersecurity Framework (CSF) is a voluntary Framework that consists of standards, guidelines, and best practices to manage cybersecurity-related risks. Microsoft Cloud services have undergone independent, third-party FedRAMP Moderate and High Baseline audits and are certified according to the FedRAMP standards. Also, through a validated assessment performed by HITRUST, a leading security and privacy standards development and accreditation organization, Office 365 is certified to the objectives specified in the NIST CSF.
 
-Learn how to accelerate your NIST Cybersecurity Framework deployment with Compliance Score and our Azure Security and Compliance Blueprint:
+Learn how to accelerate your NIST Cybersecurity Framework deployment with Compliance Manager and our Azure Security and Compliance Blueprint:
 
 - [Overview of the NIST SP 800-53 R4 blueprint sample](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
-- [Learn more about the NIST CSF assessment for Office 365 in Compliance Score](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
+- [Learn more about the NIST CSF assessment for Office 365 in Compliance Manager](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -93,9 +93,9 @@ According to the [Department of Homeland Security](https://www.dhs.gov/critical-
 
 Microsoft provides the most comprehensive offerings compared to other cloud service providers. To keep up with our broad compliance offerings across regions and industries, we include services in the scope of our assurance efforts based on the market demand, customer feedback, and product lifecycle. If a service is not included in the current scope of a specific compliance offering, your organization has the responsibility to assess the risks based on your compliance obligations and determine the way you process data in that service. We continuously collect feedback from customers and work with regulators and auditors to expand our compliance coverage to meet your security and compliance needs.
 
-### Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Purview Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ### Resources
 
