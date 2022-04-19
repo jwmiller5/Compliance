@@ -33,7 +33,7 @@ highlightedContent:
       itemType: overview
       url: /compliance/assurance/assurance-risk-assessment-guide
     # Card 3
-    - title: Learn about Microsoft Compliance Manager
+    - title: Learn about Microsoft Purview Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
     # Card 4
