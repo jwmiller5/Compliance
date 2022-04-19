@@ -55,7 +55,7 @@ sections:
           - **Protect**: Establish security controls to prevent, detect, and respond to vulnerabilities and data breaches.
           - **Document**: Document a data breach response program.
           
-          Additionally, [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft Purview compliance portal](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. For more information, see the [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments) article.
+          Additionally, [Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft Purview compliance portal](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. For more information, see the [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments) article.
           
           You need to understand what your organization's specific obligations are under VCDPA and how you meet them, though Microsoft is here to help you on your journey.
           
