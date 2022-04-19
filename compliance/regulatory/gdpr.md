@@ -53,9 +53,9 @@ The following tasks are involved to meet GDPR standards. Follow the links in the
 
 As mentioned above, the Recommended action plan for GDPR and Accountability Readiness Checklists provide a guide to implementing or assessing GDPR conformance using Microsoft products and services.
 
-## Use Microsoft Compliance Manager to assess your risk
+## Use Microsoft Purview Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager has a pre-built assessment for this regulation for Enterprise E5 customers. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager has a pre-built assessment for this regulation for Enterprise E5 customers. Find the template for building the assessment in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Data Subject Request (DSR)
 
@@ -176,7 +176,7 @@ Microsoft has policies and procedures in place to notify you promptly. To satisf
 
 ## Accountability Readiness Checklists for the GDPR
 
-These [checklists](gdpr-arc.md) provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage checklist items with [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
+These [checklists](gdpr-arc.md) provide a convenient way to access information you may need to support the GDPR using Microsoft products. You can manage checklist items with [Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
 
 ## GDPR FAQs
 

@@ -78,9 +78,9 @@ See the Office 365 SOC attestation reports.
 
 To help you meet these obligations, Microsoft supplies the specifics about our compliance with SOC standards as described above. However, ultimately, it is up to you to determine whether our services comply with the specific laws and regulations applicable to your institution. The FFIEC also advises that 'users of audit reports or reviews should not rely solely on the information contained in the report to verify the internal control environment of the TSP. They should use other verification and monitoring procedures as discussed more fully in the [Outsourcing Technology Booklet](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) of the FFIEC IT Examination Handbook.'
 
-### Use Microsoft Compliance Manager to assess your risk
+### Use Microsoft Purview Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
