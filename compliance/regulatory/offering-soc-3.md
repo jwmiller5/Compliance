@@ -22,11 +22,11 @@ titleSuffix: Microsoft Compliance
 
 ## SOC 3 overview
 
-System and Organization Controls (SOC) for Service Organizations are internal control reports created by the American Institute of Certified Public Accountants (AICPA). They are intended to examine services provided by a service organization so that end users can assess and address the risk associated with an outsourced service.
+System and Organization Controls (SOC) for Service Organizations are internal control reports created by the American Institute of Certified Public Accountants (AICPA). They're intended to examine services provided by a service organization so that end users can assess and address the risk associated with an outsourced service.
 
-*SOC 3 SOC for Service Organizations: Trust Services Criteria for General Use Report* is a short, publicly facing version of the SOC 2 Type 2 attestation report for users who need assurances about service organization's controls relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy but do not need a full SOC 2 report. Because SOC 3 reports are general use reports, they can be freely distributed.
+*SOC 3 for Service Organizations: Trust Services Criteria for General Use Report* is a short, publicly facing summary of the SOC 2 Type 2 attestation report for users who need assurances about service organization's controls but don't need a full SOC 2 report or aren't eligible under SOC 2 to receive one. Because SOC 3 reports are general use reports, they can be freely distributed.
 
-A SOC 3 report contains a written assertion by service organization management regarding control effectiveness to achieve commitments based on the applicable trust services criteria, as well as service auditor's opinion on whether management's assertion is stated fairly.
+A SOC 3 report contains a written assertion by service organization management regarding control effectiveness to achieve commitments based on the applicable trust services criteria, and service auditor's opinion on whether management's assertion is stated fairly.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -38,19 +38,18 @@ Microsoft in-scope services are shown in the Azure [SOC 2 Type 2 attestation](of
 - Microsoft Defender for Cloud Apps
 - Microsoft Defender for Endpoint
 - Microsoft Defender for Identity
-- Microsoft Forms Pro (not in scope for Azure Government)
-- Microsoft Graph
+- Microsoft Forms Pro
 - Microsoft Intune
-- Microsoft Managed Desktop (not in scope for Azure Government)
+- Microsoft Managed Desktop
 - Microsoft Stream
-- Microsoft Threat Experts (not in scope for Azure Government)
+- Microsoft Threat Experts
 - Nomination Portal
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government - High, Office 365 U.S. Government Defense
 - Power Apps
 - Power Automate
 - Power BI
-- Power Virtual Agents (not in scope for Azure Government)
-- Update Compliance (not in scope for Azure Government)
+- Power Virtual Agents
+- Update Compliance
 
 ## Azure, Dynamics 365, and SOC 3
 
@@ -85,9 +84,21 @@ You must have an existing subscription or free trial account in Office 365 or Of
 
 **How often are Office 365 SOC reports issued?**
 
-SOC reports for Office 365 and are issued semi-annually. SOC audits for core and micro-services are based on a rolling 12-month run window (audit period) with new reports issued annually for the period 1-October through 30-September of the next calendar year. SOC audit reports are also issued in the spring for new services coming into scope for Office 365. *Bridge letters* are issued at the end of each audit quarter to cover the prior three-month period. For example, bridge letters are typically issued in December, March, June, and September.
+Microsoft commissions a full SOC 1 Type 2 and SOC 2 Type 2 examination of Office 365 annually. The auditor's reports on these examinations (also known as audits) are issued as soon as they're ready after that audit. The SOC 3 report, which is based on the SOC 2 examination, is issued at the same time.
 
-**Where can I get the Office 365 SOC audit documentation including bridge letters?** For links to audit documentation, see the audit report section. You must have an existing subscription or free trial account in Office 365or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to login. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
+Because Microsoft doesn't control the investigative scope of the examination nor the timeframe of the auditor's completion, there's no set timeframe when these reports are issued. The reports are usually issued a few months after the end of the period under examination. Microsoft doesn't allow any gaps in the consecutive periods of examination from one examination to the next.
+
+Microsoft also commissions a mid-year SOC 1 Type 1 and SOC 2 Type 1 examination of Office 365 for new Microsoft services that have been issued since the last SOC Type 2 audit. Type 1 audits don't look back over a period of performance.
+
+Due to the sophisticated nature of Office 365, the service scope is large if examined as a whole. This can lead to examination completion delays due to scale. Microsoft organizes all the examinations described above into 2 categories: Core Services and Microservices. Microsoft issues reports scoped to each examination.
+
+SOC Type 2 audits examine a rolling 12-month *run window* (also known as audit period or more formally *period of performance*) with examinations conducted annually for the period 1-October through 30-September of the next calendar year. The examination starts promptly after the period of performance is complete.  
+
+Microsoft also issues bridge letters (also known as *gap letters*). These are self-attestations by Microsoft, not reports based on examinations by the auditor. Bridge letters are issued during the current period of performance that isn't yet complete and ready for audit examination. Microsoft  issues bridge letters at the end of each quarter to attest our performance during the prior three-month period. Due to the period of performance for the SOC type 2 audits, the bridge letters are typically issued in December, March, June, and September of the current operating period.
+
+**Where can I get the Office 365 SOC audit documentation including Microsoft's bridge letters?**
+
+For links to audit documentation, see the audit report section of the Service Trust Portal. You must have an existing subscription or free trial account in Office 365 or [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government to log in. You can then download audit certificates, assessment reports, and other applicable documents to help you with your own regulatory requirements.
 
 ### Use Microsoft Purview Compliance Manager to assess your risk
 
