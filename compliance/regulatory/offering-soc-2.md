@@ -32,7 +32,7 @@ A SOC 2 Type 2 attestation is performed under:
 
 In addition, the Office 365 SOC 2 Type 2 attestation report addresses the requirements set forth in the Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM), and the Cloud Computing Compliance Criteria Catalogue (C5:2020) created by the German Federal Office for Information Security (BSI).
 
-Office 365 SOC 2 attestations are based on rigorous comprehensive third-party examinations (also known as *audits*) conducted by an independent AICPA accredited CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, and Confidentiality.
+Office 365 SOC 2 attestations are based on rigorous comprehensive third-party examinations (also known as *audits*) conducted by an independent AICPA accredited CPA firm. At the conclusion of a SOC 2 audit, the auditor renders an opinion in a SOC 2 Type 2 report, which describes the cloud service provider's (CSP) system and assesses the fairness of the CSP's description of its controls. It also evaluates whether the CSP's controls are designed appropriately, were in operation on a specified date, and were operating effectively over a specified time period. Office 365 SOC 2 Type 2 reports are relevant to system Security, Availability, Processing Integrity, Confidentiality, and Privacy.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -91,7 +91,7 @@ In accordance with AICPA requirements, you must have an existing subscription or
 
 **How often are Office 365 SOC reports issued?**
 
-Microsoft commissions a full SOC 1 Type 2 and SOC 2 Type 2 examination of Office 365 annually. The auditor's reports on these examinations (also known as audits) are issued as soon as they're ready after that audit.
+Microsoft commissions a full SOC 1 Type 2 and SOC 2 Type 2 examination of Office 365 annually. The auditor's reports on these examinations (also known as audits) are issued as soon as they're ready after that audit. The SOC 3 report, which is based on the SOC 2 examination, is issued at the same time.
 
 Because Microsoft doesn't control the investigative scope of the examination nor the timeframe of the auditor's completion, there's no set timeframe when these reports are issued. The reports are usually issued a few months after the end of the period under examination. Microsoft doesn't allow any gaps in the consecutive periods of examination from one examination to the next.
 
