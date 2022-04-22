@@ -2,6 +2,18 @@
 
 
 
+## Week of April 18, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 4/19/2022 | [Manage GDPR data subject requests with DSR case tool in the Microsoft Purview compliance portal](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
+| 4/19/2022 | [Center for Internet Security (CIS) Benchmarks](/compliance/regulatory/offering-cis-benchmark) | modified |
+| 4/19/2022 | [Sarbanes-Oxley Act of 2002 (SOX)](/compliance/regulatory/offering-sox) | modified |
+| 4/19/2022 | [System and Organization Controls (SOC) 1 Type 2](/compliance/regulatory/offering-soc-1) | modified |
+| 4/19/2022 | [System and Organization Controls (SOC) 3](/compliance/regulatory/offering-soc-3) | modified |
+
+
 ## Week of April 04, 2022
 
 
@@ -25,21 +37,3 @@
 | 3/23/2022 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
 | 3/23/2022 | [Security development and operations overview](/compliance/assurance/assurance-security-development-and-operation) | modified |
 | 3/23/2022 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
-
-
-## Week of March 14, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 3/16/2022 | Enterprise business continuity management legal disclaimer | removed |
-| 3/17/2022 | [California Consumer Privacy Act (CCPA) FAQ](/compliance/regulatory/ccpa-faq) | modified |
-| 3/17/2022 | [Virginia Consumer Data Protection Act (VCDPA) Frequently Asked Questions](/compliance/regulatory/vcdpa-faq) | modified |
-
-
-## Week of March 07, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 3/8/2022 | [Office 365 Data Subject Requests Under the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-office365) | modified |
