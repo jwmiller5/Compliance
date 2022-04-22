@@ -3,8 +3,8 @@ title: Manage GDPR data subject requests with DSR case tool in the Microsoft Pur
 description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the DSR case tool.
 f1.keywords:
 - NOCSH
-ms.author: markjjo
-author: markjjo
+ms.author: v-tophillips
+author: v-tophillips
 manager: laurawi
 audience: Admin
 ms.topic: article
