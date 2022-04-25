@@ -1,10 +1,10 @@
 ---
-title: Manage GDPR data subject requests with UDS case tool in the Microsoft 365 compliance center
-description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the UDS case tool.
+title: Manage GDPR data subject requests with UDS case tool in the Microsoft Purview compliance portal
+description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the DSR case tool.
 f1.keywords:
 - NOCSH
-ms.author: markjjo
-author: markjjo
+ms.author: v-tophillips
+author: v-tophillips
 manager: laurawi
 audience: Admin
 ms.topic: article
@@ -20,7 +20,7 @@ ms.custom: seo-marvel-apr2020
 hideEdit: true
 ---
 
-# Manage GDPR data subject requests with the UDS case tool in the Microsoft 365 compliance center
+# Manage GDPR data subject requests with the UDS case tool in the Microsoft Purview compliance portal
 
 The EU General Data Protection Regulation (GDPR) is about protecting and enabling individuals' privacy rights inside the European Union (EU). The GDPR gives individuals in the European Union (known as data subjects) the right to access, retrieve, correct, erase, and restrict processing of their personal data. Under the GDPR, personal data means any information relating to an identified or identifiable natural person. A formal request by a person to their organization to take an action on their personal data is called a Data Subject Request or DSR. For detailed information about responding to DSRs for data in Office 365, see [Office 365 Data Subject Request Guide](https://go.microsoft.com/fwlink/?linkid=871169 ).
   
@@ -71,7 +71,7 @@ Here's the high-level process for using the UDS case tool to manage DSR investig
   
 ## Step 1: Assign eDiscovery permissions to potential case members
 
-By default, a global administrator can access the UDS case tool in the Microsoft 365 compliance center. By design, other users such as a data privacy officer, a human resources manager, or other people involved in DSR investigations don't have access to the UDS case tool and will have to be assigned the appropriate permissions to access the tool. The easiest way to do this is to go to the **Permissions** page in the compliance center and add users to the eDiscovery Manager role group. You also have to assign these permissions so you can add them as members of the UDS case that you create in Step 2. 
+By default, a global administrator can access the UDS case tool in the Microsoft Purview compliance portal. By design, other users such as a data privacy officer, a human resources manager, or other people involved in DSR investigations don't have access to the DSR case tool and will have to be assigned the appropriate permissions to access the tool. The easiest way to do this is to go to the **Permissions** page in the compliance center and add users to the eDiscovery Manager role group. You also have to assign these permissions so you can add them as members of the DSR case that you create in Step 2. 
   
 For step-by-step instructions, see [Assign eDiscovery permissions](/microsoft-365/compliance/assign-ediscovery-permissions).
   
@@ -84,7 +84,7 @@ The next step is to create a UDS case. When you create a case, you can choose to
   
 1. Go to <https://compliance.microsoft.com> and sign in using your work or school account.
 
-2. In the left pane of the Microsoft 365 compliance center, select **eDiscovery**, then **User data search**.
+2. In the left pane of the Microsoft Purview compliance portal, select **Data subject requests**.
 
 3. On the **User data search** page, click **Create a case**.
 
@@ -144,8 +144,8 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
 ```
 
  **To run the built-in search for a UDS case:**
-  
-1. In the Microsoft 365 compliance center,  select **eDiscovery**, then click **User data search**, select the case that you created in Step 2, and then click **Open case**.
+
+1. In the Microsoft Purview compliance portal, click **User data search**, select the case that you created in Step 2, and then click **Open case**.
 
 2. Select the **Searches** tab at the top of the page, and then click the checkbox next to the built-in search that was created when you created the UDS case. The search has the same name as the UDS case. 
 
@@ -185,8 +185,8 @@ The computer you use to export data has to meet the following system requirement
     > Microsoft doesn't manufacture third-party extensions or add-ons for ClickOnce applications. Exporting data using an unsupported browser with third-party extensions or add-ons isn't supported. 
   
  **To export data from the built-in search in a UDS case:**
-  
-1. In the Microsoft 365 compliance center, select **eDiscovery**, then click **User data search**, select the case that you created in Step 2, and then click **Open case**.
+ 
+1. In the Microsoft Purview compliance portal, click **User data search**, select the case that you created in Step 2, and then click **Open case**.
 
 2. Select the **Searches** tab at the top of the page, and then click the checkbox next to the built-in search that was created when you created the UDS case.
 
@@ -296,7 +296,7 @@ When you export data from the Office Roaming Service, the data is saved to a sep
 
 **To search for and export Office Roaming Service data**:
   
-1. In the Microsoft 365 compliance center,  select **eDiscovery**, then click **User data search**, and then click **Open case** next to the UDS case for the data subject that you want to export usage data for. 
+1. In the Microsoft Purview compliance portal, click **User data search**, and then click **Open case** next to the DSR case for the data subject that you want to export usage data for. 
 
 2. Click the **Search** tab at the top of the page, and then click ![Add Icon.](../media/ITPro-EAC-AddIcon.gif) **Guided search**.
 

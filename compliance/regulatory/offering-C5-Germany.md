@@ -39,9 +39,9 @@ Microsoft cloud services are audited at least annually against SOC 2 (AT Section
 - [Azure, Azure Government, and Azure Germany](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Germany
 
-## Audits, reports, and certificates
+## Azure, Dynamics 365, and C5
 
-- [Azure, Azure Government, and Azure Germany SOC 2 Type II Report.pdf](https://go.microsoft.com/fwlink/p/?linkid=2093520)
+For more information about Azure, Dynamics 365, and other online services compliance, see the [Germany C5:2020 offering](/azure/compliance/offerings/offering-germany-c5).
 
 ## Frequently asked questions
 
@@ -57,9 +57,9 @@ IT-Grundschutz supplies the specific methodology to help organizations identify 
 
 Microsoft Cloud Germany is physically based in Germany, adhering to the requirement of German privacy law, which limits the transfer of personal data to other countries and offers protection against access by authorities from other jurisdictions who could violate domestic laws. Azure Germany delivers Azure services from German datacenters with data residency in Germany, and it delivers strict data access and control measures provided through a unique data trustee model governed under German law.
 
-## Use Microsoft Compliance Manager to assess your risk
+## Use Microsoft Purview Compliance Manager to assess your risk
 
-[Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft 365 compliance center](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
+[Microsoft Purview Compliance Manager](/microsoft-365/compliance/compliance-manager) is a feature in the [Microsoft Purview compliance portal](/microsoft-365/compliance/microsoft-365-compliance-center) to help you understand your organization's compliance posture and take actions to help reduce risks. Compliance Manager offers a premium template for building an assessment for this regulation. Find the template in the **assessment templates** page in Compliance Manager. Learn how to [build assessments in Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## Resources
 
