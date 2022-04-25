@@ -55,6 +55,7 @@ For additional customer assistance, Microsoft provides [Azure Blueprints](https:
 - [Office and Microsoft 365](https://aka.ms/o365-compliance-framework)
 - SQL Server
 - Windows 10
+- Windows 11
 - Windows Server 2016
 
 ## Audits, reports, and certificates
@@ -64,6 +65,7 @@ Get a [complete list of CIS benchmarks](https://www.cisecurity.org/cis-benchmark
 - [CIS Azure Foundations Benchmark](https://www.cisecurity.org/benchmark/azure/)
 - [CIS Microsoft 365 Foundations Benchmark](https://www.cisecurity.org/benchmark/microsoft_office/)
 - [Windows 10 Benchmark](https://www.cisecurity.org/benchmark/microsoft_windows_desktop/)
+- [Windows 11 Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 - [Windows Server 2016 Benchmark](https://www.cisecurity.org/benchmark/microsoft_windows_server/)
 
 ## How to implement
