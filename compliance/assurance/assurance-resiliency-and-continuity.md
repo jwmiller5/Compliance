@@ -75,7 +75,7 @@ Microsoft's online services are regularly audited for compliance with external r
 
 - [Video: Microsoft online services continuity management](https://www.youtube.com/watch?v=J0QUgUW8sAs)
 - [Microsoft Enterprise Business Continuity Management Program Whitepaper](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=64f922a6-d624-40dd-a8ae-6f996b5186f3&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f)
-- [Microsoft Cloud EBCM and Disaster Recovery Plan Validation Report: FY22 Q2](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=93c35abe-4f6f-4624-a939-8791d4c49821&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft Cloud EBCM: Business Continuity and Disaster Recovery Plan Validation Report FY22 Q3](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=487f037d-8d90-4236-adef-5156836f0043&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## Legal disclaimer
 
