@@ -200,7 +200,7 @@ The computer you use to export data has to meet the following system requirement
 
     b. Under **Export Exchange content as**, select the third option, **One PST file containing all messages in a single folder**. Because some of the results may be for items that originated in another user's mailbox, this option just lists the item in a single folder without indicating the actual mailbox and is the best option to use when you de-duplicate the results as recommended in the next item. This option also lets the data subject review items in chronological order (items are sorted by sent date) without having to navigate the original mailbox folder structure for each item.
 
-    c. Select **Enable de-duplication** option to excludes duplicate email messages. We recommend this option because the built-in search searches all mailboxes in your organization. So if multiple copies of the same message are found in the mailboxes that were searched, this option means that only one copy of a message will be exported. This option, together will exporting messages in one PST file in a single folder, results in the best user experience for DSR export requests. The Results.csv export report lists all locations where duplicate messages were found.
+    c. Select **Enable de-duplication** option to exclude duplicate email messages. We recommend this option because the built-in search searches all mailboxes in your organization. So if multiple copies of the same message are found in the mailboxes that were searched, this option means that only one copy of a message will be exported. This option, together will exporting messages in one PST file in a single folder, results in the best user experience for DSR export requests. The Results.csv export report lists all locations where duplicate messages were found.
 
     Optionally, you can select **Include versions for SharePoint documents** option to export all versions of SharePoint and OneDrive documents. This requires that versioning is turned on for document libraries. This option helps to ensure that all relevant data is exported.
 
@@ -363,7 +363,7 @@ When you export data from the Office Roaming Service, the data is saved to a sep
   
 ### Exporting partially indexed items
 
-We recommend that you don't export partially indexed items (also called unindexed items) from the built-in search that's created when you create a UDS case. That's because the search results will more than likely include partially indexed items for other users in your organization, and not just partially indexed items for the data subject). Instead, we recommend that you create a separate Content Search that's associated with the UDS case that's designed to export only the partially indexed items related to the data subject.
+We recommend that you don't export partially indexed items (also called unindexed items) from the built-in search that's created when you create a UDS case. That's because the search results more than likely will include partially indexed items for other users in your organization, and not just partially indexed items for the data subject). Instead, we recommend that you create a separate Content Search that's associated with the UDS case that's designed to export only the partially indexed items related to the data subject.
   
 Here's a high-level process to export partially indexed items. After they're export, you can review them to determine if an item is responsive to a UDS access or export request.
   
