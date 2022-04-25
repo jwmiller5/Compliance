@@ -56,7 +56,7 @@ Here's the high-level process for using the UDS case tool to manage DSR investig
   
 [Step 1: Assign eDiscovery permissions to potential case members](#step-1-assign-ediscovery-permissions-to-potential-case-members)
 
-[Step 2: Create a UDS case and add members](#step-2-create-a-dsr-case-and-add-members)
+[Step 2: Create a UDS case and add members](#step-2-create-a-uds-case-and-add-members)
 
 [Step 3: Run the search query](#step-3-run-the-search-query)
 
@@ -64,7 +64,7 @@ Here's the high-level process for using the UDS case tool to manage DSR investig
 
 [(Optional) Step 5: Revise the built-in search query](#optional-step-5-revise-the-built-in-search-query)
 
-[More information about using the UDS case tool](#more-information-about-using-the-dsr-case-tool)
+[More information about using the UDS case tool](#more-information-about-using-the-uds-case-tool)
   
 > [!IMPORTANT]
 > Our tools can help admins perform DSR access or export requests by enabling them to utilize the built-in search and export functionality found in the UDS case tool. The tool helps to facilitate a best-effort method to export data that's relevant to a DSR request submitted by a data subject. However, it's important to note that search results can vary based on the data subject or the admin actions taken that may impact whether or not an item would be deemed as "personal data" for export purposes. For example, if the data subject was the last person to modify a file they didn't create, the file might not be returned in the search results. Similarly, an admin could export data without including partially indexed items or all versions of SharePoint documents. Therefore, the tools provided can help facilitate accessing and exporting data requests; however, the results are subject to specific admin and data subject usage scenarios.
