@@ -8,6 +8,7 @@
 | Published On |Topic title | Change |
 |------|------------|--------|
 | 4/25/2022 | [Manage GDPR data subject requests with UDS case tool in the Microsoft Purview compliance portal](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
+| 4/25/2022 | [Manage GDPR data subject requests with UDS case tool in the Microsoft Purview compliance portal](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
 
 
 ## Week of April 18, 2022
