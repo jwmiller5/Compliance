@@ -204,6 +204,8 @@
       href: assurance-security-development-and-operation.md
     - name: Microsoft 365 service compliance program
       href: assurance-microsoft-365-compliance-program.md
+    - name: Microsoft Security Development Lifecycle (SDL)
+      href: assurance-microsoft-security-development-lifecycle.md
     - name: Azure code integrity
       href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 
