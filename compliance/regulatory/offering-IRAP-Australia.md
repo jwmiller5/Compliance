@@ -59,6 +59,7 @@ The IRAP assessment of Microsoft's services and cloud operations helps provide a
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - Office 365
+- Windows 365
 
 ## Azure, Dynamics 365, and IRAP
 
