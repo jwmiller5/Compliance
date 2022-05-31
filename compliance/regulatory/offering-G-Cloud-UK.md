@@ -105,8 +105,8 @@ It is an organization or agency that is funded by the UK government but acts ind
 
 The Microsoft Cloud in the UK provides reliability and performance combined with data residency in the UK. This support provides customers with trusted cloud services that help them meet local compliance and policy requirements. In addition, replication of data in multiple datacenters across the UK gives customers geo-redundant data protection for business continuity, for both pure cloud and hybrid scenarios. We have datacenters in multiple locations across the UK.
 
-- You can see the new Azure regions, UK West, and UK South, on the [global Azure map](https://azuredatacentermap.azurewebsites.net/).
-- For Office 365, the UK datacenters collectively comprise the new UK Office 365 region. You can see more on the [global Office 365 map](https://o365datacentermap.azurewebsites.net/).
+- You can see the new Azure regions, UK West, and UK South, on the [global Azure map](https://azure.microsoft.com/global-infrastructure/geographies/?v=17.42n#overview).
+- For Office 365, the UK datacenters collectively comprise the new UK Office 365 region. You can see more on the [global Office 365 map](/microsoft-365/enterprise/microsoft-365-multi-geo).
 
 **Where are the other Microsoft EU datacenters located?**
 
