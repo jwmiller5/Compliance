@@ -52,7 +52,7 @@ Here are a few steps you could take to get ready for the CCPA:
 
 - Start leveraging the GDPR assessment in [Compliance Manager](/microsoft-365/compliance/compliance-manager) as part of your CCPA privacy program.
 - Establish a process to efficiently respond to Data Subject Access Requests (DSARs) using the Data Subject Requests tool.
-- Set up label and policies to discover, classify & label, and protect sensitive data with Microsoft Information Protection.
+- Set up label and policies to discover, classify & label, and protect sensitive data with Microsoft Purview Information Protection.
 - Use email encryption capabilities to further control sensitive information.
 
 ## Frequently asked questions
