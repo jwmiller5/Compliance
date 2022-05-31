@@ -90,7 +90,7 @@ This code of practice provides controls and implementation guidance for both clo
 
 **Where can I view Microsoft's compliance information for ISO/IEC 27017:2015?**
 
-You can download the [ISO/IEC 27017:2015 certificate](https://aka.ms/azureiso27017) for Azure, Intune, and Power BI.
+You can download the [ISO/IEC 27017:2015 certificate](https://aka.ms/o365isoreport) for Azure, Intune, and Power BI.
 
 **Can I use the ISO/IEC 27017 compliance of Microsoft services in my organization's certification process?**
 
