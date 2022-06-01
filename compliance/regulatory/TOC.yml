@@ -212,8 +212,6 @@
               href: offering-en-301-549-eu.md
             - name: EU ENISA IAF
               href: /azure/compliance/offerings/offering-eu-enisa-iaf?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
-            - name: EU GDPR
-              href: gdpr.md
             - name: EU Model Clauses
               href: offering-eu-model-clauses.md
             - name: Germany C5
@@ -245,8 +243,8 @@
       href: gdpr.md
     - name: Recommended action plan for GDPR
       href: gdpr-action-plan.md
-    - name: Information protection for GDPR
-      href: gdpr-information-protection.md
+    - name: Deploy information protection for data privacy regulations
+      href: /microsoft-365/solutions/information-protection-deploy?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
     - name: Microsoft's data protection officer
       href: gdpr-data-protection-officer.md
     - name: Accountability readiness checklists
