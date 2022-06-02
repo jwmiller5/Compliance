@@ -170,6 +170,11 @@
       "source_path": "compliance/assurance/assurance-ebcm-legal-disclaimer.md",
       "redirect_url": "/legal/compliance/assurance-ebcm-legal-disclaimer",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "compliance/regulatory/gdpr-information-protection.md",
+      "redirect_url": "/microsoft-365/solutions/information-protection-deploy",
+      "redirect_document_id": false
     }
   ]
 }
