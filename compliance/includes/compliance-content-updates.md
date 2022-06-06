@@ -2,6 +2,14 @@
 
 
 
+## Week of May 30, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 6/2/2022 | Information protection | removed |
+
+
 ## Week of May 16, 2022
 
 
@@ -18,12 +26,3 @@
 |------|------------|--------|
 | 5/3/2022 | [Microsoft Security Development Lifecycle (SDL)](/compliance/assurance/assurance-microsoft-security-development-lifecycle) | added |
 | 5/3/2022 | [Microsoft 365 Dealing with Data Corruption](/compliance/assurance/assurance-dealing-with-data-corruption) | modified |
-
-
-## Week of April 25, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 4/25/2022 | [Manage GDPR data subject requests with UDS case tool in the Microsoft Purview compliance portal](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
-| 4/25/2022 | [Manage GDPR data subject requests with UDS case tool in the Microsoft Purview compliance portal](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
