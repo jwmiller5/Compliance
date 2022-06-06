@@ -175,6 +175,16 @@
       "source_path": "compliance/regulatory/gdpr-information-protection.md",
       "redirect_url": "/microsoft-365/solutions/information-protection-deploy",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "compliance/regulatory/iso-action-plan.md",
+      "redirect_url": "/compliance/regulatory/offering-ISO-27001",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "compliance/regulatory/nist-action-plan.md",
+      "redirect_url": "/compliance/regulatory/offering-nist-sp-800-171",
+      "redirect_document_id": true
     }
   ]
 }
