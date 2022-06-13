@@ -222,6 +222,8 @@
               href: /azure/compliance/offerings/offering-germany-it-grundschutz-workbook?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: Netherlands BIR 2012
               href: offering-bir-2012-netherlands.md
+            - name: Qatar NIA
+              href: /azure/compliance/offerings/offering-qatar-nia?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
             - name: Russia Personal Data Localization
               href: offering-russia-data-localization.md
             - name: Spain ENS High
