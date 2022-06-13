@@ -353,6 +353,9 @@ conceptualContent:
     # Card
     - title: Regional
       links:
+        - url: /azure/compliance/offerings/offering-qatar-nia
+          itemType: reference
+          text: National Information Assurance (Qatar)
         - url: offering-nz-cc-framework-nz.md
           itemType: reference
           text: NZ CC Framework (New Zealand)
