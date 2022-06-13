@@ -2,6 +2,15 @@
 
 
 
+## Week of June 06, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 6/6/2022 | Microsoft 365 NIST 800-53 action plan, priorities for the first 30 days, 90 days, and beyond | removed |
+| 6/6/2022 | Microsoft 365 ISO 27001 action plan, priorities for your first 30 days, 90 days, and beyond | removed |
+
+
 ## Week of May 30, 2022
 
 
@@ -17,12 +26,3 @@
 |------|------------|--------|
 | 5/19/2022 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
 | 5/19/2022 | [Breach Notification Under the GDPR](/compliance/regulatory/gdpr-breach-office365) | modified |
-
-
-## Week of May 02, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 5/3/2022 | [Microsoft Security Development Lifecycle (SDL)](/compliance/assurance/assurance-microsoft-security-development-lifecycle) | added |
-| 5/3/2022 | [Microsoft 365 Dealing with Data Corruption](/compliance/assurance/assurance-dealing-with-data-corruption) | modified |
