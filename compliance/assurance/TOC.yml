@@ -162,6 +162,8 @@
       href: assurance-resiliency-and-continuity.md
     - name: Azure infrastructure availability
       href: /azure/security/fundamentals/infrastructure-availability?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Azure resiliency
+      href: /azure/availability-zones/overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Datacenter network resiliency
       href: /azure/security/fundamentals/infrastructure-network?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Exchange Online data resiliency
