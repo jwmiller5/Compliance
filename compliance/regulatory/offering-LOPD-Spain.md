@@ -55,12 +55,12 @@ Use the following table to determine applicability for your Office 365 services 
 
 ### Microsoft Azure
 
-- [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=1b6465af-d3c7-4738-be6e-3ab31c01b839&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
+- [Certificate](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=1b6465af-d3c7-4738-be6e-3ab31c01b839&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
 - [Audit report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=10c093a0-1f83-43c5-8f47-3ddc481cc2e9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
 
 ### Microsoft Office 365
 
-- [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=0455a8c5-f458-40c4-b7bb-b936b5ab99f5&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
+- [Certificate](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=0455a8c5-f458-40c4-b7bb-b936b5ab99f5&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
 - [Audit report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=aecfad3e-2a46-44fd-96fb-1cbe83c6a00d&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) (Spanish)
 
 ### Microsoft Dynamics 365
