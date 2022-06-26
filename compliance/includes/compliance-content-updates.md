@@ -2,6 +2,18 @@
 
 
 
+## Week of June 20, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 6/21/2022 | [Risk Assessment Guide for Microsoft Cloud](/compliance/assurance/assurance-risk-assessment-guide) | modified |
+| 6/23/2022 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
+| 6/23/2022 | [Incident management overview](/compliance/assurance/assurance-incident-management) | modified |
+| 6/23/2022 | [Risk management](/compliance/assurance/assurance-risk-management) | modified |
+| 6/23/2022 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
+
+
 ## Week of June 06, 2022
 
 
@@ -17,12 +29,3 @@
 | Published On |Topic title | Change |
 |------|------------|--------|
 | 6/2/2022 | Information protection | removed |
-
-
-## Week of May 16, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 5/19/2022 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
-| 5/19/2022 | [Breach Notification Under the GDPR](/compliance/regulatory/gdpr-breach-office365) | modified |
