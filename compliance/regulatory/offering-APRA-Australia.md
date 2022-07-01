@@ -112,7 +112,7 @@ Yes. General privacy legislation (which applies across all sectors, not just to 
 - [Microsoft response to the APRA Information Paper on the Cloud](https://aka.ms/navigatecloudaustralia)
 - [Microsoft cloud services: a compliance checklist for financial institutions in Australia](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)
 - [Microsoft cloud services: compliance with APRA Prudential Standard CPS 234](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OsZg)
-- [Microsoft Australia: Cloud in Financial Services](https://www.microsoft.com/apac/trustedcloud/australia-financial-service.aspx)
+- [Microsoft Australia: Cloud in Financial Services](https://www.microsoft.com/en-sg/apac/trustedcloud/australia-financial-service.aspx)
 - [Microsoft Financial Services Compliance Program](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
