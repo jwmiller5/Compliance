@@ -56,7 +56,7 @@ The tests carried out for service hardening within Microsoft online services can
 3. **Continuous system vulnerability testing:** Microsoft carries out regular testing in which teams attempt to breach the system using emerging threats, blended threats, and/or advanced persistent threats, while other teams attempt to block such attempts to breach.
 4. **Microsoft Online Services Bug Bounty Program**: This program operates a policy of allowing limited, customer-originated, vulnerability assessments on Microsoft online services. For more information, see [Microsoft Online Services Bug Bounty Terms](https://www.microsoft.com/msrc/bounty-terms).
 
-The Microsoft online services engineering teams periodically publish various compliance documents. Several of those documents are available under a non-disclosure agreement from the [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) or from the Service Assurance area of the [Microsoft Purview compliance portal](/microsoft-365/compliance/microsoft-365-compliance-center)
+The Microsoft online services engineering teams periodically publish various compliance documents. Several of those documents are available under a non-disclosure agreement from the [Microsoft Cloud Service Trust Portal](https://aka.ms/STP) or from the Service Assurance area of the [Microsoft Purview compliance portal](https://compliance.microsoft.com)
 
 >[!NOTE]
 >See Get started with the Service Trust Portal for Office 365 for business, Azure, and Dynamics CRM Online subscriptions for details on how to access the Service Trust Portal. A Microsoft 365 subscription is required to access the Microsoft Purview compliance portal.
