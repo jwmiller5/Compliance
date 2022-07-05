@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## European Union Model Clauses overview
 
-European Union (EU) data protection law regulates the transfer of EU customer personal data to countries outside the European Economic Area (EEA), which includes all EU countries and Iceland, Liechtenstein, and Norway. On a practical level, compliance with EU data protection laws also means that customers need fewer approvals from individual authorities to transfer personal data outside of the EU, since most EU member states do not require additional authorization if the transfer is based on an agreement that complies with the Model Clauses.
+European Union (EU) data protection law regulates the transfer of EU customer personal data to countries outside the European Economic Area (EEA), which includes all EU countries and Iceland, Liechtenstein, and Norway. On a practical level, compliance with EU data protection laws also means that customers need fewer approvals from individual authorities to transfer personal data outside of the EU, since most EU member states don't require additional authorization if the transfer is based on an agreement that complies with the Model Clauses.
 
 ## Microsoft and European Union Model Clauses
 
@@ -74,7 +74,7 @@ Compliance is a contractual commitment. Microsoft Standard Contractual Clauses a
 
 **What is a 'sub-processor'?**
 
-A sub-processor is someone who processes personal data following the data controller's instructions, and the terms of the EU Model Clauses and the subcontract. Microsoft customers—independent software vendors (ISVs), in particular — are sometimes themselves data processors. In those instances, Microsoft is the sub-processor.
+A sub-processor is someone who processes personal data following the data controller's instructions, and the terms of the EU Model Clauses and the subcontract. Microsoft customers—independent software vendors (ISVs), in particular, are sometimes themselves data processors. In those instances, Microsoft is the sub-processor.
 
 **Where do I start with my own organization's compliance efforts?**
 
@@ -87,7 +87,6 @@ You can enter an agreement such, as the [Online Services Terms](https://aka.ms/O
 - [EU Model Clauses](https://aka.ms/EU-model_clauses)
 - [EU Data Protection Directive](https://aka.ms/EU-DPD)
 - [European Data Protection Board](https://edpb.europa.eu/)
-- [EU Model Clauses FAQ for Dynamics 365 and Office 365](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
