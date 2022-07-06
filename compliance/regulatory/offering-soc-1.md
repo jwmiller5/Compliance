@@ -122,5 +122,5 @@ User entity responsibilities are your control responsibilities necessary if the 
 ### Resources
 
 - [Service Trust Portal audit reports](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [SSAE No. 18, Attestation Standards: Clarification and Recodification](https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/SSAE_No_18.pdf)
+- [SSAE No. 18, Attestation Standards: Clarification and Recodification](https://us.aicpa.org/research/standards/auditattest/ssae)
 - [SOC 1 Reporting on an Examination of Controls at a Service Organization Relevant to User Entities' Internal Control Over Financial Reporting (AICPA Guide)](https://future.aicpa.org/cpe-learning/publication/reporting-on-an-examination-of-controls-at-a-service-organization-relevant-to-user-entities-internal-control-over-financial-reporting-soc-1-guide-OPL) (available for purchase)

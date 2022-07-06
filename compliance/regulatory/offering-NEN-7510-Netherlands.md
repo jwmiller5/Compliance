@@ -87,6 +87,6 @@ Customers can share the report with their own internal or external auditor as pa
 
 ## Resources
 
-- [About NEN](https://www.nen.nl/About-NEN.htm)
-- [NEN 7510:2011 standard](https://www.nen.nl/NEN-Shop-2/Standard/NEN-75102011-nl.htm)
+- [About NEN](https://www.nen.nl/over-nen)
+- [NEN 7510:2011 standard](https://www.nen.nl/nen-7510-2011-nl-159566)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

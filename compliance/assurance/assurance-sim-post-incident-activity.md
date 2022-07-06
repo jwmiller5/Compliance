@@ -47,4 +47,4 @@ Responding to a security incident in Microsoft online services involves coordina
 - [Microsoft security incident management: Detection and analysis](assurance-sim-detection-analysis.md)
 - [Microsoft security incident management: Containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
 - [How to Log a Security Event Support Ticket](/azure/security/fundamentals/event-support-ticket)
-- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics)
+- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics-windows)
