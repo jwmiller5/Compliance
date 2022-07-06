@@ -58,4 +58,4 @@ Notification will include detailed information about the incident, such as a des
 - [Microsoft security incident management: Detection and analysis](assurance-sim-detection-analysis.md)
 - [Microsoft security incident management: Post-incident activity](assurance-sim-post-incident-activity.md)
 - [How to Log a Security Event Support Ticket](/azure/security/fundamentals/event-support-ticket)
-- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics)
+- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics-windows)

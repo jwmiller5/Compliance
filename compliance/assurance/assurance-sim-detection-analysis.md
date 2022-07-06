@@ -86,4 +86,4 @@ In the next phase, the security response team identifies the customer(s) affecte
 - [Microsoft security incident management: Containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft security incident management: Post-incident activity](assurance-sim-post-incident-activity.md)
 - [How to Log a Security Event Support Ticket](/azure/security/fundamentals/event-support-ticket)
-- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics)
+- [Azure and Dynamics 365 breach notification under the GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics-windows)

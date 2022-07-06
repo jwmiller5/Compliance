@@ -68,7 +68,7 @@ The HDS certificate doesn't apply to Microsoft online services in preview or pre
 
 - [Azure compliance documentation](/azure/compliance/)
 - [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
-- [Microsoft HDS certification blog](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
+- [Microsoft HDS certification blog](https://news.microsoft.com/fr-fr/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure France](https://azure.microsoft.com/global-infrastructure/france/)
 - [Azure for health](https://azure.microsoft.com/industries/healthcare/)
 - [Security at Microsoft](https://www.microsoft.com/security)
