@@ -371,7 +371,7 @@ Here's specific guidance to search for a Class Notebook.
 
 2. Preview the search results and look for the item that corresponds to the Class Notebook.
 3. Select that item, and then copy the folder path that's displayed in the details pane. This is the root folder for the Class Notebook.
-4. Edit the search that you created in step 1 and replace the class name in the keyword query with the folder path of the Class Notebook and precede the folder path with the **path** site property; for example, **path:"<https://contosoedu.onmicrosoft.com/sites/9C> Biology/SiteAssets/9C Biology Notebook/"**. Be sure to include the quotation marks and the trailing forward slash.
+4. Edit the search that you created in step 1 and replace the class name in the keyword query with the folder path of the Class Notebook and precede the folder path with the **path** site property; for example, **path:`<https://contosoedu.onmicrosoft.com/sites/9C>` Biology/SiteAssets/9C Biology Notebook/**. Be sure to include the quotation marks and the trailing forward slash.
 5. Add a search condition and select the File Type condition and use one for the value of the file type. This returns all OneNote files in the search results. The resulting keyword syntax would look something like [this](#building-search-queries-to-find-personal-data):
 
    ```Query

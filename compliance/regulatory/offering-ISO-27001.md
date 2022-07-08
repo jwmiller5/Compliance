@@ -108,7 +108,7 @@ The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tr
 
 Yes. The annual ISO/IEC 27001 certification process for the Microsoft Cloud Infrastructure and Operations group includes an audit for operational resiliency. To view the latest certificate, select the link below.
 
-- Microsoft 365 and Office 365 certificate: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
+- Microsoft 365 and Office 365 certificate: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/ISO-IEC-27001-Information-Security/)
 
 **Where do I start my organization's own ISO/IEC 27001 compliance effort?**
 

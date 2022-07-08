@@ -22,7 +22,7 @@ hideEdit: true
 
 # SharePoint and OneDrive data resiliency in Microsoft 365
 
-Within Microsoft 365, OneDrive is built on top of the SharePoint file platform. In this article, only SharePoint will be used to refer to both products. The contents of this article are relevant to Microsoft 365 and do not apply to consumer services.
+Within Microsoft 365, OneDrive is built on top of the SharePoint file platform. In this article, only SharePoint will be used to refer to both products. The contents of this article are relevant to Microsoft 365 and don't apply to consumer services.
 
 There are two primary assets that make up the core content storage of SharePoint:
 
@@ -35,11 +35,11 @@ The complete set of controls to ensure data resiliency is explained in further s
 
 SharePoint has a custom-built solution for storage of customer data in Azure Storage. Every file is simultaneously written into both a primary and a secondary datacenter region. If writes to either Azure region fail, the file save will fail. After the contents are written into Azure Storage, checksums are stored separately with metadata, and are used to ensure that the committed write is identical to the original file sent to SharePoint during all future reads. This same technique is used in all workflows to prevent propagation of any corruption that should occur. Within each region, Azure Locally Redundant Storage (LRS) provides a high level of reliability. See the [Azure Storage redundancy](/azure/storage/common/storage-redundancy-lrs) article for details.
 
-SharePoint uses Append-Only storage. This process ensures that files cannot be changed or corrupted after an initial save, but also by using in-product versioning, any previous version of the file contents can be retrieved.
+SharePoint uses Append-Only storage. This means that Microsoft can only add new blobs and can never change old ones until they're permanently deleted. This process ensures that files can't be changed or corrupted after an initial save, protecting against attackers that try to corrupt old versions. Since version integrity protection is built into SharePoint's architecture, previous versions of the file contents can be retrieved, depending on individual administrator settings.
 
 ![Blob storage resilience.](../media/assurance-blob-storage-resiliency-diagram.png)
 
-SharePoint environments in either datacenter can access storage containers in both Azure regions. For performance reasons the storage container in the same local datacenter is always preferred, however, read requests that do not see results within a desired threshold will have the same content requested from the remote datacenter to ensure data is always available.
+SharePoint environments in either datacenter can access storage containers in both Azure regions. For performance reasons the storage container in the same local datacenter is always preferred, however, read requests that don't see results within a desired threshold will have the same content requested from the remote datacenter to ensure data is always available.
 
 ## Metadata resilience
 
@@ -55,11 +55,11 @@ SharePoint uses Azure SQL's backup system to enable Point in Time Restores (PITR
 
 SharePoint uses a custom-built automated failover to minimize the impact on customer experience when a location-specific event occurs. Monitoring-driven automation detecting a single or multi-component failure beyond certain thresholds will result in automated redirection of all users' activity out of the problematic environment and over to a warm secondary. A failover results in metadata and compute storage being served entirely out of the new datacenter. As blob storage always runs entirely active/active, no change is required for a failover. The compute tier will prefer the nearest blob container but will use both local and remote blob storage locations at any time to ensure availability.
 
-SharePoint uses the Azure Front Door service to provide routing internal to the Microsoft network. This configuration allows failover redirection independent of DNS and reduces the effect of local-machine caching. Most failover operations are transparent to end users. If there is a failover, customers will not need to make any changes in order to maintain access to the service.
+SharePoint uses the Azure Front Door service to provide routing internal to the Microsoft network. This configuration allows failover redirection independent of DNS and reduces the effect of local-machine caching. Most failover operations are transparent to end users. If there's a failover, customers won't need to make any changes in order to maintain access to the service.
 
 ## Versioning and Files Restore
 
-For newly created document libraries, SharePoint defaults to 500 versions on every file and can be configured to retain more versions if desired. The UI doesn't allow a value fewer than 100 versions to be set, but it is possible to set the system to store fewer versions using public APIs. For reliability, any value less than 100 isn't recommended and can result in user activity causing inadvertent data loss.
+For newly created document libraries, SharePoint defaults to 500 versions on every file and can be configured to retain more versions if desired. The UI doesn't allow a value fewer than 100 versions to be set, but it's possible to set the system to store fewer versions using public APIs. For reliability, any value less than 100 isn't recommended and can result in user activity causing inadvertent data loss.
 
 For more information about versioning, see [Versioning in SharePoint](/microsoft-365/community/versioning-basics-best-practices).
 
@@ -76,11 +76,11 @@ Deleted items are retained in recycle bins for a certain period of time. For Sha
 - [Restore items in the Recycle Bin](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Restore deleted items from the Site Collection Recycle Bin](https://support.office.com/article/Restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
-This process is the default deletion flow and does not take into account retention policies or labels. For more information, see [Learn about retention for SharePoint and OneDrive](/microsoft-365/compliance/retention-policies-sharepoint).
+This process is the default deletion flow and doesn't take into account retention policies or labels. For more information, see [Learn about retention for SharePoint and OneDrive](/microsoft-365/compliance/retention-policies-sharepoint).
 
 After the 93-day recycle pipeline is complete, deletion takes place independently for Metadata and for Blob Storage. Metadata will be removed immediately from the database, which makes the content unreadable unless the metadata is restored from backup. SharePoint maintains 14 days-worth of backups of metadata. These backups are taken locally in near real time and then pushed to storage in redundant Azure Storage containers on, [according to documentation](/azure/sql-database/sql-database-automated-backups) at the time of this publication, a 5-10-minute schedule.
 
-When deleting Blob Storage content, SharePoint utilizes the soft delete feature for Azure Blob Storage to protect against accidental or malicious deletion. Using this feature, we have a total of 14 days in which to restore content before it is permanently deleted.
+When deleting Blob Storage content, SharePoint utilizes the soft delete feature for Azure Blob Storage to protect against accidental or malicious deletion. With this feature, there are a total of 14 days in which to restore content before it's permanently deleted. Also, because blobs are immutable, Microsoft can always restore the state of a file for a 14 day period.
 
 >[!Note]
 >While Microsoft applications will send content to the recycle bin for the standard process, SharePoint does provide APIs that allow for skipping the recycle bin and forcing an immediate delete. Review your applications to ensure this is only done when necessary for compliance reasons.
