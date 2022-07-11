@@ -2,6 +2,14 @@
 
 
 
+## Week of July 04, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 7/6/2022 | [SharePoint and OneDrive data resiliency in Microsoft 365](/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency) | modified |
+
+
 ## Week of June 20, 2022
 
 
@@ -21,11 +29,3 @@
 |------|------------|--------|
 | 6/6/2022 | Microsoft 365 NIST 800-53 action plan, priorities for the first 30 days, 90 days, and beyond | removed |
 | 6/6/2022 | Microsoft 365 ISO 27001 action plan, priorities for your first 30 days, 90 days, and beyond | removed |
-
-
-## Week of May 30, 2022
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 6/2/2022 | Information protection | removed |

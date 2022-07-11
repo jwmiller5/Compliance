@@ -32,7 +32,7 @@ ISO/IEC 27001 is a security standard that formally specifies an Information Secu
 
 The international acceptance and applicability of ISO/IEC 27001 is the key reason why certification to this standard is at the forefront of Microsoft's approach to implementing and managing information security. Microsoft's achievement of ISO/IEC 27001 certification points up its commitment to making good on customer promises from a business, security compliance standpoint. Currently, both Azure Public and Azure Germany are audited once a year for ISO/IEC 27001 compliance by a third-party accredited certification body, providing independent validation that security controls are in place and operating effectively.
 
-Learn about the benefits of ISO/IEC 27001 on the Microsoft Cloud: [Download the ISO/IEC 27001:2013](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
+Learn about the benefits of ISO/IEC 27001 on the Microsoft Cloud: [Download the ISO/IEC 27001:2013](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=27704ac1-afbd-4c4a-a75c-53d34133b9c4)
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -88,11 +88,10 @@ Office 365 cloud services are audited at least annually against the ISO 27001:20
 
 ### Office 365 assessments and reports
 
-- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
+- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8873fa17-9962-4be9-b0d0-086262eb84fb)
 - [Office 365: ISO 27001, 27018, and 27017 Statement of Authority (SOA)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 - [Office 365: Information Security Management System (ISMS)—Statement Of Applicability for Security and Privacy](https://aka.ms/o365isosoa)
 - [Office 365 Germany: ISO 27001, 27017, and 27018 Audit Assessment Report](https://aka.ms/o365gerisoaudit)
-- [Yammer: ISO27001 Audit Assessment Report](https://aka.ms/yammeriso)
 
 ### Frequently asked questions
 
@@ -108,7 +107,7 @@ The [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-tr
 
 Yes. The annual ISO/IEC 27001 certification process for the Microsoft Cloud Infrastructure and Operations group includes an audit for operational resiliency. To view the latest certificate, select the link below.
 
-- Microsoft 365 and Office 365 certificate: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/ISO-IEC-27001-Information-Security/)
+- Microsoft 365 and Office 365 certificate: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/en-US/ISO-IEC-27001-Information-Security/Certification-for-ISO-27001/)
 
 **Where do I start my organization's own ISO/IEC 27001 compliance effort?**
 

@@ -1,5 +1,5 @@
 ---
-title: ISO/IEC 27701:2019
+title: ISO/IEC 27701:2019 Privacy Information Management
 description: Learn more about how Microsoft meets ISO/IEC 27701:2019 guidelines.
 keywords: Microsoft 365, compliance, offerings
 ms.localizationpriority: high
@@ -18,13 +18,13 @@ hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
 
-# ISO/IEC 27701:2019
+# ISO/IEC 27701:2019: Privacy Information Management
 
 ## ISO/IEC 27701:2019 overview
 
-[ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) is built to complement the widely-used ISO/IEC 27001 and ISO/IEC 27002 standards for information security management. It specifies requirements and provides guidance for a Privacy Information Management System (PIMS), making the implementation of PIMS a helpful compliance addition for the many organizations that rely on ISO/IEC 27001, as well as creating a strong integration point for aligning security and privacy controls. ISO/IEC 27701 accomplishes this integration through a framework for managing personal data that can be used by both data controllers and data processors, a key distinction for General Data Protection Regulation (GDPR) compliance.
+[ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) is built to complement the widely used ISO/IEC 27001 and ISO/IEC 27002 standards for information security management. It specifies requirements and provides guidance for a Privacy Information Management System (PIMS), making the implementation of PIMS a helpful compliance addition for the many organizations that rely on ISO/IEC 27001, as well as creating a strong integration point for aligning security and privacy controls. ISO/IEC 27701 accomplishes this integration through a framework for managing personal data that can be used by both data controllers and data processors, a key distinction for General Data Protection Regulation (GDPR) compliance.
 
-In addition, any ISO/IEC 27701 audit requires the organization to declare applicable laws/regulations in its criteria for the audit meaning that the standard can be mapped to many of the requirements under GDPR, California Consumer Privacy Act (CCPA), or other laws. Once mapped, the ISO/IEC 27701 operational controls are implemented by privacy professionals and audited by internal or third-party auditors resulting in a certification and comprehensive evidence of conformity. This universal framework allows organizations to efficiently implement compliance with new regulatory requirements. Microsoft sponsors the open-sourced [Data Protection Mapping Project](https://www.dpmap.org) to bring a common understanding of the relationship between ISO/IEC 27701 and various data protection regulations.
+In addition, any ISO/IEC 27701 audit requires the organization to declare applicable laws/regulations in its criteria for the audit meaning that the standard can be mapped to many of the requirements under GDPR, California Consumer Privacy Act (CCPA), or other laws. Once mapped, the ISO/IEC 27701 operational controls are implemented by privacy professionals. An internal or external third party, who is accredited to assess, then evaluates the organization's compliance with the requirements of the standard and issues a certificate to that effect. This universal framework allows organizations to efficiently implement compliance with new regulatory requirements. Microsoft sponsors the open-sourced [Data Protection Mapping Project](https://www.dpmap.org) to bring a common understanding of the relationship between ISO/IEC 27701 and various data protection regulations.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -86,25 +86,25 @@ ISO/IEC 27701 includes an annex containing the operational controls of the stand
 
 As more privacy regulations come into force in various jurisdictions, the pressure to provide evidence of compliance will also increase. But the costs of disparate regulatory certifications become prohibitive if every regulation calls for its own unique audit. By outlining a set of universal operational controls, ISO/IEC 27701 also outlines a universal compliance framework to audit against, and potentially certify, for multiple regulatory requirements.
 
-It is important to recognize that the establishment of an official GDPR certification requires approval by the European regulators. While the alignment between ISO/IEC 27701 and GDPR is evident, an ISO/IEC 27701 certification should not be taken as evidence of GDPR compliance or official GDPR certification until regulatory decisions are finalized.
+It's important to recognize that the establishment of an official GDPR certification requires approval by the European regulators. While the alignment between ISO/IEC 27701 and GDPR is evident, an ISO/IEC 27701 certification shouldn't be taken as evidence of GDPR compliance or official GDPR certification until regulatory decisions are finalized.
 
 **How does ISO/IEC 27701 help with commercial agreements involving PII?**
 
-Commercial agreements involving movement of personal information may warrant certification of compliance. Modern organizations engage in complex data transfers with a deep network of business partners including partner organizations or co-controllers, processors such as cloud providers, and sub-processors such as vendors who support those same processors. Failure to comply with regulations in any part of this network may lead to cascading compliance issues across the supply chain. This is where a verification of compliance can be valuable beyond the assurance provided by contractual terms between these organizations. Since the global economy dictates that most of these organizations are spread across the world, it is practical to use an international standard from ISO to manage compliance across the network.
+Commercial agreements involving movement of personal information may warrant certification of compliance. Modern organizations engage in complex data transfers with a deep network of business partners including partner organizations or co-controllers, processors such as cloud providers, and sub-processors such as vendors who support those same processors. Failure to comply with regulations in any part of this network may lead to cascading compliance issues across the supply chain. This is where a verification of compliance can be valuable beyond the assurance provided by contractual terms between these organizations. Since the global economy dictates that most of these organizations are spread across the world, it's practical to use an international standard from ISO to manage compliance across the network.
 
 This reliance on compliance increases the importance of certification to the standard. While not all companies and organizations need to earn such certification, most will benefit from partners and vendors who do, especially when sensitive or high volumes of data processing are involved.
 
 **How does ISO/IEC 27701 relate to ISO/IEC 27001?**
 
-ISO/IEC 27701 is built on top of ISO/IEC 27001, one of the most widely adopted international standards for information security management. If your organization is already familiar with ISO/IEC 27001, it is logical and more efficient to integrate the new privacy controls provided by ISO/IEC 27701. This approach means the implementation and audit of both will be less expensive and easier to achieve. Key points of ISO/IEC 27701 and ISO/IEC 27001:
+ISO/IEC 27701 is built on top of ISO/IEC 27001, one of the most widely adopted international standards for information security management. If your organization is already familiar with ISO/IEC 27001, it's logical and more efficient to integrate the new privacy controls provided by ISO/IEC 27701. This approach means the implementation and audit of both will be less expensive and easier to achieve. Key points of ISO/IEC 27701 and ISO/IEC 27001:
 
 - ISO/IEC 27001 is one of the most used ISO standards in the world, with many companies already certified to it.
 - ISO/IEC 27701 includes new controller- and processor-specific controls that help bridge the gap between privacy and security. It provides a point of integration between what may be two separate functions in organizations.
-- Privacy depends on security. Likewise, ISO/IEC 27701 depends on ISO/IEC 27001 for security management. Certification for ISO/IEC 27701 must be obtained as an extension of an ISO/IEC 27001 certification and cannot be obtained independently.
+- Privacy depends on security. Likewise, ISO/IEC 27701 depends on ISO/IEC 27001 for security management. Certification for ISO/IEC 27701 must be obtained as an extension of an ISO/IEC 27001 certification and can't be obtained independently.
 
 **What should your organization do with ISO/IEC 27701?**
 
-No matter the size of your organization and whether it is a controller or a processor, your organization should consider pursuing certification, either for your own organization, or requesting it from vendors or suppliers based on your business requirements. This situation applies especially for processors, sub-processors, and co-controllers that are processing sensitive or high volumes of personal data. Your organization should assess its business needs to determine if certification for its own products and services is suitable.
+No matter the size of your organization and whether it's a controller or a processor, your organization should consider pursuing certification, either for your own organization, or requesting it from vendors or suppliers based on your business requirements. This situation applies especially for processors, sub-processors, and co-controllers that are processing sensitive or high volumes of personal data. Your organization should assess its business needs to determine if certification for its own products and services is suitable.
 
 ### Use Microsoft Purview Compliance Manager to assess your risk
 
