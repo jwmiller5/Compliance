@@ -28,14 +28,14 @@ In 2014, the ISO adopted ISO/IEC 27018:2014, an addendum to ISO/IEC 27001, the f
 
 Microsoft and ISO/IEC 27018
 
-At least once a year, Microsoft Azure and Azure Germany are audited for compliance with ISO/IEC 27001 and ISO/IEC 27018 by an accredited third-party certification body, providing independent validation that applicable security controls are in place and operating effectively. As part of this compliance verification process, the auditors validate in their statement of applicability that Microsoft in-scope cloud services and commercial technical support services have incorporated ISO/IEC 27018 controls for the protection of PII in Azure. To remain compliant, Microsoft cloud services must be subject to annual third-party reviews.
+At least once a year, Microsoft Azure and Azure Germany are audited for compliance with ISO/IEC 27001 and ISO/IEC 27018 by an accredited third-party certification body. This audit provides independent validation that applicable security controls are in place and operating effectively. As part of this compliance verification process, the auditors validate in their statement of applicability that Microsoft in-scope cloud services and commercial technical support services have incorporated ISO/IEC 27018 controls for the protection of PII in Azure. To remain compliant, Microsoft cloud services must be subject to annual third-party reviews.
 
-By following the standards of ISO/IEC 27001 and the code of practice embodied in ISO/IEC 27018, Microsoft (the first major cloud provider to incorporate this code of practice) demonstrates that its privacy policies and procedures are robust and in line with its high standards.
+By following the standards of ISO/IEC 27001 and the code of practice embodied in ISO/IEC 27018, Microsoft demonstrates that its privacy policies and procedures are robust and in line with its high standards.
 
 - **Customers of Microsoft cloud services know where their data is stored.** Because ISO/IEC 27018 requires certified CSPs to inform customers of the countries in which their data may be stored, Microsoft cloud service customers have the visibility they need to comply with any applicable information security rules.
-- **Customer data won't be used for marketing or advertising without explicit consent.** Some CSPs use customer data for their own commercial ends, including for targeted advertising. Because Microsoft has adopted ISO/IEC 27018 for its in-scope enterprise cloud services, customers can rest assured that their data will never be used for such purposes without explicit consent, and that consent cannot be a condition for use of the cloud service.
+- **Customer data won't be used for marketing or advertising without explicit consent.** Some CSPs use customer data for their own commercial ends, including for targeted advertising. Because Microsoft has adopted ISO/IEC 27018 for its in-scope enterprise cloud services, customers can rest assured that their data will never be used for such purposes without explicit consent, and that consent can't be a condition for use of the cloud service.
 - **Microsoft customers know what's happening with their PII.** ISO/IEC 27018 requires a policy that allows for the return, transfer, and secure disposal of personal information within a reasonable period of time. If Microsoft works with other companies that need access to your customer data, Microsoft proactively discloses the identities of those sub-processors.
-- **Microsoft complies only with legally binding requests for disclosure of customer data.** If Microsoft must comply with such a request (as in the case of a criminal investigation), it will always notify the customer unless it is prohibited by law from doing so.
+- **Microsoft complies only with legally binding requests for disclosure of customer data.** If Microsoft must comply with such a request (as in the case of a criminal investigation), it will always notify the customer unless it's prohibited by law from doing so.
 
 ## Microsoft in-scope cloud platforms & services
 
@@ -98,8 +98,8 @@ This code of practice applies to CSPs that process PII under contract for other 
 
 In the context of ISO/IEC 27018:
 
-- 'Controllers' control the collection, holding, processing, or use of personal information; they include those who control it on another company's behalf.
-- 'Processors' process information on behalf of controllers; they do not make decisions as to how to use the information or the purposes of the processing. In providing its enterprise cloud services, Microsoft (as a vendor to you) is an information processor.
+- 'Controllers' control the collection, holding, processing, or use of personal information; they include those parties who control it on another company's behalf.
+- 'Processors' process information on behalf of controllers; they don't make decisions as to how to use the information or the purposes of the processing. In providing its enterprise cloud services, Microsoft (as a vendor to you) is an information processor.
 
 **Where can I view Office 365 compliance information for ISO/IEC 27018?**
 
@@ -109,7 +109,7 @@ In the context of ISO/IEC 27018:
 
 Yes. If compliance with ISO/IEC 27018 is important for your business and implementations deployed on any of Microsoft in-scope enterprise cloud services, you can use Microsoft's attestation of compliance with ISO/IEC 27018 with Microsoft's certification for ISO/IEC 27001 in your compliance assessment.
 
-However, you are responsible for engaging an assessor to evaluate your implementation for compliance, and for the controls and processes within your own organization.
+However, you're responsible for engaging an assessor to evaluate your implementation for compliance, and for the controls and processes within your own organization.
 
 ### Use Microsoft Purview Compliance Manager to assess your risk
 
