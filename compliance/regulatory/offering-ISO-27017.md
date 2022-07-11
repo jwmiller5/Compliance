@@ -28,7 +28,7 @@ This international standard provides additional cloud-specific implementation gu
 
 - Shared roles and responsibilities within a cloud computing environment
 - Removal and return of cloud service customer assets upon contract termination
-- Protection and separation of a customer's virtual environment from environments of other customers
+- Protection and separation of a customer's virtual environment from the environments of other customers
 - Virtual machine hardening requirements to meet business needs
 - Procedures for administrative operations of a cloud computing environment
 - Enabling customers to monitor relevant activities within a cloud computing environment
@@ -80,7 +80,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 Microsoft cloud services are audited once a year for the ISO/IEC 27017:2015 code of practice as part of the certification process for ISO/IEC 27001:2013.
 
-- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://aka.ms/o365isoreport)
+- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8873fa17-9962-4be9-b0d0-086262eb84fb)
 
 ### Frequently asked questions
 
@@ -90,7 +90,7 @@ This code of practice provides controls and implementation guidance for both clo
 
 **Where can I view Microsoft's compliance information for ISO/IEC 27017:2015?**
 
-You can download the [ISO/IEC 27017:2015 certificate](https://aka.ms/o365isoreport) for Azure, Intune, and Power BI.
+You can download the [ISO/IEC 27017:2015 certificate](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=f452fc7c-b698-4cf4-8474-85067f2df951) for Azure, Intune, and Power BI.
 
 **Can I use the ISO/IEC 27017 compliance of Microsoft services in my organization's certification process?**
 
