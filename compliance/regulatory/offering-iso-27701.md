@@ -1,5 +1,5 @@
 ---
-title: ISO/IEC 27701:2019: Privacy Information Management
+title: ISO/IEC 27701:2019 Privacy Information Management
 description: Learn more about how Microsoft meets ISO/IEC 27701:2019 guidelines.
 keywords: Microsoft 365, compliance, offerings
 ms.localizationpriority: high
