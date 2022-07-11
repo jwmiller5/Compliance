@@ -86,8 +86,7 @@ Use the following table to determine applicability for your Office 365 services 
 
 Microsoft cloud and commercial technical support services are audited once a year for the ISO/IEC 27018 code of practice as part of the certification process for ISO/IEC 27001.
 
-- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://aka.ms/o365isoreport)
-- [Yammer ISO 27018 Audit Assessment Report](https://aka.ms/YammerISO27018Auditreport)
+- [Office 365: ISO 27001, 27018, and 27017 Audit Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8873fa17-9962-4be9-b0d0-086262eb84fb)
 
 ### Frequently asked questions
 

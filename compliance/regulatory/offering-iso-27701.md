@@ -1,5 +1,5 @@
 ---
-title: ISO/IEC 27701:2019
+title: ISO/IEC 27701:2019: Privacy Information Management
 description: Learn more about how Microsoft meets ISO/IEC 27701:2019 guidelines.
 keywords: Microsoft 365, compliance, offerings
 ms.localizationpriority: high
@@ -18,13 +18,13 @@ hideEdit: true
 titleSuffix: Microsoft Compliance
 ---
 
-# ISO/IEC 27701:2019
+# ISO/IEC 27701:2019: Privacy Information Management
 
 ## ISO/IEC 27701:2019 overview
 
 [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) is built to complement the widely-used ISO/IEC 27001 and ISO/IEC 27002 standards for information security management. It specifies requirements and provides guidance for a Privacy Information Management System (PIMS), making the implementation of PIMS a helpful compliance addition for the many organizations that rely on ISO/IEC 27001, as well as creating a strong integration point for aligning security and privacy controls. ISO/IEC 27701 accomplishes this integration through a framework for managing personal data that can be used by both data controllers and data processors, a key distinction for General Data Protection Regulation (GDPR) compliance.
 
-In addition, any ISO/IEC 27701 audit requires the organization to declare applicable laws/regulations in its criteria for the audit meaning that the standard can be mapped to many of the requirements under GDPR, California Consumer Privacy Act (CCPA), or other laws. Once mapped, the ISO/IEC 27701 operational controls are implemented by privacy professionals and audited by internal or third-party auditors resulting in a certification and comprehensive evidence of conformity. This universal framework allows organizations to efficiently implement compliance with new regulatory requirements. Microsoft sponsors the open-sourced [Data Protection Mapping Project](https://www.dpmap.org) to bring a common understanding of the relationship between ISO/IEC 27701 and various data protection regulations.
+In addition, any ISO/IEC 27701 audit requires the organization to declare applicable laws/regulations in its criteria for the audit meaning that the standard can be mapped to many of the requirements under GDPR, California Consumer Privacy Act (CCPA), or other laws. Once mapped, the ISO/IEC 27701 operational controls are implemented by privacy professionals. An internal or external third party, who is accredited to assess, then evaluates the organization's compliance with the requirements of the standard and issues a certificate to that effect. This universal framework allows organizations to efficiently implement compliance with new regulatory requirements. Microsoft sponsors the open-sourced [Data Protection Mapping Project](https://www.dpmap.org) to bring a common understanding of the relationship between ISO/IEC 27701 and various data protection regulations.
 
 ## Microsoft in-scope cloud platforms & services
 
