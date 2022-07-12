@@ -48,8 +48,8 @@ Microsoft is the first hyperscale cloud service provider to receive the ISO 2230
 
 ## Audits, reports, and certificates
 
-- [Azure, Dynamics 365, and Online Services: ISO22301 Certificate](https://aka.ms/azureiso22301cert)
-- [Azure, Dynamics 365, and Online Services: ISO22301 Assessment Report](https://aka.ms/azureiso22301report)
+- [Azure, Dynamics 365, and Online Services: ISO22301 Certificate](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=2f355027-2549-4dcc-b6f0-7394ff69ec35)
+- [Azure, Dynamics 365, and Online Services: ISO22301 Assessment Report](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=71a4321f-32e7-4da5-9b11-967731c82ff0)
 - [BSI 22301 Microsoft Office 365 Certificate](https://go.microsoft.com/fwlink/p/?linkid=2092109)
 - [BSI 22301 Microsoft Office 365 Stage 2 Addendum](https://go.microsoft.com/fwlink/p/?linkid=2092209)
 - [Office 365 ISO 22301 Stage 2 Report](https://go.microsoft.com/fwlink/p/?linkid=2092211)
@@ -77,7 +77,7 @@ Yes. If your business requires ISO 22301 certification for implementations deplo
 - [ISO 22301:2012 standard](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=50038) (for purchase)
 - [Azure resiliency technical guidance](/azure/architecture/framework/resiliency/overview) (Explains the Azure shared responsibility model for business continuity.)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Microsoft Online Services Terms](https://aka.ms/Online-Services-Terms)
+- [Microsoft Online Services Terms](https://www.microsoft.com/licensing/docs)
 - [Microsoft Enterprise Business Continuity Management Program Description](https://go.microsoft.com/fwlink/p/?linkid=2092212)
 - [Compliance Manager](/microsoft-365/compliance/compliance-manager)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
