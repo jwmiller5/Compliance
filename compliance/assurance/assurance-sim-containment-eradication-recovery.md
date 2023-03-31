@@ -45,7 +45,7 @@ A key aspect to the recovery is to have enhanced vigilance and controls in place
 
 ## Customer notification of security incident
 
-If Microsoft determines that a security incident has occurred, we will notify you with undue delay, and within contractual and compliance requirements we have agreed to. After identifying all affected tenants, the corresponding communications team works to identify any relevant regulations that might apply to affected tenants. The communications team uses the appropriate communication channel defined in applicable regulations to notify the appropriate tenant contact.
+If Microsoft determines that a security incident has occurred, we will notify you with no undue delay, and within contractual and compliance requirements we have agreed to. After identifying all affected tenants, the corresponding communications team works to identify any relevant regulations that might apply to affected tenants. The communications team uses the appropriate communication channel defined in applicable regulations to notify the appropriate tenant contact.
 
 ![Incident response process.](../media/assurance-incident-response-process.png)
 
