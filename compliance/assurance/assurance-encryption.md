@@ -47,7 +47,7 @@ Strong encryption is only as secure as the keys used to encrypt data. Microsoft 
 
 Service Encryption provides another layer of encryption for customer data-at-rest giving customers two options for encryption key management: Microsoft-managed keys or Customer Key. When using Microsoft-managed keys, Microsoft online services automatically generate and securely store the root keys used for Service Encryption.
 
-Customers with requirements to control their own root encryption keys can use Service Encryption with Microsoft Purview Customer Key. Using Customer Key, customers can generate their own cryptographic keys using either an on-premises Hardware Service Module (HSM) or Azure Key Vault (AKV). Customer root keys are stored in AKV, where they can be used as the root of one of the keychains that encrypts customer mailbox data or files. Customer root keys can only be accessed indirectly by Microsoft online service code for data encryption and can't be accessed directly by Microsoft employees.
+Customers with requirements to control their own root encryption keys can use Service Encryption with a Customer Managed Key. Using Customer Managed Key, customers can generate their own cryptographic keys using either an on-premises Hardware Service Module (HSM) or Azure Key Vault (AKV). Customer root keys are stored in AKV, where they can be used as the root of one of the keychains that encrypts customer mailbox data or files. Customer root keys can only be accessed indirectly by Microsoft online service code for data encryption and can't be accessed directly by Microsoft employees.
 
 ## Related external regulations & certifications
 
